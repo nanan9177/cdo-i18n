@@ -62,7 +62,7 @@ by the scripts in this project. Notes about these issues are collected here.
 - Rails-style YAML Files
 - Locales in file names use `en-US` format. Note: Upper case with dash.
 - Source strings use `en` language, not full `en-US` locale.
-- The top-level key of the YAML remains stays 'en' after download.
+- The top-level key of the YAML is 'en'; Crowdin seems to patch this up for us.
 
 ### Blockly Mooc
 
