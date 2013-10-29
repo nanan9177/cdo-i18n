@@ -1,0 +1,6 @@
+[submodule "projects/blockly-mooc"]
+	path = projects/blockly-mooc
+	url = git@github.com:code-dot-org/blockly.git
+[submodule "projects/dashboard"]
+	path = projects/dashboard
+	url = git@github.com:code-dot-org/dashboard.git
