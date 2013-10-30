@@ -7,15 +7,23 @@ synchronizing with Crowdin, and then re-integrated the localized assets back
 in to their respective projects.
 
 
-## Dependencies:
+## Set Up
 
-### crowdin-cli
-
-Install the Ruby gem:
+### Install crowdin-cli
 
 ```bash
 gem install crowdin-cli
 ```
+
+### Initialize config with API Key:
+
+If you've got the Code.org secrets files, simply run:
+
+```bash
+secrets/path/cdo-env ./init
+```
+
+That will generate `crowdin.yaml` and with the API key.
 
 
 ## Syncing with Crowdin
