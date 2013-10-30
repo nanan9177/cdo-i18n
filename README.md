@@ -20,7 +20,7 @@ gem install crowdin-cli
 If you've got the Code.org secrets files, simply run:
 
 ```bash
-secrets/path/cdo-env ./init
+secrets/path/cdo-env ./init.sh
 ```
 
 That will generate `crowdin.yaml` and with the API key.
