@@ -4,11 +4,11 @@ set -e
 
 
 ## Bring projects up to date.
-
 git submodule init projects/*
+git submodule foreach git checkout master
 git submodule foreach git pull origin master
 git add projects
-git commit projects -m 'Updated submodules'
+git commit projects -m 'Updated submodules with latest sources'
 
 
 ### Dashboard

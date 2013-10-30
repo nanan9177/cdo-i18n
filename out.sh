@@ -35,3 +35,13 @@ for locale in $locales; do
   done
 
 done
+
+# Push translations to each sub project.
+git submodule foreach git add .
+git submodule foreach git commit --message=Translations --edit
+git submodule foreach git push origin master
+
+# Commit submodules.
+git add projects
+git commit projects -m 'Updated submodules with latest translations'
+git push origin master
