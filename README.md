@@ -46,6 +46,7 @@ git commit
 # ... time passses ...
 
 # Download from Crowdin
+# NOTE: You might not see output for a few minutes while Crowdin builds.
 ./down.sh
 
 # Validate after downloading
