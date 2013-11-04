@@ -18,7 +18,7 @@
   "ifPathAhead":"if path ahead",
   "ifTooltip":"If there is a path in the specified direction, then do some actions.",
   "ifelseTooltip":"If there is a path in the specified direction, then do the first block of actions. Otherwise, do the second block of actions.",
-  "linkTooltip":"Save and link to blocks.",
+  "linkTooltip":"",
   "moveForward":"move forward",
   "moveForwardTooltip":"Move me forward one space.",
   "nextLevel":"Congratulations! You have completed this level.",
