@@ -30,7 +30,6 @@
   "nextStageTrophies":"¡ Felicidades! Completaste la etapa {stageNumber} y ganaste {numTrophies, plural, one {un trofeo} other {# trofeos}}.",
   "numBlocksNeeded":"¡ Felicidades! Completaste este puzzle. (Sin embargo, podrías haber usado sólo {numBlocks, plural, one {1 bloque} other {# bloques}}.)",
   "numLinesOfCodeWritten":"Acabas de escribir {numLines, plural, one {una línea} other {# líneas}} de código!",
-  "projectMessage":"Primero CS",
   "puzzleTitle":"Puzzle {puzzle_number} de {stage_total}",
   "reinfFeedbackMsg":"¿Se ve esto como querés? Puedes presionar la barra espaciadora para ver tu dibujo.",
   "resetProgram":"Reiniciar",
