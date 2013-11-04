@@ -2,6 +2,11 @@
 
 set -e
 
+function cp_in() {
+  echo "$1 => $2"
+  cp $1 $2
+}
+
 
 ## Bring projects up to date.
 git submodule init projects/*
@@ -18,12 +23,12 @@ loc_dir=locales/en-US/dashboard
 mkdir -p $loc_dir
 
 # Special case the un-prefixed Yaml file.
-cp $orig_dir/en.yml $loc_dir/base.yml
+cp_in $orig_dir/en.yml $loc_dir/base.yml
 
 # Copy in all the other Yaml files.
 for file in $(find $orig_dir -name '*.en.yml'); do
   relname=${file#$orig_dir}
-  cp $file $loc_dir${relname%.en.yml}.yml
+  cp_in $file $loc_dir${relname%.en.yml}.yml
 done
 
 
@@ -36,5 +41,5 @@ mkdir -p $loc_dir
 # Copy JSON files.
 for file in $(find $orig_dir -name 'en_us.json'); do
   relname=${file#$orig_dir}
-  cp $file $loc_dir${relname%/en_us.json}.json
+  cp_in $file $loc_dir${relname%/en_us.json}.json
 done
