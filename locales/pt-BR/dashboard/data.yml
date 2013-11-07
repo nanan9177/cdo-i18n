@@ -2,77 +2,75 @@ pt-BR:
   data:
     script:
       name:
-        20-hour: K-8 Intro to Computer Science Course
+        20-hour: K-8 Introdução ao curso de ciência da computação
         Hour of Code: Hour of Code
-        Edit Code: Edit Code
+        Edit Code: Editar o código
     game:
       name:
-        Maze: The Maze
-        Artist: The Artist
-        Artist2: The Artist 2
-        Farmer: The Farmer
-        Artist3: The Artist 3
-        Farmer2: The Farmer 2
-        Artist4: The Artist 4
-        Farmer3: The Farmer 3
-        Artist5: The Artist 5
-        MazeEC: The Artist
+        Maze: O Labirinto
+        Artist: A Artista
+        Artist2: O Artista 2
+        Farmer: O Fazendeiro
+        Artist3: O Artista 3
+        Farmer2: O Fazendeiro 2
+        Artist4: O Artista 4
+        Farmer3: O Fazendeiro 3
+        Artist5: O Artista 5
+        MazeEC: O Artista
     trophy:
       name:
         Bronze: Bronze
-        Silver: Silver
-        Gold: Gold
+        Silver: Prata
+        Gold: Ouro
     concept:
       description:
-        sequence: Sequence
-        if: If block
-        if_else: If-else block
-        loop_times: Repeat times block
-        loop_until: Repeat until block
-        loop_while: While block
-        loop_for: Counter block
-        function: Functions
-        parameters: Functions with parameters
+        sequence: Sequência
+        if: Bloco "If"
+        if_else: Bloco "If-Else"
+        loop_times: Repetir o bloco por um determinado número de vezes
+        loop_until: Repetir um bloco até satisfazer uma condição
+        loop_while: Repetir um bloco enquanto uma condição é verdadeira
+        loop_for: Contador do bloco
+        function: Funções
+        parameters: Funções com parâmetros
     level:
       instructions:
-        maze_2_2: 'Hi! I need to get the Green Piggy! Stack a couple of "move forward" blocks together and press "Run Program" to help me get there. '
-        maze_2_1: "Write me another program so I can make it all the way to the green pig. "
-        maze_2_2_5: How should I get to the green pig? (Watch out for the TNT)
-        maze_2_3: How should I get to the green pig? (Watch out for the TNT)
-        maze_2_4: "Argh! Write a program that gets me around the TNT and to the green pig. "
-        maze_2_5: "There's a way I can get to the green pig using only 2 blocks. Can you figure it out?"
-        maze_2_6: Try to get me to the green pig using only three blocks.
-        maze_2_7: Write me a program so I can get to the green pig using the fewest number of blocks. Try using more than one "repeat times" block.
-        maze_2_8: 'To solve this one, try a "repeat" block with these 3 blocks inside it: move, move, turn.'
-        maze_2_9: 'Ok, try the new "repeat until" block - it will repeat until I reach the green pig.'
-        maze_2_10: "Ok, one last time for practice - can you solve this one using only 4 blocks?"
-        maze_2_11: "Dear person.  Me zombie. Me hungry. Must... get... to sunflower... Can you get me there with only 5 blocks?"
-        maze_2_12: Ok, this is similar, but slightly different. Can you do it in only 5 blocks?
-        maze_2_13: 'Use the new "if" block to let me decide when to turn. Hint: you only need one more block, but learn how we set it up so you can do it on your own next time.'
-        maze_2_14: Ok, this is just like the last puzzle, but you need to remember how you used the "if" block and the "repeat" block together.
-        maze_2_15: Me want sunflower! Use an "if" block to get me there with the fewest number of blocks.
-        maze_2_16: "Ok, let's do that again for practice - this isn't very different, but watch out for the chompers!"
-        maze_2_17: The "If-else" blocks checks a condition, and then does one thing OR another. To get me to the sunflower try to use this new block.
-        maze_2_18: One more practice of the "if-else" block, can you get it right on your first try?
-        maze_2_19: Can you add just 3 blocks to help me solve a more complex maze? If you do it right, I can walk any curvy path no matter the length.
-        turtle_1_1: "Hi, I'm an artist. You can write code to make me draw almost anything. Use a few blocks to make me draw over the gray lines in the picture."
-        turtle_1_2: 'Now, draw a square. NOTE: use your favorite color by picking it in the new "set color" block.'
-        turtle_1_3: Make a square using only 3 blocks.
-        turtle_1_4: |-
-          Draw a triangle whose sides are all in different colors, using the "random color" option that picks a different color each time. Hint: you'll have to figure out how far to turn by clicking on the number in the turn block.
-        turtle_1_5: Now, for practice, draw a triangle and then a square to draw an envelope.
-        turtle_1_6: "Can you figure out how draw this triangle and square? Hint: Do the triangle first, then figure out how much to turn before drawing the square."
-        turtle_1_7: "Ok, let's make it a bit harder - see if you can draw these green glasses. The squares are 100 pixels on each side, and they're 50 pixels apart. Don't forget to draw in green!"
-        turtle_1_8: Ok, try to figure out what happens if you run this code (or press "Run" to try it). Then, repeat it enough times to complete the drawing. The colors will be different every time.
-        turtle_1_9: Can you figure out what number to replace the question marks with to draw a circle?
-        turtle_1_10: 'You made it! Now, draw anything you want. Some fun ideas: a stick figure, snowflake, or spiral. Also try the new "set width" block. Have fun!'
-        turtle_4_1: "Can you draw a picture that looks like this house? Think about the steps you need to draw it - that's called an algorithm. It might take a bunch of tries to get it looking good, but it's okay if it's not perfect!"
-        turtle_4_2: "Now try drawing this square that's made of 2 triangles. It might take a few tries to figure out how far to turn and how far to move. It doesn't have to look exact, but just keep trying!"
-        turtle_4_3: "Draw an arrow that looks like this. Think about all the steps that you'll need to make it."
-        turtle_4_4: "Can you draw something that looks like this ship? It's a bunch of smaller shapes put together, so break the problem down into smaller parts."
-        maze_karel_1_1: |-
-          Hi, I'm a farmer. I need your help to flatten the field on my farm so it's ready for planting. Move me to the pile of dirt and use the "remove" block to remove it.
-        maze_karel_1_2: Next, move me to the hole and fill it with TWO shovelfuls of dirt, using the "fill" block.
+        maze_2_2: 'Oi! Eu preciso pegar o porquinho verde! Empilhe um par de blocos "Avançar" e pressione "Executar programa" para me ajudar a chegar lá. '
+        maze_2_1: "Escreva-me um outro programa, então posso fazer todo o caminho até o porco verde. "
+        maze_2_2_5: Como devo chegar ao porco verde? (Cuidado com a dinamite)
+        maze_2_3: Como devo chegar ao porco verde? (Cuidado com a dinamite)
+        maze_2_4: "Aff! Escreva um programa que me leva ao redor da dinamite para o porco verde. "
+        maze_2_5: Há uma maneira de chegar ao porco verde usando apenas a 2 blocos. Você consegue fazer isso?
+        maze_2_6: Tente me levar ao porco verde usando apenas a três blocos.
+        maze_2_7: Escreva-me um programa para que eu possa ir até o porco verde usando o menor número de blocos. Tente usar mais de um bloco "repetir vezes".
+        maze_2_8: 'Para resolver este, tente um bloco "repetir" com estes 3 blocos no seu interior: andar, andar, vire.'
+        maze_2_9: 'Ok, tente o novo bloco "repetir até" - ele irá repetir até eu alcançar o porco verde.'
+        maze_2_10: "Ok, pratique mais uma vez - você pode resolver isto usando apenas 4 blocos?"
+        maze_2_11: "Pessoa querida.  Mim zumbi. Mim com fome. Devo... chegar... no girassol... Me ajude a chegar lá com apenas 5 blocos?"
+        maze_2_12: Ok, isto é semelhante, mas ligeiramente diferente. Você pode fazê-lo em apenas 5 blocos?
+        maze_2_13: 'Use o novo bloco "IF" para me deixar decidir quando virar. Dica: você só precisa de mais um bloco, mas aprenda como podemos configurá-lo, então você mesmo poderá fazê-lo na próxima vez.'
+        maze_2_14: Ok, isso é apenas como o último quebra-cabeça, mas você precisa se lembrar de como você usou o bloco "IF" e o bloco "repetir" juntos.
+        maze_2_15: Eu quero o girassol! Use um bloco "IF" para obter com o menor número de blocos.
+        maze_2_16: 'Ok, vamos fazer isto novamente para praticar - isso não é muito diferente, mas fique de olho nos "chompers"!'
+        maze_2_17: Os blocos "se-caso contrário" verificam uma condição, e em seguida, fazem uma coisa ou outra. Para me levar ao girassol tente usar este novo bloco.
+        maze_2_18: Mais uma prática do bloco "se-caso contrário", você consegue na primeira tentativa?
+        maze_2_19: Você pode adicionar apenas 3 blocos para me ajudar a resolver um labirinto mais complexo? Se você fizer isso direito, eu posso andar qualquer caminho cheio de curvas, não importa o comprimento.
+        turtle_1_1: Oi, eu sou um artista. Você pode escrever código para fazer-me desenhar quase tudo. Use alguns blcos para me fazer desenhar as linhas de cinza na imagem.
+        turtle_1_2: 'Agora, desenhe um quadrado. NOTA: use a sua cor preferida pegando-a no novo bloco "set color".'
+        turtle_1_3: Faça um quadrado usando apenas 3 blocos.
+        turtle_1_4: 'Desenhe um triângulo cujos lados são todos em cores diferentes, usando a opção "cor aleatória" que escolhe uma cor diferente cada vez. Dica: você terá que descobrir até onde girar  clicando no número do bloco de girar.'
+        turtle_1_5: Agora, para a prática, desenhe um triângulo e, em seguida, um quadrado, desenhe um envelope.
+        turtle_1_6: "Pode descobrir como desenhar esse triângulo e quadrado? Dica: Faça o triângulo primeiro e, em seguida, descubra o quanto virar antes de desenhar o quadrado."
+        turtle_1_7: "Ok, vamos dificultar um pouco - veja se você pode desenhar esses óculos verdes. Os quadrados tem 100 pixels de cada lado, e eles são separados 50 pixels. Não se esqueça de desenhar no verde!"
+        turtle_1_8: Ok, tente descobrir o que acontece se você executar esse código (ou pressione "Executar" para experimentá-lo). Em seguida, repita-o várias vezes para completar o desenho. As cores serão diferentes a cada vez.
+        turtle_1_9: Descubra qual número você precisa para substituir os pontos de interrogação para desenhar um círculo?
+        turtle_1_10: 'Você conseguiu! Agora, desenhe o que quiser. Algumas idéias para se divertir: um boneco, floco de neve ou espiral. Tente também o novo bloco de "definir largura". Divirta-se!'
+        turtle_4_1: "Você pode fazer um desenho que se parece como esta casa? Pense sobre as etapas que você precisa para desenhá-la - isso chama-se um algoritmo. Pode levar um monte de tentativas para obtê-lo com bom aspecto, mas está tudo bem se não ficar perfeito!"
+        turtle_4_2: Agora tente desenhar este quadrado que é feito de dois triângulos. Pode levar algumas tentativas para descobrir até onde girar e mover. Não precisa ficar igual, mas continue tentando!
+        turtle_4_3: Desenhe uma seta que se parece com essa. Pense em todas as etapas que você precisará fazer isso.
+        turtle_4_4: Você pode desenhar algo que se parece com este navio? É um monte de formas menores juntas, então divida o problema em partes menores.
+        maze_karel_1_1: Oi, eu sou um fazendeiro. Preciso de sua ajuda para achatar o campo na minha fazenda para que esteja pronto para o plantio. Mova o monte de terra e use o bloco de "remove" para removê-lo.
+        maze_karel_1_2: Em seguida, me leve para perto do buraco e coloque com DUAS pás cheias de terra, usando o bloco "preencher".
         maze_karel_1_3: Move me to the pile of dirt and tell me how many shovelfuls to remove using as few blocks as possible.
         maze_karel_1_4: "Can you help me remove all four piles of dirt? Hint: use a repeat block if you can."
         maze_karel_1_5: 'Help me fill in all these holes with 5 shovelfuls of dirt. Hint: you can put a "repeat" block inside the "while" block.'
@@ -90,8 +88,7 @@ pt-BR:
         turtle_2_4: "Now we're going to get fancy. Change the code to draw 36 squares, 100 pixels wide, and each 10 degrees apart. Hint: you may want to use the slider to make me go faster."
         turtle_2_5: |-
           Draw squares with sides of 50, 60, 70, 80, and 90 pixels.  You'll need to use the "draw a square" function five times.
-        turtle_2_6: |-
-          Ok, this program will use a counter, to draw the same squares as last time. You want the square to be the same size as the counter, so use the "counter" block. Hint: It's in the Variables category.
+        turtle_2_6: 'Ok, este programa irá utilizar um contador para desenhar as mesmas praças da última vez. Você quer a praça do mesmo tamanho que o contador, então use o bloco "contador". Dica: É na categoria Variáveis.'
         turtle_2_7: |-
           Here's a program to draw a spiral, but the blocks are disabled so they won't run. Make a new program using a "count with" block (in the Loops category) and "counter" block (in the Variables category) to draw the same spiral.
         turtle_2_7_5: |-
@@ -111,10 +108,9 @@ pt-BR:
         maze_karel_2_7: "There's a cow in my field! Write a new function that helps me avoid the cow and remove the pile. Put all your blocks inside the new function."
         maze_karel_2_8: Use this new function, "avoid the cow and remove 1", to help me remove all the piles.
         maze_karel_2_9: "Ok, here's a function that removes 4 different piles of dirt in a vertical column. Try putting this function inside a loop, so that you remove all the piles of dirt using only a few new blocks."
-        maze_karel_2_10: Move me across the field, and use these two functions to help me remove all the piles and fill all the holes.
-        turtle_3_1: |-
-          This puzzle shows you how the "draw a square" and "draw a circle" functions are defined.  Defining a function doesn't run its blocks.  You have to pull out the "draw a square" block to actually draw a square.
-        turtle_3_2: Using the "draw a square" function as an example, create a "draw a triangle" function and use it.
+        maze_karel_2_10: Mover-me através do campo e usar essas duas funções para me ajudar a remover todas as pilhas e preencher todos os buracos.
+        turtle_3_1: 'Este quebra-cabeça mostra-lhe como as funções "desenhar um quadrado" e "desenhar um círculo"  são definidas.  Definir uma função não executa estes blocos.  Você tem que chamar o bloco "desenhar um quadrado" para realmente desenhar um quadrado.'
+        turtle_3_2: Usando a função "desenhar um quadrado" como um exemplo, criar a função "desenhar um triângulo" e utilize-a.
         turtle_3_3: "Draw triangular fences around the cats and a square fence around the cow.  Tip: test the program as you go along."
         turtle_3_4: See if you can figure out how to use "draw a square" and "draw a triangle" (and some other blocks) to draw a house around the lion.
         turtle_3_5: 'Now create a new "draw a house" function and use it to house two cats. Hint: create a new function using the "do something" block, and type your own text to name the block.'
