@@ -77,3 +77,8 @@ by the scripts in this project. Notes about these issues are collected here.
 
 - JSON files with a flat object mapping string keys to strings.
 - Locales in file names use `en_us` format. Note: Lower case with underscore.
+
+### Blockly Core
+
+- JSON files with a flat object mapping string keys to strings.
+- Files arranged in directories with full standard locale names.
