@@ -4,3 +4,6 @@
 [submodule "projects/dashboard"]
 	path = projects/dashboard
 	url = git@github.com:code-dot-org/dashboard.git
+[submodule "projects/blockly-core"]
+	path = projects/blockly-core
+	url = git@github.com:code-dot-org/blockly-core-i18n.git
