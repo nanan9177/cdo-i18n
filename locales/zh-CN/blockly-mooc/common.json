@@ -14,7 +14,7 @@
   "continue":"Continue",
   "dialogCancel":"Cancel",
   "dialogOK":"OK",
-  "emptyBlocksErrorMsg":"The &quot;Repeat&quot; or &quot;If&quot; block needs to have other blocks inside it to work. Make sure the inner block fits properly inside the containing block.",
+  "emptyBlocksErrorMsg":"The \"Repeat\" or \"If\" block needs to have other blocks inside it to work. Make sure the inner block fits properly inside the containing block.",
   "finalStage":"Congratulations! You have completed the final stage.",
   "finalStageTrophies":"Congratulations! You have completed the final stage and won {numTrophies, plural, one {a trophy} other {# trophies}}.",
   "generatedCodeInfo":"The blocks for your program can also be represented in Javascript, the world's most widely adopted programming language:",
@@ -47,8 +47,8 @@
   "totalNumLinesOfCodeWritten":"All-time total: {numLines, plural, one {1 line} other {# lines}} of code.",
   "tryAgain":"Try again",
   "backToPreviousLevel":"Back to previous level",
-  "typeCode":"\/\/ Type your JavaScript code below these instructions.",
-  "typeFuncs":"\/\/ Available functions:%1<br><br><br>",
-  "typeHint":"\/\/ Note that the parentheses and semicolons are required.",
+  "typeCode":"Type your JavaScript code below these instructions.",
+  "typeFuncs":"Available functions:%1",
+  "typeHint":"Note that the parentheses and semicolons are required.",
   "workspaceHeader":"Assemble your blocks here."
 }

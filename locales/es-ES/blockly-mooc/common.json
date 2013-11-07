@@ -14,7 +14,7 @@
   "continue":"Continuar",
   "dialogCancel":"Cancelar",
   "dialogOK":"OK",
-  "emptyBlocksErrorMsg":"Los bloques &quot;repetir&quot; o &quot;si&quot; deben tener otros bloques dentro de ellos para funcionar. Asegúrate que el bloque interno quede correctamente dentro del bloque que lo contiene.",
+  "emptyBlocksErrorMsg":"Los bloques \"repetir\" o \"si\" deben tener otros bloques dentro de ellos para funcionar. Asegúrate que el bloque interno quede correctamente dentro del bloque que lo contiene.",
   "finalStage":"¡Felicidades! Has completado la etapa final.",
   "finalStageTrophies":"¡Felicidades! Has completado la etapa final y ganaste  {numTrophies, plural, one {un trofeo} other {# trofeos}}.",
   "generatedCodeInfo":"Los bloques de tu programa también pueden ser representados en Javascript, el lenguaje de programación más usado en el mundo:",
@@ -47,8 +47,8 @@
   "totalNumLinesOfCodeWritten":"Total: {numLines, plural, one {1 línea} other {# lineas}} de código.",
   "tryAgain":"Vuelve a intentarlo",
   "backToPreviousLevel":"Volver al nivel anterior",
-  "typeCode":"\/ \/ Escribe tu código JavaScript debajo de estas instrucciones.",
-  "typeFuncs":"\/\/ Funciones disponibles:%1<br><br><br>",
-  "typeHint":"\/ \/ Nota que los paréntesis y los punto y coma son necesarios.",
+  "typeCode":"Escribe tu código JavaScript debajo de estas instrucciones.",
+  "typeFuncs":"Funciones disponibles:%1",
+  "typeHint":"Nota que los paréntesis y los punto y coma son necesarios.",
   "workspaceHeader":"Pon tus bloques aquí."
 }

@@ -1,7 +1,4 @@
 {
-  "capacity0":"Te quedan <x id='START_SPAN'\/>0<x id='END_SPAN'\/> bloques.",
-  "capacity1":"Te queda <x id='START_SPAN'\/>1<x id='END_SPAN'\/> bloque.",
-  "capacity2":"Te quedan <x id='START_SPAN'\/>%1<x id='END_SPAN'\/>bloques.",
   "continue":"Continuar",
   "dig":"Eliminar 1",
   "digTooltip":"Eliminar 1 unidad de tierra",
