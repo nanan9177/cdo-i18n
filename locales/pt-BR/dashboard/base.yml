@@ -70,11 +70,11 @@ pt-BR:
   welcome_email:
     subject: Junte-se à minha turma (no Code.org)
     body: |
-      Clique no link abaixo para se inscrever para tutoriais de ciências de computação no Code.org (comigo como seu "professor"): 
+      Clique no link abaixo para se inscrever para tutoriais de ciências de computação no Code.org (comigo como seu "professor"):
       
       %{link}
       
-      Os tutoriais são divertidos, visualmente envolventes e ensinam os conceitos básicos de informática usando uma experiência simples, guiada e como um jogo. Aprenda a programar com a ajuda de Bill Gates, Mark Zuckerberg, Angry Birds e Plants vs Zombies! :-) 
+      Os tutoriais são divertidos, visualmente envolventes e ensinam os conceitos básicos de informática usando uma experiência simples, guiada e como um jogo. Aprenda a programar com a ajuda de Bill Gates, Mark Zuckerberg, Angry Birds e Plants vs Zombies! :-)
       
       %{name}
   follower:
@@ -167,7 +167,7 @@ pt-BR:
     none: Prefiro não responder
   footer:
     help_from_html: 'Os engenheiros do <a href="http://www.google.com"> Google</a>, <a href="http://www.microsoft.com"> Microsoft</a>, <a href="http://www.facebook.com"> Facebook</a> e <a href="http://www.twitter.com"> Twitter</a> ajudaram a criar este tutorial.'
-    art_from_html: 'Artwork from <a href="http://www.angrybirds.com">Angry Birds</a> by <a href="http://www.rovio.com">Rovio</a>, and <a href="http://www.popcap.com/plants-vs-zombies">Plants vs Zombies</a> by <a href="http://www.popcap.com">PopCap Games</a>.'
+    art_from_html: 'Obras de arte de <a href="http://www.angrybirds.com">Angry Birds</a> por <a href="http://www.rovio.com">Rovio</a> e <a href="http://www.popcap.com/plants-vs-zombies">Plants vs Zumbis</a> pela <a href="http://www.popcap.com"> PopCap Games</a>.'
     feedback: Fornecer feedback
     translate: Ajude-nos a traduzir para o seu idioma
     tos: Termos de serviço
