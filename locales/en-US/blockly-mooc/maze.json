@@ -1,7 +1,4 @@
 {
-  "capacity0": "You have<x id='START_SPAN'/>0<x id='END_SPAN'/> blocks left.",
-  "capacity1": "You have <x id='START_SPAN'/>1<x id='END_SPAN'/> block left.",
-  "capacity2": "You have <x id='START_SPAN'/>%1<x id='END_SPAN'/>blocks left.",
   "continue": "Continue",
   "dig": "remove 1",
   "digTooltip": "remove 1 unit of dirt",
