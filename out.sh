@@ -39,6 +39,18 @@ for locale in $locales; do
     cp_out $file $orig_dir${relname%.json}/${js_locale}.json
   done
 
+
+  ### Blockly Core
+  orig_dir=projects/blockly-core/locales
+  loc_dir=locales/$locale/blockly-core
+
+  # Copy JSON files.
+  for file in $(find $loc_dir -name '*.json'); do
+    relname=${file#$loc_dir}
+    cp_out $file $orig_dir$relname
+  done
+
+
 done
 
 # Push translations to each sub project.

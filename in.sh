@@ -43,3 +43,15 @@ for file in $(find $orig_dir -name 'en_us.json'); do
   relname=${file#$orig_dir}
   cp_in $file $loc_dir${relname%/en_us.json}.json
 done
+
+
+### Blockly Core
+
+orig_dir=projects/blockly-core/locales/en-US
+loc_dir=locales/en-US/blockly-core
+mkdir -p $loc_dir
+
+for file in $(find $orig_dir -name '*.json'); do
+  relname=${file#$orig_dir}
+  cp_in $file $loc_dir$relname
+done
