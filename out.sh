@@ -55,7 +55,7 @@ done
 
 # Push translations to each sub project.
 git submodule foreach git add .
-git submodule foreach git commit --message=Translations --edit
+git submodule foreach 'git commit --message=Translations --edit || true'
 git submodule foreach git push origin master
 
 # Commit submodules.
