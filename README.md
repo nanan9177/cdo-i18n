@@ -68,7 +68,7 @@ by the scripts in this project. Notes about these issues are collected below.
 
 These notes are reified in code in the `./in.sh` and `./out.sh` scripts.  In
 order to add a new sub-project, those scripts must be updated and a note should
-be added here.
+be added here. Sub-projects are managed as submodules in the `./projects` dir.
 
 ### Dashboard
 
