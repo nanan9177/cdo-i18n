@@ -61,14 +61,21 @@ git commit
 ```
 
 
-## Sub-project Notes
+## Submodules
+
+Each project is tracked by a Git submodule in the `./projects` directory. When
+adding new components, be sure to configure the correct branch in the
+`./.gitmodules` file.
+
+
+## Project-Specific Notes
 
 Each project and file format has it's own idiosyncrasies that must be addressed
 by the scripts in this project. Notes about these issues are collected below.
 
 These notes are reified in code in the `./in.sh` and `./out.sh` scripts.  In
 order to add a new sub-project, those scripts must be updated and a note should
-be added here. Sub-projects are managed as submodules in the `./projects` dir.
+be added here.
 
 ### Dashboard
 
@@ -86,3 +93,9 @@ be added here. Sub-projects are managed as submodules in the `./projects` dir.
 
 - JSON files with a flat object mapping string keys to strings.
 - Files arranged in directories with full standard locale names.
+
+### Pegasus
+
+- Rails-style YAML files
+- Uses full standard locale names.
+- Tracks the develop branch, not master.
