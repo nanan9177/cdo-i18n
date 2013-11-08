@@ -1,6 +1,6 @@
 {
   "blocklyMessage":"Blockly",
-  "catActions":"Händelser",
+  "catActions":"Åtgärder",
   "catColour":"Färg",
   "catCondition":"Villkor",
   "catLists":"Listor",
@@ -50,5 +50,5 @@
   "typeCode":"Skriv din JavaScript-kod under instruktionerna.",
   "typeFuncs":"Tillgängliga funktioner:%1",
   "typeHint":"Note that the parentheses and semicolons are required.",
-  "workspaceHeader":"Assemble your blocks here."
+  "workspaceHeader":"Assemble your blocks here: "
 }

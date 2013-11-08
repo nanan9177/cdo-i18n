@@ -50,5 +50,5 @@
   "typeCode":"Digite seu código JavaScript abaixo destas instruções.",
   "typeFuncs":"Funções disponíveis: %1",
   "typeHint":"Observe que os parênteses e ponto e vírgula são necessários.",
-  "workspaceHeader":"Monte seus blocos aqui."
+  "workspaceHeader":"Assemble your blocks here: "
 }
