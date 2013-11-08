@@ -11,7 +11,7 @@ function cp_in() {
 ## Bring projects up to date.
 git submodule update --init --remote --checkout projects/*
 git add projects
-git commit projects -m 'Updated submodules with latest sources'
+git commit -m 'Updated submodules with latest sources' -- projects || true
 
 
 ### Dashboard
