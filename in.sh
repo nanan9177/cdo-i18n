@@ -54,3 +54,12 @@ for file in $(find $orig_dir -name '*.json'); do
   relname=${file#$orig_dir}
   cp_in $file $loc_dir$relname
 done
+
+
+### Pegasus
+
+orig_dir=projects/pegasus/sites/all/locales
+loc_dir=locales/en-US/pegasus
+mkdir -p $loc_dir
+
+cp_in $orig_dir/en-US.yml $loc_dir/mobile.yml

@@ -51,6 +51,14 @@ for locale in $locales; do
   done
 
 
+  ### Pegasus
+  orig_dir=projects/pegasus/sites/all/locales
+  loc_dir=locales/$locale/pegasus
+
+  # Copy YML file.
+  cp_out $loc_dir/mobile.yml $orig_dir/$locale.yml
+
+
 done
 
 # Push translations to each sub project.
