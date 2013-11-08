@@ -113,19 +113,19 @@ pt-BR:
         text: 'Divirta-se usando o bloco  "SE"!'
     if_else:
       1:
-        image: notas/hoc3_1.png
+        image: notes/hoc3_1.png
         text: |-
           Hi, my name is Saloni. I use computer science to help solve problems in health and medicine. Let's learn about the "if else" block. It looks like the "if" block, but it has an extra part at the end that says "else".
       2:
-        image: notas/hoc3_1.png
+        image: notes/hoc3_1.png
         text: |-
           If I put a "move forward" block in the spot where it says "do" and a "turn left" block where it says "else" that means that the zombie will choose between 2 options. IF there is a path ahead, the zombie will move forward, and OTHERWISE (there isn't a path ahead), the zombie will turn left.
       3:
-        image: notas/hoc3_1.png
+        image: notes/hoc3_1.png
         text: |-
           Just like the "if" block, we can put "if else" blocks inside a "repeat" blocks so that the zombie keeps moving and the "if else" block will keep checking if there's somewhere to turn.
       4:
-        image: notas/hoc3_1.png
+        image: notes/hoc3_1.png
         text: Agora coloque os zumbis onde eles devem ficar!
     function:
       1:
@@ -145,13 +145,13 @@ pt-BR:
         text: Mostrar notas aparecerá em breve!
     hoc_wrapup:
       1:
-        image: notas/hoc3_1.png
+        image: notes/hoc3_1.png
         text: "Congratulations! With the last puzzle you solved, you just wrote code that can tell ANY robot how to find it's way through a non-branching maze or tunnel of any length, whether it's a zombie, a bird, a mars rover, or even a self-driving car."
       2:
-        image: notas/hoc3_1.png
+        image: notes/hoc3_1.png
         text: "The basic concepts you used are at the heart of every program or app you'll ever try.  We learned about repeat loops, repeat until statements, if statements, and if else statements."
       3:
-        image: notas/hoc3_1.png
+        image: notes/hoc3_1.png
         text: Se você gostou de sua primeira hora de código, visite code.org para continuar sua educação em ciência da computação! Uma vez que você completar o nosso curso de 20 horas, você terá dominado o básico de programação e pode começar a aprender como escrever aplicativos de telefone, instruções de robô, jogos, tudo.
       4:
         image: notes/hoc6_4.png
