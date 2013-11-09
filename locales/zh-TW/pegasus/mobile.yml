@@ -1,18 +1,18 @@
 zh-TW:
-  hello: Hello world
-  computer_science: Computer Science
-  computer_science_edweek: Computer Science Education Week
-  csedweek_dates: December 9-15, 2013
-  n_have_learned_an_hoc: "# have learned an HOUR of CODE"
-  learn_now: Learn Now
-  petition_message: Sign your name if you think every student in every school should have the opportunity to learn computer science
-  name: Name
-  email: Email
-  zipcode: ZIP code or country
-  submit: Submit
-  view_english_site: View English site
-  non_english_tutorials: "Tutorials translated into multiple languages:"
-  write_your_first_program: Write your first computer program
+  hello: 世界您好
+  computer_science: 電腦科技
+  computer_science_edweek: 電腦科技敎育週
+  csedweek_dates: 2013 年 12 月 9-15 日
+  n_have_learned_an_hoc: "# 學習了一小時的電腦编碼"
+  learn_now: 現在學習
+  petition_message: 如果你認為在每個學校內每位學生都應該有機會學習電腦科技科，請簽署你的名字
+  name: 你的名字
+  email: "電郵地址 "
+  zipcode: 地區或國家碥號
+  submit: "提交 "
+  view_english_site: 查看英語網站
+  non_english_tutorials: 教程已經被翻譯成多種語言：
+  write_your_first_program: 編寫您的第一個電腦程式
   learn_cs_concepts: Learn the basic concepts of Computer Science with drag and drop programming. This is a game-like tutorial starring video lectures by Bill Gates, Mark Zuckerberg, Angry Birds and Plants vs. Zombies. Learn repeat-loops, if-then statements, and basic algorithms.
   all_ages: All ages
   beginner: Beginner

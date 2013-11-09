@@ -7,18 +7,18 @@ fi:
     failure:
       already_authenticated: You are already signed in.
       inactive: Your account was not activated yet.
-      invalid: Invalid email or password.
+      invalid: Virheellinen sähköpostiosoite tai salasana.
       invalid_token: Invalid authentication token.
-      locked: Your account is locked.
-      not_found_in_database: Invalid email or password.
-      timeout: Your session expired, please sign in again to continue.
-      unauthenticated: You need to sign in or sign up before continuing.
+      locked: Tilisi on lukittu.
+      not_found_in_database: Virheellinen sähköpostiosoite tai salasana.
+      timeout: Istunto on vanhentunut, kirjaudu uudelleen jatkaaksesi.
+      unauthenticated: Sinun täytyy kirjautua sisään tai rekisteröityä ennen jatkamista.
       unconfirmed: You have to confirm your account before continuing.
     mailer:
       confirmation_instructions:
         subject: Confirmation instructions
       reset_password_instructions:
-        subject: Reset password instructions
+        subject: Salasanan palautusohjeet
       unlock_instructions:
         subject: Unlock Instructions
     omniauth_callbacks:

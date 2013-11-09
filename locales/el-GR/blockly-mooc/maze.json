@@ -1,5 +1,5 @@
 {
-  "continue":"Continue",
+  "continue":"Συνέχεια",
   "dig":"remove 1",
   "digTooltip":"remove 1 unit of dirt",
   "dirE":"E",
@@ -7,7 +7,7 @@
   "dirS":"S",
   "dirW":"W",
   "doCode":"do",
-  "elseCode":"else",
+  "elseCode":"διαφορετικά",
   "fill":"fill 1",
   "fillTooltip":"place 1 unit of dirt",
   "finalLevel":"Congratulations! You have solved the final puzzle.",
@@ -15,10 +15,10 @@
   "ifPathAhead":"if path ahead",
   "ifTooltip":"If there is a path in the specified direction, then do some actions.",
   "ifelseTooltip":"If there is a path in the specified direction, then do the first block of actions. Otherwise, do the second block of actions.",
-  "moveForward":"move forward",
+  "moveForward":"προχώρησε ευθεία",
   "moveForwardTooltip":"Move me forward one space.",
   "nextLevel":"Congratulations! You have completed this puzzle.",
-  "no":"No",
+  "no":"Όχι",
   "noPathAhead":"path is blocked",
   "noPathLeft":"no path to the left",
   "noPathRight":"no path to the right",
@@ -32,10 +32,10 @@
   "repeatUntil":"repeat until",
   "repeatUntilBlocked":"while path ahead",
   "repeatUntilFinish":"repeat until finish",
-  "turnLeft":"turn left",
-  "turnRight":"turn right",
+  "turnLeft":"στρίψε αριστερά",
+  "turnRight":"στρίψε δεξιά",
   "turnTooltip":"Turns me left or right by 90 degrees.",
   "while":"while",
   "whileTooltip":"Repeat the enclosed actions until finish point is reached.",
-  "yes":"Yes"
+  "yes":"Ναι"
 }
