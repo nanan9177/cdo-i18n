@@ -44,7 +44,7 @@
   "tooManyBlocksMsg":"Questo puzzle può essere risolto con < x id= 'START_SPAN'\/><x id='END_SPAN'\/> blocchi.",
   "tooMuchWork":"Mi hai fatto fare un sacco di lavoro!  Potresti provare a ripetere un minor numero di volte?",
   "toolboxHeader":"Blocchi",
-  "totalNumLinesOfCodeWritten":"Totale di tutti i tempi: {numLines, plurale, uno {1 linea} altre {# linee}} del codice.",
+  "totalNumLinesOfCodeWritten":"Totale di tutti i tempi: {numLines, plural, one {1 linea} other {# linee}} del codice.",
   "tryAgain":"Riprova",
   "backToPreviousLevel":"Torna al livello precedente",
   "typeCode":"Digitare il tuo codice JavaScript di seguito a queste istruzioni.",
