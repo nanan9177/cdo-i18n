@@ -1,11 +1,11 @@
 pt-BR:
   hello: Olá, mundo
   computer_science: Ciência da computação
-  computer_science_edweek: Semana de educação de ciência de computador
-  csedweek_dates: 9-15 de dezembro de 2013
+  computer_science_edweek: Semana de educação em ciência da computação
+  csedweek_dates: 9 a 15 de dezembro de 2013
   n_have_learned_an_hoc: "# ter aprendido uma HORA de CÓDIGO"
-  learn_now: Aprenda agora
-  petition_message: Assine seu nome se você acha que todos os estudantes em todas as escolas deveriam ter a oportunidade de aprender informática
+  learn_now: Aprenda Agora
+  petition_message: Assine seu nome se você acha que todos os estudantes em todas as escolas deveriam ter a oportunidade de aprender ciência da computação
   name: Nome
   email: Email
   zipcode: Código postal ou país
@@ -13,7 +13,7 @@ pt-BR:
   view_english_site: Ver site em inglês
   non_english_tutorials: "Tutoriais traduzidos em várias línguas:"
   write_your_first_program: Escreva seu primeiro programa de computador
-  learn_cs_concepts: "Aprenda os conceitos básicos de ciência da computação com a programação de arrastar e soltar. Este tutorial é como um jogo estrelando vídeo aulas por Bill Gates, Mark Zuckerberg, Angry Birds e Plants vs Zombies. Aprenda a  laços-repetição, declarações se-então e algoritmos básicos."
+  learn_cs_concepts: Aprenda os conceitos básicos de ciência da computação com a programação de arrastar e soltar. Este tutorial é como um jogo estrelando vídeo aulas por Bill Gates, Mark Zuckerberg, Angry Birds e Plants vs Zombies. Aprenda laços-repetição, declarações se-então e algoritmos básicos.
   all_ages: Todas as idades
   beginner: Iniciante
   n_participants: "# participantes"
@@ -22,7 +22,7 @@ pt-BR:
   congratulations: Parabéns
   congratulations_on_completing_hoc: Parabéns por ter concluído a uma Hora de Código.
   get_a_certificate_of_achievement: Obter um certificado de realização
-  enter_valid_email: Introduza um endereço de e-mail válido
+  enter_valid_email: Informe um endereço de e-mail válido
   get_a_certificate_message: "Vamos enviar-lhe um certificado e informações sobre como <a>Aprender além de Uma Hora</a>"
   thanks_for_submitting_: Obrigado por enviar!
   congratulations_: Parabéns!

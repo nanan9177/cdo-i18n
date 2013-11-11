@@ -1,10 +1,10 @@
 hu-HU:
-  hello: Hello world
-  computer_science: Computer Science
-  computer_science_edweek: Computer Science Education Week
+  hello: Helló világ
+  computer_science: Számítógép-tudomány
+  computer_science_edweek: Számítógép Tudomány Oktatási Hét
   csedweek_dates: December 9-15, 2013
-  n_have_learned_an_hoc: "# have learned an HOUR of CODE"
-  learn_now: Learn Now
+  n_have_learned_an_hoc: "# tanult a KÓD ORÁJÁN"
+  learn_now: Tanulj most
   petition_message: Sign your name if you think every student in every school should have the opportunity to learn computer science
   name: Name
   email: Email

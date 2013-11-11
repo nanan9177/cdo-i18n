@@ -1,41 +1,42 @@
 fr-FR:
-  hello: Hello world
-  computer_science: Computer Science
-  computer_science_edweek: Computer Science Education Week
-  csedweek_dates: December 9-15, 2013
-  n_have_learned_an_hoc: "# have learned an HOUR of CODE"
-  learn_now: Learn Now
-  petition_message: Sign your name if you think every student in every school should have the opportunity to learn computer science
-  name: Name
-  email: Email
-  zipcode: ZIP code or country
-  submit: Submit
-  view_english_site: View English site
-  non_english_tutorials: "Tutorials translated into multiple languages:"
-  write_your_first_program: Write your first computer program
-  learn_cs_concepts: Learn the basic concepts of Computer Science with drag and drop programming. This is a game-like tutorial starring video lectures by Bill Gates, Mark Zuckerberg, Angry Birds and Plants vs. Zombies. Learn repeat-loops, if-then statements, and basic algorithms.
-  all_ages: All ages
-  beginner: Beginner
+  hello: Bonjour tout le monde
+  computer_science: Informatique
+  computer_science_edweek: "Semaine de l'éducation des sciences informatiques"
+  csedweek_dates: 9-15 décembre 2013
+  n_have_learned_an_hoc: "# ont appris une HEURE de CODE"
+  learn_now: Apprends Maintenant
+  petition_message: "Signez si vous pensez que chaque étudiant de chaque école devrait avoir la possibilité d'apprendre l'informatique"
+  name: Nom
+  email: E-mail
+  zipcode: Code postal ou pays
+  submit: Envoyer
+  view_english_site: Visitez le site anglais
+  non_english_tutorials: "Tutoriels traduits en plusieurs langues :"
+  write_your_first_program: Ecrivez votre premier programme informatique
+  learn_cs_concepts: |-
+    Apprenez les concepts de base de l'informatique avec la programmation "glisser-déposer". Ce tutoriel ludique met en avant les conférences vidéos de Bill Gates, Mark Zuckerberg, Angry Birds et Plants vs. Zombies. Découvrez les boucles de répétition, les conditions "si-alors", et des algorithmes de base.
+  all_ages: Tous les âges
+  beginner: Débutant
   n_participants: "# participants"
-  go: Go
-  thank_you_: Thank you!
-  congratulations: Congratulations
-  congratulations_on_completing_hoc: Congratulations on completing 1 Hour of Code.
-  get_a_certificate_of_achievement: Get a certificate of achievement
-  enter_valid_email: Please enter a valid email address
-  get_a_certificate_message: "We'll send you a certificate and information about how to <a>Learn beyond One Hour</a>"
-  thanks_for_submitting_: Thanks for submitting!
-  congratulations_: Congratulations!
-  beyond_hour_message: "Here is more information about how to <a>Learn beyond One Hour</a>"
-  leaderboards_for_hoc: Leaderboards for the Hour of Code.
-  country: Country
-  city: City
-  gender: Gender
-  boys: Boys
-  girls: Girls
-  give_my_hour: "Give my Hour to:"
-  girls_team: "Girls' Team"
-  boys_team: Boys’ Team
-  tell_the_world: Tell the world!
-  share_on_facebook: Share on Facebook
-  share_on_twitter: Share on Twitter
+  go: Aller
+  thank_you_: Merci!
+  congratulations: Félicitations
+  congratulations_on_completing_hoc: Félicitations pour avoir terminé 1 Heure de Code.
+  get_a_certificate_of_achievement: Obtenir une attestation de réussite
+  enter_valid_email: Veuillez introduire une adresse mail valide
+  get_a_certificate_message: "Nous vous enverrons un certificat et des informations sur comment <a>Apprendre après Une Heure</a>"
+  thanks_for_submitting_: Merci pour votre participation !
+  congratulations_: Félicitations!
+  beyond_hour_message: "Voici plus d'informations sur comment <a>Apprendre après Une Heure</a>"
+  leaderboards_for_hoc: "Classements pour l'Heure de Code."
+  country: Pays
+  city: Ville
+  gender: Sexe
+  boys: Garçons
+  girls: Filles
+  give_my_hour: "Donner mon Heure à:"
+  girls_team: Équipe des filles
+  boys_team: Équipe des garçons
+  tell_the_world: Partagez !
+  share_on_facebook: Partagez sur Facebook
+  share_on_twitter: Partagez sur Twitter

@@ -1,0 +1,41 @@
+is-IS:
+  hello: Halló heimur
+  computer_science: Tölvunarfræði
+  computer_science_edweek: Computer Science Education Week
+  csedweek_dates: 9.-15. desember 2013
+  n_have_learned_an_hoc: "# have learned an HOUR of CODE"
+  learn_now: Læra Núna
+  petition_message: Skrifaðu nafnið þitt ef þú telur að hver og einn nemandi í hverjum skóla eigi að fá tækifæri til að læra tölvunarfræði
+  name: Nafn
+  email: Netfang
+  zipcode: Póstfang eða land
+  submit: Senda
+  view_english_site: Skoða síðuna á ensku
+  non_english_tutorials: "Tutorials translated into multiple languages:"
+  write_your_first_program: Skrifaðu fyrsta forritið þitt
+  learn_cs_concepts: Lærðu grunn-hugtökin í Tölvunarfræði með draga og sleppa (drag and drop) forritun. Þetta eru leiðbeiningar sem byggja á leik og byrja með myndböndum af Bill Gates, Mark Zuckerberg, Angry Birds og Plants vs. Zombies. Lærðu endurteknar-lykkjur, ef-þá (if-then) setningar og grunn algoriþma.
+  all_ages: Allur aldur
+  beginner: Byrjandi
+  n_participants: "# þátttakendur"
+  go: Go
+  thank_you_: Takk fyrir!
+  congratulations: Til hamingju
+  congratulations_on_completing_hoc: Til hamingju með að klára 1 klst. af Kóðun.
+  get_a_certificate_of_achievement: Get a certificate of achievement
+  enter_valid_email: Vinsamlega sláðu inn virkt netfang
+  get_a_certificate_message: "We'll send you a certificate and information about how to <a>Learn beyond One Hour</a>"
+  thanks_for_submitting_: Thanks for submitting!
+  congratulations_: Til hamingju!
+  beyond_hour_message: "Here is more information about how to <a>Learn beyond One Hour</a>"
+  leaderboards_for_hoc: Leaderboards for the Hour of Code.
+  country: Land
+  city: Borg/Bær
+  gender: Kyn
+  boys: Strákar
+  girls: Stelpur
+  give_my_hour: "Give my Hour to:"
+  girls_team: Stelpu Lið
+  boys_team: Stráka Lið
+  tell_the_world: Segðu heiminum frá!
+  share_on_facebook: Deila á Facebook
+  share_on_twitter: Deila á Twitter

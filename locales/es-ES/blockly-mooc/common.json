@@ -49,6 +49,6 @@
   "backToPreviousLevel":"Volver al nivel anterior",
   "typeCode":"Escribe tu código JavaScript debajo de estas instrucciones.",
   "typeFuncs":"Funciones disponibles:%1",
-  "typeHint":"Nota que los paréntesis y los punto y coma son necesarios.",
+  "typeHint":"Ten en cuenta que los paréntesis y los punto y coma son necesarios.",
   "workspaceHeader":"Coloca tus bloques aquí:"
 }

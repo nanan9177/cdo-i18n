@@ -1,13 +1,13 @@
 es-ES:
   hello: Hola mundo
   computer_science: Ciencias de la computación
-  computer_science_edweek: Semana de las Ciencias de la Computación
+  computer_science_edweek: Semana de Educación en Ciencias de la Computación
   csedweek_dates: Diciembre 9-15, 2013
   n_have_learned_an_hoc: "# aprendió Una Hora de Código"
   learn_now: Aprende Ahora
   petition_message: Ingresa tu nombre si crees que cada estudiante debería tener la oportunidad de aprender ciencias de la computación
   name: Nombre
-  email: Correo
+  email: Correo electrónico
   zipcode: Código postal o país
   submit: Enviar
   view_english_site: Ver sitio en inglés
@@ -22,7 +22,7 @@ es-ES:
   congratulations: Felicidades
   congratulations_on_completing_hoc: Felicidades, has completado 1 Hora de Código.
   get_a_certificate_of_achievement: Recibe un certificado de tu logro
-  enter_valid_email: Por favor ingresa un correo válido
+  enter_valid_email: Por favor ingresa un correo electrónico válido
   get_a_certificate_message: "Te enviaremos tu certificado e información sobre como <a>Aprender más de Una Hora</a>"
   thanks_for_submitting_: ¡Gracias por enviar!
   congratulations_: Felicidades!

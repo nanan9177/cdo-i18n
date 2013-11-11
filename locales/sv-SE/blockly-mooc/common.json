@@ -1,11 +1,11 @@
 {
   "blocklyMessage":"Blockly",
-  "catActions":"Åtgärder",
+  "catActions":"Handlingar",
   "catColour":"Färg",
   "catCondition":"Villkor",
   "catLists":"Listor",
   "catLogic":"Logik",
-  "catLoops":"slingor",
+  "catLoops":"loopar",
   "catMath":"Matte",
   "catProcedures":"Funktioner",
   "catText":"Text",
@@ -49,6 +49,6 @@
   "backToPreviousLevel":"Gå tillbaka till föregående nivå",
   "typeCode":"Skriv din JavaScript-kod under instruktionerna.",
   "typeFuncs":"Tillgängliga funktioner:%1",
-  "typeHint":"Note that the parentheses and semicolons are required.",
-  "workspaceHeader":"Assemble your blocks here: "
+  "typeHint":"Observera att parenteserna och semikolonen är obligatoriska.",
+  "workspaceHeader":"Sätt ihop dina block här: "
 }
