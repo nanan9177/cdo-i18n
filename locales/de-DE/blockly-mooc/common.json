@@ -16,7 +16,7 @@
   "dialogOK":"OK",
   "emptyBlocksErrorMsg":"Die \"Wiederholen\"- und die \"Wenn\"-Bausteine benötigten im Inneren andere Bausteine um zu funktionieren. Stelle sicher, dass der innere Baustein in den umschließenden Baustein passt.",
   "finalStage":"Glückwunsch! Du hast das letzte Level erfolgreich abgeschlossen.",
-  "finalStageTrophies":"Glückwunsch! Du hast das letzte Level erfolgreich abgeschlossen und {eine Trophäe} other {# Trophäen}} gewonnen.",
+  "finalStageTrophies":"Glückwunsch! Du hast das letzte Level erfolgreich abgeschlossen und {numTrophies, plural, one {eine Trophäe} other {# Trophäen}} gewonnen.",
   "generatedCodeInfo":"Die Bausteine für Dein Programm können auch in Javascript dargestellt werden, die weltweit am meisten verwendete Programmiersprache:",
   "hashError":"Ups, '%1' stimmt mit keinem gespeicherten Programm überein.",
   "help":"Hilfe",

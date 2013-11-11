@@ -33,9 +33,9 @@
   gender: Nem
   boys: Fiúk
   girls: Lányok
-  give_my_hour: "Give my Hour to:"
-  girls_team: "Girls' Team"
-  boys_team: Boys’ Team
-  tell_the_world: Tell the world!
-  share_on_facebook: Share on Facebook
-  share_on_twitter: Share on Twitter
+  give_my_hour: "Add az órám a:"
+  girls_team: Lány csapatnak
+  boys_team: Fiú csapatnak
+  tell_the_world: Mondd el a világnak!
+  share_on_facebook: Megosztás Facebookon keresztül
+  share_on_twitter: Megosztás Twitteren keresztül
