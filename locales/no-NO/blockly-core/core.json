@@ -213,7 +213,7 @@
   "MATH_ONLIST_TOOLTIP_SUM":"Return the sum of all the numbers in the list.",
   "MATH_POWER_SYMBOL":"^",
   "MATH_RANDOM_FLOAT_HELPURL":"http:\/\/en.wikipedia.org\/wiki\/Random_number_generation",
-  "MATH_RANDOM_FLOAT_TITLE_RANDOM":"random fraction",
+  "MATH_RANDOM_FLOAT_TITLE_RANDOM":"Blokkér tekst - navnet på blokken som genererer et tilfeldig tall høyere enn eller lik 0 og mindre enn 1",
   "MATH_RANDOM_FLOAT_TOOLTIP":"Return a random fraction between 0.0 (inclusive) and 1.0 (exclusive).",
   "MATH_RANDOM_INT_HELPURL":"http:\/\/en.wikipedia.org\/wiki\/Random_number_generation",
   "MATH_RANDOM_INT_TITLE":"random integer from %1 to %2",
