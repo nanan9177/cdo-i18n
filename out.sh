@@ -41,8 +41,9 @@ for locale in $locales; do
 
 
   ### Blockly Core
-  orig_dir=projects/blockly-core/locales
+  orig_dir=projects/blockly-core/locales/$locale
   loc_dir=locales/$locale/blockly-core
+  mkdir -p $orig_dir
 
   # Copy JSON files.
   for file in $(find $loc_dir -name '*.json'); do
@@ -60,6 +61,7 @@ for locale in $locales; do
 
 
 done
+
 
 # Push translations to each sub project.
 git submodule foreach git add .
