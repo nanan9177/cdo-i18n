@@ -1,41 +1,41 @@
 "hu-HU":
-  hello: Helló világ
-  computer_science: Számítógép-tudomány
-  computer_science_edweek: Számítógép Tudomány Oktatási Hét
-  csedweek_dates: December 9-15, 2013
+  hello: "Helló világ"
+  computer_science: "Számítógép-tudomány"
+  computer_science_edweek: "Számítógép Tudomány Oktatási Hét"
+  csedweek_dates: "December 9-15, 2013"
   n_have_learned_an_hoc: "# tanult a KÓD ORÁJÁN"
-  learn_now: Tanulj most
-  petition_message: Jelentkezz ha szerinted is minden tanuló rendelkezhet avval a lehetőséggel ,hogy tanuljon számítógép tudományt iskolájába
-  name: Név
-  email: Email
-  zipcode: Irányítószám vagy ország
-  submit: Elküldés
-  view_english_site: Angol oldal megtekintése
+  learn_now: "Tanulj most"
+  petition_message: "Jelentkezz ha szerinted is minden tanuló rendelkezhet avval a lehetőséggel ,hogy tanuljon számítógép tudományt iskolájába"
+  name: "Név"
+  email: "Email"
+  zipcode: "Irányítószám vagy ország"
+  submit: "Elküldés"
+  view_english_site: "Angol oldal megtekintése"
   non_english_tutorials: "Több nyelvre lefordított útmutatók:"
-  write_your_first_program: Írja meg az első számítógépes programját
-  learn_cs_concepts: Tanulja meg a Számítógép Tudomány alapvető fogalmait. A útmutatók játék szerűek ,a videók-előadások főszereplői Bill Gates, Mark Zuckerberg, Angry Birds és Plants vs. Zombies. Tanulj ciklusokról, if utasításról és alapvető algoritmusokról.
-  all_ages: Minden korosztály számára
-  beginner: Kezdő
+  write_your_first_program: "Írja meg az első számítógépes programját"
+  learn_cs_concepts: "Tanulja meg a Számítógép Tudomány alapvető fogalmait. A útmutatók játék szerűek ,a videók-előadások főszereplői Bill Gates, Mark Zuckerberg, Angry Birds és Plants vs. Zombies. Tanulj ciklusokról, if utasításról és alapvető algoritmusokról."
+  all_ages: "Minden korosztály számára"
+  beginner: "Kezdő"
   n_participants: "# résztvevők"
-  go: Mennyj
-  thank_you_: Köszönjük!
-  congratulations: Gratulálok
-  congratulations_on_completing_hoc: Gratulálunk a befejezte a Kód Óráját.
-  get_a_certificate_of_achievement: Kapjon egy bízonyítványt teljesítményéért
-  enter_valid_email: Adjon meg egy érvényes e-mail címet
+  go: "Mennyj"
+  thank_you_: "Köszönjük!"
+  congratulations: "Gratulálok"
+  congratulations_on_completing_hoc: "Gratulálunk a befejezte a Kód Óráját."
+  get_a_certificate_of_achievement: "Kapjon egy bízonyítványt teljesítményéért"
+  enter_valid_email: "Adjon meg egy érvényes e-mail címet"
   get_a_certificate_message: "Küldünk önnek egy tanúsítványt, és információk arról, hogyan tanulj <a>egy óránál többet</a>"
-  thanks_for_submitting_: Köszönjük előterjesztés!
-  congratulations_: Gratulálok!
+  thanks_for_submitting_: "Köszönjük előterjesztés!"
+  congratulations_: "Gratulálok!"
   beyond_hour_message: "Itt van további információt arról, hogyan tanulj <a>egy óránál többet</a>"
-  leaderboards_for_hoc: Ranglisták a Kód Órájáról.
-  country: Ország
-  city: Település
-  gender: Nem
-  boys: Fiúk
-  girls: Lányok
+  leaderboards_for_hoc: "Ranglisták a Kód Órájáról."
+  country: "Ország"
+  city: "Település"
+  gender: "Nem"
+  boys: "Fiúk"
+  girls: "Lányok"
   give_my_hour: "Add az órám a:"
-  girls_team: Lány csapatnak
-  boys_team: Fiú csapatnak
-  tell_the_world: Mondd el a világnak!
-  share_on_facebook: Megosztás Facebookon keresztül
-  share_on_twitter: Megosztás Twitteren keresztül
+  girls_team: "Lány csapatnak"
+  boys_team: "Fiú csapatnak"
+  tell_the_world: "Mondd el a világnak!"
+  share_on_facebook: "Megosztás Facebookon keresztül"
+  share_on_twitter: "Megosztás Twitteren keresztül"

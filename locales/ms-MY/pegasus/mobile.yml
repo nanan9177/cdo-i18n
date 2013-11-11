@@ -1,41 +1,41 @@
 "ms-MY":
-  hello: Helo dunia
-  computer_science: Sains Komputer
-  computer_science_edweek: Minggu Pendidikan Sains Komputer
-  csedweek_dates: 9-15 Disember 2013
+  hello: "Helo dunia"
+  computer_science: "Sains Komputer"
+  computer_science_edweek: "Minggu Pendidikan Sains Komputer"
+  csedweek_dates: "9-15 Disember 2013"
   n_have_learned_an_hoc: "# telah mempelajari KOD SEJAM"
-  learn_now: Pelajari Sekarang
-  petition_message: Daftarkan nama anda jika anda fikir setiap pelajar di setiap sekolah harus mempunyai peluang untuk belajar sains komputer
-  name: Nama
-  email: E-mel
-  zipcode: Kod Zip atau negara
-  submit: Serah
-  view_english_site: Papar Laman Bahasa Inggeris
+  learn_now: "Pelajari Sekarang"
+  petition_message: "Daftarkan nama anda jika anda fikir setiap pelajar di setiap sekolah harus mempunyai peluang untuk belajar sains komputer"
+  name: "Nama"
+  email: "E-mel"
+  zipcode: "Kod Zip atau negara"
+  submit: "Serah"
+  view_english_site: "Papar Laman Bahasa Inggeris"
   non_english_tutorials: "Tutorial yang diterjemah ke dalam pelbagai bahasa:"
-  write_your_first_program: Menulis atur cara komputer yang pertama
-  learn_cs_concepts: Belajar konsep asas Sains Komputer dengan pengaturcaraan drag dan drop. Ini adalah tutorial seperti permainan yang dibintangi video ceramah oleh Bill Gates, Mark Zuckerberg, Angry Birds dan Plants vs. Zombies. Belajar ulang-gelung, penyata jika-kemudian, dan algoritma asas.
-  all_ages: Semua peringkat umur
-  beginner: Pemula
+  write_your_first_program: "Menulis atur cara komputer yang pertama"
+  learn_cs_concepts: "Belajar konsep asas Sains Komputer dengan pengaturcaraan drag dan drop. Ini adalah tutorial seperti permainan yang dibintangi video ceramah oleh Bill Gates, Mark Zuckerberg, Angry Birds dan Plants vs. Zombies. Belajar ulang-gelung, penyata jika-kemudian, dan algoritma asas."
+  all_ages: "Semua peringkat umur"
+  beginner: "Pemula"
   n_participants: "# peserta"
-  go: Pergi
-  thank_you_: Terima kasih!
-  congratulations: Tahniah
-  congratulations_on_completing_hoc: Tahniah kerna telah menyiapkan Kod Sejam.
-  get_a_certificate_of_achievement: Dapatkan sijil pencapaian
-  enter_valid_email: Sila masukkan alamat email yang sah
+  go: "Pergi"
+  thank_you_: "Terima kasih!"
+  congratulations: "Tahniah"
+  congratulations_on_completing_hoc: "Tahniah kerna telah menyiapkan Kod Sejam."
+  get_a_certificate_of_achievement: "Dapatkan sijil pencapaian"
+  enter_valid_email: "Sila masukkan alamat email yang sah"
   get_a_certificate_message: "Kami akan menghantar sijil dan maklumat mengenai cara untuk <a>belajar melebihi Satu Jam</a>"
-  thanks_for_submitting_: Terima kasih di atas penyerahan!
-  congratulations_: Tahniah!
+  thanks_for_submitting_: "Terima kasih di atas penyerahan!"
+  congratulations_: "Tahniah!"
   beyond_hour_message: "Berikut merupakan maklumat lanjut mengenai cara untuk <a>belajar melebihi Satu Jam</a>"
-  leaderboards_for_hoc: Leaderboards bagi Kod Sejam.
-  country: Negara
-  city: Bandar
-  gender: Jantina
-  boys: Lelaki
-  girls: Perempuan
+  leaderboards_for_hoc: "Leaderboards bagi Kod Sejam."
+  country: "Negara"
+  city: "Bandar"
+  gender: "Jantina"
+  boys: "Lelaki"
+  girls: "Perempuan"
   give_my_hour: "Berikan Jam saya kepada:"
-  girls_team: Pasukan perempuan
-  boys_team: Pasukan Lelaki
-  tell_the_world: Beritahu dunia!
-  share_on_facebook: Kongsi di Facebook
-  share_on_twitter: Kongsi di Twitter
+  girls_team: "Pasukan perempuan"
+  boys_team: "Pasukan Lelaki"
+  tell_the_world: "Beritahu dunia!"
+  share_on_facebook: "Kongsi di Facebook"
+  share_on_twitter: "Kongsi di Twitter"

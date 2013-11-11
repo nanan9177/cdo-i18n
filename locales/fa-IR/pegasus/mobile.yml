@@ -1,41 +1,41 @@
 "fa-IR":
-  hello: سلام به دنیا
-  computer_science: علوم رایانه
-  computer_science_edweek: هفته آموزشی علوم رایانه
-  csedweek_dates: 18 تا 24 آذرماه 1392
+  hello: "سلام به دنیا"
+  computer_science: "علوم رایانه"
+  computer_science_edweek: "هفته آموزشی علوم رایانه"
+  csedweek_dates: "18 تا 24 آذرماه 1392"
   n_have_learned_an_hoc: "# have learned an HOUR of CODE"
-  learn_now: همین حالا یاد بگیرید
-  petition_message: Sign your name if you think every student in every school should have the opportunity to learn computer science
-  name: نام
-  email: رایانامه
-  zipcode: کدپستی یا کشور
-  submit: ارسال
-  view_english_site: مشاهده سایت به زبان انگلیسی
+  learn_now: "همین حالا یاد بگیرید"
+  petition_message: "Sign your name if you think every student in every school should have the opportunity to learn computer science"
+  name: "نام"
+  email: "رایانامه"
+  zipcode: "کدپستی یا کشور"
+  submit: "ارسال"
+  view_english_site: "مشاهده سایت به زبان انگلیسی"
   non_english_tutorials: "آموزش ها به چندین زبان ترجمه شده است:"
-  write_your_first_program: Write your first computer program
-  learn_cs_concepts: Learn the basic concepts of Computer Science with drag and drop programming. This is a game-like tutorial starring video lectures by Bill Gates, Mark Zuckerberg, Angry Birds and Plants vs. Zombies. Learn repeat-loops, if-then statements, and basic algorithms.
-  all_ages: All ages
-  beginner: Beginner
+  write_your_first_program: "Write your first computer program"
+  learn_cs_concepts: "Learn the basic concepts of Computer Science with drag and drop programming. This is a game-like tutorial starring video lectures by Bill Gates, Mark Zuckerberg, Angry Birds and Plants vs. Zombies. Learn repeat-loops, if-then statements, and basic algorithms."
+  all_ages: "All ages"
+  beginner: "Beginner"
   n_participants: "# participants"
-  go: Go
-  thank_you_: Thank you!
-  congratulations: Congratulations
-  congratulations_on_completing_hoc: Congratulations on completing 1 Hour of Code.
-  get_a_certificate_of_achievement: Get a certificate of achievement
-  enter_valid_email: Please enter a valid email address
+  go: "Go"
+  thank_you_: "Thank you!"
+  congratulations: "Congratulations"
+  congratulations_on_completing_hoc: "Congratulations on completing 1 Hour of Code."
+  get_a_certificate_of_achievement: "Get a certificate of achievement"
+  enter_valid_email: "Please enter a valid email address"
   get_a_certificate_message: "We'll send you a certificate and information about how to <a>Learn beyond One Hour</a>"
-  thanks_for_submitting_: Thanks for submitting!
-  congratulations_: Congratulations!
+  thanks_for_submitting_: "Thanks for submitting!"
+  congratulations_: "Congratulations!"
   beyond_hour_message: "Here is more information about how to <a>Learn beyond One Hour</a>"
-  leaderboards_for_hoc: Leaderboards for the Hour of Code.
-  country: Country
-  city: City
-  gender: Gender
-  boys: Boys
-  girls: Girls
+  leaderboards_for_hoc: "Leaderboards for the Hour of Code."
+  country: "Country"
+  city: "City"
+  gender: "Gender"
+  boys: "Boys"
+  girls: "Girls"
   give_my_hour: "Give my Hour to:"
   girls_team: "Girls' Team"
-  boys_team: Boys’ Team
-  tell_the_world: Tell the world!
-  share_on_facebook: Share on Facebook
-  share_on_twitter: Share on Twitter
+  boys_team: "Boys’ Team"
+  tell_the_world: "Tell the world!"
+  share_on_facebook: "Share on Facebook"
+  share_on_twitter: "Share on Twitter"

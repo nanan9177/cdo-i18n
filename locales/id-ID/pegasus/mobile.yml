@@ -1,41 +1,41 @@
 "id-ID":
-  hello: Halo dunia
-  computer_science: Ilmu komputer
-  computer_science_edweek: Minggu pendidikan ilmu komputer
-  csedweek_dates: 9-15 Desember 2013
+  hello: "Halo dunia"
+  computer_science: "Ilmu komputer"
+  computer_science_edweek: "Minggu pendidikan ilmu komputer"
+  csedweek_dates: "9-15 Desember 2013"
   n_have_learned_an_hoc: "# telah belajar mengkode selama satu jam"
-  learn_now: Pelajari sekarang
-  petition_message: Bubuhkan nama anda jika anda berpendapat setiap siswa dari setiap sekolah seharusnya diberi kesempatan untuk belajar ilmu komputer
-  name: Nama
-  email: email
-  zipcode: poskode atau negara
-  submit: Kirim
-  view_english_site: Lihat situs dalam bahasa Inggris
+  learn_now: "Pelajari sekarang"
+  petition_message: "Bubuhkan nama anda jika anda berpendapat setiap siswa dari setiap sekolah seharusnya diberi kesempatan untuk belajar ilmu komputer"
+  name: "Nama"
+  email: "email"
+  zipcode: "poskode atau negara"
+  submit: "Kirim"
+  view_english_site: "Lihat situs dalam bahasa Inggris"
   non_english_tutorials: "Tutorial yang diterjemahkan ke dalam beberapa bahasa:"
-  write_your_first_program: Tulis program komputer pertama anda
-  learn_cs_concepts: Mempelajari konsep-konsep dasar ilmu komputer dengan drag dan drop pemrograman. Ini adalah tutorial permainan-seperti yang dibintangi kuliah video oleh Bill Gates, Mark Zuckerberg, Angry Birds dan Plants vs Zombies. Pelajari ulangi-loop, pernyataan jika-maka, dan dasar algoritma.
-  all_ages: Segala usia
-  beginner: Pemula
+  write_your_first_program: "Tulis program komputer pertama anda"
+  learn_cs_concepts: "Mempelajari konsep-konsep dasar ilmu komputer dengan drag dan drop pemrograman. Ini adalah tutorial permainan-seperti yang dibintangi kuliah video oleh Bill Gates, Mark Zuckerberg, Angry Birds dan Plants vs Zombies. Pelajari ulangi-loop, pernyataan jika-maka, dan dasar algoritma."
+  all_ages: "Segala usia"
+  beginner: "Pemula"
   n_participants: "# peserta"
-  go: Jalan
-  thank_you_: Terima kasih!
-  congratulations: Selamat
-  congratulations_on_completing_hoc: Selamat atas menyelesaikan 1 jam kode.
-  get_a_certificate_of_achievement: Ambil sertifikat prestasi
-  enter_valid_email: Masukkan alamat email yang valid
+  go: "Jalan"
+  thank_you_: "Terima kasih!"
+  congratulations: "Selamat"
+  congratulations_on_completing_hoc: "Selamat atas menyelesaikan 1 jam kode."
+  get_a_certificate_of_achievement: "Ambil sertifikat prestasi"
+  enter_valid_email: "Masukkan alamat email yang valid"
   get_a_certificate_message: "Kami akan mengirimkan sertifikat dan informasi tentang bagaimana untuk <a>belajar lebih dari satu jam</a>"
-  thanks_for_submitting_: Terima kasih untuk kiriman!
-  congratulations_: Selamat!
+  thanks_for_submitting_: "Terima kasih untuk kiriman!"
+  congratulations_: "Selamat!"
   beyond_hour_message: "Berikut adalah informasi lebih lanjut tentang cara <a>belajar melampaui satu jam</a>"
-  leaderboards_for_hoc: Leaderboards untuk jam kode.
-  country: Negara
-  city: Kota
-  gender: Jenis kelamin
-  boys: Anak-anak laki-laki
-  girls: Anak-anak perempuan
+  leaderboards_for_hoc: "Leaderboards untuk jam kode."
+  country: "Negara"
+  city: "Kota"
+  gender: "Jenis kelamin"
+  boys: "Anak-anak laki-laki"
+  girls: "Anak-anak perempuan"
   give_my_hour: "Memberikan jam saya untuk:"
-  girls_team: Regu anak-anak perempuan
-  boys_team: Regu anak-anak laki-laki
-  tell_the_world: Beritahu dunia!
-  share_on_facebook: Berbagi melalui Facebook
-  share_on_twitter: Berbagi melalui Twitter
+  girls_team: "Regu anak-anak perempuan"
+  boys_team: "Regu anak-anak laki-laki"
+  tell_the_world: "Beritahu dunia!"
+  share_on_facebook: "Berbagi melalui Facebook"
+  share_on_twitter: "Berbagi melalui Twitter"

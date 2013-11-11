@@ -1,41 +1,41 @@
 "my-MM":
-  hello: မဂၤလာပါ ကမာၻၾကီး
-  computer_science: ကြန္ပ်ဴတာသိပၸံ
-  computer_science_edweek: ကြန္ပ်ဴတာသိပၸံ ပညာေရး ရက္သတၱပတ္
-  csedweek_dates: ဒီဇင္ဘာ ၉-၁၅, ၂၀၁၃
-  n_have_learned_an_hoc: code သင္ၾကားခ်ိန္ အတြက္ေလ့လာျခင္း
-  learn_now: စတင္သင္ၾကားျခင္း
-  petition_message: ေက်ာင္းတုိင္းက ေက်ာင္းသားတုိင္းဟာ ကြန္ပ်ဴတာသိပၸံ သင္ၾကားဖုိ႔အခြင့္အေရးရသင့္တယ္လုိ႔ ထင္တယ္ဆုိရင္ မိတ္ေဆြရဲ့ နာမည္နဲ႔ လက္မွတ္ထိုးေပးပါ
-  name: အမည္
-  email: email လိပ္စာ
-  zipcode: ZIP code သုိ႔မဟုတ္ နုိင္ငံ
-  submit: ေပးပို႔ပါ
-  view_english_site: အဂၤလိပ္ အင္တာနက္စာမ်က္ႏွာသုိ႔ၾကည့္ရႈရန္
-  non_english_tutorials: ဘာသာစကားအမ်ိဳးမ်ိဳးႏွင့္ ျပန္ဆုိထားသည့္ သင္ခန္းစာမ်ား
-  write_your_first_program: ပထမဆံုး ကြန္ပ်ဴတာ ပရိုဂရမ္ကိုေရးပါ
+  hello: "မဂၤလာပါ ကမာၻၾကီး"
+  computer_science: "ကြန္ပ်ဴတာသိပၸံ"
+  computer_science_edweek: "ကြန္ပ်ဴတာသိပၸံ ပညာေရး ရက္သတၱပတ္"
+  csedweek_dates: "ဒီဇင္ဘာ ၉-၁၅, ၂၀၁၃"
+  n_have_learned_an_hoc: "code သင္ၾကားခ်ိန္ အတြက္ေလ့လာျခင္း"
+  learn_now: "စတင္သင္ၾကားျခင္း"
+  petition_message: "ေက်ာင္းတုိင္းက ေက်ာင္းသားတုိင္းဟာ ကြန္ပ်ဴတာသိပၸံ သင္ၾကားဖုိ႔အခြင့္အေရးရသင့္တယ္လုိ႔ ထင္တယ္ဆုိရင္ မိတ္ေဆြရဲ့ နာမည္နဲ႔ လက္မွတ္ထိုးေပးပါ"
+  name: "အမည္"
+  email: "email လိပ္စာ"
+  zipcode: "ZIP code သုိ႔မဟုတ္ နုိင္ငံ"
+  submit: "ေပးပို႔ပါ"
+  view_english_site: "အဂၤလိပ္ အင္တာနက္စာမ်က္ႏွာသုိ႔ၾကည့္ရႈရန္"
+  non_english_tutorials: "ဘာသာစကားအမ်ိဳးမ်ိဳးႏွင့္ ျပန္ဆုိထားသည့္ သင္ခန္းစာမ်ား"
+  write_your_first_program: "ပထမဆံုး ကြန္ပ်ဴတာ ပရိုဂရမ္ကိုေရးပါ"
   learn_cs_concepts: "ကြန္ပ်ဴတာသိပၸံရဲ့ အေျခခံသေဘာတရားကို ဆြဲယူေနရာခ်ထားသည့္ Programming နဲ႔ေလ့လာမယ္။ Game ပံုစံ သင္ၾကားထားျပီး  Bill Gates, Mark Zuckerberg, Angry Birds, Plants vs Zombies ေတြပါပါတယ္။ repeat loops, if statements, အေျခခံ algorithm ေတြကိုေလ့လာၾကပါမယ္။"
-  all_ages: အသက္အရြယ္အားလံုး
-  beginner: ပထမအရြယ္
+  all_ages: "အသက္အရြယ္အားလံုး"
+  beginner: "ပထမအရြယ္"
   n_participants: "# ပါဝင္သူမ်ား"
-  go: သြားသည္
-  thank_you_: ေက်းဇူးတင္ပါသည္
-  congratulations: ဂုဏ္ယူပါတယ္
-  congratulations_on_completing_hoc: Code ၁ နာရီျပီးသြားတဲ့အတြက္ ဂုဏ္ယူပါတယ္။
-  get_a_certificate_of_achievement: ေအာင္ျမင္စြာျပီးဆံုးေၾကာင္း လက္မွတ္ရယူပါ
-  enter_valid_email: ေက်းဇူးျပဳ၍ email ေရးေပးပါ
+  go: "သြားသည္"
+  thank_you_: "ေက်းဇူးတင္ပါသည္"
+  congratulations: "ဂုဏ္ယူပါတယ္"
+  congratulations_on_completing_hoc: "Code ၁ နာရီျပီးသြားတဲ့အတြက္ ဂုဏ္ယူပါတယ္။"
+  get_a_certificate_of_achievement: "ေအာင္ျမင္စြာျပီးဆံုးေၾကာင္း လက္မွတ္ရယူပါ"
+  enter_valid_email: "ေက်းဇူးျပဳ၍ email ေရးေပးပါ"
   get_a_certificate_message: "ေအာင္လက္မွတ္နဲ႔အတူ <a> တစ္နာရီ အလြန္ေလ့လာမႈ </a> ကိုဘယ္လုိျပဳလုပ္ရမလဲဆုိတာ ေပးပို႔လုိက္ပါမယ္။"
-  thanks_for_submitting_: ေပးပို႔မႈအတြက္ ေက်းဇူးတင္ပါတယ္။
-  congratulations_: ဂုဏ္ယူပါတယ္
+  thanks_for_submitting_: "ေပးပို႔မႈအတြက္ ေက်းဇူးတင္ပါတယ္။"
+  congratulations_: "ဂုဏ္ယူပါတယ္"
   beyond_hour_message: "ဒါကေတာ့ <a> တစ္နာရီ အလြန္ေလ့လာမႈ </a> ကိုဘယ္လုိျပဳလုပ္ရမလဲဆုိတဲ့ အခ်က္အလက္ပါ"
-  leaderboards_for_hoc: code သင္ၾကားခ်ိန္ အတြက္ ဦးေဆာင္သူမ်ား
-  country: ႏိုင္ငံ
-  city: ျမိဳ ႔
-  gender: က်ား/မ
-  boys: ေယာက္်ားေလး
-  girls: မိန္းကေလး
-  give_my_hour: ကုိယ့္ အခ်ိန္ကို ေပးမယ္
-  girls_team: မိန္းကေလး အဖြဲ႔
-  boys_team: ေယာက္်ားေလး အဖြဲ႔
-  tell_the_world: တစ္ကမာၻလံုး
-  share_on_facebook: Facebook မွာဖလွယ္မယ္
-  share_on_twitter: Twitter မွာဖလွယ္မယ္
+  leaderboards_for_hoc: "code သင္ၾကားခ်ိန္ အတြက္ ဦးေဆာင္သူမ်ား"
+  country: "ႏိုင္ငံ"
+  city: "ျမိဳ ႔"
+  gender: "က်ား/မ"
+  boys: "ေယာက္်ားေလး"
+  girls: "မိန္းကေလး"
+  give_my_hour: "ကုိယ့္ အခ်ိန္ကို ေပးမယ္"
+  girls_team: "မိန္းကေလး အဖြဲ႔"
+  boys_team: "ေယာက္်ားေလး အဖြဲ႔"
+  tell_the_world: "တစ္ကမာၻလံုး"
+  share_on_facebook: "Facebook မွာဖလွယ္မယ္"
+  share_on_twitter: "Twitter မွာဖလွယ္မယ္"

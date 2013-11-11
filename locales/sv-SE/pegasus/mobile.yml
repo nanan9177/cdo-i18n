@@ -1,41 +1,41 @@
 "sv-SE":
-  hello: Hej världen
-  computer_science: Datavetenskap
-  computer_science_edweek: Utbildningsvecka för Dataveteskap
-  csedweek_dates: Den 9-15 december 2013
+  hello: "Hej världen"
+  computer_science: "Datavetenskap"
+  computer_science_edweek: "Utbildningsvecka för Dataveteskap"
+  csedweek_dates: "Den 9-15 december 2013"
   n_have_learned_an_hoc: "# har lärt sig Timmen av Kod"
-  learn_now: Lär dig nu
-  petition_message: Skriv på ditt namn om du tycker att varje elev i varje skola borde ha möjlighet att lära sig programmera
-  name: Namn
-  email: E-post
-  zipcode: Postnummer eller land
-  submit: Skicka in
-  view_english_site: Visa den engelska webbplatsen
+  learn_now: "Lär dig nu"
+  petition_message: "Skriv på ditt namn om du tycker att varje elev i varje skola borde ha möjlighet att lära sig programmera"
+  name: "Namn"
+  email: "E-post"
+  zipcode: "Postnummer eller land"
+  submit: "Skicka in"
+  view_english_site: "Visa den engelska webbplatsen"
   non_english_tutorials: "Kurser översatta till flera olika språk:"
-  write_your_first_program: Skriv din första datorprogram
-  learn_cs_concepts: Lära sig grundläggande koncepten bakom programmering genom dra och släpp-programmering. Det här är en spel-liknande kurs med video föreläsningar av Bill Gates, Mark Zuckerberg, Angry Birds och Plants vs. Zombies. Lär dig "upprepa"-loopar, "om"-satser och grundläggande algoritmer.
-  all_ages: Alla åldrar
-  beginner: Nybörjare
+  write_your_first_program: "Skriv din första datorprogram"
+  learn_cs_concepts: "Lära sig grundläggande koncepten bakom programmering genom dra och släpp-programmering. Det här är en spel-liknande kurs med video föreläsningar av Bill Gates, Mark Zuckerberg, Angry Birds och Plants vs. Zombies. Lär dig \"upprepa\"-loopar, \"om\"-satser och grundläggande algoritmer."
+  all_ages: "Alla åldrar"
+  beginner: "Nybörjare"
   n_participants: "# deltagare"
-  go: Gå
-  thank_you_: Tack!
-  congratulations: Grattis
-  congratulations_on_completing_hoc: Grattis till att du klarat 1 Timme med Kod.
-  get_a_certificate_of_achievement: Få ett certifikat om prestationen
-  enter_valid_email: Ange en giltig e-postadress
+  go: "Gå"
+  thank_you_: "Tack!"
+  congratulations: "Grattis"
+  congratulations_on_completing_hoc: "Grattis till att du klarat 1 Timme med Kod."
+  get_a_certificate_of_achievement: "Få ett certifikat om prestationen"
+  enter_valid_email: "Ange en giltig e-postadress"
   get_a_certificate_message: "Vi skickar dig ett certifikat och information om hur man kan <a>Lära sig mer än en Timme med Kod</a>"
-  thanks_for_submitting_: Tack för att skicka!
-  congratulations_: Grattis!
+  thanks_for_submitting_: "Tack för att skicka!"
+  congratulations_: "Grattis!"
   beyond_hour_message: "Här finns mer information om hur man kan <a>Lära sig mer än en Timme med Kod</a>"
-  leaderboards_for_hoc: Topplistor för Timmen med Kod.
-  country: Land
-  city: Stad
-  gender: Kön
-  boys: Pojkar
-  girls: Flickor
+  leaderboards_for_hoc: "Topplistor för Timmen med Kod."
+  country: "Land"
+  city: "Stad"
+  gender: "Kön"
+  boys: "Pojkar"
+  girls: "Flickor"
   give_my_hour: "Ge min Timme till:"
-  girls_team: Flickornas sida
-  boys_team: Pojkarnas sida
-  tell_the_world: Berätta för världen!
-  share_on_facebook: Dela på Facebook
-  share_on_twitter: Dela på Twitter
+  girls_team: "Flickornas sida"
+  boys_team: "Pojkarnas sida"
+  tell_the_world: "Berätta för världen!"
+  share_on_facebook: "Dela på Facebook"
+  share_on_twitter: "Dela på Twitter"

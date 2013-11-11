@@ -1,42 +1,42 @@
 "fr-FR":
-  hello: Bonjour tout le monde
-  computer_science: Informatique
+  hello: "Bonjour tout le monde"
+  computer_science: "Informatique"
   computer_science_edweek: "Semaine de l'éducation des sciences informatiques"
-  csedweek_dates: 9-15 décembre 2013
+  csedweek_dates: "9-15 décembre 2013"
   n_have_learned_an_hoc: "# ont appris une HEURE de CODE"
-  learn_now: Apprends Maintenant
+  learn_now: "Apprends Maintenant"
   petition_message: "Signez si vous pensez que chaque étudiant de chaque école devrait avoir la possibilité d'apprendre l'informatique"
-  name: Nom
-  email: E-mail
-  zipcode: Code postal ou pays
-  submit: Envoyer
-  view_english_site: Visitez le site anglais
+  name: "Nom"
+  email: "E-mail"
+  zipcode: "Code postal ou pays"
+  submit: "Envoyer"
+  view_english_site: "Visitez le site anglais"
   non_english_tutorials: "Tutoriels traduits en plusieurs langues :"
-  write_your_first_program: Ecrivez votre premier programme informatique
+  write_your_first_program: "Ecrivez votre premier programme informatique"
   learn_cs_concepts: |-
     Apprenez les concepts de base de l'informatique avec la programmation "glisser-déposer". Ce tutoriel ludique met en avant les conférences vidéos de Bill Gates, Mark Zuckerberg, Angry Birds et Plants vs. Zombies. Découvrez les boucles de répétition, les conditions "si-alors", et des algorithmes de base.
-  all_ages: Tous les âges
-  beginner: Débutant
+  all_ages: "Tous les âges"
+  beginner: "Débutant"
   n_participants: "# participants"
-  go: Aller
-  thank_you_: Merci!
-  congratulations: Félicitations
-  congratulations_on_completing_hoc: Félicitations pour avoir terminé 1 Heure de Code.
-  get_a_certificate_of_achievement: Obtenir une attestation de réussite
-  enter_valid_email: Veuillez introduire une adresse mail valide
+  go: "Aller"
+  thank_you_: "Merci!"
+  congratulations: "Félicitations"
+  congratulations_on_completing_hoc: "Félicitations pour avoir terminé 1 Heure de Code."
+  get_a_certificate_of_achievement: "Obtenir une attestation de réussite"
+  enter_valid_email: "Veuillez introduire une adresse mail valide"
   get_a_certificate_message: "Nous vous enverrons un certificat et des informations sur comment <a>Apprendre après Une Heure</a>"
-  thanks_for_submitting_: Merci pour votre participation !
-  congratulations_: Félicitations!
+  thanks_for_submitting_: "Merci pour votre participation !"
+  congratulations_: "Félicitations!"
   beyond_hour_message: "Voici plus d'informations sur comment <a>Apprendre après Une Heure</a>"
   leaderboards_for_hoc: "Classements pour l'Heure de Code."
-  country: Pays
-  city: Ville
-  gender: Sexe
-  boys: Garçons
-  girls: Filles
+  country: "Pays"
+  city: "Ville"
+  gender: "Sexe"
+  boys: "Garçons"
+  girls: "Filles"
   give_my_hour: "Donner mon Heure à:"
-  girls_team: Équipe des filles
-  boys_team: Équipe des garçons
-  tell_the_world: Partagez !
-  share_on_facebook: Partagez sur Facebook
-  share_on_twitter: Partagez sur Twitter
+  girls_team: "Équipe des filles"
+  boys_team: "Équipe des garçons"
+  tell_the_world: "Partagez !"
+  share_on_facebook: "Partagez sur Facebook"
+  share_on_twitter: "Partagez sur Twitter"

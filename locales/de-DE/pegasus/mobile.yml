@@ -1,41 +1,41 @@
 "de-DE":
-  hello: Hallo Welt
-  computer_science: Informatik
-  computer_science_edweek: Computer Science Education Week
-  csedweek_dates: 9. bis 15. Dezember 2013
+  hello: "Hallo Welt"
+  computer_science: "Informatik"
+  computer_science_edweek: "Computer Science Education Week"
+  csedweek_dates: "9. bis 15. Dezember 2013"
   n_have_learned_an_hoc: "# haben eine Stunde Programmieren gelernt"
-  learn_now: Jetzt lernen
-  petition_message: Trage dich ein, wenn du meinst, alle Schüler in jeder Schule sollten die Möglichkeit haben, Informatik zu lernen
-  name: Name
-  email: E-Mail
-  zipcode: Postleitzahl oder Land
-  submit: Absenden
-  view_english_site: zur englischsprachigen Seite
+  learn_now: "Jetzt lernen"
+  petition_message: "Trage dich ein, wenn du meinst, alle Schüler in jeder Schule sollten die Möglichkeit haben, Informatik zu lernen"
+  name: "Name"
+  email: "E-Mail"
+  zipcode: "Postleitzahl oder Land"
+  submit: "Absenden"
+  view_english_site: "zur englischsprachigen Seite"
   non_english_tutorials: "Einführungen in verschiedenen Sprachen:"
-  write_your_first_program: Schreibe dein erstes Computerprogramm
-  learn_cs_concepts: Lerne die Grundlagen des Programmierens durch Ziehen von Bausteinen. Dies ist eine spielerische Einführung mit Videoeinheiten von Bill, Gates, Mark Zuckerberg, Angry Birds und Plants vs. Zombies. Lerne Wiederholungsschleifen, Wenn-Sonst-Befehle und einfache Programmabläufe.
-  all_ages: Alle Altersgruppen
-  beginner: Anfänger
+  write_your_first_program: "Schreibe dein erstes Computerprogramm"
+  learn_cs_concepts: "Lerne die Grundlagen des Programmierens durch Ziehen von Bausteinen. Dies ist eine spielerische Einführung mit Videoeinheiten von Bill, Gates, Mark Zuckerberg, Angry Birds und Plants vs. Zombies. Lerne Wiederholungsschleifen, Wenn-Sonst-Befehle und einfache Programmabläufe."
+  all_ages: "Alle Altersgruppen"
+  beginner: "Anfänger"
   n_participants: "# Teilnehmer"
-  go: Start
-  thank_you_: Vielen Dank!
-  congratulations: Herzlichen Glückwunsch
-  congratulations_on_completing_hoc: Herzlichen Glückwunsch zum Abschluss einer Programmierstunde.
-  get_a_certificate_of_achievement: Erhalte eine Bescheinigung für das Geleistete
-  enter_valid_email: Bitte geben Sie eine gültige E-Mail-Adresse ein
+  go: "Start"
+  thank_you_: "Vielen Dank!"
+  congratulations: "Herzlichen Glückwunsch"
+  congratulations_on_completing_hoc: "Herzlichen Glückwunsch zum Abschluss einer Programmierstunde."
+  get_a_certificate_of_achievement: "Erhalte eine Bescheinigung für das Geleistete"
+  enter_valid_email: "Bitte geben Sie eine gültige E-Mail-Adresse ein"
   get_a_certificate_message: "Wir schicken dir eine Bescheinigung und Informationen zum <a>Lernen über eine Stunde hinaus</a>"
   thanks_for_submitting_: "Danke für's Mitmachen!"
-  congratulations_: Herzlichen Glückwunsch!
+  congratulations_: "Herzlichen Glückwunsch!"
   beyond_hour_message: "Hier gibt es Informationen zum <a>Lernen über eine Stunde hinaus</a>"
-  leaderboards_for_hoc: Rangliste zur Programmierstunde.
-  country: Land
-  city: Stadt
-  gender: Geschlecht
-  boys: Jungen
-  girls: Mädchen
-  give_my_hour: Zähle meine Stunde für das
-  girls_team: Mädchenteam
-  boys_team: Jungenteam
-  tell_the_world: Sage es der Welt!
-  share_on_facebook: Auf Facebook teilen
-  share_on_twitter: Über Twitter teilen
+  leaderboards_for_hoc: "Rangliste zur Programmierstunde."
+  country: "Land"
+  city: "Stadt"
+  gender: "Geschlecht"
+  boys: "Jungen"
+  girls: "Mädchen"
+  give_my_hour: "Zähle meine Stunde für das"
+  girls_team: "Mädchenteam"
+  boys_team: "Jungenteam"
+  tell_the_world: "Sage es der Welt!"
+  share_on_facebook: "Auf Facebook teilen"
+  share_on_twitter: "Über Twitter teilen"

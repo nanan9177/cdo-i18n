@@ -1,41 +1,41 @@
 "es-ES":
-  hello: Hola mundo
-  computer_science: Ciencias de la computación
-  computer_science_edweek: Semana de Educación en Ciencias de la Computación
-  csedweek_dates: Diciembre 9-15, 2013
+  hello: "Hola mundo"
+  computer_science: "Ciencias de la computación"
+  computer_science_edweek: "Semana de Educación en Ciencias de la Computación"
+  csedweek_dates: "Diciembre 9-15, 2013"
   n_have_learned_an_hoc: "# aprendió Una Hora de Código"
-  learn_now: Aprende Ahora
-  petition_message: Ingresa tu nombre si crees que cada estudiante debería tener la oportunidad de aprender ciencias de la computación
-  name: Nombre
-  email: Correo electrónico
-  zipcode: Código postal o país
-  submit: Enviar
-  view_english_site: Ver sitio en inglés
+  learn_now: "Aprende Ahora"
+  petition_message: "Ingresa tu nombre si crees que cada estudiante debería tener la oportunidad de aprender ciencias de la computación"
+  name: "Nombre"
+  email: "Correo electrónico"
+  zipcode: "Código postal o país"
+  submit: "Enviar"
+  view_english_site: "Ver sitio en inglés"
   non_english_tutorials: "Tutoriales traducidos a múltiples idiomas:"
-  write_your_first_program: Codifica tu primer programa de computación
-  learn_cs_concepts: Aprende los conceptos básicos de las Ciencias de la Computación con programación de arrastrar y soltar. Este es un juego-tutorial con videos de Bill Gates, Mark Zuckerberg, Angry Birds y Plants vs. Zombies. Aprende bucles, sentencias condicionales, y conceptos básicos de algorítmica.
-  all_ages: Todas las edades
-  beginner: Principiante
+  write_your_first_program: "Codifica tu primer programa de computación"
+  learn_cs_concepts: "Aprende los conceptos básicos de las Ciencias de la Computación con programación de arrastrar y soltar. Este es un juego-tutorial con videos de Bill Gates, Mark Zuckerberg, Angry Birds y Plants vs. Zombies. Aprende bucles, sentencias condicionales, y conceptos básicos de algorítmica."
+  all_ages: "Todas las edades"
+  beginner: "Principiante"
   n_participants: "# de participantes"
-  go: Ir
-  thank_you_: ¡Gracias!
-  congratulations: Felicidades
-  congratulations_on_completing_hoc: Felicidades, has completado 1 Hora de Código.
-  get_a_certificate_of_achievement: Recibe un certificado de tu logro
-  enter_valid_email: Por favor ingresa un correo electrónico válido
+  go: "Ir"
+  thank_you_: "¡Gracias!"
+  congratulations: "Felicidades"
+  congratulations_on_completing_hoc: "Felicidades, has completado 1 Hora de Código."
+  get_a_certificate_of_achievement: "Recibe un certificado de tu logro"
+  enter_valid_email: "Por favor ingresa un correo electrónico válido"
   get_a_certificate_message: "Te enviaremos tu certificado e información sobre como <a>Aprender más de Una Hora</a>"
-  thanks_for_submitting_: ¡Gracias por enviar!
-  congratulations_: Felicidades!
+  thanks_for_submitting_: "¡Gracias por enviar!"
+  congratulations_: "Felicidades!"
   beyond_hour_message: "Aquí hay más información sobre cómo <a>Aprender más de Una Hora de Código</a>"
-  leaderboards_for_hoc: Líderes de Una Hora de Código.
-  country: País
-  city: Ciudad
-  gender: Género
-  boys: Niños
-  girls: Niñas
+  leaderboards_for_hoc: "Líderes de Una Hora de Código."
+  country: "País"
+  city: "Ciudad"
+  gender: "Género"
+  boys: "Niños"
+  girls: "Niñas"
   give_my_hour: "Dar mi hora a:"
-  girls_team: Equipo de niñas
-  boys_team: Equipos de niños
-  tell_the_world: ¡Dile al mundo!
-  share_on_facebook: Compartir en Facebook
-  share_on_twitter: Compartir en Twitter
+  girls_team: "Equipo de niñas"
+  boys_team: "Equipos de niños"
+  tell_the_world: "¡Dile al mundo!"
+  share_on_facebook: "Compartir en Facebook"
+  share_on_twitter: "Compartir en Twitter"

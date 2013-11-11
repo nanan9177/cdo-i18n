@@ -1,41 +1,41 @@
 "vi-VN":
-  hello: Hello world
-  computer_science: Khoa học máy tính
-  computer_science_edweek: Computer Science Education Week
-  csedweek_dates: Ngày 9-15 tháng 8 năm 2013
+  hello: "Hello world"
+  computer_science: "Khoa học máy tính"
+  computer_science_edweek: "Computer Science Education Week"
+  csedweek_dates: "Ngày 9-15 tháng 8 năm 2013"
   n_have_learned_an_hoc: "# đã học xong khóa The HOUR of CODE"
-  learn_now: Learn Now
-  petition_message: Ký tên nếu bạn cho rằng học sinh trong tất cả các trường nên có cơ hội tìm hiểu khoa học máy tính
-  name: Tên
-  email: Email
-  zipcode: Mã bưu điện
-  submit: Chấp nhận
-  view_english_site: Xem trang bằng tiếng Anh
+  learn_now: "Learn Now"
+  petition_message: "Ký tên nếu bạn cho rằng học sinh trong tất cả các trường nên có cơ hội tìm hiểu khoa học máy tính"
+  name: "Tên"
+  email: "Email"
+  zipcode: "Mã bưu điện"
+  submit: "Chấp nhận"
+  view_english_site: "Xem trang bằng tiếng Anh"
   non_english_tutorials: "Hướng dẫn dịch sang ngôn ngữ khác:"
-  write_your_first_program: Viết chương trình máy tính đầu tiên của bạn
-  learn_cs_concepts: Học những khái niệm cơ bản về khoa học máy tính bằng trò chơi kéo và thả. Đây là một trò chơi với sự hướng dẫn của Bill Gates, Mark Zuckerberg, Angry Birds và Plants vs. Zombies. Trò chơi giúp bạn hiểu về cấu trúc vòng lặp, điều kiện, và các thuật toán cơ bản.
-  all_ages: Mọi lứa tuổi
-  beginner: Người mới bắt đầu
+  write_your_first_program: "Viết chương trình máy tính đầu tiên của bạn"
+  learn_cs_concepts: "Học những khái niệm cơ bản về khoa học máy tính bằng trò chơi kéo và thả. Đây là một trò chơi với sự hướng dẫn của Bill Gates, Mark Zuckerberg, Angry Birds và Plants vs. Zombies. Trò chơi giúp bạn hiểu về cấu trúc vòng lặp, điều kiện, và các thuật toán cơ bản."
+  all_ages: "Mọi lứa tuổi"
+  beginner: "Người mới bắt đầu"
   n_participants: "# participants"
-  go: Go
-  thank_you_: Cảm ơn bạn!
-  congratulations: Chúc mừng
-  congratulations_on_completing_hoc: Chúc mừng bạn đã hoàn thành khóa 1 Hour of Code.
-  get_a_certificate_of_achievement: Lấy chứng nhận thành tích
-  enter_valid_email: Vui lòng nhập một địa chỉ email hợp lệ
+  go: "Go"
+  thank_you_: "Cảm ơn bạn!"
+  congratulations: "Chúc mừng"
+  congratulations_on_completing_hoc: "Chúc mừng bạn đã hoàn thành khóa 1 Hour of Code."
+  get_a_certificate_of_achievement: "Lấy chứng nhận thành tích"
+  enter_valid_email: "Vui lòng nhập một địa chỉ email hợp lệ"
   get_a_certificate_message: "Chúng tôi sẽ gửi cho bạn xác nhận và các thông tin hướng dẫn cách tham gia <a>the Hour of Code</a>"
-  thanks_for_submitting_: Cảm ơn bạn vì đã chấp nhận!
-  congratulations_: Chúc mừng!
+  thanks_for_submitting_: "Cảm ơn bạn vì đã chấp nhận!"
+  congratulations_: "Chúc mừng!"
   beyond_hour_message: "Here is more information about how to <a>Learn beyond One Hour</a>"
-  leaderboards_for_hoc: Bảng thành tích của the Hour of Code.
-  country: Quốc gia
-  city: Thành phố
-  gender: Giới tính
-  boys: Nam
-  girls: Nữ
+  leaderboards_for_hoc: "Bảng thành tích của the Hour of Code."
+  country: "Quốc gia"
+  city: "Thành phố"
+  gender: "Giới tính"
+  boys: "Nam"
+  girls: "Nữ"
   give_my_hour: "Give my Hour to:"
-  girls_team: Đội nữ
-  boys_team: Đội nam
-  tell_the_world: Tell the world!
-  share_on_facebook: Chia sẻ lên Facebook
-  share_on_twitter: Chia sẻ lên Twitter
+  girls_team: "Đội nữ"
+  boys_team: "Đội nam"
+  tell_the_world: "Tell the world!"
+  share_on_facebook: "Chia sẻ lên Facebook"
+  share_on_twitter: "Chia sẻ lên Twitter"

@@ -1,41 +1,41 @@
 "ar-SA":
-  hello: مرحبا بالعالم
-  computer_science: علوم الكومبيوتر
-  computer_science_edweek: الاسبوع التعليمي لعلوم الكومبيوتر
-  csedweek_dates: 9-15 كانون الأول/ديسمبر، عام 2013
+  hello: "مرحبا بالعالم"
+  computer_science: "علوم الكومبيوتر"
+  computer_science_edweek: "الاسبوع التعليمي لعلوم الكومبيوتر"
+  csedweek_dates: "9-15 كانون الأول/ديسمبر، عام 2013"
   n_have_learned_an_hoc: "# تعلمنا ساعة من كتابة  كود"
-  learn_now: تعلم الآن
-  petition_message: سجل اسمك اذا كنت تعتقد انه يجب اعطاء الفرصة لكل طالب في كل مدرسة لتعلم علوم الكومبيوتر
-  name: الاسم
-  email: البريد الإلكتروني
-  zipcode: الرمز البريدي أو اسم البلد
-  submit: تسجيل
-  view_english_site: عرض الموقع باللغة الإنكليزية
+  learn_now: "تعلم الآن"
+  petition_message: "سجل اسمك اذا كنت تعتقد انه يجب اعطاء الفرصة لكل طالب في كل مدرسة لتعلم علوم الكومبيوتر"
+  name: "الاسم"
+  email: "البريد الإلكتروني"
+  zipcode: "الرمز البريدي أو اسم البلد"
+  submit: "تسجيل"
+  view_english_site: "عرض الموقع باللغة الإنكليزية"
   non_english_tutorials: "دروس مترجمة إلى لغات مختلفة:"
-  write_your_first_program: اكتب برنامجك الاول
+  write_your_first_program: "اكتب برنامجك الاول"
   learn_cs_concepts: "تعلم المفاهيم الاساسية في علوم الكومبيوتر من خلال سحب و تركيب اوامر البرنامج. هذا الدرس عبارة عن فيديو من بطولة بيل غيتس، مارك زوكيربيررغ، ومن ثم لعبة Angry Birds و Plants vs. Zombies. ستتعلم تكرار الدوران repeat-loops  ، اداة الشرط  if-then، و الخوارزميات الاساسية."
-  all_ages: كل الاعمار
-  beginner: مبتدئ
+  all_ages: "كل الاعمار"
+  beginner: "مبتدئ"
   n_participants: "# المشاركين"
-  go: أذهب
-  thank_you_: شكرا لك!
-  congratulations: مبارك لك
-  congratulations_on_completing_hoc: مبارك لك على اكمالك 1 ساعة من البرمجة.
-  get_a_certificate_of_achievement: أحصل على شهادة الانجاز
-  enter_valid_email: الرجاء ادخال عنوان بريد الكتروني صالح
+  go: "أذهب"
+  thank_you_: "شكرا لك!"
+  congratulations: "مبارك لك"
+  congratulations_on_completing_hoc: "مبارك لك على اكمالك 1 ساعة من البرمجة."
+  get_a_certificate_of_achievement: "أحصل على شهادة الانجاز"
+  enter_valid_email: "الرجاء ادخال عنوان بريد الكتروني صالح"
   get_a_certificate_message: 'سنرسل لك شهادة ومعلومات عن كيفية <a>التعلم بعد برنامج "ساعة واحدة"</a>'
-  thanks_for_submitting_: شكرا لتسجيلك!
-  congratulations_: تهانينا!
+  thanks_for_submitting_: "شكرا لتسجيلك!"
+  congratulations_: "تهانينا!"
   beyond_hour_message: 'هنا المزيد من المعلومات حول كيفية <a>التعلم بعد برنامج "ساعة واحدة"</a>'
-  leaderboards_for_hoc: المتصدرين لبرنامج ساعة كود.
-  country: الدولة
-  city: المدينة
-  gender: الجنس
-  boys: الاولاد
-  girls: البنات
+  leaderboards_for_hoc: "المتصدرين لبرنامج ساعة كود."
+  country: "الدولة"
+  city: "المدينة"
+  gender: "الجنس"
+  boys: "الاولاد"
+  girls: "البنات"
   give_my_hour: "التبرع بساعتي لـ:"
-  girls_team: فريق البنات
-  boys_team: فريق الأولاد
+  girls_team: "فريق البنات"
+  boys_team: "فريق الأولاد"
   tell_the_world: "اخبر  العالم باسره!"
-  share_on_facebook: انشرها على الفيس بوك
-  share_on_twitter: انشرها على التويتر
+  share_on_facebook: "انشرها على الفيس بوك"
+  share_on_twitter: "انشرها على التويتر"

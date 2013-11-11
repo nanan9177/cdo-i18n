@@ -1,41 +1,41 @@
 "el-GR":
-  hello: Γεια σου κόσμε
-  computer_science: Επιστήμη Υπολογιστών
-  computer_science_edweek: Εβδομάδα Εκπαίδευσης στην Επιστήμη Υπολογιστών
-  csedweek_dates: 9-15 Δεκεμβρίου 2013
+  hello: "Γεια σου κόσμε"
+  computer_science: "Επιστήμη Υπολογιστών"
+  computer_science_edweek: "Εβδομάδα Εκπαίδευσης στην Επιστήμη Υπολογιστών"
+  csedweek_dates: "9-15 Δεκεμβρίου 2013"
   n_have_learned_an_hoc: "# έχουν μάθει μια ΩΡΑ ΚΩΔΙΚΑ"
-  learn_now: Μάθε τώρα
-  petition_message: Υπογράψτε με το όνομά σας αν θεωρείτε ότι κάθε μαθητής, σε κάθε σχολείο θα πρέπει να έχει την ευκαιρία να μάθει Επιστήμη Υπολογιστών
-  name: Όνομα
-  email: Ηλεκτρονικό ταχυδρομείο
-  zipcode: Ταχυδρομικός κώδικας (για κατοίκους Η.Π.Α) ή χώρα
-  submit: Υποβολή
-  view_english_site: Προβολή Αγγλικής σελίδας
+  learn_now: "Μάθε τώρα"
+  petition_message: "Υπογράψτε με το όνομά σας αν θεωρείτε ότι κάθε μαθητής, σε κάθε σχολείο θα πρέπει να έχει την ευκαιρία να μάθει Επιστήμη Υπολογιστών"
+  name: "Όνομα"
+  email: "Ηλεκτρονικό ταχυδρομείο"
+  zipcode: "Ταχυδρομικός κώδικας (για κατοίκους Η.Π.Α) ή χώρα"
+  submit: "Υποβολή"
+  view_english_site: "Προβολή Αγγλικής σελίδας"
   non_english_tutorials: "Μαθήματα μεταφρασμένα σε πολλές γλώσσες:"
-  write_your_first_program: Γράψε το πρώτο σου πρόγραμμα για υπολογιστή
-  learn_cs_concepts: Μάθε τις βασικές έννοιες της Επιστήμης Υπολογιστών με προγραμματισμό "πάρε-βάλε". Είναι ένα μάθημα σαν παιχνίδι όπου πρωταγωνιστούν βίντεο με διαλέξεις από τον Bill Gates, το Mark Zuckerberg, τα Angry Birds και τα Plants vs Zombies. Μάθε επαναλήψεις, εντολές εάν-τότε και βασικούς αλγορίθμους.
-  all_ages: Όλων των ηλικιών
-  beginner: Αρχάριος
+  write_your_first_program: "Γράψε το πρώτο σου πρόγραμμα για υπολογιστή"
+  learn_cs_concepts: "Μάθε τις βασικές έννοιες της Επιστήμης Υπολογιστών με προγραμματισμό \"πάρε-βάλε\". Είναι ένα μάθημα σαν παιχνίδι όπου πρωταγωνιστούν βίντεο με διαλέξεις από τον Bill Gates, το Mark Zuckerberg, τα Angry Birds και τα Plants vs Zombies. Μάθε επαναλήψεις, εντολές εάν-τότε και βασικούς αλγορίθμους."
+  all_ages: "Όλων των ηλικιών"
+  beginner: "Αρχάριος"
   n_participants: "# συμμετέχοντες"
-  go: Πάμε
-  thank_you_: Ευχαριστούμε!
-  congratulations: Συγχαρητήρια
-  congratulations_on_completing_hoc: Συγχαρητήρια για τη συμπλήρωση του "Μια ώρα κώδικα".
-  get_a_certificate_of_achievement: Πάρε πιστοποιητικό για το επίτευγμα
-  enter_valid_email: Παρακαλώ δώσε μια έγκυρη διεύθυνση email
+  go: "Πάμε"
+  thank_you_: "Ευχαριστούμε!"
+  congratulations: "Συγχαρητήρια"
+  congratulations_on_completing_hoc: "Συγχαρητήρια για τη συμπλήρωση του \"Μια ώρα κώδικα\"."
+  get_a_certificate_of_achievement: "Πάρε πιστοποιητικό για το επίτευγμα"
+  enter_valid_email: "Παρακαλώ δώσε μια έγκυρη διεύθυνση email"
   get_a_certificate_message: "Θα σου στείλουμε ένα πιστοποιητικό και πληροφορίες για το: <a>Μάθε προγραμματισμό για περισσότερο από μια ώρα</a>"
-  thanks_for_submitting_: Ευχαριστούμε για την υποβολή!
-  congratulations_: Συγχαρητήρια!
+  thanks_for_submitting_: "Ευχαριστούμε για την υποβολή!"
+  congratulations_: "Συγχαρητήρια!"
   beyond_hour_message: "Περισότερες πληροφορίες για το <a>Μάθε προγραμματισμό για περισσότερο από μια ώρα</a>"
-  leaderboards_for_hoc: Πίνακες με τις ψηλότερες βαθμολογίες για το "Μια Ώρα Κώδικα".
-  country: Χώρα
-  city: Πόλη
-  gender: Φύλο
-  boys: Αγόρια
-  girls: Κορίτσια
+  leaderboards_for_hoc: "Πίνακες με τις ψηλότερες βαθμολογίες για το \"Μια Ώρα Κώδικα\"."
+  country: "Χώρα"
+  city: "Πόλη"
+  gender: "Φύλο"
+  boys: "Αγόρια"
+  girls: "Κορίτσια"
   give_my_hour: "Καταχωρήστε την Ώρα μου στην:"
-  girls_team: Ομάδα των Κοριτσιών
-  boys_team: Ομάδα των αγοριών
-  tell_the_world: Ενημέρωσε τον κόσμο!
-  share_on_facebook: Μοιράσου το στο Facebook
-  share_on_twitter: Μοιράσου το στο Twitter
+  girls_team: "Ομάδα των Κοριτσιών"
+  boys_team: "Ομάδα των αγοριών"
+  tell_the_world: "Ενημέρωσε τον κόσμο!"
+  share_on_facebook: "Μοιράσου το στο Facebook"
+  share_on_twitter: "Μοιράσου το στο Twitter"

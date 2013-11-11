@@ -1,41 +1,41 @@
 "sr-SP":
-  hello: Поздрав свете
-  computer_science: Информатика
-  computer_science_edweek: Едукацијска седмица о информатици
-  csedweek_dates: Децембар 9-15, 2013
+  hello: "Поздрав свете"
+  computer_science: "Информатика"
+  computer_science_edweek: "Едукацијска седмица о информатици"
+  csedweek_dates: "Децембар 9-15, 2013"
   n_have_learned_an_hoc: "# сте научили САТ КОДИРАНЈА"
-  learn_now: Учите сада
-  petition_message: Упиши своје име ако мислиш да сваки студент у свакој школи треба да има прилику да уци программирати
-  name: Име
-  email: Емаил
-  zipcode: Поштански број
-  submit: Пошаљи
-  view_english_site: Погледав енглеску верзију
+  learn_now: "Учите сада"
+  petition_message: "Упиши своје име ако мислиш да сваки студент у свакој школи треба да има прилику да уци программирати"
+  name: "Име"
+  email: "Емаил"
+  zipcode: "Поштански број"
+  submit: "Пошаљи"
+  view_english_site: "Погледав енглеску верзију"
   non_english_tutorials: "Туторијали преведени на више језика:"
-  write_your_first_program: Напиши свој први компјутерски програм
+  write_your_first_program: "Напиши свој први компјутерски програм"
   learn_cs_concepts: "Научи основе компјутерског програмиранја са повуци и испусти програмиранјем. Ово је туторијал у облику игрице  у којем видео лекције дају Bill Gates, Mark Zuckerberg, Angry Birds and Plants vs. Zombies. Научи понавлјане петлје, ако-онда изјаве, и основне алгоритме."
-  all_ages: Сви узрасти
-  beginner: Почетник
+  all_ages: "Сви узрасти"
+  beginner: "Почетник"
   n_participants: "# учесници"
-  go: Иди
-  thank_you_: Хвала!
-  congratulations: Честитамо
-  congratulations_on_completing_hoc: Ћеститамо јер сте завршили 1 Сат Програмиранја.
-  get_a_certificate_of_achievement: Узмите сертификат о достигнућу
-  enter_valid_email: Молимо да унесете валидну емаил адресу
+  go: "Иди"
+  thank_you_: "Хвала!"
+  congratulations: "Честитамо"
+  congratulations_on_completing_hoc: "Ћеститамо јер сте завршили 1 Сат Програмиранја."
+  get_a_certificate_of_achievement: "Узмите сертификат о достигнућу"
+  enter_valid_email: "Молимо да унесете валидну емаил адресу"
   get_a_certificate_message: "Ми ћемо вам послати сертификат и информације о томе како да <а>Учите и поред Сата Програмиранја</а>"
-  thanks_for_submitting_: Хвала на датим информацијама!
-  congratulations_: Честитамо!
+  thanks_for_submitting_: "Хвала на датим информацијама!"
+  congratulations_: "Честитамо!"
   beyond_hour_message: "Још пар информација како да <а>Учиш поред Једног Сата Програмиранја</а>"
-  leaderboards_for_hoc: Лјествице за Сат Програмиранја.
-  country: Землја
-  city: Град
-  gender: Пол
-  boys: Момци
-  girls: Цуре
+  leaderboards_for_hoc: "Лјествице за Сат Програмиранја."
+  country: "Землја"
+  city: "Град"
+  gender: "Пол"
+  boys: "Момци"
+  girls: "Цуре"
   give_my_hour: "Дај мој сат следећем:"
-  girls_team: Женски тим
-  boys_team: Мушки тим
-  tell_the_world: Реци свима!
-  share_on_facebook: Подијели на Facebook-u
-  share_on_twitter: Подијели на Тwitteru
+  girls_team: "Женски тим"
+  boys_team: "Мушки тим"
+  tell_the_world: "Реци свима!"
+  share_on_facebook: "Подијели на Facebook-u"
+  share_on_twitter: "Подијели на Тwitteru"

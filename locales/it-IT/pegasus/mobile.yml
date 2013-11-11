@@ -1,41 +1,41 @@
 "it-IT":
-  hello: Ciao Mondo
-  computer_science: Informatica
+  hello: "Ciao Mondo"
+  computer_science: "Informatica"
   computer_science_edweek: "Settimana di Educazione dell'Informatica"
-  csedweek_dates: Dicembre 9-15, 2013
+  csedweek_dates: "Dicembre 9-15, 2013"
   n_have_learned_an_hoc: "# imparato un'ora di programmazione"
-  learn_now: Impara Adesso
+  learn_now: "Impara Adesso"
   petition_message: "Firma il tuo nome se pensi che ogni studente in tutte le scuole abbia l'opportunità ad imparare l'informatica"
-  name: Nome
-  email: Email
-  zipcode: Cap o paese
-  submit: Invia
-  view_english_site: Visualizza sito inglese
+  name: "Nome"
+  email: "Email"
+  zipcode: "Cap o paese"
+  submit: "Invia"
+  view_english_site: "Visualizza sito inglese"
   non_english_tutorials: "Tutorial tradotti in più lingue:"
-  write_your_first_program: Scrivi il tuo primo programma per computer
+  write_your_first_program: "Scrivi il tuo primo programma per computer"
   learn_cs_concepts: "Impara i concetti base dell'informatica con la programmazione trascina e rilascia. Questo è un tutorial del tipo-gioco interpretato da lezioni video di Bill Gates, Mark Zuckerberg, Angry Birds e Plants vs Zombies. Impara cicli di ripetizione, dichiarazioni se-allora  e algoritmi base."
-  all_ages: Tutte le età
-  beginner: Principiante
+  all_ages: "Tutte le età"
+  beginner: "Principiante"
   n_participants: "# participanti"
-  go: Via
-  thank_you_: Grazie!
-  congratulations: Congratulazioni
-  congratulations_on_completing_hoc: Congratulazioni per aver completato 1 ora di codice.
-  get_a_certificate_of_achievement: Ottieni un certificato di conseguimento
-  enter_valid_email: Per favore inserisci un indirizzo email valido
+  go: "Via"
+  thank_you_: "Grazie!"
+  congratulations: "Congratulazioni"
+  congratulations_on_completing_hoc: "Congratulazioni per aver completato 1 ora di codice."
+  get_a_certificate_of_achievement: "Ottieni un certificato di conseguimento"
+  enter_valid_email: "Per favore inserisci un indirizzo email valido"
   get_a_certificate_message: "Ti invieremo un certificato e informazioni sulle modalità per <a>Imparare oltre un'ora</a>"
-  thanks_for_submitting_: Grazie per la presentazione!
-  congratulations_: Congratulazioni!
+  thanks_for_submitting_: "Grazie per la presentazione!"
+  congratulations_: "Congratulazioni!"
   beyond_hour_message: "Ecco ulteriori informazioni su come <a>Imparare oltre un'ora</a>"
   leaderboards_for_hoc: "Classifiche per l'ora del codice."
-  country: Paese
-  city: Città
-  gender: Sesso
-  boys: Ragazzi
-  girls: Ragazze
+  country: "Paese"
+  city: "Città"
+  gender: "Sesso"
+  boys: "Ragazzi"
+  girls: "Ragazze"
   give_my_hour: "Dai la mia ora a:"
-  girls_team: Squadra delle ragazze
-  boys_team: Squadra dei ragazzi
-  tell_the_world: Di al mondo!
-  share_on_facebook: Condividi su Facebook
-  share_on_twitter: Condividi su Twitter
+  girls_team: "Squadra delle ragazze"
+  boys_team: "Squadra dei ragazzi"
+  tell_the_world: "Di al mondo!"
+  share_on_facebook: "Condividi su Facebook"
+  share_on_twitter: "Condividi su Twitter"

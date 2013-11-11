@@ -1,41 +1,41 @@
 "ro-RO":
-  hello: Salutare lume
-  computer_science: Informatică
-  computer_science_edweek: Săptămâna informaticii
-  csedweek_dates: 9-15 Decembrie 2013
+  hello: "Salutare lume"
+  computer_science: "Informatică"
+  computer_science_edweek: "Săptămâna informaticii"
+  csedweek_dates: "9-15 Decembrie 2013"
   n_have_learned_an_hoc: "# am invatat o ORA de CODARE"
-  learn_now: Învaţă acum
-  petition_message: Scrieţi-vă numele dacă voi credeţi că toţi elevii din toate şcolile ar trebui sa aibă oportunitatea sa înveţe informatica
-  name: Nume
-  email: E-mail
-  zipcode: Cod poştal sau ţară
-  submit: Trimite
-  view_english_site: Vezi site-ul englez
+  learn_now: "Învaţă acum"
+  petition_message: "Scrieţi-vă numele dacă voi credeţi că toţi elevii din toate şcolile ar trebui sa aibă oportunitatea sa înveţe informatica"
+  name: "Nume"
+  email: "E-mail"
+  zipcode: "Cod poştal sau ţară"
+  submit: "Trimite"
+  view_english_site: "Vezi site-ul englez"
   non_english_tutorials: "Tutoriale traduse în mai multe limbi:"
-  write_your_first_program: Scrie primul tău program pe calculator
-  learn_cs_concepts: Învăţaţi conceptele de bază ale informaticii folosind programarea de tip drag and drop. Acesta e un tutorial sub formă de joc, conţinând clipuri-video cu Bill Gates, Mark Zuckerberg, Angry Birds and Plants vs. Zombies. Învăţaţi buclele-repetare, declaraţiile de tip dacă-atunci şi algoritmi de bază.
-  all_ages: Toate vârstele
-  beginner: Începător
+  write_your_first_program: "Scrie primul tău program pe calculator"
+  learn_cs_concepts: "Învăţaţi conceptele de bază ale informaticii folosind programarea de tip drag and drop. Acesta e un tutorial sub formă de joc, conţinând clipuri-video cu Bill Gates, Mark Zuckerberg, Angry Birds and Plants vs. Zombies. Învăţaţi buclele-repetare, declaraţiile de tip dacă-atunci şi algoritmi de bază."
+  all_ages: "Toate vârstele"
+  beginner: "Începător"
   n_participants: "# (de) participanti"
-  go: Du-te
-  thank_you_: Mulţumesc!
-  congratulations: Felicitări
-  congratulations_on_completing_hoc: Felicitări pentru completarea 1 Hour of Code.
-  get_a_certificate_of_achievement: Obţineţi un certificat de realizare
-  enter_valid_email: Vă rugăm introduceţi o adresă de e-mail validă
+  go: "Du-te"
+  thank_you_: "Mulţumesc!"
+  congratulations: "Felicitări"
+  congratulations_on_completing_hoc: "Felicitări pentru completarea 1 Hour of Code."
+  get_a_certificate_of_achievement: "Obţineţi un certificat de realizare"
+  enter_valid_email: "Vă rugăm introduceţi o adresă de e-mail validă"
   get_a_certificate_message: "Îţi vom trimite un certificat şi informaţii despre cum să <a>Înveţi peste O Oră</a>"
-  thanks_for_submitting_: Vă mulţumim pentru depunere!
-  congratulations_: Felicitări!
+  thanks_for_submitting_: "Vă mulţumim pentru depunere!"
+  congratulations_: "Felicitări!"
   beyond_hour_message: "Aici este mai multă informaţie despre cum să <a>Înveţi peste O Oră</a>"
-  leaderboards_for_hoc: Clasamentele pentru Ora de Cod.
-  country: Ţară
-  city: Oraş
-  gender: Sex
-  boys: Băieţi
-  girls: Fete
+  leaderboards_for_hoc: "Clasamentele pentru Ora de Cod."
+  country: "Ţară"
+  city: "Oraş"
+  gender: "Sex"
+  boys: "Băieţi"
+  girls: "Fete"
   give_my_hour: "Dă Ora mea lui:"
-  girls_team: Echipa fetelor
-  boys_team: Echipa băieţilor
-  tell_the_world: Spune lumii!
-  share_on_facebook: Distribuie pe Facebook
-  share_on_twitter: Distribuie pe Twitter
+  girls_team: "Echipa fetelor"
+  boys_team: "Echipa băieţilor"
+  tell_the_world: "Spune lumii!"
+  share_on_facebook: "Distribuie pe Facebook"
+  share_on_twitter: "Distribuie pe Twitter"
