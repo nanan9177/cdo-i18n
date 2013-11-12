@@ -17,7 +17,7 @@
   "emptyBlocksErrorMsg":"Bloky \"Opakovat\" a \"Pokud\" musí mít v sobě další bloky, aby fungovaly.Ujisti se, že vložené bloky jsou skutečně uvitř daných bloků.",
   "finalStage":"Dobrá práce! Dokončil si poslední fázi.",
   "finalStageTrophies":"Dobrá práce! Dokončil si poslední fázi a vyhrál {numTrophies, plural, one {trofej} other {# trofejí}}.",
-  "generatedCodeInfo":"Bloky k tvému programu mohou být také reprezentovány v Javascriptu, v nejrozšířenějším programovacím jazyku:",
+  "generatedCodeInfo":"The blocks for your program can also be represented in JavaScript, the world's most widely adopted programming language:",
   "hashError":"Promiň, ale '%1' neodpovídá žádnému uloženému programu.",
   "help":"Pomoc",
   "hintTitle":"Tip:",
@@ -50,5 +50,6 @@
   "typeCode":"Zadej tvůj Javaskript kód pod tyto instrukce.",
   "typeFuncs":"Dostupné funkce:%1",
   "typeHint":"Všimni si, že jsou vyžadovány závorky a středníky.",
-  "workspaceHeader":"Sestav si zde tvé bloky: "
+  "workspaceHeader":"Sestav si zde tvé bloky: ",
+  "infinity":"Infinity"
 }

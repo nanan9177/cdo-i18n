@@ -17,7 +17,7 @@
   "emptyBlocksErrorMsg":"\"Gjenta\"- eller \"Hvis\"-blokken må ha andre blokker inne i seg for å fungere. Kontroller at den indre blokken sitter riktig på plass i blokken som er utenfor.",
   "finalStage":"Gratulerer! Du har fullført siste nivå.",
   "finalStageTrophies":"Gratulerer! Du har fullført siste nivå og vunnet {numTrophies, plural, one {ett trofé} other {# troféer}}.",
-  "generatedCodeInfo":"Blokkene for programmet ditt kan også representeres i JavaScript, et av verdens mest brukte programmeringsspråk:",
+  "generatedCodeInfo":"The blocks for your program can also be represented in JavaScript, the world's most widely adopted programming language:",
   "hashError":"Beklager, '%1' samsvarer ikke med noe lagret program.",
   "help":"Hjelp",
   "hintTitle":"Tips:",
@@ -50,5 +50,6 @@
   "typeCode":"Skriv din JavaScript-kode under disse instruksjonene.",
   "typeFuncs":"Tilgjengelige funksjoner: %1",
   "typeHint":"Legg merke til at paranteser og semikolon er nødvendig.",
-  "workspaceHeader":"Sett sammen dine blokker her: "
+  "workspaceHeader":"Sett sammen dine blokker her: ",
+  "infinity":"Infinity"
 }

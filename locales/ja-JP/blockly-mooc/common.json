@@ -17,7 +17,7 @@
   "emptyBlocksErrorMsg":"”Repeat”または\"If\"のブロックを動作をさせるためには内側に別のブロックが必要になります。内側のブロックが構成されているブロック 内に適切にはめ込まれているか確認をしてください。\n\n\n",
   "finalStage":"おめでとうございます ！最終ステージを完了しました。",
   "finalStageTrophies":"おめでとうございます ！最終ステージを完了したので  {numTrophies, plural, one {トロフィー} other {# トロフィー}}を獲得しました。",
-  "generatedCodeInfo":"The blocks for your program can also be represented in Javascript, the world's most widely adopted programming language:",
+  "generatedCodeInfo":"The blocks for your program can also be represented in JavaScript, the world's most widely adopted programming language:",
   "hashError":"Sorry, '%1' doesn't correspond with any saved program.",
   "help":"ヘルプ",
   "hintTitle":"ヒント:",
@@ -50,5 +50,6 @@
   "typeCode":"Type your JavaScript code below these instructions.",
   "typeFuncs":"Available functions:%1",
   "typeHint":"Note that the parentheses and semicolons are required.",
-  "workspaceHeader":"Assemble your blocks here: "
+  "workspaceHeader":"Assemble your blocks here: ",
+  "infinity":"Infinity"
 }

@@ -17,7 +17,7 @@
   "emptyBlocksErrorMsg":"بلوک های \"تکرار Repeat\" یا \"شرطی If \" برای کار کردن نیاز به بلوکهایی در داخل خود دارند.  اطمینان حاصل کنید که بلوک داخلی دارای تعریف درست بوده و در جای درستی از بلوک اصلی قرار گرفته است.",
   "finalStage":"تبریک ! شما مرحلهٔ نهایی را به اتمام رسانده اید.",
   "finalStageTrophies":"تبریک! شما مرحلهٔ نهایی را به پایان رساندید و برنده {{جوایز#} Other {یک جایزه} numTrophies, plural, one} شدید.",
-  "generatedCodeInfo":"بلوک های برنامه شما میتوانند در جاوا اسکریپت که مقبول ترین و فراگیرترین زبان برنامه نویسی در جهان است نیز به نمایش درآیند:",
+  "generatedCodeInfo":"The blocks for your program can also be represented in JavaScript, the world's most widely adopted programming language:",
   "hashError":"متاسفیم ! '1%' با هیچ کدام از برنامه های ذخیره شده مطابقت ندارد.",
   "help":"راهنما",
   "hintTitle":"نکته:",
@@ -50,5 +50,6 @@
   "typeCode":"در زیر این دستورات کد جاوا اسکریپتِ خودت رو بنویس.",
   "typeFuncs":"توابع قابل استفاده: %1",
   "typeHint":"توجه کن که علامت‌های پرانتز و نقطه‌ویرگول لازم هستن.",
-  "workspaceHeader":"بلوک‌های خودت رو اینجا سرهم کن: "
+  "workspaceHeader":"بلوک‌های خودت رو اینجا سرهم کن: ",
+  "infinity":"Infinity"
 }

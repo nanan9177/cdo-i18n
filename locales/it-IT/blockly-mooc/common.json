@@ -17,13 +17,13 @@
   "emptyBlocksErrorMsg":"Il blocco \"Repeat\" o \"If\" deve avere all'interno altri blocchi per poter funzionare. Assicurati che i blocchi interni siano inseriti correttamente all'interno del blocco principale.",
   "finalStage":"Complimenti! Hai completato la fase finale.",
   "finalStageTrophies":"Complimenti! Avete completato la fase finale e vinto {numTrophies, plural, one {un trofeo} other {# trofei}}.",
-  "generatedCodeInfo":"I blocchi per il tuo programma possono anche essere rappresentati in Javascript, il linguaggio di programmazione più usato al mondo:",
+  "generatedCodeInfo":"The blocks for your program can also be represented in JavaScript, the world's most widely adopted programming language:",
   "hashError":"Siamo spiacenti, '%1' non corrisponde a nessun programma salvato.",
   "help":"Aiuto",
   "hintTitle":"Suggerimento:",
   "levelIncompleteError":"Stai usando tutti i tipi di blocchi necessari, ma non nel modo giusto.",
   "listVariable":"lista",
-  "missingBlocksErrorMsg":"prova uno o più dei blocchi qui sotto per risolvere questo puzzle.",
+  "missingBlocksErrorMsg":"Prova uno o più dei blocchi qui sotto per risolvere questo puzzle.",
   "nextLevel":"Complimenti! Hai completato il puzzle {puzzleNumber}.",
   "nextLevelTrophies":"Complimenti! Hai completato il Puzzle {puzzleNumber} e vinto {numTrophies, plural, one {un trofeo} other {# trofei}}.",
   "nextStage":"Complimenti! Hai completato il livello {stageNumber}.",
@@ -50,5 +50,6 @@
   "typeCode":"Digitare il tuo codice JavaScript di seguito a queste istruzioni.",
   "typeFuncs":"Funzioni disponibili: %1",
   "typeHint":"Sono necessarie le parentesi e i punto e virgola.",
-  "workspaceHeader":"Assembla i tuoi blocchi qui: "
+  "workspaceHeader":"Assembla i tuoi blocchi qui: ",
+  "infinity":"Infinity"
 }

@@ -17,7 +17,7 @@
   "emptyBlocksErrorMsg":"Blok \"Powtórz\" lub \"Jeśli\" musi zawierać inne bloki w środku, by poprawnie działać. Upewnij się, czy wewnętrzny blok pasuje do zewnętrznego.",
   "finalStage":"Gratulacje! Ukończyłeś ostatni etap.",
   "finalStageTrophies":"Gratulacje! Ukończyłeś ostatni etap i wygrałeś {numTrophies, plural, one {trofeum} other {# trofea}}.",
-  "generatedCodeInfo":"Bloki w Twoim programie mogą być również przedstawione w Javascripcie, najbardziej powszechnym języku programowania na świecie:",
+  "generatedCodeInfo":"The blocks for your program can also be represented in JavaScript, the world's most widely adopted programming language:",
   "hashError":"Przepraszamy, '%1' nie odpowiada żadnemu zapisanemu programowi.",
   "help":"Pomoc",
   "hintTitle":"Podpowiedź:",
@@ -50,5 +50,6 @@
   "typeCode":"Type your JavaScript code below these instructions.",
   "typeFuncs":"Dostępne funkcje:%1",
   "typeHint":"Zauważ, że nawiasy i średniki są wymagane.",
-  "workspaceHeader":"Assemble your blocks here: "
+  "workspaceHeader":"Assemble your blocks here: ",
+  "infinity":"Infinity"
 }

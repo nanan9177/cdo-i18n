@@ -17,7 +17,7 @@
   "emptyBlocksErrorMsg":"\"Upprepa\" eller \"Om\" blocken måste ha andra block inuti sig för att fungera. Se till att det inre blocket sitter rätt inuti blocket.",
   "finalStage":"Grattis! Du har slutfört den sista nivån.",
   "finalStageTrophies":"Grattis! Du har slutfört den sista nivån och vann {numTrophies, plural, en {en trofé} other {# troféer}}.",
-  "generatedCodeInfo":"Blocken i ditt program kan också skrivas i Javascript, världens mest använda programmeringsspråk:",
+  "generatedCodeInfo":"The blocks for your program can also be represented in JavaScript, the world's most widely adopted programming language:",
   "hashError":"Tyvärr, '%1' finns inte bland dina sparade program.",
   "help":"Hjälp",
   "hintTitle":"Tips:",
@@ -50,5 +50,6 @@
   "typeCode":"Skriv din JavaScript-kod under instruktionerna.",
   "typeFuncs":"Tillgängliga funktioner:%1",
   "typeHint":"Observera att parenteserna och semikolonen är obligatoriska.",
-  "workspaceHeader":"Sätt ihop dina block här: "
+  "workspaceHeader":"Sätt ihop dina block här: ",
+  "infinity":"Infinity"
 }

@@ -17,7 +17,7 @@
   "emptyBlocksErrorMsg":"\"Repeat\" или  \"If\" блок мора имати још један блок у себи како би функционисао. Постарајте се да је унутрашнји блок правилно убачен у ванјски блок.",
   "finalStage":"Честитамо! Завршили сте последнју етапу.",
   "finalStageTrophies":"Ћеститамо! Завршили сте последнју етапу и освојили  {numTrophies, plural, one {a trophy} other {# trophies}}.",
-  "generatedCodeInfo":"Блокови за ваш програм се могу представити и у  Javascript, Једном од највише кориштених програма за програмиранје у свету:",
+  "generatedCodeInfo":"The blocks for your program can also be represented in JavaScript, the world's most widely adopted programming language:",
   "hashError":"Жао нам је, '%1' не одговара ни једном сачуваном програму.",
   "help":"Помоћ",
   "hintTitle":"Предлог:",
@@ -50,5 +50,6 @@
   "typeCode":"Откуцајте ваш JavaScript код испод ових инструкција.",
   "typeFuncs":"Доступне функције:%1",
   "typeHint":"Неопходне су заграде и тачка-зарези.",
-  "workspaceHeader":"Скупи своје блокове овде: "
+  "workspaceHeader":"Скупи своје блокове овде: ",
+  "infinity":"Infinity"
 }

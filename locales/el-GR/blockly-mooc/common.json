@@ -17,7 +17,7 @@
   "emptyBlocksErrorMsg":"Το μπλοκ του \"Repeat\" ή του \"If\" πρέπει να περιέχει άλλα μπλοκ για να δουλέψει. Σιγουρέψου ότι το εσωτερικό μπλοκ ταιριάζει μέσα στο απ' έξω.",
   "finalStage":"Συγχαρητήρια! τέλειωσες το τελικό στάδιο.",
   "finalStageTrophies":"Συγχαρητήρια! Τέλειωσες το τελευταίο στάδιο και κέρδισες {numTrophies, plural, one {τρόπαιο} other {# τράπαια}}.",
-  "generatedCodeInfo":"Τα μπλοκ στο πρόγραμμά σου μπορούν να παρουσιαστούν και σε Javascript, την πιο διαδεδομένη γλώσσα προγραμματισμού παγκοσμίως:",
+  "generatedCodeInfo":"The blocks for your program can also be represented in JavaScript, the world's most widely adopted programming language:",
   "hashError":"Συγνώμη, το '%1' δεν αντιστοιχεί με αποθηκευμένο πρόγραμμα.",
   "help":"Βοήθεια",
   "hintTitle":"Υπόδειξη:",
@@ -50,5 +50,6 @@
   "typeCode":"Γράψε το δικό σου κώδικα JavaScript κάτω από αυτές τις οδηγίες.",
   "typeFuncs":"Διαθέσιμες συναρτήσεις: %1",
   "typeHint":"Σημείωσε ότι οι παρενθέσεις και ερωτηματικά είναι υποχρεωτικά.",
-  "workspaceHeader":"Συναρμολόγησε τα μπλοκ σου εδώ: "
+  "workspaceHeader":"Συναρμολόγησε τα μπλοκ σου εδώ: ",
+  "infinity":"Infinity"
 }

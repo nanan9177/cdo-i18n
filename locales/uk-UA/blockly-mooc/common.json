@@ -17,7 +17,7 @@
   "emptyBlocksErrorMsg":"Блоки \"Повтори\" та \"Якщо\" повинні містити інші блоки. Переконайтесь, що внутрішній блок належно розміщений всередині зовнішнього.",
   "finalStage":"Вітання! Завершено останній етап.",
   "finalStageTrophies":"Вітання! Ви завершили останній етап і виграли {numTrophies, plural, one {a trophy} other {# trophies}}.",
-  "generatedCodeInfo":"Блоки програми можна представити мовою Javascript, яка є найбільш поширеною мовою програмування у світі:",
+  "generatedCodeInfo":"The blocks for your program can also be represented in JavaScript, the world's most widely adopted programming language:",
   "hashError":"Шкода, але  '%1' не відповідає жодній збереженій програмі.",
   "help":"Допомога",
   "hintTitle":"Підказка:",
@@ -50,5 +50,6 @@
   "typeCode":"Запишіть нижче свій код JavaScript згідно із вказівками.",
   "typeFuncs":"Доступні функції: %1",
   "typeHint":"Зверніть увагу: потрібні дужки та крапки з комою.",
-  "workspaceHeader":"Збирайте свої блоки тут: "
+  "workspaceHeader":"Збирайте свої блоки тут: ",
+  "infinity":"Infinity"
 }

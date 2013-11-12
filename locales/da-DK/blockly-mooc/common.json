@@ -17,7 +17,7 @@
   "emptyBlocksErrorMsg":"\"Gentag\" eller \"Hvis\" blokkene skal have andre blokke inde i for at virke. Kontroller, at den indre blok passer ordentligt inde i blokken.",
   "finalStage":"Tillykke! Du har fuldført den sidste fase.",
   "finalStageTrophies":"Tillykke! Du har afsluttet det sidste trin og vundet {numTrophies, plural, one {et trofæ} other {# trofæer}}.",
-  "generatedCodeInfo":"Blokkene til dit program kan også være repræsenteret i Javascript, verdens mest udbredt programmeringssprog:",
+  "generatedCodeInfo":"The blocks for your program can also be represented in JavaScript, the world's most widely adopted programming language:",
   "hashError":"Beklager, '%1' svarer ikke til noget gemt program.",
   "help":"Hjælp",
   "hintTitle":"Tip:",
@@ -50,5 +50,6 @@
   "typeCode":"Skriv din JavaScript kode under disse instruktioner.",
   "typeFuncs":"Tilgængelige funktioner: %1",
   "typeHint":"Bemærk, at parenteser og semikoloner er påkrævet.",
-  "workspaceHeader":"Saml dine blokke her: "
+  "workspaceHeader":"Saml dine blokke her: ",
+  "infinity":"Infinity"
 }

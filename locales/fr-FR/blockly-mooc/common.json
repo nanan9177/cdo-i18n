@@ -17,7 +17,7 @@
   "emptyBlocksErrorMsg":"Le bloc « Répéter » ou «Si» doit avoir des autres blocs à l'intérieur pour fonctionner. Assurez-vous que le bloc interne s'adapte correctement à l'intérieur du bloc conteneur.",
   "finalStage":"Félicitations ! Vous avez terminé l'étape finale.",
   "finalStageTrophies":"Félicitations ! Vous avez terminé l'étape finale et gagné {numTrophies, plural, one {un trophée} other {# des trophées}}.",
-  "generatedCodeInfo":"Les blocs pour votre programme peuvent également être représentés dans Javascript, le langage de programmation le plus largement adopté du monde :",
+  "generatedCodeInfo":"The blocks for your program can also be represented in JavaScript, the world's most widely adopted programming language:",
   "hashError":"Désolé, '%1' ne correspond avec aucun programme enregistré.",
   "help":"À l'aide",
   "hintTitle":"Indice :",
@@ -50,5 +50,6 @@
   "typeCode":"Tapez votre code JavaScript en dessous de ces instructions.",
   "typeFuncs":"Fonctions disponibles:%1",
   "typeHint":"Notez que les parenthèses et les point-virgules sont nécessaires.",
-  "workspaceHeader":"Assemblez vos blocs ici : "
+  "workspaceHeader":"Assemblez vos blocs ici : ",
+  "infinity":"Infinity"
 }

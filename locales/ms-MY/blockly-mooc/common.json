@@ -17,7 +17,7 @@
   "emptyBlocksErrorMsg":"\"Ulangan\" atau \"Jika\" blok perlu mempunyai blok lain di dalamnya untuk berfungsi. Pastikan blok dalaman sesuai di dalam kandungan blok.",
   "finalStage":"Tahniah! Anda telah melengkapkan peringkat akhir.",
   "finalStageTrophies":"Tahniah! Anda telah selesai peringkat akhir dan memenangi {numTrophies, plural, one {a trophy} lain  {# trophies}}.",
-  "generatedCodeInfo":"Blok-blok untuk program anda juga boleh diwakili dalam Javascript, bahasa pengaturcaraan yang digunapakai secara meluas diseluruh dunia:",
+  "generatedCodeInfo":"The blocks for your program can also be represented in JavaScript, the world's most widely adopted programming language:",
   "hashError":"Maaf, '%1' tidak sepadan dengan sebarang atur cara yang disimpan.",
   "help":"Bantu",
   "hintTitle":"Petunjuk:",
@@ -50,5 +50,6 @@
   "typeCode":"Taip kod JavaScript anda di bawah arahan ini.",
   "typeFuncs":"fungsi sedia ada:%1",
   "typeHint":"Ambil perhatian bahawa kurungan dan koma bertindih adalah perlu.",
-  "workspaceHeader":"Pasang blok anda di sini: "
+  "workspaceHeader":"Pasang blok anda di sini: ",
+  "infinity":"Infinity"
 }

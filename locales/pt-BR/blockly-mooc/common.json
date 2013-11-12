@@ -17,7 +17,7 @@
   "emptyBlocksErrorMsg":"Os blocos \"Repetir\"ou \"Se\" precisam conter outros blocos para funcionar. Tenha certeza de que o bloco de dentro se ajusta corretamente ao bloco principal.",
   "finalStage":"Parabéns! Você concluiu a etapa final.",
   "finalStageTrophies":"Parabéns! Você concluiu a fase final e ganhou {numTrophies, plural, one {um troféu} other {# troféus}}.",
-  "generatedCodeInfo":"Os blocos para o seu programa também podem ser representados em Javascript, a linguagem de programação mais adotada no mundo:",
+  "generatedCodeInfo":"The blocks for your program can also be represented in JavaScript, the world's most widely adopted programming language:",
   "hashError":"Desculpe, nenhum programa salvo como '%1'.",
   "help":"Ajuda",
   "hintTitle":"Dica:",
@@ -50,5 +50,6 @@
   "typeCode":"Digite seu código JavaScript abaixo destas instruções.",
   "typeFuncs":"Funções disponíveis: %1",
   "typeHint":"Observe que os parênteses e ponto e vírgula são necessários.",
-  "workspaceHeader":"Monte seus blocos aqui: "
+  "workspaceHeader":"Monte seus blocos aqui: ",
+  "infinity":"Infinity"
 }

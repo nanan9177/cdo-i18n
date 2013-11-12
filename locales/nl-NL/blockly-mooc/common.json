@@ -17,7 +17,7 @@
   "emptyBlocksErrorMsg":"De \"herhaal\" of \"als\" blokken hebben andere blokken in hun nodig om te werken. Zorg ervoor dat de binnenste blok correct past in de bevattende blok.",
   "finalStage":"Gefeliciteerd! U hebt de laatste fase voltooid.",
   "finalStageTrophies":"Gefeliciteerd! U hebt de laatste fase voltooid en won {numTrophies, plural, one {een trofee} other {# trofeeën}}.",
-  "generatedCodeInfo":"De blokken voor uw programma kunnen ook worden weergegeven in Javascript,'s werelds meest aangenomen programmeertaal:",
+  "generatedCodeInfo":"The blocks for your program can also be represented in JavaScript, the world's most widely adopted programming language:",
   "hashError":"Sorry, '%1' komt niet overeen met een opgeslagen programma.",
   "help":"Help",
   "hintTitle":"Tip:",
@@ -50,5 +50,6 @@
   "typeCode":"Typ jouw JavaScript-code onder deze instructies.",
   "typeFuncs":"Beschikbare functies: %1",
   "typeHint":"Merk op dat de haakjes en puntkomma's vereist zijn.",
-  "workspaceHeader":"Zet je blokken hier in elkaar:"
+  "workspaceHeader":"Zet je blokken hier in elkaar:",
+  "infinity":"Infinity"
 }

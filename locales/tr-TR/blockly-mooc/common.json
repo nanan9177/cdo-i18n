@@ -17,7 +17,7 @@
   "emptyBlocksErrorMsg":"\"Tekrar\" bloğu veya \"Eğer\" bloğunun çalışması için  içerisinde bir başka blok yer almalıdır. İçteki bloğu, dış blok içerisine yerleştirdiğine emin ol.",
   "finalStage":"Son aşamayı bitirdiniz. Tebrikler!",
   "finalStageTrophies":"Tebrikler! Son aşamayı bitirerek {numTrophies, plural, one {bir ganimet} other {# ganimet}} kazandınız.",
-  "generatedCodeInfo":"Programınızın blokları Javascript ile gösterilebilir, Javascript dünyanın en yaygın kabul edilen proglamlama dilidir:",
+  "generatedCodeInfo":"The blocks for your program can also be represented in JavaScript, the world's most widely adopted programming language:",
   "hashError":"Üzgünüz, '%1' kayıtlı herhangi bir programa karşılık gelmez.",
   "help":"Yardım",
   "hintTitle":"İpucu:",
@@ -50,5 +50,6 @@
   "typeCode":"Açıklamaların altına kendi JavaScript kodunu yaz.",
   "typeFuncs":"Uygun fonksiyon:%1",
   "typeHint":"Parantezlerin ve noktalı virgüllerin gerekli olduğuna dikkat et.",
-  "workspaceHeader":"Bloklarını burda topla: "
+  "workspaceHeader":"Bloklarını burda topla: ",
+  "infinity":"Infinity"
 }
