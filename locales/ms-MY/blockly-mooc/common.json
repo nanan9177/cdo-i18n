@@ -43,12 +43,12 @@
   "tooFewBlocksMsg":"Anda menggunakan semua jenis blok yang diperlukan, cuba gunakan lebih banyak jenis blok untuk menyelesaikan puzzle ini.",
   "tooManyBlocksMsg":"Puzzle ini dapat diselesaikan dengan <x id='START_SPAN'\/><x id='END_SPAN'\/> blok.",
   "tooMuchWork":"Anda membuatkan saya melakukan banyak kerja! Bolehkah anda cuba ulang beberapa kali sahaja?",
-  "toolboxHeader":"Blocks",
-  "totalNumLinesOfCodeWritten":"All-time total: {numLines, plural, one {1 line} other {# lines}} of code.",
-  "tryAgain":"Try again",
-  "backToPreviousLevel":"Back to previous level",
-  "typeCode":"Type your JavaScript code below these instructions.",
-  "typeFuncs":"Available functions:%1",
-  "typeHint":"Note that the parentheses and semicolons are required.",
-  "workspaceHeader":"Assemble your blocks here: "
+  "toolboxHeader":"blok",
+  "totalNumLinesOfCodeWritten":"Total masa keseluruhan: {numLines, plural, one {1 line} lain {# lines}} kod.",
+  "tryAgain":"Cuba lagi",
+  "backToPreviousLevel":"Kembali ke tahap yang sebelumnya",
+  "typeCode":"Taip kod JavaScript anda di bawah arahan ini.",
+  "typeFuncs":"fungsi sedia ada:%1",
+  "typeHint":"Ambil perhatian bahawa kurungan dan koma bertindih adalah perlu.",
+  "workspaceHeader":"Pasang blok anda di sini: "
 }

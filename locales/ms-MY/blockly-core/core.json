@@ -131,7 +131,7 @@
   "LISTS_SET_INDEX_TOOLTIP_INSERT_LAST":"Tambahkan item dalam senarai akhir.",
   "LISTS_SET_INDEX_TOOLTIP_INSERT_RANDOM":"Selit item secara rawak di dalam senarai.",
   "LISTS_SET_INDEX_TOOLTIP_SET_FIRST":"Set item pertama dalam senarai.",
-  "LISTS_SET_INDEX_TOOLTIP_SET_FROM_END":"Sets the item at the specified position in a list.  #1 is the last item.",
+  "LISTS_SET_INDEX_TOOLTIP_SET_FROM_END":"Masukkan item pada posisi yang ditentukan dalam senarai. #1 ialah item terakhir.",
   "LISTS_SET_INDEX_TOOLTIP_SET_FROM_START":"Sets the item at the specified position in a list.  #1 is the first item.",
   "LISTS_SET_INDEX_TOOLTIP_SET_LAST":"Sets the last item in a list.",
   "LISTS_SET_INDEX_TOOLTIP_SET_RANDOM":"Sets a random item in a list.",

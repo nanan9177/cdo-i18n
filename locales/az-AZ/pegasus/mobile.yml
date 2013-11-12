@@ -13,7 +13,7 @@
   view_english_site: "İngiliscə saytı göstər"
   non_english_tutorials: "Bir neçə dilə tərcümə olunmuş dərsliklər:"
   write_your_first_program: "İlk kompüter proqramınızı yazın"
-  learn_cs_concepts: "İnfromatikanın təməl anlayışlarını sürüklə-burax tipli proqramlaşdırma ilə öyrənin. Bu oyuna bənzər dərslikdə Bil Qeyts və Mark Tsukerberqin video mühazirələri, \"Angry Birds\" və \"Plants vs. Zombies\" yer alır. \"Təkrar et\" dövrləri, \"əgər-onda\" ifadələrini və sadə alqoritmləri öyrənin."
+  learn_cs_concepts: 'İnfromatikanın təməl anlayışlarını sürüklə-burax tipli proqramlaşdırma ilə öyrənin. Bu oyuna bənzər dərslikdə Bil Qeyts və Mark Tsukerberqin video mühazirələri, "Angry Birds" və "Plants vs. Zombies" yer alır. "Təkrar et" dövrləri, "əgər-onda" ifadələrini və sadə alqoritmləri öyrənin.'
   all_ages: "Bütün yaşlar"
   beginner: "Yeni başlayan"
   n_participants: "# iştirakçı"
@@ -37,5 +37,5 @@
   girls_team: "Qızlar komandası"
   boys_team: "Oğlanlar komandası"
   tell_the_world: "Dünyaya xəbər verin!"
-  share_on_facebook: "\"Feysbuk\"da bölüşün"
-  share_on_twitter: "\"Tvitter\"də bölüşün"
+  share_on_facebook: '"Feysbuk"da bölüşün'
+  share_on_twitter: '"Tvitter"də bölüşün'
