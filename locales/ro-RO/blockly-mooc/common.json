@@ -17,7 +17,7 @@
   "emptyBlocksErrorMsg":"Blocul \"Repeat\" sau \"dacă\" necesită alte blocuri în interiorul său  pentru a putea funcționa. Asigură-te că blocul interior se încadrează corect în blocul care îl conține.",
   "finalStage":"Felicitări! Aţi terminat ultima etapă.",
   "finalStageTrophies":"Felicitări! Aţi terminat etapa finală şi aţi câştigat {numTrophies, plural, one {un trofeu} other {# trofee}}.",
-  "generatedCodeInfo":"The blocks for your program can also be represented in JavaScript, the world's most widely adopted programming language:",
+  "generatedCodeInfo":"Blocurile pentru programul tău poate fi, de asemenea, reprezentate în Javascript, unul dintre cele mai utilizate limbaje de programare:",
   "hashError":"Ne pare rau, '%1' nu corespunde cu niciun program salvat.",
   "help":"Ajutor",
   "hintTitle":"Sugestie:",
@@ -51,5 +51,5 @@
   "typeFuncs":"Funcţii disponibile: %1",
   "typeHint":"Reţine că parantezele şi punct şi virgulă sunt absolut necesare.",
   "workspaceHeader":"Asamblează-ţi blocurile aici: ",
-  "infinity":"Infinity"
+  "infinity":"Infinit"
 }

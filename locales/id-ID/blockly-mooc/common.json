@@ -17,7 +17,7 @@
   "emptyBlocksErrorMsg":"Blok \"Ulangi\" atau blok \"Jika\" membutuhkan blok lain di dalamnya untuk bekerja. Pastikan blok didalamnya cocok dengan benar dalam blok yang diluar.",
   "finalStage":"Selamat! Anda telah menyelesaikan tahap akhir.",
   "finalStageTrophies":"Selamat! Anda telah menyelesaikan tahap akhir dan memenangkan {numTrophies, jamak, satu {Piala} {Piala #} lain}.",
-  "generatedCodeInfo":"The blocks for your program can also be represented in JavaScript, the world's most widely adopted programming language:",
+  "generatedCodeInfo":"Blok-blok yang digunakan untuk program Anda dapat juga dibuat menggunakan Javascript, bahasa yang paling banyak digunakan didalam pemrograman:",
   "hashError":"Maaf, '%1' tidak sesuai dengan program yang disimpan.",
   "help":"Tolong",
   "hintTitle":"Petunjuk:",
@@ -51,5 +51,5 @@
   "typeFuncs":"Tersedia fungsi: %1",
   "typeHint":"Perhatikan bahwa tanda kurung dan titik koma diperlukan.",
   "workspaceHeader":"Merakit blok Anda di sini: ",
-  "infinity":"Infinity"
+  "infinity":"Tak terhingga"
 }

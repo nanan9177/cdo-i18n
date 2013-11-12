@@ -17,7 +17,7 @@
   "emptyBlocksErrorMsg":"Блокам \"Repeat\" или \"If\" необходимо иметь внутри другие блоки для работы. Удостоверьтесь в том, что внутренний блок должным образом подходит под блок в котором он содержится.",
   "finalStage":"Наши поздравления! Вы завершили последний этап.",
   "finalStageTrophies":"Наши поздравления! Вы завершили последний этап и выиграли {numTrophies, plural, one {трофей} other {# трофеи}}.",
-  "generatedCodeInfo":"The blocks for your program can also be represented in JavaScript, the world's most widely adopted programming language:",
+  "generatedCodeInfo":"Блоки для вашей программы также могут быть представлены на JavaScript, наиболее прижившемся языке программирования в мире:",
   "hashError":"Просим прощения, '%1' не соответствует какой либо сохраненной программе.",
   "help":"Справка",
   "hintTitle":"Подсказка:",
@@ -51,5 +51,5 @@
   "typeFuncs":"Доступные функции:%1",
   "typeHint":"Обратите внимание на то, что требуются круглые скобки и точки с запятой.",
   "workspaceHeader":"Соберите ваши блоки здесь: ",
-  "infinity":"Infinity"
+  "infinity":"Бесконечный"
 }

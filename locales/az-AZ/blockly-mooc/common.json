@@ -1,7 +1,7 @@
 {
   "blocklyMessage":"Blockly",
   "catActions":"Actions",
-  "catColour":"Colour",
+  "catColour":"Rəng",
   "catCondition":"Conditionals",
   "catLists":"Lists",
   "catLogic":"Logic",
@@ -51,5 +51,5 @@
   "typeFuncs":"Available functions:%1",
   "typeHint":"Note that the parentheses and semicolons are required.",
   "workspaceHeader":"Assemble your blocks here: ",
-  "infinity":"Infinity"
+  "infinity":"Sonsuzluq"
 }
