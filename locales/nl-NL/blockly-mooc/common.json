@@ -51,5 +51,7 @@
   "typeFuncs":"Beschikbare functies: %1",
   "typeHint":"Merk op dat de haakjes en puntkomma's vereist zijn.",
   "workspaceHeader":"Zet je blokken hier in elkaar:",
-  "infinity":"Infinity"
+  "infinity":"Infinity",
+  "rotateText":"Rotate your device.",
+  "orientationLock":"Turn off orientation lock in device settings."
 }

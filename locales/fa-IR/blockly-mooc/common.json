@@ -16,7 +16,7 @@
   "dialogOK":"Ok",
   "emptyBlocksErrorMsg":"بلوک های \"تکرار Repeat\" یا \"شرطی If \" برای کار کردن نیاز به بلوکهایی در داخل خود دارند.  اطمینان حاصل کنید که بلوک داخلی دارای تعریف درست بوده و در جای درستی از بلوک اصلی قرار گرفته است.",
   "finalStage":"تبریک ! شما مرحلهٔ نهایی را به اتمام رسانده اید.",
-  "finalStageTrophies":"تبریک! شما مرحلهٔ نهایی را به پایان رساندید و برنده {{جوایز#} Other {یک جایزه} numTrophies, plural, one} شدید.",
+  "finalStageTrophies":"تبریک! شما مرحلهٔ نهایی را به پایان رساندید و برنده {{جوایز#} other {یک جایزه} numTrophies, plural, one} شدید.",
   "generatedCodeInfo":"The blocks for your program can also be represented in JavaScript, the world's most widely adopted programming language:",
   "hashError":"متاسفیم ! '1%' با هیچ کدام از برنامه های ذخیره شده مطابقت ندارد.",
   "help":"راهنما",
@@ -25,7 +25,7 @@
   "listVariable":"لیست",
   "missingBlocksErrorMsg":"برای حل این معما از یکی یا بیشتر از یکی از بلوک های زیر استفاده کنید.",
   "nextLevel":"تبریک ! شما پازل {puzzleNumber} را به پایان رساندید.",
-  "nextLevelTrophies":"تبریک! شما پازل {puzzleNumber} را به پایان رساندید و برنده {{جوایز#} Other {یک جایزه} numTrophies, plural, one} شدید.",
+  "nextLevelTrophies":"تبریک! شما پازل {puzzleNumber} را به پایان رساندید و برنده {{جوایز#} other {یک جایزه} numTrophies, plural, one} شدید.",
   "nextStage":"تبریک! شما مرحله {stageNumber}را به پایان رساندید.",
   "nextStageTrophies":"تبریک ! شما مرحله {stageNumber} را به پایان رساندید و برنده {{جوایز#} Other {یک جایزه} numTrophies, plural, one} شدید.",
   "numBlocksNeeded":"تبریک میگویم! شما پازل {puzzleNumber} را به پایان رساندید. ( با این حال، شما میتوانستید تنها \n{{بلوکها#} other {یک بلوک} numBlocks, plural, one} \nرا استفاده نمایید.)",
@@ -51,5 +51,7 @@
   "typeFuncs":"توابع قابل استفاده: %1",
   "typeHint":"توجه کن که علامت‌های پرانتز و نقطه‌ویرگول لازم هستن.",
   "workspaceHeader":"بلوک‌های خودت رو اینجا سرهم کن: ",
-  "infinity":"Infinity"
+  "infinity":"Infinity",
+  "rotateText":"Rotate your device.",
+  "orientationLock":"Turn off orientation lock in device settings."
 }

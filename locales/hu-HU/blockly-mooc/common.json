@@ -16,7 +16,7 @@
   "dialogOK":"OK",
   "emptyBlocksErrorMsg":"Hogy működjön az \"Ismétel\" vagy a \"Ha\" blokk, kell lennie bennük egy vagy több blokknak. Légy biztos benne, hogy a belső blokk megfelelően illeszkedik a külső blokkhoz.",
   "finalStage":"Gratulálok! Teljesítetted az utolsó szakaszt.",
-  "finalStageTrophies":"Gratulálok! Teljesítetted az utolsó szakaszt és nyertél {numTrophies, plural, one {a trophy} és {# trophies}}.",
+  "finalStageTrophies":"Gratulálok! Teljesítetted az utolsó szakaszt és nyertél {numTrophies, plural, one {a trophy} other {# trophies}}.",
   "generatedCodeInfo":"The blocks for your program can also be represented in JavaScript, the world's most widely adopted programming language:",
   "hashError":"Sorry, '%1' doesn't correspond with any saved program.",
   "help":"Segítség",
@@ -51,5 +51,7 @@
   "typeFuncs":"Available functions:%1",
   "typeHint":"Note that the parentheses and semicolons are required.",
   "workspaceHeader":"Assemble your blocks here: ",
-  "infinity":"Infinity"
+  "infinity":"Infinity",
+  "rotateText":"Rotate your device.",
+  "orientationLock":"Turn off orientation lock in device settings."
 }

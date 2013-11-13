@@ -16,7 +16,7 @@
   "dialogOK":"ठीक है",
   "emptyBlocksErrorMsg":"\"दोहराएँ\" या \"यदि\" ब्लॉक को काम करने के लिए अपने अंदर अन्य ब्लॉक्स की ज़रूरत है । ध्यान दें कि भीतर के ब्लॉक बाहरी ब्लॉक में ठीक बैठें।",
   "finalStage":"बधाई हो! आपने अंतिम चरण पूरा कर लिया है।",
-  "finalStageTrophies":"बधाई हो! आपने अंतिम चरण पूरा कर लिया है और {नम ट्रॉफ़ियाँ,  बहुवचन,  एक {एक ट्रॉफ़ी}  अन्य  {# ट्रॉफ़ियाँ}} जीत ली हैं ।",
+  "finalStageTrophies":"Congratulations! You have completed the final stage and won {numTrophies, plural, one {a trophy} other {# trophies}}.",
   "generatedCodeInfo":"The blocks for your program can also be represented in JavaScript, the world's most widely adopted programming language:",
   "hashError":"Sorry, '%1' doesn't correspond with any saved program.",
   "help":"Help",
@@ -51,5 +51,7 @@
   "typeFuncs":"Available functions:%1",
   "typeHint":"Note that the parentheses and semicolons are required.",
   "workspaceHeader":"Assemble your blocks here: ",
-  "infinity":"Infinity"
+  "infinity":"Infinity",
+  "rotateText":"Rotate your device.",
+  "orientationLock":"Turn off orientation lock in device settings."
 }

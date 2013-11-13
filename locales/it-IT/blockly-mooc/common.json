@@ -17,7 +17,7 @@
   "emptyBlocksErrorMsg":"Il blocco \"Repeat\" o \"If\" deve avere all'interno altri blocchi per poter funzionare. Assicurati che i blocchi interni siano inseriti correttamente all'interno del blocco principale.",
   "finalStage":"Complimenti! Hai completato la fase finale.",
   "finalStageTrophies":"Complimenti! Avete completato la fase finale e vinto {numTrophies, plural, one {un trofeo} other {# trofei}}.",
-  "generatedCodeInfo":"The blocks for your program can also be represented in JavaScript, the world's most widely adopted programming language:",
+  "generatedCodeInfo":"I blocchi per il vostro programma possono anche essere rappresentati in JavaScript, la maggior parte del mondo ampiamente adottato il linguaggio di programmazione:",
   "hashError":"Siamo spiacenti, '%1' non corrisponde a nessun programma salvato.",
   "help":"Aiuto",
   "hintTitle":"Suggerimento:",
@@ -51,5 +51,7 @@
   "typeFuncs":"Funzioni disponibili: %1",
   "typeHint":"Sono necessarie le parentesi e i punto e virgola.",
   "workspaceHeader":"Assembla i tuoi blocchi qui: ",
-  "infinity":"Infinity"
+  "infinity":"Infinito",
+  "rotateText":"Rotate your device.",
+  "orientationLock":"Turn off orientation lock in device settings."
 }

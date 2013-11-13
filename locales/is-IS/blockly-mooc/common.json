@@ -51,5 +51,7 @@
   "typeFuncs":"Available functions:%1",
   "typeHint":"Note that the parentheses and semicolons are required.",
   "workspaceHeader":"Assemble your blocks here: ",
-  "infinity":"Infinity"
+  "infinity":"Infinity",
+  "rotateText":"Rotate your device.",
+  "orientationLock":"Turn off orientation lock in device settings."
 }

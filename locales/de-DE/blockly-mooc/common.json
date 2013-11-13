@@ -17,7 +17,7 @@
   "emptyBlocksErrorMsg":"Die \"Wiederholen\"- und die \"Wenn\"-Bausteine benötigten im Inneren andere Bausteine um zu funktionieren. Stelle sicher, dass der innere Baustein in den umschließenden Baustein passt.",
   "finalStage":"Glückwunsch! Du hast das letzte Level erfolgreich abgeschlossen.",
   "finalStageTrophies":"Glückwunsch! Du hast das letzte Level erfolgreich abgeschlossen und {numTrophies, plural, one {eine Trophäe} other {# Trophäen}} gewonnen.",
-  "generatedCodeInfo":"The blocks for your program can also be represented in JavaScript, the world's most widely adopted programming language:",
+  "generatedCodeInfo":"Die für dein Programm benötigten Bausteine können auch in JavaScript dargestellt werden, die weltweit am meisten verwendete Programmiersprache:",
   "hashError":"Ups, '%1' stimmt mit keinem gespeicherten Programm überein.",
   "help":"Hilfe",
   "hintTitle":"Hinweis:",
@@ -51,5 +51,7 @@
   "typeFuncs":"Verfügbare Funktionen:%1",
   "typeHint":"Beachte, dass die runden Klammern und Semikola erforderlich sind.",
   "workspaceHeader":"Setze die Bausteine hier zusammen: ",
-  "infinity":"Infinity"
+  "infinity":"Unendlichkeit",
+  "rotateText":"Rotate your device.",
+  "orientationLock":"Turn off orientation lock in device settings."
 }

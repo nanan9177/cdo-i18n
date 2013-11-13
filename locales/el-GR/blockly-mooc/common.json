@@ -17,7 +17,7 @@
   "emptyBlocksErrorMsg":"Το μπλοκ του \"Repeat\" ή του \"If\" πρέπει να περιέχει άλλα μπλοκ για να δουλέψει. Σιγουρέψου ότι το εσωτερικό μπλοκ ταιριάζει μέσα στο απ' έξω.",
   "finalStage":"Συγχαρητήρια! τέλειωσες το τελικό στάδιο.",
   "finalStageTrophies":"Συγχαρητήρια! Τέλειωσες το τελευταίο στάδιο και κέρδισες {numTrophies, plural, one {τρόπαιο} other {# τράπαια}}.",
-  "generatedCodeInfo":"The blocks for your program can also be represented in JavaScript, the world's most widely adopted programming language:",
+  "generatedCodeInfo":"Τα πλακίδια από το πρόγραμμά σου μπορούν επίσης να αναπαρασταθούν στην Javascript, την πιο ευρέως διαδεδομένη γλώσσα προγραμματισμού παγκοσμίως:",
   "hashError":"Συγνώμη, το '%1' δεν αντιστοιχεί με αποθηκευμένο πρόγραμμα.",
   "help":"Βοήθεια",
   "hintTitle":"Υπόδειξη:",
@@ -51,5 +51,7 @@
   "typeFuncs":"Διαθέσιμες συναρτήσεις: %1",
   "typeHint":"Σημείωσε ότι οι παρενθέσεις και ερωτηματικά είναι υποχρεωτικά.",
   "workspaceHeader":"Συναρμολόγησε τα μπλοκ σου εδώ: ",
-  "infinity":"Infinity"
+  "infinity":"άπειρο",
+  "rotateText":"Rotate your device.",
+  "orientationLock":"Turn off orientation lock in device settings."
 }

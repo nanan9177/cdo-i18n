@@ -51,5 +51,7 @@
   "typeFuncs":"Tilgjengelige funksjoner: %1",
   "typeHint":"Legg merke til at paranteser og semikolon er nødvendig.",
   "workspaceHeader":"Sett sammen dine blokker her: ",
-  "infinity":"Infinity"
+  "infinity":"Infinity",
+  "rotateText":"Rotate your device.",
+  "orientationLock":"Turn off orientation lock in device settings."
 }

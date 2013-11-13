@@ -51,5 +51,7 @@
   "typeFuncs":"Dostupné funkce:%1",
   "typeHint":"Všimni si, že jsou vyžadovány závorky a středníky.",
   "workspaceHeader":"Sestav si zde tvé bloky: ",
-  "infinity":"Infinity"
+  "infinity":"Infinity",
+  "rotateText":"Rotate your device.",
+  "orientationLock":"Turn off orientation lock in device settings."
 }

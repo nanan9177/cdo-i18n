@@ -51,5 +51,7 @@
   "typeFuncs":"Доступне функције:%1",
   "typeHint":"Неопходне су заграде и тачка-зарези.",
   "workspaceHeader":"Скупи своје блокове овде: ",
-  "infinity":"Infinity"
+  "infinity":"Infinity",
+  "rotateText":"Rotate your device.",
+  "orientationLock":"Turn off orientation lock in device settings."
 }

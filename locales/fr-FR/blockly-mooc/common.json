@@ -51,5 +51,7 @@
   "typeFuncs":"Fonctions disponibles:%1",
   "typeHint":"Notez que les parenthèses et les point-virgules sont nécessaires.",
   "workspaceHeader":"Assemblez vos blocs ici : ",
-  "infinity":"Infinity"
+  "infinity":"Infinity",
+  "rotateText":"Rotate your device.",
+  "orientationLock":"Turn off orientation lock in device settings."
 }

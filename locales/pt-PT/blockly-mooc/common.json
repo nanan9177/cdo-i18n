@@ -51,5 +51,7 @@
   "typeFuncs":"Funções disponíveis:%1",
   "typeHint":"Repara que os parêntesis e ponto e vírgula são necessários.",
   "workspaceHeader":"Monta os teus blocos aqui: ",
-  "infinity":"Infinity"
+  "infinity":"Infinity",
+  "rotateText":"Rotate your device.",
+  "orientationLock":"Turn off orientation lock in device settings."
 }

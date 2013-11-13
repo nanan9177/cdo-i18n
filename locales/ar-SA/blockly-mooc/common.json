@@ -17,7 +17,7 @@
   "emptyBlocksErrorMsg":"قطعة \" أكرر\" او \" اذا \" تحتاج ان تحتوي على قطع اخرى داخلها من اجل العمل . تأكد من القطع الداخلية بحيث يجب ان تكون تناسب القطع المحتوية في الداخل .",
   "finalStage":"تهانينا! لقد اتممت المرحلة النهائية.",
   "finalStageTrophies":"تهانينا! لقد أكملت المرحلة النهائية وفزت بـ {numTrophies, plural, one {جائزة} other {# جوائز}}.",
-  "generatedCodeInfo":"The blocks for your program can also be represented in JavaScript, the world's most widely adopted programming language:",
+  "generatedCodeInfo":"القطع في برنامجك تستطيع كذلك بأعادة تمثيلها في الـ Java Script , بحيث تعتبر اللغة البرمجية واسعة التكيف عالميا :",
   "hashError":"عذرا , %1 لايتوافق مع اي البرامج المحفوظة .",
   "help":"مساعدة",
   "hintTitle":"تلميح:",
@@ -51,5 +51,7 @@
   "typeFuncs":"الدوال المتاحة: %1",
   "typeHint":"لاحظ ذلك أن الأقواس والفواصل المنقوطة ضرورية.",
   "workspaceHeader":"أجمع القطع هنا: ",
-  "infinity":"Infinity"
+  "infinity":"ما لانهاية",
+  "rotateText":"Rotate your device.",
+  "orientationLock":"Turn off orientation lock in device settings."
 }

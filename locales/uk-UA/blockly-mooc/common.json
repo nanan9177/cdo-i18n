@@ -51,5 +51,7 @@
   "typeFuncs":"Доступні функції: %1",
   "typeHint":"Зверніть увагу: потрібні дужки та крапки з комою.",
   "workspaceHeader":"Збирайте свої блоки тут: ",
-  "infinity":"Infinity"
+  "infinity":"Infinity",
+  "rotateText":"Rotate your device.",
+  "orientationLock":"Turn off orientation lock in device settings."
 }

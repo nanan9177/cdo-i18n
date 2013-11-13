@@ -51,5 +51,7 @@
   "typeFuncs":"Tilgængelige funktioner: %1",
   "typeHint":"Bemærk, at parenteser og semikoloner er påkrævet.",
   "workspaceHeader":"Saml dine blokke her: ",
-  "infinity":"Infinity"
+  "infinity":"Infinity",
+  "rotateText":"Rotate your device.",
+  "orientationLock":"Turn off orientation lock in device settings."
 }

@@ -51,5 +51,7 @@
   "typeFuncs":"Funcţii disponibile: %1",
   "typeHint":"Reţine că parantezele şi punct şi virgulă sunt absolut necesare.",
   "workspaceHeader":"Asamblează-ţi blocurile aici: ",
-  "infinity":"Infinit"
+  "infinity":"Infinit",
+  "rotateText":"Rotate your device.",
+  "orientationLock":"Turn off orientation lock in device settings."
 }

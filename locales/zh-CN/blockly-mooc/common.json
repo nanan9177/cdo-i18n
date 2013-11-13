@@ -51,5 +51,7 @@
   "typeFuncs":"可用功能:%1",
   "typeHint":"注意圆括号和分号是需要的。",
   "workspaceHeader":"在这里组装你的模块:",
-  "infinity":"Infinity"
+  "infinity":"Infinity",
+  "rotateText":"Rotate your device.",
+  "orientationLock":"Turn off orientation lock in device settings."
 }

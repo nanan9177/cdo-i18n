@@ -51,5 +51,7 @@
   "typeFuncs":"Dostępne funkcje:%1",
   "typeHint":"Zauważ, że nawiasy i średniki są wymagane.",
   "workspaceHeader":"Assemble your blocks here: ",
-  "infinity":"Infinity"
+  "infinity":"Infinity",
+  "rotateText":"Rotate your device.",
+  "orientationLock":"Turn off orientation lock in device settings."
 }

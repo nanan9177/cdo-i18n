@@ -51,5 +51,7 @@
   "typeFuncs":"Доступные функции:%1",
   "typeHint":"Обратите внимание на то, что требуются круглые скобки и точки с запятой.",
   "workspaceHeader":"Соберите ваши блоки здесь: ",
-  "infinity":"Бесконечный"
+  "infinity":"Бесконечный",
+  "rotateText":"Rotate your device.",
+  "orientationLock":"Turn off orientation lock in device settings."
 }

@@ -51,5 +51,7 @@
   "typeFuncs":"Tillgängliga funktioner:%1",
   "typeHint":"Observera att parenteserna och semikolonen är obligatoriska.",
   "workspaceHeader":"Sätt ihop dina block här: ",
-  "infinity":"Infinity"
+  "infinity":"Infinity",
+  "rotateText":"Rotate your device.",
+  "orientationLock":"Turn off orientation lock in device settings."
 }

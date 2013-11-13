@@ -17,7 +17,7 @@
   "emptyBlocksErrorMsg":"\"Tekrar\" bloğu veya \"Eğer\" bloğunun çalışması için  içerisinde bir başka blok yer almalıdır. İçteki bloğu, dış blok içerisine yerleştirdiğine emin ol.",
   "finalStage":"Son aşamayı bitirdiniz. Tebrikler!",
   "finalStageTrophies":"Tebrikler! Son aşamayı bitirerek {numTrophies, plural, one {bir ganimet} other {# ganimet}} kazandınız.",
-  "generatedCodeInfo":"The blocks for your program can also be represented in JavaScript, the world's most widely adopted programming language:",
+  "generatedCodeInfo":"Programınız için olan bloklar Java,Dünya'da en çok kabul görülmüş programlama dili, ile de ifade edilebilir:",
   "hashError":"Üzgünüz, '%1' kayıtlı herhangi bir programa karşılık gelmez.",
   "help":"Yardım",
   "hintTitle":"İpucu:",
@@ -51,5 +51,7 @@
   "typeFuncs":"Uygun fonksiyon:%1",
   "typeHint":"Parantezlerin ve noktalı virgüllerin gerekli olduğuna dikkat et.",
   "workspaceHeader":"Bloklarını burda topla: ",
-  "infinity":"Infinity"
+  "infinity":"Sonsuz",
+  "rotateText":"Rotate your device.",
+  "orientationLock":"Turn off orientation lock in device settings."
 }
