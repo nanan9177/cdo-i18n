@@ -51,7 +51,7 @@
   "typeFuncs":"الدوال المتاحة: %1",
   "typeHint":"لاحظ ذلك أن الأقواس والفواصل المنقوطة ضرورية.",
   "workspaceHeader":"أجمع القطع هنا: ",
-  "infinity":"ما لانهاية",
-  "rotateText":"Rotate your device.",
-  "orientationLock":"Turn off orientation lock in device settings."
+  "infinity":"∞",
+  "rotateText":"دور النص.",
+  "orientationLock":"ايقاف مفتاح التوجه في اعدادات المستخدم."
 }

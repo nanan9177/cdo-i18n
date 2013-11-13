@@ -48,7 +48,7 @@
   "CONTROLS_IF_TOOLTIP_4":"Εάν η πρώτη τιμή είναι αληθής, τότε εκτέλεσε το πρώτο τμήμα εντολών. Αλλιώς, εάν η δεύτερη τιμή είναι αληθής, εκτέλεσε το δεύτερο τμήμα εντολών. Εάν καμία από τις τιμές δεν είναι αληθής, εκτέλεσε το τελευταίο τμήμα εντολών.",
   "CONTROLS_REPEAT_HELPURL":"βρόχος",
   "CONTROLS_REPEAT_INPUT_DO":"επανέλαβε",
-  "CONTROLS_REPEAT_TITLE":"επανάλαβε %1 φορές",
+  "CONTROLS_REPEAT_TITLE":"Επανάλαβε %1 φορές",
   "CONTROLS_REPEAT_TITLE_REPEAT":"επανάλαβε",
   "CONTROLS_REPEAT_TITLE_TIMES":"φορές",
   "CONTROLS_REPEAT_TOOLTIP":"Εκτέλεσε μερικές εντολές αρκετές φορές.",

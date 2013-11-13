@@ -54,7 +54,7 @@
   "CONTROLS_REPEAT_TOOLTIP":"Voer een aantal opdrachten meerdere keren uit.",
   "CONTROLS_WHILEUNTIL_HELPURL":"http:\/\/code.google.com\/p\/blockly\/wiki\/Repeat",
   "CONTROLS_WHILEUNTIL_OPERATOR_UNTIL":"herhalen totdat",
-  "CONTROLS_WHILEUNTIL_OPERATOR_WHILE":"herhalen terwijl",
+  "CONTROLS_WHILEUNTIL_OPERATOR_WHILE":"herhalen zolang",
   "CONTROLS_WHILEUNTIL_TOOLTIP_UNTIL":"Terwijl een waarde onwaar is de volgende opdrachten uitvoeren.",
   "CONTROLS_WHILEUNTIL_TOOLTIP_WHILE":"Terwijl een waarde waar is de volgende opdrachten uitvoeren.",
   "DELETE_BLOCK":"Blok verwijderen",

@@ -6,7 +6,7 @@
   "catLists":"Lijsten",
   "catLogic":"Logica",
   "catLoops":"Lussen",
-  "catMath":"Rekenen",
+  "catMath":"wiskundige",
   "catProcedures":"Functies",
   "catText":"Tekst",
   "catVariables":"Variabelen",
@@ -17,7 +17,7 @@
   "emptyBlocksErrorMsg":"De \"herhaal\" of \"als\" blokken hebben andere blokken in hun nodig om te werken. Zorg ervoor dat de binnenste blok correct past in de bevattende blok.",
   "finalStage":"Gefeliciteerd! U hebt de laatste fase voltooid.",
   "finalStageTrophies":"Gefeliciteerd! U hebt de laatste fase voltooid en won {numTrophies, plural, one {een trofee} other {# trofeeën}}.",
-  "generatedCodeInfo":"The blocks for your program can also be represented in JavaScript, the world's most widely adopted programming language:",
+  "generatedCodeInfo":"De blokken voor je programma kunnen ook worden weergegeven in JavaScript, de meest gebruikte programmeertaal in de wereld:",
   "hashError":"Sorry, '%1' komt niet overeen met een opgeslagen programma.",
   "help":"Help",
   "hintTitle":"Tip:",
@@ -40,7 +40,7 @@
   "showGeneratedCode":"Code weergeven",
   "subtitle":"een visuele programmeeromgeving",
   "textVariable":"tekst",
-  "tooFewBlocksMsg":"U gebruikt al de nodige typen van blokken, maar probeer meer van deze soorten blokken te gebruiken om deze puzzel te voltooien.",
+  "tooFewBlocksMsg":"Je gebruikt alle soorten blokken die je nodig hebt, maar probeer deze soorten vaker te gebruiken om deze puzzel op te lossen.",
   "tooManyBlocksMsg":"Deze puzzel kan worden opgelost met <x id='START_SPAN'\/><x id='END_SPAN'\/> blokken.",
   "tooMuchWork":"Je laat me veel werk doen! Kun je proberen minder te herhalen?",
   "toolboxHeader":"Blokken",
@@ -51,7 +51,7 @@
   "typeFuncs":"Beschikbare functies: %1",
   "typeHint":"Merk op dat de haakjes en puntkomma's vereist zijn.",
   "workspaceHeader":"Zet je blokken hier in elkaar:",
-  "infinity":"Infinity",
-  "rotateText":"Rotate your device.",
-  "orientationLock":"Turn off orientation lock in device settings."
+  "infinity":"Oneindig",
+  "rotateText":"Draai je apparaat.",
+  "orientationLock":"Schakel de orientatie blokkering uit in de instellingen van je apparaat."
 }

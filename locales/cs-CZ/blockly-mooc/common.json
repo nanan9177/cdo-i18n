@@ -17,7 +17,7 @@
   "emptyBlocksErrorMsg":"Bloky \"Opakovat\" a \"Pokud\" musí mít v sobě další bloky, aby fungovaly.Ujisti se, že vložené bloky jsou skutečně uvitř daných bloků.",
   "finalStage":"Dobrá práce! Dokončil si poslední fázi.",
   "finalStageTrophies":"Dobrá práce! Dokončil si poslední fázi a vyhrál {numTrophies, plural, one {trofej} other {# trofejí}}.",
-  "generatedCodeInfo":"The blocks for your program can also be represented in JavaScript, the world's most widely adopted programming language:",
+  "generatedCodeInfo":"Bloky v tvém programu mohou být reprezentovány i v javaScriptu, nejrozšířenějším programovacím jazyku světa:",
   "hashError":"Promiň, ale '%1' neodpovídá žádnému uloženému programu.",
   "help":"Pomoc",
   "hintTitle":"Tip:",
@@ -51,7 +51,7 @@
   "typeFuncs":"Dostupné funkce:%1",
   "typeHint":"Všimni si, že jsou vyžadovány závorky a středníky.",
   "workspaceHeader":"Sestav si zde tvé bloky: ",
-  "infinity":"Infinity",
-  "rotateText":"Rotate your device.",
-  "orientationLock":"Turn off orientation lock in device settings."
+  "infinity":"Nekonečno",
+  "rotateText":"Otoč zařízením.",
+  "orientationLock":"Vypni uzamčení rotace v nastavení zařízení."
 }
