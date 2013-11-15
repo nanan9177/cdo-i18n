@@ -52,6 +52,6 @@
   "typeHint":"Parantezlerin ve noktalı virgüllerin gerekli olduğuna dikkat et.",
   "workspaceHeader":"Bloklarını burda topla: ",
   "infinity":"Sonsuz",
-  "rotateText":"Rotate your device.",
-  "orientationLock":"Turn off orientation lock in device settings."
+  "rotateText":"Cihazınızı döndürün.",
+  "orientationLock":"Yönlendirme kilidini aygıt ayarlarından devre dışı bırakın."
 }

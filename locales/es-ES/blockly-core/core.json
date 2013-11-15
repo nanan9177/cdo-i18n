@@ -242,7 +242,7 @@
   "MATH_TRIG_SIN":"seno",
   "MATH_TRIG_TAN":"tangente",
   "MATH_TRIG_TOOLTIP_ACOS":"Devolver el arcocoseno de un número.",
-  "MATH_TRIG_TOOLTIP_ASIN":"Devolver el arcoseno de un número.",
+  "MATH_TRIG_TOOLTIP_ASIN":"Devolver el arcocoseno de un número.",
   "MATH_TRIG_TOOLTIP_ATAN":"Devolver el arcotangente de un número.",
   "MATH_TRIG_TOOLTIP_COS":"Devolver el coseno de un grado (no radián).",
   "MATH_TRIG_TOOLTIP_SIN":"Devolver el seno de un grado (no radián).",

@@ -17,7 +17,7 @@
   "emptyBlocksErrorMsg":"Le bloc « Répéter » ou «Si» doit avoir des autres blocs à l'intérieur pour fonctionner. Assurez-vous que le bloc interne s'adapte correctement à l'intérieur du bloc conteneur.",
   "finalStage":"Félicitations ! Vous avez terminé l'étape finale.",
   "finalStageTrophies":"Félicitations ! Vous avez terminé l'étape finale et gagné {numTrophies, plural, one {un trophée} other {# des trophées}}.",
-  "generatedCodeInfo":"The blocks for your program can also be represented in JavaScript, the world's most widely adopted programming language:",
+  "generatedCodeInfo":"Les blocs pour ton programme peuvent également être représentés dans JavaScript, le programme de langage le plus largement adopté dans le monde:",
   "hashError":"Désolé, '%1' ne correspond avec aucun programme enregistré.",
   "help":"À l'aide",
   "hintTitle":"Indice :",
@@ -51,7 +51,7 @@
   "typeFuncs":"Fonctions disponibles:%1",
   "typeHint":"Notez que les parenthèses et les point-virgules sont nécessaires.",
   "workspaceHeader":"Assemblez vos blocs ici : ",
-  "infinity":"Infinity",
-  "rotateText":"Rotate your device.",
-  "orientationLock":"Turn off orientation lock in device settings."
+  "infinity":"Infini",
+  "rotateText":"Tourne ton appareil.",
+  "orientationLock":"Désactive le verrouillage de l'orientation dans les paramètres du périphérique."
 }
