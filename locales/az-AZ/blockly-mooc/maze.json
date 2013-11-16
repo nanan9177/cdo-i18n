@@ -14,7 +14,7 @@
   "holePresent":"quyu var",
   "ifPathAhead":"əgər qabaqda yol varsa,",
   "ifTooltip":"If there is a path in the specified direction, then do some actions.",
-  "ifelseTooltip":"If there is a path in the specified direction, then do the first block of actions. Otherwise, do the second block of actions.",
+  "ifelseTooltip":"Əgər göstərilən istiqamətdə yol varsa, əmrlərin birinci blokunu yerinə yetir. Əks halda isə əmrlərin ikinci blokunu.",
   "moveForward":"irəli get",
   "moveForwardTooltip":"Move me forward one space.",
   "nextLevel":"Congratulations! You have completed this puzzle.",

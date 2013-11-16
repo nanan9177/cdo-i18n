@@ -45,13 +45,13 @@
   "tooMuchWork":"私にたくさん仕事をさせました！もう少し繰り返し回数を少なくできませんか？",
   "toolboxHeader":"ブロック",
   "totalNumLinesOfCodeWritten":"すべての時間の合計: コードの {numLines, plural, one {1 ライン} other {# ライン}}。\n",
-  "tryAgain":"Try again",
-  "backToPreviousLevel":"Back to previous level",
-  "typeCode":"Type your JavaScript code below these instructions.",
-  "typeFuncs":"Available functions:%1",
-  "typeHint":"Note that the parentheses and semicolons are required.",
-  "workspaceHeader":"Assemble your blocks here: ",
-  "infinity":"Infinity",
-  "rotateText":"Rotate your device.",
-  "orientationLock":"Turn off orientation lock in device settings."
+  "tryAgain":"もう一度やり直してください",
+  "backToPreviousLevel":"前のレベルに戻る",
+  "typeCode":"これらの指示の下、JavaScript のコードを入力してください。",
+  "typeFuncs":"利用可能な機能:%1",
+  "typeHint":"括弧とセミコロンが要求されている事に注意してください。",
+  "workspaceHeader":"あなたのブロックをここで組み立てます。",
+  "infinity":"無限\n",
+  "rotateText":"お使いのデバイスを回転させてください。",
+  "orientationLock":"デバイスの設定にあるオリエンテーション（方向）ロックをオフにしてください。"
 }

@@ -25,8 +25,8 @@
   "notBlackColour":"You need to set a color other than black for this puzzle.",
   "numBlocksNeeded":"This puzzle can be solved with %1 blocks.  You used %2.",
   "penDown":"karandaşı endir",
-  "penTooltip":"Lifts or lowers the pencil, to start or stop drawing.",
-  "penUp":"pencil up",
+  "penTooltip":"Şəkil çəkməyi başlamaq və ya dayandırmaq üçün karandaşı endirir və ya qaldırır.",
+  "penUp":"karandaşı qaldır",
   "setColour":"set color",
   "setWidth":"set width",
   "showMe":"Show me",
@@ -37,6 +37,6 @@
   "turnRightTooltip":"Turns the artist right by the specified angle.",
   "turnTooltip":"Turns the artist left or right by the specified number of degrees.",
   "turtleVisibilityTooltip":"Makes the artist visible or invisible.",
-  "widthTooltip":"Changes the width of the pencil.",
+  "widthTooltip":"Karandaşın qalınlığını dəyişir.",
   "wrongColour":"Your picture is the wrong color.  For this puzzle, it needs to be %1."
 }
