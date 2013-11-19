@@ -26,7 +26,7 @@
   "CONTROLS_FLOW_STATEMENTS_TOOLTIP_BREAK":"Напусти садржај петље.",
   "CONTROLS_FLOW_STATEMENTS_TOOLTIP_CONTINUE":"Прескочи остатак ове петље, и настави са следећом итерацијом(понављанјем).",
   "CONTROLS_FLOW_STATEMENTS_WARNING":"Упозорење: Овај блок може да се употреби само унутар петље.",
-  "CONTROLS_FOREACH_HELPURL":"https:\/\/code.google.com\/p\/blockly\/wiki\/Loops#for_each for each block",
+  "CONTROLS_FOREACH_HELPURL":"https:\/\/code.google.com\/p\/blockly\/wiki\/Loops#for_each",
   "CONTROLS_FOREACH_INPUT_INLIST":"у листи",
   "CONTROLS_FOREACH_INPUT_INLIST_TAIL":"",
   "CONTROLS_FOREACH_INPUT_ITEM":"за сваку ставку",

@@ -26,7 +26,7 @@
   "CONTROLS_FLOW_STATEMENTS_TOOLTIP_BREAK":"İçeren döngüden çık.",
   "CONTROLS_FLOW_STATEMENTS_TOOLTIP_CONTINUE":"Bu döngünün geri kalanını atlayın ve sonraki adım ile devam edin.",
   "CONTROLS_FLOW_STATEMENTS_WARNING":"Uyarı: Bu blok sadece bir döngü içinde kullanılabilir.",
-  "CONTROLS_FOREACH_HELPURL":"her blok için https:\/\/code.google.com\/p\/blockly\/wiki\/Loops#for_each",
+  "CONTROLS_FOREACH_HELPURL":"https:\/\/code.google.com\/p\/blockly\/wiki\/Loops#for_each",
   "CONTROLS_FOREACH_INPUT_INLIST":"listede",
   "CONTROLS_FOREACH_INPUT_INLIST_TAIL":"",
   "CONTROLS_FOREACH_INPUT_ITEM":"her öğe için",

@@ -26,7 +26,7 @@
   "CONTROLS_FLOW_STATEMENTS_TOOLTIP_BREAK":"ออกจากลูปใหญ่",
   "CONTROLS_FLOW_STATEMENTS_TOOLTIP_CONTINUE":"ข้ามส่วนที่เหลือของลูปนี้ แล้ววนลูปรอบต่อไป",
   "CONTROLS_FLOW_STATEMENTS_WARNING":"คำเตือน: บล็อกนี้อาจใช้ภายในลูปเท่านั้น",
-  "CONTROLS_FOREACH_HELPURL":"https:\/\/code.google.com\/p\/blockly\/wiki\/Loops#for_each for each block",
+  "CONTROLS_FOREACH_HELPURL":"https:\/\/code.google.com\/p\/blockly\/wiki\/Loops#for_each",
   "CONTROLS_FOREACH_INPUT_INLIST":"ในรายการ",
   "CONTROLS_FOREACH_INPUT_INLIST_TAIL":"",
   "CONTROLS_FOREACH_INPUT_ITEM":"สำหรับ แต่ละสิ่ง",

@@ -26,7 +26,7 @@
   "CONTROLS_FLOW_STATEMENTS_TOOLTIP_BREAK":"含むループから抜け出します。",
   "CONTROLS_FLOW_STATEMENTS_TOOLTIP_CONTINUE":"このループの残りの部分をスキップし、次のイテレーションに進みます。",
   "CONTROLS_FLOW_STATEMENTS_WARNING":"注意: このブロックは、ループ内でのみ使用します。",
-  "CONTROLS_FOREACH_HELPURL":"https:\/\/code.google.com\/p\/blockly\/wiki\/Loops#for_each for each block",
+  "CONTROLS_FOREACH_HELPURL":"https:\/\/code.google.com\/p\/blockly\/wiki\/Loops#for_each",
   "CONTROLS_FOREACH_INPUT_INLIST":"リストで",
   "CONTROLS_FOREACH_INPUT_INLIST_TAIL":"",
   "CONTROLS_FOREACH_INPUT_ITEM":"各項目の",

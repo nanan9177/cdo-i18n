@@ -26,7 +26,7 @@
   "CONTROLS_FLOW_STATEMENTS_TOOLTIP_BREAK":"Cari dövrdən çıx.",
   "CONTROLS_FLOW_STATEMENTS_TOOLTIP_CONTINUE":"Bu dövrün qalanını ötür və növbəti addımla davam et.",
   "CONTROLS_FLOW_STATEMENTS_WARNING":"Xəbərdarlıq: Bu blok ancaq dövr daxilində istifadə oluna bilər.",
-  "CONTROLS_FOREACH_HELPURL":"https:\/\/code.google.com\/p\/blockly\/wiki\/Loops#for_each for each block",
+  "CONTROLS_FOREACH_HELPURL":"https:\/\/code.google.com\/p\/blockly\/wiki\/Loops#for_each",
   "CONTROLS_FOREACH_INPUT_INLIST":"siyahıda",
   "CONTROLS_FOREACH_INPUT_INLIST_TAIL":"",
   "CONTROLS_FOREACH_INPUT_ITEM":"hər element üçün",

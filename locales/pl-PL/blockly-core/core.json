@@ -26,7 +26,7 @@
   "CONTROLS_FLOW_STATEMENTS_TOOLTIP_BREAK":"Wyjść z zawierającej pętli.",
   "CONTROLS_FLOW_STATEMENTS_TOOLTIP_CONTINUE":"Pomiń resztę pętli i kontynuuj w kolejnej iteracji.",
   "CONTROLS_FLOW_STATEMENTS_WARNING":"Ostrzeżenie: Ten blok może być użyty tylko w pętli.",
-  "CONTROLS_FOREACH_HELPURL":"https:\/\/code.google.com\/p\/blockly\/wiki\/Loops#for _each dla każdego bloku",
+  "CONTROLS_FOREACH_HELPURL":"https:\/\/code.google.com\/p\/blockly\/wiki\/Loops#for_each",
   "CONTROLS_FOREACH_INPUT_INLIST":"na liście",
   "CONTROLS_FOREACH_INPUT_INLIST_TAIL":"",
   "CONTROLS_FOREACH_INPUT_ITEM":"dla każdego elementu",

@@ -26,7 +26,7 @@
   "CONTROLS_FLOW_STATEMENTS_TOOLTIP_BREAK":"Keluar dari perulangan (loop) yang melingkupinya.",
   "CONTROLS_FLOW_STATEMENTS_TOOLTIP_CONTINUE":"Abaikan sisa dari loop ini, dan lanjutkan dengan iterasi berikutnya.",
   "CONTROLS_FLOW_STATEMENTS_WARNING":"Peringatan: Blok ini hanya dapat digunakan dalam loop.",
-  "CONTROLS_FOREACH_HELPURL":"https:\/\/code.google.com\/p\/blockly\/wiki\/Loops#for_each for each block",
+  "CONTROLS_FOREACH_HELPURL":"https:\/\/code.google.com\/p\/blockly\/wiki\/Loops#for_each",
   "CONTROLS_FOREACH_INPUT_INLIST":"di dalam list",
   "CONTROLS_FOREACH_INPUT_INLIST_TAIL":"",
   "CONTROLS_FOREACH_INPUT_ITEM":"untuk setiap item",

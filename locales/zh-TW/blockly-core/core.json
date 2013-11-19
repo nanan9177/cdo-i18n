@@ -26,7 +26,7 @@
   "CONTROLS_FLOW_STATEMENTS_TOOLTIP_BREAK":"脫離所包含的迴圈。",
   "CONTROLS_FLOW_STATEMENTS_TOOLTIP_CONTINUE":"跳過剩下的迴圈，然後繼續下個迭帶運算。",
   "CONTROLS_FLOW_STATEMENTS_WARNING":"警告： 此區塊僅可用於一個迴圈內。",
-  "CONTROLS_FOREACH_HELPURL":"https:\/\/code.google.com\/p\/blockly\/wiki\/Loops#for_each for each block",
+  "CONTROLS_FOREACH_HELPURL":"https:\/\/code.google.com\/p\/blockly\/wiki\/Loops#for_each",
   "CONTROLS_FOREACH_INPUT_INLIST":"自列表",
   "CONTROLS_FOREACH_INPUT_INLIST_TAIL":"",
   "CONTROLS_FOREACH_INPUT_ITEM":"取出每個",

@@ -17,7 +17,7 @@
   "emptyBlocksErrorMsg":"\"Repear\"或\"If\"模块需要其他的模块充填在里面才能工作。请确保填入的模块填写正确。",
   "finalStage":"祝贺你 ！您已完成最终章。",
   "finalStageTrophies":"祝贺你 ！已完成最终章并赢得了 {numTrophies, plural, one {1个奖杯} other {# 奖杯}}。",
-  "generatedCodeInfo":"The blocks for your program can also be represented in JavaScript, the world's most widely adopted programming language:",
+  "generatedCodeInfo":"你的程序里所用到的各种模块也可以使用 Javascript来书写展示，一种世界上最广泛被采用的程序语言:",
   "hashError":"对不起，'%1' 并不对应任何已保存的程序。",
   "help":"帮助",
   "hintTitle":"提示：",
@@ -51,7 +51,7 @@
   "typeFuncs":"可用功能:%1",
   "typeHint":"注意圆括号和分号是需要的。",
   "workspaceHeader":"在这里组装你的模块:",
-  "infinity":"Infinity",
-  "rotateText":"Rotate your device.",
-  "orientationLock":"Turn off orientation lock in device settings."
+  "infinity":"无限远",
+  "rotateText":"旋转您的设备。",
+  "orientationLock":"关闭设置中的旋转锁定。"
 }

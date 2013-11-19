@@ -26,7 +26,7 @@
   "CONTROLS_FLOW_STATEMENTS_TOOLTIP_BREAK":"Murtaudu ulos sisältyvästä silmukasta.",
   "CONTROLS_FLOW_STATEMENTS_TOOLTIP_CONTINUE":"Ohita loppu tästä silmukasta ja siirry seuraavaan iteraatioon.",
   "CONTROLS_FLOW_STATEMENTS_WARNING":"Varoitus: Tätä palikkaa voi käyttää vain silmukan sisällä.",
-  "CONTROLS_FOREACH_HELPURL":"https:\/\/code.google.com\/p\/blockly\/wiki\/Loops#for_each for each block",
+  "CONTROLS_FOREACH_HELPURL":"https:\/\/code.google.com\/p\/blockly\/wiki\/Loops#for_each",
   "CONTROLS_FOREACH_INPUT_INLIST":"listassa",
   "CONTROLS_FOREACH_INPUT_INLIST_TAIL":"",
   "CONTROLS_FOREACH_INPUT_ITEM":"jokaiseen kohteeseen",

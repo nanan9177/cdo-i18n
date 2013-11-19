@@ -26,7 +26,7 @@
   "CONTROLS_FLOW_STATEMENTS_TOOLTIP_BREAK":"포함된 루프에서 빠져 나오기.",
   "CONTROLS_FLOW_STATEMENTS_TOOLTIP_CONTINUE":"루프의 나머지 부분을 건너뛰고, 다음 반복을 계속하세요.",
   "CONTROLS_FLOW_STATEMENTS_WARNING":"경고:이 블럭은 루프안에서 사용됩니다.",
-  "CONTROLS_FOREACH_HELPURL":"https:\/\/code.google.com\/p\/blockly\/wiki\/Loops#for_each for each block",
+  "CONTROLS_FOREACH_HELPURL":"https:\/\/code.google.com\/p\/blockly\/wiki\/Loops#for_each",
   "CONTROLS_FOREACH_INPUT_INLIST":"리스트 요소에 대하여",
   "CONTROLS_FOREACH_INPUT_INLIST_TAIL":"",
   "CONTROLS_FOREACH_INPUT_ITEM":"각 요소에 대하여",

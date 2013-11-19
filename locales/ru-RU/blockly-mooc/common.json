@@ -52,6 +52,6 @@
   "typeHint":"Обратите внимание на то, что требуются круглые скобки и точки с запятой.",
   "workspaceHeader":"Соберите ваши блоки здесь: ",
   "infinity":"Бесконечный",
-  "rotateText":"Rotate your device.",
-  "orientationLock":"Turn off orientation lock in device settings."
+  "rotateText":"Вращайте ваше устройство.",
+  "orientationLock":"Выключите блокировку ориентации в настройках устройства."
 }

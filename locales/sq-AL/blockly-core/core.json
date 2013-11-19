@@ -26,7 +26,7 @@
   "CONTROLS_FLOW_STATEMENTS_TOOLTIP_BREAK":"ndahu nga permbajtja e \"faze perseritese\"",
   "CONTROLS_FLOW_STATEMENTS_TOOLTIP_CONTINUE":"Skip the rest of this loop, and continue with the next iteration.",
   "CONTROLS_FLOW_STATEMENTS_WARNING":"Warning: This block may only be used within a loop.",
-  "CONTROLS_FOREACH_HELPURL":"https:\/\/code.google.com\/p\/blockly\/wiki\/Loops#for_each for each block",
+  "CONTROLS_FOREACH_HELPURL":"https:\/\/code.google.com\/p\/blockly\/wiki\/Loops#for_each",
   "CONTROLS_FOREACH_INPUT_INLIST":"ne liste",
   "CONTROLS_FOREACH_INPUT_INLIST_TAIL":"",
   "CONTROLS_FOREACH_INPUT_ITEM":"per cdo produkt",

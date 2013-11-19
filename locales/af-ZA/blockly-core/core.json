@@ -26,7 +26,7 @@
   "CONTROLS_FLOW_STATEMENTS_TOOLTIP_BREAK":"Breek uit die bevattende (buite) lus.",
   "CONTROLS_FLOW_STATEMENTS_TOOLTIP_CONTINUE":"Slaan die res van hierdie lus na, en gaan voort met die volgende iterasie.",
   "CONTROLS_FLOW_STATEMENTS_WARNING":"Waarskuwing: Die blok mag net gebruik work binne in 'n lus.",
-  "CONTROLS_FOREACH_HELPURL":"https:\/\/code.google.com\/p\/blockly\/wiki\/Loops#for_each for each block",
+  "CONTROLS_FOREACH_HELPURL":"https:\/\/code.google.com\/p\/blockly\/wiki\/Loops#for_each",
   "CONTROLS_FOREACH_INPUT_INLIST":"word bevat binne die lys; in die lys; binne die lys",
   "CONTROLS_FOREACH_INPUT_INLIST_TAIL":"",
   "CONTROLS_FOREACH_INPUT_ITEM":"vir elke item",

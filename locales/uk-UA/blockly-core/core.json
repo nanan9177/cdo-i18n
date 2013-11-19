@@ -26,7 +26,7 @@
   "CONTROLS_FLOW_STATEMENTS_TOOLTIP_BREAK":"Перервати внутрішній цикл.",
   "CONTROLS_FLOW_STATEMENTS_TOOLTIP_CONTINUE":"Пропустити залишок цього циклу і перейти до виконання наступної ітерації.",
   "CONTROLS_FLOW_STATEMENTS_WARNING":"Попередження: цей блок може бути використаний тільки в межах циклу.",
-  "CONTROLS_FOREACH_HELPURL":"https:\/\/code.google.com\/p\/blockly\/wiki\/Loops#for_each for each block",
+  "CONTROLS_FOREACH_HELPURL":"https:\/\/code.google.com\/p\/blockly\/wiki\/Loops#for_each",
   "CONTROLS_FOREACH_INPUT_INLIST":"у списку",
   "CONTROLS_FOREACH_INPUT_INLIST_TAIL":"",
   "CONTROLS_FOREACH_INPUT_ITEM":"для кожного елемента",

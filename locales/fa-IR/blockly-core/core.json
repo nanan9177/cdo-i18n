@@ -26,7 +26,7 @@
   "CONTROLS_FLOW_STATEMENTS_TOOLTIP_BREAK":"شکستن حلقهٔ شامل.",
   "CONTROLS_FLOW_STATEMENTS_TOOLTIP_CONTINUE":"پریدن از بقیهٔ حلقه و ادامه با تکرار بعدی.",
   "CONTROLS_FLOW_STATEMENTS_WARNING":"اخطار: این بلوک ممکن است فقط داخل یک حلقه استفاده شود.",
-  "CONTROLS_FOREACH_HELPURL":"https:\/\/code.google.com\/p\/blockly\/wiki\/Loops#for_each for each block",
+  "CONTROLS_FOREACH_HELPURL":"https:\/\/code.google.com\/p\/blockly\/wiki\/Loops#for_each",
   "CONTROLS_FOREACH_INPUT_INLIST":"در فهرست",
   "CONTROLS_FOREACH_INPUT_INLIST_TAIL":"",
   "CONTROLS_FOREACH_INPUT_ITEM":"برای هر مورد",

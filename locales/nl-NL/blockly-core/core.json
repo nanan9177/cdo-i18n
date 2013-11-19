@@ -26,7 +26,7 @@
   "CONTROLS_FLOW_STATEMENTS_TOOLTIP_BREAK":"uit de bevattende lus breken",
   "CONTROLS_FLOW_STATEMENTS_TOOLTIP_CONTINUE":"De rest van deze lus overslaan en doorgaan met de volgende herhaling.",
   "CONTROLS_FLOW_STATEMENTS_WARNING":"Waarschuwing: dit blok mag alleen gebruikt worden in een lus.",
-  "CONTROLS_FOREACH_HELPURL":"https:\/\/code.google.com\/p\/blockly\/wiki\/Loops#for_each for each block",
+  "CONTROLS_FOREACH_HELPURL":"https:\/\/code.google.com\/p\/blockly\/wiki\/Loops#for_each",
   "CONTROLS_FOREACH_INPUT_INLIST":"in lijst",
   "CONTROLS_FOREACH_INPUT_INLIST_TAIL":"",
   "CONTROLS_FOREACH_INPUT_ITEM":"voor ieder item",

@@ -26,7 +26,7 @@
   "CONTROLS_FLOW_STATEMENTS_TOOLTIP_BREAK":"Прерывает этот цикл.",
   "CONTROLS_FLOW_STATEMENTS_TOOLTIP_CONTINUE":"Пропускает остаток цикла и переходит к следующему шагу.",
   "CONTROLS_FLOW_STATEMENTS_WARNING":"Предупреждение: этот блок может использоваться только внутри цикла.",
-  "CONTROLS_FOREACH_HELPURL":"https:\/\/code.google.com\/p\/blockly\/wiki\/Loops#for_each for each block",
+  "CONTROLS_FOREACH_HELPURL":"https:\/\/code.google.com\/p\/blockly\/wiki\/Loops#for_each",
   "CONTROLS_FOREACH_INPUT_INLIST":"в списке",
   "CONTROLS_FOREACH_INPUT_INLIST_TAIL":"",
   "CONTROLS_FOREACH_INPUT_ITEM":"для каждого элемента",

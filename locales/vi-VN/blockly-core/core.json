@@ -26,7 +26,7 @@
   "CONTROLS_FLOW_STATEMENTS_TOOLTIP_BREAK":"Thoát khỏi vòng lặp hiện tại.",
   "CONTROLS_FLOW_STATEMENTS_TOOLTIP_CONTINUE":"Bỏ qua phần còn lại trong vòng lặp này, và sang lần lặp tiếp theo.",
   "CONTROLS_FLOW_STATEMENTS_WARNING":"Chú ý: Mảnh này chỉ có thế dùng trong các vòng lặp.",
-  "CONTROLS_FOREACH_HELPURL":"https:\/\/code.google.com\/p\/blockly\/wiki\/Loops#for_each for each block",
+  "CONTROLS_FOREACH_HELPURL":"https:\/\/code.google.com\/p\/blockly\/wiki\/Loops#for_each",
   "CONTROLS_FOREACH_INPUT_INLIST":"trong danh sách",
   "CONTROLS_FOREACH_INPUT_INLIST_TAIL":"",
   "CONTROLS_FOREACH_INPUT_ITEM":"với mỗi thành phần",

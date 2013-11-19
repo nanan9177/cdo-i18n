@@ -26,7 +26,7 @@
   "CONTROLS_FLOW_STATEMENTS_TOOLTIP_BREAK":"Pecahkan kandungan lingkaran.",
   "CONTROLS_FLOW_STATEMENTS_TOOLTIP_CONTINUE":"Langkau seluruh gelung ini, dan teruskan dengan lelaran seterusnya.",
   "CONTROLS_FLOW_STATEMENTS_WARNING":"Amaran: Blok ini hanya boleh digunakan dalam satu lingkaran.",
-  "CONTROLS_FOREACH_HELPURL":"https:\/\/code.google.com\/p\/blockly\/wiki\/Loops#for_each for each block",
+  "CONTROLS_FOREACH_HELPURL":"https:\/\/code.google.com\/p\/blockly\/wiki\/Loops#for_each",
   "CONTROLS_FOREACH_INPUT_INLIST":"dalam senarai",
   "CONTROLS_FOREACH_INPUT_INLIST_TAIL":"",
   "CONTROLS_FOREACH_INPUT_ITEM":"bagi setiap item",

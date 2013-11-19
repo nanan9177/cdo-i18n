@@ -26,7 +26,7 @@
   "CONTROLS_FLOW_STATEMENTS_TOOLTIP_BREAK":"Bryd ud af den indeholdende løkke.",
   "CONTROLS_FLOW_STATEMENTS_TOOLTIP_CONTINUE":"Spring over resten af denne løkke, og fortsæt med den næste iteration.",
   "CONTROLS_FLOW_STATEMENTS_WARNING":"Advarsel: Denne blok må kun bruges inden i en løkke.",
-  "CONTROLS_FOREACH_HELPURL":"https:\/\/code.google.com\/p\/blockly\/wiki\/Loops#for_each for hver blok",
+  "CONTROLS_FOREACH_HELPURL":"https:\/\/code.google.com\/p\/blockly\/wiki\/Loops#for_each",
   "CONTROLS_FOREACH_INPUT_INLIST":"i listen",
   "CONTROLS_FOREACH_INPUT_INLIST_TAIL":"",
   "CONTROLS_FOREACH_INPUT_ITEM":"for hvert element",

@@ -26,7 +26,7 @@
   "CONTROLS_FLOW_STATEMENTS_TOOLTIP_BREAK":"Break out of the containing loop.",
   "CONTROLS_FLOW_STATEMENTS_TOOLTIP_CONTINUE":"Skip the rest of this loop, and continue with the next iteration.",
   "CONTROLS_FLOW_STATEMENTS_WARNING":"אזהרה: בלוק זה עשוי לשמש רק בתוך לולאה.",
-  "CONTROLS_FOREACH_HELPURL":"https:\/\/code.google.com\/p\/blockly\/wiki\/Loops#for_each for each block",
+  "CONTROLS_FOREACH_HELPURL":"https:\/\/code.google.com\/p\/blockly\/wiki\/Loops#for_each",
   "CONTROLS_FOREACH_INPUT_INLIST":"ברשימה",
   "CONTROLS_FOREACH_INPUT_INLIST_TAIL":"",
   "CONTROLS_FOREACH_INPUT_ITEM":"לכל פריט",

@@ -26,7 +26,7 @@
   "CONTROLS_FLOW_STATEMENTS_TOOLTIP_BREAK":"Megszakítja végtelen ciklust.",
   "CONTROLS_FLOW_STATEMENTS_TOOLTIP_CONTINUE":"Megszakítja az aktuális futást és folytatja elölről.",
   "CONTROLS_FLOW_STATEMENTS_WARNING":"Figyelem: Ez a blokk, csak egy ciklusban használható.",
-  "CONTROLS_FOREACH_HELPURL":"http:\/\/hu.wikipedia.org\/wiki\/Ciklus_(programoz%C3%A1s)#Iter.C3.A1l.C3.B3_ciklus",
+  "CONTROLS_FOREACH_HELPURL":"https:\/\/code.google.com\/p\/blockly\/wiki\/Loops#for_each",
   "CONTROLS_FOREACH_INPUT_INLIST":"eleme a",
   "CONTROLS_FOREACH_INPUT_INLIST_TAIL":"",
   "CONTROLS_FOREACH_INPUT_ITEM":"Minden",

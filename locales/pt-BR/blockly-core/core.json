@@ -26,7 +26,7 @@
   "CONTROLS_FLOW_STATEMENTS_TOOLTIP_BREAK":"Encerra o laço.",
   "CONTROLS_FLOW_STATEMENTS_TOOLTIP_CONTINUE":"Ignora o resto deste laço, e continua com a próxima iteração.",
   "CONTROLS_FLOW_STATEMENTS_WARNING":"Atenção: Este bloco só pode ser usado dentro de um laço.",
-  "CONTROLS_FOREACH_HELPURL":"https:\/\/code.google.com\/p\/blockly\/wiki\/Loops#for_each for each block",
+  "CONTROLS_FOREACH_HELPURL":"https:\/\/code.google.com\/p\/blockly\/wiki\/Loops#for_each",
   "CONTROLS_FOREACH_INPUT_INLIST":"na lista",
   "CONTROLS_FOREACH_INPUT_INLIST_TAIL":"",
   "CONTROLS_FOREACH_INPUT_ITEM":"para cada item",

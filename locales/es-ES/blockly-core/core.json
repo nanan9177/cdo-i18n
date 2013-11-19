@@ -26,7 +26,7 @@
   "CONTROLS_FLOW_STATEMENTS_TOOLTIP_BREAK":"Terminar el bucle.",
   "CONTROLS_FLOW_STATEMENTS_TOOLTIP_CONTINUE":"Salta el resto de esta iteración, y continua con la siguiente.",
   "CONTROLS_FLOW_STATEMENTS_WARNING":"ADVERTENCIA: Este bloque puede usarse sólo dentro de una iteración.",
-  "CONTROLS_FOREACH_HELPURL":"https:\/\/code.google.com\/p\/blockly\/wiki\/Loops#for_each for each block",
+  "CONTROLS_FOREACH_HELPURL":"https:\/\/code.google.com\/p\/blockly\/wiki\/Loops#for_each",
   "CONTROLS_FOREACH_INPUT_INLIST":"en la lista",
   "CONTROLS_FOREACH_INPUT_INLIST_TAIL":"",
   "CONTROLS_FOREACH_INPUT_ITEM":"para cada elemento",
