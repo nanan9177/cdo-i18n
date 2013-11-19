@@ -57,7 +57,7 @@
   "CONTROLS_WHILEUNTIL_OPERATOR_WHILE":"repeat while",
   "CONTROLS_WHILEUNTIL_TOOLTIP_UNTIL":"While a value is false, then do some statements.",
   "CONTROLS_WHILEUNTIL_TOOLTIP_WHILE":"While a value is true, then do some statements.",
-  "DELETE_BLOCK":"Delete Block",
+  "DELETE_BLOCK":"블럭 삭제",
   "DELETE_X_BLOCKS":"Delete %1 Blocks",
   "DISABLE_BLOCK":"Disable Block",
   "DUPLICATE_BLOCK":"Duplicate",

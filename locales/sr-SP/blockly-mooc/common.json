@@ -17,7 +17,7 @@
   "emptyBlocksErrorMsg":"\"Repeat\" или  \"If\" блок мора имати још један блок у себи како би функционисао. Постарајте се да је унутрашнји блок правилно убачен у ванјски блок.",
   "finalStage":"Честитамо! Завршили сте последнју етапу.",
   "finalStageTrophies":"Ћеститамо! Завршили сте последнју етапу и освојили  {numTrophies, plural, one {a trophy} other {# trophies}}.",
-  "generatedCodeInfo":"The blocks for your program can also be represented in JavaScript, the world's most widely adopted programming language:",
+  "generatedCodeInfo":"Блокови за ваш програм се такође могу репрезентовати у јава скрипту, светском најшире прихваћеном програмском језику:",
   "hashError":"Жао нам је, '%1' не одговара ни једном сачуваном програму.",
   "help":"Помоћ",
   "hintTitle":"Предлог:",
@@ -51,7 +51,7 @@
   "typeFuncs":"Доступне функције:%1",
   "typeHint":"Неопходне су заграде и тачка-зарези.",
   "workspaceHeader":"Скупи своје блокове овде: ",
-  "infinity":"Infinity",
-  "rotateText":"Rotate your device.",
-  "orientationLock":"Turn off orientation lock in device settings."
+  "infinity":"бесконачност",
+  "rotateText":"Окрените ваш уређај.",
+  "orientationLock":"Угасите оријентациону браву у подешаванјима уређаја."
 }

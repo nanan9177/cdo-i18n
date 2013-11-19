@@ -29,7 +29,7 @@
   "nextStage":"تهانينا! أنت اكملت المرحلة {stageNumber}.",
   "nextStageTrophies":"تهانينا! لقد أكملت المرحلة {stageNumber} وفزت بـ {numTrophies, plural, one {جائزة} other {# جوائز}}.",
   "numBlocksNeeded":"تهانينا! لقد أكملت اللغز {puzzleNumber}. (لكن كان بامكانك استخذام {numBlocks, plural, one {1 بلوك} other {# بلوكات}}.) فقط",
-  "numLinesOfCodeWritten":"لقد كتبت {numLines, plural, one { خط 1} other {# خطوط}} من الكود البرمجي!",
+  "numLinesOfCodeWritten":"لقد كتبت {numLines, plural, one { سطر1} other {# سطور}} من الكود البرمجي!",
   "puzzleTitle":"اللغز {puzzle_number} من {stage_total}",
   "reinfFeedbackMsgWithImage":"هل الرسم الذي رسمته يشبه هذا ؟ يمكنك الضغط على زر \"حاول مرة اخرى\" لمشاهدة الرسم الخاص بك.",
   "reinfFeedbackMsg":"هل هذا يشبه ماتريده؟ يمكنك الضغط على زر \"حاول مرة اخرى\" لمشاهدة الرسم الخاص بك.",
@@ -40,7 +40,7 @@
   "showGeneratedCode":"اظهار الكود البرمجي",
   "subtitle":"بيئة البرمجة المرئية",
   "textVariable":"نص",
-  "tooFewBlocksMsg":"أنت استخدمت كل انواع القطع الضرورية ولكن حاول ان تستخدم المزيد من هذه الأنواع من القطع لأكمال هذا اللغز.",
+  "tooFewBlocksMsg":"لقد استخدمت كل انواع القطع الضرورية ولكن حاول ان تستخدم المزيد من أنواعا أكثر من القطع لأكمال هذا اللغز.",
   "tooManyBlocksMsg":"يمكن حل هذا اللغز مع <x id='END_SPAN'\/><x id='START_SPAN'\/> قطع.",
   "tooMuchWork":"جعلتني أقوم بالكثير من العمل!  هل بإمكانك أن تحاول جعل مرات التكرار أقل؟",
   "toolboxHeader":"قطع",
@@ -49,9 +49,9 @@
   "backToPreviousLevel":"الرجوع إلى المستوى السابق",
   "typeCode":"اكتب كود الـ JavaScript الخاص بك تحت هذه التعليمات.",
   "typeFuncs":"الدوال المتاحة: %1",
-  "typeHint":"لاحظ ذلك أن الأقواس والفواصل المنقوطة ضرورية.",
+  "typeHint":"تذكر أن الأقواس والفواصل المنقوطة ضرورية.",
   "workspaceHeader":"أجمع القطع هنا: ",
-  "infinity":"∞",
+  "infinity":"المالانهاية",
   "rotateText":"دور النص.",
-  "orientationLock":"ايقاف مفتاح التوجه في اعدادات المستخدم."
+  "orientationLock":"قم بتعطيل قفل التوجه في اعدادات المستخدم."
 }
