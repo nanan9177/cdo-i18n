@@ -11,6 +11,7 @@
   "dots":"pixels",
   "drawASquare":"teken een vierkant",
   "drawATriangle":"draw a triangle",
+  "drawACircle":"draw a circle",
   "drawAHouse":"draw a house",
   "drawASnowman":"teken een sneeuwpop",
   "heightParameter":"length",

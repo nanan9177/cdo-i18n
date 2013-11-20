@@ -27,7 +27,7 @@
   "nextLevel":"تبریک ! شما پازل {puzzleNumber} را به پایان رساندید.",
   "nextLevelTrophies":"تبریک! شما پازل {puzzleNumber} را به پایان رساندید و برنده {{جوایز#} other {یک جایزه} numTrophies, plural, one} شدید.",
   "nextStage":"تبریک! شما مرحله {stageNumber}را به پایان رساندید.",
-  "nextStageTrophies":"تبریک ! شما مرحله {stageNumber} را به پایان رساندید و برنده {{جوایز#} Other {یک جایزه} numTrophies, plural, one} شدید.",
+  "nextStageTrophies":"تبریک ! شما مرحله {stageNumber} را به پایان رساندید و برنده {{جوایز#} other {یک جایزه} numTrophies, plural, one} شدید.",
   "numBlocksNeeded":"تبریک میگویم! شما پازل {puzzleNumber} را به پایان رساندید. ( با این حال، شما میتوانستید تنها \n{{بلوکها#} other {یک بلوک} numBlocks, plural, one} \nرا استفاده نمایید.)",
   "numLinesOfCodeWritten":"شما همین الان  {numLines, plural, one {1 خط} other {# خط}} کد نوشتید!",
   "puzzleTitle":"پازل {puzzle_number}  از{stage_total}",

@@ -11,6 +11,7 @@
   "dots":"pixeles",
   "drawASquare":"dibujar un cuadrado",
   "drawATriangle":"draw a triangle",
+  "drawACircle":"draw a circle",
   "drawAHouse":"draw a house",
   "drawASnowman":"dibujar un muñeco de nieve",
   "heightParameter":"length",

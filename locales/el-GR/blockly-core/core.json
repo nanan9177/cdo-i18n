@@ -39,7 +39,7 @@
   "CONTROLS_IF_ELSE_TOOLTIP":"Πρόσθεσε μια τελική συνθήκη για όλες τις υπόλοιπες περιπτώσεις στον μπλοκ αν.",
   "CONTROLS_IF_HELPURL":"http:\/\/code.google.com\/p\/blockly\/wiki\/If_Then ΑΝ_ΤΟΤΕ",
   "CONTROLS_IF_IF_TOOLTIP":"Πρόσθεσε, αφαίρεσε ή αναδιέταξε τμήματα για να επανακαθορίσεις αυτό το πλακίδιο αν.",
-  "CONTROLS_IF_MSG_ELSE":"διαφορετικά",
+  "CONTROLS_IF_MSG_ELSE":"αλλιώς",
   "CONTROLS_IF_MSG_ELSEIF":"Αλλιως_ΑΝ",
   "CONTROLS_IF_MSG_IF":"εάν",
   "CONTROLS_IF_TOOLTIP_1":"Εάν η τιμή είναι αληθής, τότε εκτέλεσε μερικές εντολές.",
