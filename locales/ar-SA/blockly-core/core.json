@@ -26,7 +26,7 @@
   "CONTROLS_FLOW_STATEMENTS_TOOLTIP_BREAK":"اخرج من الحلقة الحالية.",
   "CONTROLS_FLOW_STATEMENTS_TOOLTIP_CONTINUE":"تخط ِما تبقى من هذه الحلقة، واستمر مع التكرار التالي.",
   "CONTROLS_FLOW_STATEMENTS_WARNING":"تحذير: يمكن استخدام هذه القطعة فقط داخل حلقة.",
-  "CONTROLS_FOREACH_HELPURL":"https:\/\/code.google.com\/p\/blockly\/wiki\/Loops#for_each",
+  "CONTROLS_FOREACH_HELPURL":"https:\/\/code.google.com\/p\/blockly\/wiki\/Loops#for_each\n",
   "CONTROLS_FOREACH_INPUT_INLIST":"في قائمة",
   "CONTROLS_FOREACH_INPUT_INLIST_TAIL":"",
   "CONTROLS_FOREACH_INPUT_ITEM":"لكل عنصر",

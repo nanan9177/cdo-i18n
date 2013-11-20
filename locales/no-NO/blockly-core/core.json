@@ -47,7 +47,7 @@
   "CONTROLS_IF_TOOLTIP_3":"Hvis det første stemmer, så utfør den første blokken av instruksjoner. Ellers, hvis det andre stemmer, utfør den andre blokken av instruksjoner.",
   "CONTROLS_IF_TOOLTIP_4":"Hvis den første verdien er sann, så utfør den første blokken med setninger. Ellers, hvis den andre verdien er sann, så utfør den andre blokken med setninger. Hvis ingen av verdiene er sanne, så utfør den siste blokken med setninger.",
   "CONTROLS_REPEAT_HELPURL":"http:\/\/en.wikipedia.org\/wiki\/For_loop",
-  "CONTROLS_REPEAT_INPUT_DO":"utfør",
+  "CONTROLS_REPEAT_INPUT_DO":"gjør",
   "CONTROLS_REPEAT_TITLE":"gjenta %1 ganger",
   "CONTROLS_REPEAT_TITLE_REPEAT":"gjenta",
   "CONTROLS_REPEAT_TITLE_TIMES":"ganger",
