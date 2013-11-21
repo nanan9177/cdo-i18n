@@ -28,7 +28,7 @@
   get_a_certificate_message: "Wyślemy Ci certyfikat oraz informację, jak <a href='/learn'>Kontynuować naukę po tej godzinie (One Hour)</a>"
   thanks_for_submitting: "Dziękujemy za przesłanie!"
   beyond_hour_message: "Tutaj znajdziesz więcej informacji, jak <a href='/learn'>kontynuować naukę po tej godzinie (One Hour)</a>"
-  leaderboards_for_hoc: "Leaderboards for the Hour of Code."
+  leaderboards_for_hoc: "Liderzy Hour of Code."
   country: "Kraj"
   city: "Miasto"
   gender: "Płeć"
