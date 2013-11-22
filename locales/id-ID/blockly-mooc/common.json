@@ -23,7 +23,7 @@
   "hintTitle":"Petunjuk:",
   "levelIncompleteError":"Anda telah gunakan semua jenis blok yang diperlukan  tetapi tidak dengan cara yang tepat.",
   "listVariable":"list",
-  "missingBlocksErrorMsg":"Cobalah satu atau lebih blok di bawah ini untuk memecahkan teka-teki ini.",
+  "missingBlocksErrorMsg":"Cobalah satu atau lebih blok di bawah untuk memecahkan teka-teki ini.",
   "nextLevel":"Horee! Anda menyelesaikan teka-teki {puzzleNumber}.",
   "nextLevelTrophies":"Horee! Anda menyelesaikan teka-teki {puzzleNumber} dan memenangkan {numTrophies, plural, satu {a trophy} other {trophies #}}.",
   "nextStage":"Horee! Anda menyelesaikan tahap {stageNumber}.",
