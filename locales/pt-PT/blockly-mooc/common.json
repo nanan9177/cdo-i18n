@@ -17,7 +17,7 @@
   "emptyBlocksErrorMsg":"Os blocos \"Repetir\" ou \"Se\" precisam de incluir blocos dentro para funcionar. Garante que o bloco interno encaixa correctamente dentro do bloco que o contém.",
   "finalStage":"Parabéns! Completaste a etapa final.",
   "finalStageTrophies":"Parabéns! Completaste a etapa final e ganhaste {numTrophies, plural, one {troféu} other {# troféus}}.",
-  "generatedCodeInfo":"As peças de puzzle do teu programa podem ser representados em Javascript, a linguagem de programação mais amplamente adoptada no mundo:",
+  "generatedCodeInfo":"As peças de puzzle do teu programa podem ser representadas em Javascript, a linguagem de programação mais amplamente adoptada no mundo:",
   "hashError":"Desculpa, '%1' não corresponde a qualquer programa gravado.",
   "help":"Ajuda",
   "hintTitle":"Dica:",
@@ -52,6 +52,6 @@
   "typeHint":"Repara que os parêntesis e ponto e vírgula são necessários.",
   "workspaceHeader":"Monta os teus blocos aqui: ",
   "infinity":"Infinito",
-  "rotateText":"Rode o seu dispositivo.",
-  "orientationLock":"Desative o bloqueio de orientação em configurações do dispositivo."
+  "rotateText":"Roda o teu dispositivo.",
+  "orientationLock":"Desativa o bloqueio de orientação em configurações do dispositivo."
 }
