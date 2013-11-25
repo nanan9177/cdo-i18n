@@ -6,6 +6,7 @@
   "catProcedures":"Functions",
   "catTurtle":"Actions",
   "catVariables":"Variables",
+  "catCondition":"Conditionals",
   "colourTooltip":"Changes the color of the pencil.",
   "degrees":"độ",
   "dots":"pixels",

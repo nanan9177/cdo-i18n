@@ -82,7 +82,7 @@
   "LISTS_GET_INDEX_GET_REMOVE":"Götür və sil",
   "LISTS_GET_INDEX_LAST":"axırıncı",
   "LISTS_GET_INDEX_RANDOM":"təsadüfi",
-  "LISTS_GET_INDEX_REMOVE":"Sil",
+  "LISTS_GET_INDEX_REMOVE":"yığışdır",
   "LISTS_GET_INDEX_TAIL":"",
   "LISTS_GET_INDEX_TOOLTIP_GET_FIRST":"Siyahının ilk elementini qaytarır.",
   "LISTS_GET_INDEX_TOOLTIP_GET_FROM_END":"Siyahıdan təyin olunmuş indeksli elementi qaytarır. #1 son elementdir.",
