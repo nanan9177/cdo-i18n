@@ -14,6 +14,7 @@
   "drawATriangle":"создать треугольник",
   "drawACircle":"создать круг",
   "drawAHouse":"нарисовать дом",
+  "drawATree":"draw a tree",
   "drawASnowman":"нарисуйте снеговика",
   "heightParameter":"height",
   "hideTurtle":"скрыть артиста",

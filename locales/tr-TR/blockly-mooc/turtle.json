@@ -14,6 +14,7 @@
   "drawATriangle":"bir üçgen çizin",
   "drawACircle":"bir daire çizin",
   "drawAHouse":"bir ev çiz",
+  "drawATree":"draw a tree",
   "drawASnowman":"kardanadam çiz",
   "heightParameter":"Yükseklik",
   "hideTurtle":"Sanatçı gizle",

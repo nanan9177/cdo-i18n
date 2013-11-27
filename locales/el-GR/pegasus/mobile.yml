@@ -27,6 +27,9 @@
   enter_valid_email: "Παρακαλώ δώσε μια έγκυρη διεύθυνση email"
   get_a_certificate_message: "Θα σας στείλουμε ένα πιστοποιητικό και πληροφορίες σχετικά με το πώς να <a href='/learn'> Μάθετε πέρα από τη μία Ώρα</a>"
   thanks_for_submitting: "Ευχαριστούμε για την υποβολή!"
+  if_you_enjoyed: "If you enjoyed learning, ask friends to try it too!  We want the whole world to learn."
+  personalize_certificate: "Personalize your certificate"
+  share_achievement: "Share your achievement"
   beyond_hour_message: "Εδώ βρίσκονται περισσότερες πληροφορίες σχετικά με το πώς να <a href='/learn'>Μάθετε πέρα από τη μία Ώρα</a>"
   leaderboards_for_hoc: 'Πίνακες με τις ψηλότερες βαθμολογίες για το "Μια Ώρα Κώδικα".'
   country: "Χώρα"

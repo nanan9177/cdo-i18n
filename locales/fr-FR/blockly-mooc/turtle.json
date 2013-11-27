@@ -14,6 +14,7 @@
   "drawATriangle":"dessiner un triangle",
   "drawACircle":"dessiner un cercle",
   "drawAHouse":"dessiner une maison",
+  "drawATree":"draw a tree",
   "drawASnowman":"dessiner un bonhomme de neige",
   "heightParameter":"hauteur",
   "hideTurtle":"masquer l'artiste",
