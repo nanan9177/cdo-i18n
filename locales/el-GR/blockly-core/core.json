@@ -69,7 +69,7 @@
   "INLINE_INPUTS":"Ενσωμάτωσε τις εισόδους",
   "LISTS_CREATE_EMPTY_HELPURL":"λίστα",
   "LISTS_CREATE_EMPTY_TITLE":"δημιούργησε μια άδεια λίστα",
-  "LISTS_CREATE_EMPTY_TOOLTIP":"Επιστρέφει μια λίστα, με μήκος 0, η οποία δεν περιέχει εγγραφές δεδομένων",
+  "LISTS_CREATE_EMPTY_TOOLTIP":"Επιστρέφει μια λίστα, με μήκος 0, η οποία δεν περιέχει δεδομένα",
   "LISTS_CREATE_WITH_CONTAINER_TITLE_ADD":"λίστα",
   "LISTS_CREATE_WITH_CONTAINER_TOOLTIP":"Προσθήκη, αφαίρεση, ή αναδιάταξη ενοτήτων για την αναμόρφωση αυτού του πλακιδίου λίστας",
   "LISTS_CREATE_WITH_INPUT_WITH":"δημιουργία λίστας με",

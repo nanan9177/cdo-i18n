@@ -37,7 +37,7 @@
   "removeAndAvoidTheCow":"remove 1 e evita a vaca",
   "removeN":"remove {shovelfuls}",
   "removePile":"Remove a pilha",
-  "removeStack":"remove stack of {shovelfuls} piles",
+  "removeStack":"remove o monte de pilhas de {shovelfuls}",
   "removeSquare":"remove o quadrado",
   "repeatUntil":"repete até",
   "repeatUntilBlocked":"enquanto houver caminho em frente",
