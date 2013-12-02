@@ -37,7 +37,7 @@
   "removeAndAvoidTheCow":"fjern 1 og unngå kua",
   "removeN":"fjern {shovelfuls}",
   "removePile":"fjern haugen",
-  "removeStack":"Fjern haugen med {shovelfuls}",
+  "removeStack":"Fjern raden med med {shovelfuls} hauger",
   "removeSquare":"fjern kvadratet",
   "repeatUntil":"gjenta til",
   "repeatUntilBlocked":"så lenge det er en sti foran",

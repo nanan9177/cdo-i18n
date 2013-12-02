@@ -14,7 +14,7 @@
   "continue":"Pokračovat",
   "dialogCancel":"Storno",
   "dialogOK":"Ok",
-  "emptyBlocksErrorMsg":"Bloky \"Opakovat\" a \"Pokud\" musí mít v sobě další bloky, aby fungovaly.Ujisti se, že vložené bloky jsou skutečně uvitř daných bloků.",
+  "emptyBlocksErrorMsg":"Bloky \"Opakovat\" a \"Pokud\" musí mít v sobě další bloky, aby fungovaly.Ujisti se, že vložené bloky jsou skutečně uvnitř daných bloků.",
   "finalStage":"Dobrá práce! Dokončil si poslední fázi.",
   "finalStageTrophies":"Dobrá práce! Dokončil si poslední fázi a vyhrál {numTrophies, plural, one {trofej} other {# trofejí}}.",
   "generatedCodeInfo":"Bloky v tvém programu mohou být reprezentovány i v javaScriptu, nejrozšířenějším programovacím jazyku světa:",

@@ -1,7 +1,7 @@
 {
   "blocksUsed":"Blok yang digunakan: %1",
   "catColour":"Warna",
-  "catControl":"loop",
+  "catControl":"Loop",
   "catMath":"Matematika",
   "catProcedures":"Fungsi",
   "catTurtle":"Aksi",
@@ -32,7 +32,7 @@
   "penDown":"pensil kebawah",
   "penTooltip":"Mengangkat atau menurunkan pensil, mulai atau berhenti menggambar.",
   "penUp":"pensil keatas",
-  "setColour":"atur warna",
+  "setColour":"Atur warna",
   "setWidth":"atur lebar",
   "showMe":"Tunjukkan padaku",
   "showTurtle":"tampilkan artis",
