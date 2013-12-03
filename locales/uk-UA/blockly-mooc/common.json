@@ -25,7 +25,7 @@
   "listVariable":"список",
   "missingBlocksErrorMsg":"Щоб розв'язати завдання, спробуйте один або кілька блоків нижче.",
   "nextLevel":"Вітання! Завершено завдання {puzzleNumber}.",
-  "nextLevelTrophies":"Вітання! Ви завершили завдання {puzzleNumber} та виграли  {numTrophies, plural, one {a trophy} other {# trophies}}.",
+  "nextLevelTrophies":"Вітання! Ви завершили завдання {puzzleNumber} та виграли  {numTrophies, plural, one {трофей} other {# трофеїв}}.",
   "nextStage":"Вітаємо! Завершено етап {stageNumber}.",
   "nextStageTrophies":"Вітаємо! Ви завершили етап  {stageNumber} та виграли {numTrophies, plural, one {трофей} other {# трофеї}}.",
   "numBlocksNeeded":"Вітаємо! Ви завершили завдання  {puzzleNumber}. (Проте, його можна було вирішити, використавши лише {numBlocks, plural, one {1 блок} other {# блоки}}.)",

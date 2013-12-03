@@ -17,7 +17,7 @@
   "emptyBlocksErrorMsg":"La \"Repetició\" o el \"Si\" de si bloquejar necessita tenir altres blocs dins per a treballar. Assegureu-vos que el bloc interior encaixa bé dins del bloc que conté.",
   "finalStage":"Enhorabona! Has complert l'etapa final.",
   "finalStageTrophies":"Enhorabona! Has compert l'etapa final i guanyat {numTrophies, plural, one {un trofeu} other {# trofeus}}.",
-  "generatedCodeInfo":"The blocks for your program can also be represented in JavaScript, the world's most widely adopted programming language:",
+  "generatedCodeInfo":"Els blocs del teu programa poden ser també representats en Javascript, el llenguatge de programació més extés al món:",
   "hashError":"Ho sentim, '%1' no correspon amb ningun programa guardat.",
   "help":"Ajuda",
   "hintTitle":"Consell:",
@@ -51,7 +51,7 @@
   "typeFuncs":"Funcions disponibles:%1",
   "typeHint":"Tingueu en compte que els parèntesis i els punts i coma són obligatoris.",
   "workspaceHeader":"Monta els teus blocs aquí: ",
-  "infinity":"Infinity",
-  "rotateText":"Rotate your device.",
-  "orientationLock":"Turn off orientation lock in device settings."
+  "infinity":"Infinit",
+  "rotateText":"Rota el teu dispositiu.",
+  "orientationLock":"Desactiva el bloqueig d'orientació en els ajustos del teu dispositiu."
 }
