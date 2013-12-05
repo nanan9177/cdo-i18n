@@ -28,7 +28,7 @@
   "nextLevelTrophies":"Tebrikler! Bulmaca {puzzleNumber} tamamlandı ve {numTrophies, plural, one {bir kupa} other {#  kupa}} kazandınız.",
   "nextStage":"Tebrikler! Kademe {stageNumber} tamamlandı.",
   "nextStageTrophies":"Tebrikler! Kademe {stageNumber} tamamlandı ve {numTrophies, plural, one {bir kupa} other {# kupa}} kazandınız.",
-  "numBlocksNeeded":"Tebrikler! Bulmaca {puzzleNumber} tamamlandı. (Ancak, sadece {numBlocks, plural, {1 blok} diğer {# blok}} kullanmış olabilirdiniz.)",
+  "numBlocksNeeded":"Tebrikler! Bulmaca {puzzleNumber} tamamlandı. (Ancak, sadece {numBlocks, plural, {1 blok} other {# blok}} kullanmış olabilirdiniz.)",
   "numLinesOfCodeWritten":"Tam olarak {numLines, plural, one {1 satır} other {# satır}} kod yazdınız!",
   "puzzleTitle":"Bulmaca {puzzle_number} \/ {stage_total}",
   "reinfFeedbackMsgWithImage":"Çizimin buna benziyor mu ?\"Yeniden Dene\" butonuna basarak çizimini görebilirsin.",

@@ -1,5 +1,5 @@
 "ca-ES":
-  hello: "Hola món"
+  hello: "Hola Món"
   computer_science: "Informàtica"
   computer_science_edweek: "Setmana de l'Educació en Informàtica"
   csedweek_dates: "Desembre 9-15,2013"
@@ -71,4 +71,4 @@
   boy: "Noi"
   help_recruit_coders: "Ajuda'ns reclutar més codificadors per al teu equip!"
   help_recruit: "Ajuda'ns reclutar més codificadors!"
-  lines_of_code: "OVER <b># LINES OF CODE</b> WRITTEN TO DATE."
+  lines_of_code: "MÉS DE <b># LINES OF CODE</b> LÍNIES DE CODI ESCRITES FINS LA DATA."

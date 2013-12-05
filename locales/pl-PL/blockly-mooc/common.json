@@ -44,7 +44,7 @@
   "tooManyBlocksMsg":"Ta łamigłówka może być rozwiązana przy pomocy bloków <x id='START_SPAN'\/><x id='END_SPAN'\/>.",
   "tooMuchWork":"Spowodowałeś, że miałem dużo pracy. Czy możesz zmniejszyć liczbę powtórzeń?",
   "toolboxHeader":"Bloki",
-  "totalNumLinesOfCodeWritten":"Cały czas: {numLines, liczba mnoga, jedna {1 linia} inne {# linii}} kodu.",
+  "totalNumLinesOfCodeWritten":"Najlepszy zanotowany dotąd wynik: {numLines, plural, one {1 linia} other {# linii}} kodu.",
   "tryAgain":"Spróbuj ponownie",
   "backToPreviousLevel":"Wróć do poprzedniego poziomu",
   "typeCode":"Wpisz swój JavaScript kod poniżej tych instrukcji.",

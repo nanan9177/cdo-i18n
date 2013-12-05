@@ -37,7 +37,7 @@
   "removeAndAvoidTheCow":"enlevez 1 et évitez la vache",
   "removeN":"supprimer {shovelfuls}",
   "removePile":"Retirez la pile",
-  "removeStack":"remove stack of {shovelfuls} piles",
+  "removeStack":"retirer plusieurs tas {shovelfuls}",
   "removeSquare":"retirer le carré",
   "repeatUntil":"répéter jusqu'à ce que",
   "repeatUntilBlocked":"Tant que chemin tout droit",
