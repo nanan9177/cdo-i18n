@@ -47,7 +47,7 @@
   "CONTROLS_IF_TOOLTIP_3":"Əgər birinci qiymət doğrudursa, onda birinci əmrlər blokunu yerinə yetir. Əks halda əgər ikinci qiymət doğrudursa, onda ikinci əmrlər blokunu yerinə yetir.",
   "CONTROLS_IF_TOOLTIP_4":"Əgər birinci qiymət doğrudursa, onda birinci əmrlər blokunu yerinə yetir. Əks halda əgər ikinci qiymət doğrudursa, onda ikinci əmrlər blokunu yerinə yetir. Əgər qiymətlərdən heç biri doğru deyilsə, onda axırıncı əmrlər blokunu yerinə yetir.",
   "CONTROLS_REPEAT_HELPURL":"http:\/\/en.wikipedia.org\/wiki\/For_loop",
-  "CONTROLS_REPEAT_INPUT_DO":"icra et",
+  "CONTROLS_REPEAT_INPUT_DO":"et",
   "CONTROLS_REPEAT_TITLE":"%1 dəfə təkrar et",
   "CONTROLS_REPEAT_TITLE_REPEAT":"təkrar et",
   "CONTROLS_REPEAT_TITLE_TIMES":"dəfə",
