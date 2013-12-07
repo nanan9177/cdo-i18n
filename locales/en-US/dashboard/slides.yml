@@ -3,6 +3,7 @@
 # 1) Numeric keys in Yaml are loaded as Fixnums, not strings.
 # 2) Rails' i18n can only look up string or symbol keys.
 # 3) Crowdin proofreaders are translating filepaths, despite being hidden.
+#
 en:
   slides:
     maze_intro:

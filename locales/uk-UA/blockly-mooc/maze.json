@@ -39,7 +39,7 @@
   "removePile":"видалити купу",
   "removeStack":"видалити купу з {shovelfuls} елементів",
   "removeSquare":"видалити квадрат",
-  "repeatUntil":"повторювати доки",
+  "repeatUntil":"повторювати до",
   "repeatUntilBlocked":"поки є шлях вперед",
   "repeatUntilFinish":"повторювати до кінця",
   "turnLeft":"повернути ліворуч",
