@@ -269,7 +269,7 @@
   "PROCEDURES_HIGHLIGHT_DEF":"Визначення функції підсвітки",
   "PROCEDURES_IFRETURN_TOOLTIP":"Якщо значення істине, то повернути друге значення.",
   "PROCEDURES_IFRETURN_WARNING":"Попередження: Цей блок може використовуватися лише в межах визначення функції.",
-  "PROCEDURES_MUTATORARG_TITLE":"ім'я входу:",
+  "PROCEDURES_MUTATORARG_TITLE":"назва параметра:",
   "PROCEDURES_MUTATORCONTAINER_TITLE":"вхід",
   "REMOVE_COMMENT":"Видалити коментар",
   "RENAME_VARIABLE":"Перейменувати змінну...",
