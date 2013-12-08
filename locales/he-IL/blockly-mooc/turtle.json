@@ -29,9 +29,9 @@
   "moveTooltip":"מזיז את האמן קדימה או אחורה לפי הכמות שצוינה.",
   "notBlackColour":"צריך להשתמש בצבע ששונה משחור בשביל החידה הזאת.",
   "numBlocksNeeded":"את החידה הזאת אפשר לפתור עם %1 בלוקים. השתמשת ב %2.",
-  "penDown":"pencil down",
+  "penDown":"הורד את העיפרון",
   "penTooltip":"מרים או מוריד את העפרון, כדי להתחיל או להפסיק לצייר.",
-  "penUp":"pencil up",
+  "penUp":"הרם את העיפרון",
   "setColour":"קבע צבע",
   "setWidth":"קבע רוחב",
   "showMe":"הראה לי",
@@ -39,9 +39,9 @@
   "tooFewColours":"צריך להשתמש בלפחות %1 צבעים שונים בשביל החידה הזאת. השתמשת רק ב %2.",
   "turnLeft":"פנה שמאלה",
   "turnRight":"פנה ימינה",
-  "turnRightTooltip":"Turns the artist right by the specified angle.",
-  "turnTooltip":"Turns the artist left or right by the specified number of degrees.",
-  "turtleVisibilityTooltip":"Makes the artist visible or invisible.",
-  "widthTooltip":"Changes the width of the pencil.",
-  "wrongColour":"Your picture is the wrong color.  For this puzzle, it needs to be %1."
+  "turnRightTooltip":"סובב את האמן ימינה במעלות המצויינות.",
+  "turnTooltip":"סובב את האמן שמאלה או ימינה במספר מסויים של מעלות.",
+  "turtleVisibilityTooltip":"הפוך את האמן לנראה או בלתי-נראה.",
+  "widthTooltip":"שנה או עובי העיפרון.",
+  "wrongColour":"התמונה בצבע לא נכון. לחידה הזאת, היא צריכה להיות %1."
 }
