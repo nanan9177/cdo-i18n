@@ -93,6 +93,7 @@ be added here.
 
 - JSON files with a flat object mapping string keys to strings.
 - Files arranged in directories with full standard locale names.
+- See codeorg-messages.sh in our blockly-core fork for more details.
 
 ### Pegasus
 
