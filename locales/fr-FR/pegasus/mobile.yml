@@ -1,4 +1,4 @@
-"fr-FR":
+"fr":
   hello: "Bonjour tout le monde"
   computer_science: "Informatique"
   computer_science_edweek: "Semaine de l'éducation des sciences informatiques"
@@ -73,3 +73,8 @@
   help_recruit_coders: "Aidez-nous à recruter plus de programmeurs dans votre équipe !"
   help_recruit: "Aidez-nous à recruter plus de programmeurs !"
   lines_of_code: "PLUS DE <b># LIGNES DE CODE</b> ECRITES A CE JOUR."
+  lines_of_code_alt: "<b>#</b> LINES OF CODE WRITTEN BY STUDENTS"
+  who_has_done_hoc: "Who has done the #HourOfCode? @codeorg"
+  hoc_leaderboards: "The Hour of Code Leaderboards"
+  students_and_lines: "%{students} students have done the Hour of Code and written %{lines} lines of code."
+  start_hoc: "Start the Hour of Code now"

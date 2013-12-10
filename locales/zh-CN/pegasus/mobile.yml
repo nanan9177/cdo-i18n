@@ -72,3 +72,8 @@
   help_recruit_coders: "帮助我们招募更多的程序员来到你的团队 ！"
   help_recruit: "帮助我们招募更多的程序员 ！"
   lines_of_code: "至今已经写了<b># 行代码</b>。"
+  lines_of_code_alt: "<b>#</b> LINES OF CODE WRITTEN BY STUDENTS"
+  who_has_done_hoc: "Who has done the #HourOfCode? @codeorg"
+  hoc_leaderboards: "The Hour of Code Leaderboards"
+  students_and_lines: "%{students} students have done the Hour of Code and written %{lines} lines of code."
+  start_hoc: "Start the Hour of Code now"

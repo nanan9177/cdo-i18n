@@ -1,4 +1,4 @@
-"ko-KR":
+"ko":
   hello: "Hello world"
   computer_science: "컴퓨터과학(Computer Science, 정보과학)"
   computer_science_edweek: "컴퓨터과학(Computer Science, 정보과학) 교육 주간"
@@ -72,3 +72,8 @@
   help_recruit_coders: "우리 팀을 위해, 더 많은 사람 모으기!"
   help_recruit: "더 많은 사람을 우리에게!"
   lines_of_code: "지금까지 <b># LINES OF CODE</b> 를 작성했습니다."
+  lines_of_code_alt: "<b>#</b> 줄의 코드가 학생들에 의해 작성되었습니다"
+  who_has_done_hoc: "누가 #HourOfCode @codeorg 했을까?"
+  hoc_leaderboards: "Hour of Code 순위"
+  students_and_lines: "%{students}명의 학생들이 Hour of Code 를 수행하였고, %{lines}의 코드를 작성하였습니다."
+  start_hoc: "Hour of Code 를 지금 바로! 시작해 보세요!"

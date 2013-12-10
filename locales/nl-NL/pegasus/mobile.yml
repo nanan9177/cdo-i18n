@@ -1,4 +1,4 @@
-"nl-NL":
+"nl":
   hello: "Hallo wereld"
   computer_science: "Informatica"
   computer_science_edweek: "Week van het Informaticaonderwijs"
@@ -72,3 +72,8 @@
   help_recruit_coders: "Help ons meer programmeurs te vinden voor jouw team!"
   help_recruit: "Help ons meer programmeurs te vinden!"
   lines_of_code: "MEER DAN <b># REGELS CODE</b> GESCHREVEN TOT NU TOE."
+  lines_of_code_alt: "<b>#</b> LINES OF CODE WRITTEN BY STUDENTS"
+  who_has_done_hoc: "Who has done the #HourOfCode? @codeorg"
+  hoc_leaderboards: "The Hour of Code Leaderboards"
+  students_and_lines: "%{students} students have done the Hour of Code and written %{lines} lines of code."
+  start_hoc: "Start the Hour of Code now"

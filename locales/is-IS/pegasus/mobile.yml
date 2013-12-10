@@ -1,4 +1,4 @@
-"is-IS":
+"is":
   hello: "Halló heimur"
   computer_science: "Tölvunarfræði"
   computer_science_edweek: "Vika tölvunarfræði"
@@ -72,3 +72,8 @@
   help_recruit_coders: "Hjálpaðu okkur að fá fleiri kóðara í liðið þitt!"
   help_recruit: "Hjálpaðu okkur að fá fleiri kóðara!"
   lines_of_code: "MEIRA EN <b># LÍNUR AF KÓÐA</b> SKRIFAÐAR TIL ÞESSA."
+  lines_of_code_alt: "<b>#</b> LÍNUR AF KÓÐA SKRIFAÐAR AF NEMENDUM"
+  who_has_done_hoc: "Hver hefur lokið #HourOfCode? @codeorg"
+  hoc_leaderboards: "Topplistar fyrir Kóðun í klukkustund"
+  students_and_lines: "%{students} nemendur hafa lokið Kóðun í klukkustund og skrifað %{lines} línur af kóða."
+  start_hoc: "Byrjaðu núna á Kóðun í klukkustund"

@@ -3,7 +3,7 @@
     maze_intro:
       1:
         image: "notes/hoc1_1.jpg"
-        text: "Vítej u tvé první Hodiny kódu! Pojďme se ponořit do pravého programování."
+        text: "Vítej na tvé první hodině kódu! Pojďme se ponořit do první ochutnávky z programování."
       2:
         image: "notes/hoc1_2.jpg"
         text: "Budeme používat Blockly, vizuální programovaní jazyk, kde píšeš kód pomocí skládání bloků dohromady."

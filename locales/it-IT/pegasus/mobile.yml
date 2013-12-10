@@ -1,4 +1,4 @@
-"it-IT":
+"it":
   hello: "Ciao Mondo"
   computer_science: "Informatica"
   computer_science_edweek: "Settimana di Educazione dell'Informatica"
@@ -72,3 +72,8 @@
   help_recruit_coders: "Aiutaci a reclutare più scrittori di codice per la tua squadra!"
   help_recruit: "Aiutaci a reclutare più scrittori di codice!"
   lines_of_code: "OLTRE <b># LINEE DI CODICE</b> SCRITTO IN DATA."
+  lines_of_code_alt: "<b>#</b> LINEE DI CODICE SCRITTE DAGLI STUDENTI"
+  who_has_done_hoc: "Chi ha fatto il #HourOfCode? @codeorg"
+  hoc_leaderboards: "Classifiche L'ora del codice "
+  students_and_lines: "% {studenti} studenti hanno fatto l'ora di codice e scritto % {linee} linee di codice."
+  start_hoc: "Comincia l'ora del codice adesso"

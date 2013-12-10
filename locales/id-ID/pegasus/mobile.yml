@@ -1,4 +1,4 @@
-"id-ID":
+"id":
   hello: "Halo dunia"
   computer_science: "Ilmu komputer"
   computer_science_edweek: "Minggu pendidikan ilmu komputer"
@@ -72,3 +72,8 @@
   help_recruit_coders: "Bantu kami merekrut lebih banyak orang untuk bergabung dengan tim Anda!"
   help_recruit: "Bantu kami merekrut lebih banyak orang untuk bergabung!"
   lines_of_code: "Sebanyak <b># baris kode</b> telah ditulis sampai saat ini."
+  lines_of_code_alt: "<b>#</b> LINES OF CODE WRITTEN BY STUDENTS"
+  who_has_done_hoc: "Who has done the #HourOfCode? @codeorg"
+  hoc_leaderboards: "The Hour of Code Leaderboards"
+  students_and_lines: "%{students} students have done the Hour of Code and written %{lines} lines of code."
+  start_hoc: "Start the Hour of Code now"

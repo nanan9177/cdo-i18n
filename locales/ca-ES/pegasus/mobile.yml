@@ -1,4 +1,4 @@
-"ca-ES":
+"ca":
   hello: "Hola Món"
   computer_science: "Informàtica"
   computer_science_edweek: "Setmana de l'Educació en Informàtica"
@@ -72,3 +72,8 @@
   help_recruit_coders: "Ajuda'ns reclutar més codificadors per al teu equip!"
   help_recruit: "Ajuda'ns reclutar més codificadors!"
   lines_of_code: "MÉS DE <b># LINES OF CODE</b> LÍNIES DE CODI ESCRITES FINS LA DATA."
+  lines_of_code_alt: "<b>#</b> LINES OF CODE WRITTEN BY STUDENTS"
+  who_has_done_hoc: "Who has done the #HourOfCode? @codeorg"
+  hoc_leaderboards: "The Hour of Code Leaderboards"
+  students_and_lines: "%{students} students have done the Hour of Code and written %{lines} lines of code."
+  start_hoc: "Start the Hour of Code now"

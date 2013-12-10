@@ -1,4 +1,4 @@
-"uk-UA":
+"uk":
   hello: "Привіт, світе"
   computer_science: "Інформатика"
   computer_science_edweek: "Тиждень комп'ютерної освіти"
@@ -72,3 +72,8 @@
   help_recruit_coders: "Допоможіть залучити більше програмістів у свою команду!"
   help_recruit: "Допоможіть залучити більше програмістів!"
   lines_of_code: "ДОСІ НАПИСАНО <b># РЯДКІВ КОДУ</b>."
+  lines_of_code_alt: "УЧНЯМИ НАПИСАНО <b>#</b> РЯДКІВ КОДУ"
+  who_has_done_hoc: "Хто пройшов Годину коду #HourOfCode? @codeorg"
+  hoc_leaderboards: "Лідери Години коду"
+  students_and_lines: "%{students} учнів пройшли Годину коду і написали  %{lines} рядків коду."
+  start_hoc: "Почати Годину коду"

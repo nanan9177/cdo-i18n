@@ -207,7 +207,7 @@
         text: 'To use your function with parameters, click on the functions category and drag out your "draw a triangle with length" function.'
       8:
         image: "notes/stage15_8.jpg"
-        text: "Now you can use the math block to input different numbers to draw triangles of different sizes."
+        text: "现在你可以使用数学块来输入不同的数字来绘制不同大小的三角形。"
     hoc_wrapup:
       1:
         image: "notes/hoc6_1.jpg"

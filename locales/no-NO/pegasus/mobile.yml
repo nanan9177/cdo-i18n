@@ -1,4 +1,4 @@
-"no-NO":
+"no":
   hello: "Hei, verden"
   computer_science: "Informatikk"
   computer_science_edweek: "Computer Science Education Week"
@@ -72,3 +72,8 @@
   help_recruit_coders: "Hjelp oss med å finne flere kodere til laget ditt!"
   help_recruit: "Hjelp oss med å rekruttere flere kodere!"
   lines_of_code: "OVER <b># KODELINJER</b> skrevet HITTIL."
+  lines_of_code_alt: "<b>#</b> LINES OF CODE WRITTEN BY STUDENTS"
+  who_has_done_hoc: "Who has done the #HourOfCode? @codeorg"
+  hoc_leaderboards: "The Hour of Code Leaderboards"
+  students_and_lines: "%{students} students have done the Hour of Code and written %{lines} lines of code."
+  start_hoc: "Start the Hour of Code now"

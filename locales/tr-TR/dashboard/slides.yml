@@ -43,7 +43,7 @@
     artist_intro:
       1:
         image: "notes/stage5_1.jpg"
-        text: "Hi, I'm JR! Every race car team need computer scientists to win. They analyze data from the car to make it go faster."
+        text: "Merhaba, ben JR! Her yarış araba takımı kazanmak için bilgisayar mühendislerine ihtiyaç duyar. Arabanın daha hızlı gitmesi için verileri analiz eder."
       2:
         image: "notes/stage5_2.jpg"
         text: "In these puzzles, you'll be an artist that draws a line behind them everywhere they go."

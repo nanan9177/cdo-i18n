@@ -110,7 +110,7 @@
   "LISTS_GET_SUBLIST_TOOLTIP":"Прави копију одређеног дела листе.",
   "LISTS_INDEX_OF_FIRST":"наћи прво појавлјиванје ставке",
   "LISTS_INDEX_OF_HELPURL":"https:\/\/code.google.com\/p\/blockly\/wiki\/Lists#Getting_Items_from_a_List",
-  "LISTS_INDEX_OF_LAST":"наћи последнје појавлјиванје ставке",
+  "LISTS_INDEX_OF_LAST":"пронаћи последње појављивање ставке",
   "LISTS_INDEX_OF_TOOLTIP":"Враћа однос првог\/последнјег појавлјиванја ставке у листи. Враћа 0 ако се текст не наће.",
   "LISTS_INLIST":"у листи",
   "LISTS_IS_EMPTY_HELPURL":"https:\/\/code.google.com\/p\/blockly\/wiki\/Lists#is_empty",
@@ -321,8 +321,8 @@
   "TEXT_LENGTH_TITLE":"дужина %1",
   "TEXT_LENGTH_TOOLTIP":"Враћа број слова (уклјучујући размаке) у датом тексту.",
   "TEXT_PRINT_HELPURL":"https:\/\/code.google.com\/p\/blockly\/wiki\/Text#Finding_text",
-  "TEXT_PRINT_TITLE":"принатати %1",
-  "TEXT_PRINT_TOOLTIP":"Принтати одређени текст, број друге вредности.",
+  "TEXT_PRINT_TITLE":"Одштампати %1",
+  "TEXT_PRINT_TOOLTIP":"Одштампати одређени текст, број друге вредности.",
   "TEXT_PROMPT_HELPURL":"https:\/\/code.google.com\/p\/blockly\/wiki\/Text#Getting_input_from_the_user",
   "TEXT_PROMPT_TOOLTIP_NUMBER":"Питај корисника за број.",
   "TEXT_PROMPT_TOOLTIP_TEXT":"Питај корисника да ти да нешто текста.",
@@ -345,5 +345,5 @@
   "VARIABLES_SET_HELPURL":"http:\/\/code.google.com\/p\/blockly\/wiki\/Variables#Set",
   "VARIABLES_SET_TAIL":"како би",
   "VARIABLES_SET_TITLE":"поставити",
-  "VARIABLES_SET_TOOLTIP":"Чини да варијабла буде једнака уносу."
+  "VARIABLES_SET_TOOLTIP":"Подеси ову промењиву да буде једнака уносу."
 }

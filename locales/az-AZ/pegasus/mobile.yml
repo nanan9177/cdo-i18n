@@ -1,4 +1,4 @@
-"az-AZ":
+"az":
   hello: "Salam, dünya"
   computer_science: "İnformatika"
   computer_science_edweek: "İnformatika təhsili həftəsi"
@@ -61,7 +61,7 @@
   continue_learning_header: "Bir saatdan daha çox öyrənməyə davam edin"
   continue_learning_body: "Seçimlər çoxdur. Siz öyrənmə prosesini onlayn və ya məktəbdə və ya yay məktəbində həyata keçirə bilərsiniz."
   learn_online: "Onlayn öyrənin"
-  learn_classes: "Yerli sinif tap"
+  learn_classes: "Yerli siniflər tapın"
   hoc_is_here: "#HourOfCode Kod Saatı gəldi - özünüz baxın! @codeorg"
   just_did_hoc: "Mən elə indicə #HourOfCode Kod Saatını bitirdim - özünüz baxın! @codeorg"
   learn_hoc: "Bir Kod Saatı öyrənin"
@@ -72,3 +72,8 @@
   help_recruit_coders: "Komandanıza daha çox proqramçı cəlb etməyimizə kömək edin!"
   help_recruit: "Daha çox proqramçı cəlb etməyimizə kömək edin!"
   lines_of_code: "BU GÜNƏ QƏDƏR <b># SƏTİRDƏN ÇOX KOD</b> YAZILIB."
+  lines_of_code_alt: "ŞAGİRDLƏR <b>#</b> SƏTİR KOD YAZILIB"
+  who_has_done_hoc: "#HourOfCode Kod Saatını kim bitirdi? @codeorg"
+  hoc_leaderboards: "Kod Saatı liderlər cədvəli"
+  students_and_lines: "%{students} tələbə Kod Saatını başa vurdu və %{lines} sətir kod yazdı."
+  start_hoc: "Kod Saatına indi başlayın"

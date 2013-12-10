@@ -1,4 +1,4 @@
-"el-GR":
+"el":
   hello: "Γεια σου κόσμε"
   computer_science: "Επιστήμη Υπολογιστών"
   computer_science_edweek: "Εβδομάδα Εκπαίδευσης στην Επιστήμη Υπολογιστών"
@@ -72,3 +72,8 @@
   help_recruit_coders: "Βοηθήστε μας να εντάξουμε περισσότερους προγραμματιστές στην ομάδα σας!"
   help_recruit: "Βοηθήστε μας να εντάξουμε περισσότερους προγραμματιστές!"
   lines_of_code: "ΠΑΝΩ ΑΠΟ <b># ΓΡΑΜΜΕΣ ΚΩΔΙΚΑ</b> ΕΧΟΥΝ ΓΡΑΦΤΕΙ ΜΕΧΡΙ ΣΗΜΕΡΑ."
+  lines_of_code_alt: "<b>#</b> LINES OF CODE WRITTEN BY STUDENTS"
+  who_has_done_hoc: "Who has done the #HourOfCode? @codeorg"
+  hoc_leaderboards: "The Hour of Code Leaderboards"
+  students_and_lines: "%{students} students have done the Hour of Code and written %{lines} lines of code."
+  start_hoc: "Start the Hour of Code now"

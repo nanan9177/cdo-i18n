@@ -59,7 +59,7 @@
   "CONTROLS_WHILEUNTIL_TOOLTIP_WHILE":"Hələ ki, qiymət \"doğru\"dur, bəzi əmrləri yerinə yetir.",
   "DELETE_BLOCK":"Bloku sil",
   "DELETE_X_BLOCKS":"%1 bloku sil",
-  "DISABLE_BLOCK":"Bloku söndür",
+  "DISABLE_BLOCK":"Bloku qeyri-aktiv et",
   "DUPLICATE_BLOCK":"Dublikatını düzəlt",
   "ENABLE_BLOCK":"Bloku aktivləşdir",
   "EXPAND_ALL":"Blokları aç",

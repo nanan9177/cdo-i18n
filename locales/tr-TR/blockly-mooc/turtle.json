@@ -40,7 +40,7 @@
   "turnLeft":"kadar sola dön",
   "turnRight":"kadar sağa dön",
   "turnRightTooltip":"Sanatçıyı belirtilen açı kadar döndürür.",
-  "turnTooltip":"Sanatçı sağa ya da sola derece belirtilen derecede döndürür.",
+  "turnTooltip":"Sanatçı sağa ya da sola derece belirtilen açıda döndürür.",
   "turtleVisibilityTooltip":"Sanatçıyı, görünür ya da görünmez yapar.",
   "widthTooltip":"Kalemin genişliğini değiştirir.",
   "wrongColour":"Resiminin rengi yanlış.  Bu bulmaca için %1 olması gerekir."

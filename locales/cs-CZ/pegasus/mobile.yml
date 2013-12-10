@@ -1,4 +1,4 @@
-"cs-CZ":
+"cs":
   hello: "Ahoj světe"
   computer_science: "Informatika"
   computer_science_edweek: "Týden vzdělávání Informatiky"
@@ -72,3 +72,8 @@
   help_recruit_coders: "Pomoz nám zaměstnat více programátorů do tvého týmu !"
   help_recruit: "Pomoz nám zaměstnat další programátory!"
   lines_of_code: "OVER <b># LINES OF CODE</b> WRITTEN TO DATE."
+  lines_of_code_alt: "<b>#</b> LINES OF CODE WRITTEN BY STUDENTS"
+  who_has_done_hoc: "Who has done the #HourOfCode? @codeorg"
+  hoc_leaderboards: "The Hour of Code Leaderboards"
+  students_and_lines: "%{students} students have done the Hour of Code and written %{lines} lines of code."
+  start_hoc: "Start the Hour of Code now"

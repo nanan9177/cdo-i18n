@@ -72,3 +72,8 @@
   help_recruit_coders: "Ajude-nos a recrutar mais codificadores para sua equipe!"
   help_recruit: "Ajude-nos a recrutar mais programadores!"
   lines_of_code: "<b>#</b> LINHAS DE CÓDIGO ESCRITAS ATÉ A DATA."
+  lines_of_code_alt: "<b>#</b> LINHAS DE CÓDIGO ESCRITAS POR ESTUDANTES"
+  who_has_done_hoc: "Quem participou da #HourOfCode? @codeorg"
+  hoc_leaderboards: "Classificações da Hour of Code"
+  students_and_lines: "%{students} estudantes têm participado da Hour of Code e escreveram %{lines} linhas de programação."
+  start_hoc: "Comece a Hour of Code agora"

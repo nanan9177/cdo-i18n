@@ -196,7 +196,7 @@
   "MATH_NUMBER_TOOLTIP":"Bir sayı.",
   "MATH_ONLIST_HELPURL":"",
   "MATH_ONLIST_OPERATOR_AVERAGE":"listenin ortalaması",
-  "MATH_ONLIST_OPERATOR_MAX":"en büyük sayı",
+  "MATH_ONLIST_OPERATOR_MAX":"listenin en büyüğü",
   "MATH_ONLIST_OPERATOR_MEDIAN":"Listenin medyanı",
   "MATH_ONLIST_OPERATOR_MIN":"Listenin en küçüğü",
   "MATH_ONLIST_OPERATOR_MODE":"Listenin modları",
