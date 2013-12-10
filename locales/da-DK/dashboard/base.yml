@@ -99,8 +99,6 @@
       Vejledningerne er sjove, visuelt gode og de lærer alle basis koncepterne ved Computer Videnskab ved brug af simple, vejledende og en spil-lignende oplevelse. Lær at programmere med hjælp fra Bill Gates, Mark Zuckerberg, Angry Birds og Plants Vs. Zombies! :-)
       
       %{name}
-      
-      
   follower:
     invite_sent: "Invitation sendt"
     added_teacher: "%{name} er tilføjet som din lærer"
@@ -150,7 +148,7 @@
       earned: "Du har opnået en pris! (Kun for amerikanske studerende)"
       not_earned_title: "Finish the tutorial, earn rewards (U.S. students only)"
       not_earned: |
-        Lær alle Computer Videnskabs koncepterne, saml alle %{num_trophies} trofæerne og opnå ægte priser. Du kan vælge mellem et $10 Itunes gavekord, 10GB af free Dropbox hukommelse, $10 i Skype Credits og et gratis spil. 
+        Lær alle Computer Videnskabs koncepterne, saml alle %{num_trophies} trofæerne og opnå ægte priser. Du kan vælge mellem et $10 Itunes gavekord, 10GB af free Dropbox hukommelse, $10 i Skype Credits og et gratis spil.
         Bemærk: Gaven er kun for gyldige amerikanske studerende, og mens lager haves.
       teacher:
         earned: "10 eller flere studerende har indsamlet alle %{num_trophies} trofæer. Du har vundet en $750 lærer præmie! (gælder kun amerikanske lærere)"

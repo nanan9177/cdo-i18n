@@ -92,7 +92,7 @@
   welcome_email:
     subject: "Unir-se a la meva classe (en Code.org)"
     body: |
-      Clica el següent enllaç per inscriure't als tutorials d'informàtica de Code.org (amb mi com el teu "professor"): 
+      Clica el següent enllaç per inscriure't als tutorials d'informàtica de Code.org (amb mi com el teu "professor"):
       
       %{link}
       
