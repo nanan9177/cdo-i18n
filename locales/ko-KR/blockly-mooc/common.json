@@ -44,6 +44,7 @@
   "tooManyBlocksMsg":"이 퍼즐은  <x id='START_SPAN'\/><x id='END_SPAN'\/> 블럭들을 사용해 해결할 수 있습니다.",
   "tooMuchWork":"작업을 너무 많이 해야 되요! 더 적게 반복하는 방법은 없을까요?",
   "toolboxHeader":"블럭",
+  "openWorkspace":"How It Works",
   "totalNumLinesOfCodeWritten":"지금까지: 코드 {numLines, plural, one {1 line} other {# 줄}} 사용.",
   "tryAgain":"다시 시도",
   "backToPreviousLevel":"이전 퍼즐",

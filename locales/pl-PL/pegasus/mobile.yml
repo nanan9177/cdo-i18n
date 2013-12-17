@@ -74,6 +74,6 @@
   lines_of_code: "PONAD <b># LINII KODU</b> NAPISANYCH DO TEJ PORY."
   lines_of_code_alt: "<b>#</b>LINIE KODU NAPISANE PRZEZ UCZNIÓW"
   who_has_done_hoc: "Kto wykonał #HourOfCode? @codeorg"
-  hoc_leaderboards: "Liderzy godziny programowania (Hour of Code)"
-  students_and_lines: "%{students} uczniów wykonało godzinę programowania (Hour of Code)  i napisało %{lines} linii kodu."
+  hoc_leaderboards: "Panel godziny programowania (Hour of Code)"
+  students_and_lines: "%{students} uczniów ukończyło godzinę programowania (Hour of Code)  i napisało %{lines} linii kodu."
   start_hoc: "Rozpocznij teraz godzinę programowania (One Hour of Code)"

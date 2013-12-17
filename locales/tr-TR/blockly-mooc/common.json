@@ -44,6 +44,7 @@
   "tooManyBlocksMsg":"Bu bulmaca <x id='START_SPAN'\/><x id='END_SPAN'\/> bloklarıyla çözülebilir.",
   "tooMuchWork":"Bana çok fazla iş yaptırdın!Daha az tekrar etmeyi deneyebilir misin ?",
   "toolboxHeader":"Bloklar",
+  "openWorkspace":"Nasıl Çalışır",
   "totalNumLinesOfCodeWritten":"Toplam: {numLines, plural, one {1 satır} other {# satır}} kod.",
   "tryAgain":"Tekrar dene",
   "backToPreviousLevel":"Önceki seviyeye dön",

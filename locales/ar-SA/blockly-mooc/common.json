@@ -44,6 +44,7 @@
   "tooManyBlocksMsg":"يمكن حل هذا اللغز مع <x id='END_SPAN'\/><x id='START_SPAN'\/> قطع.",
   "tooMuchWork":"جعلتني أقوم بالكثير من العمل!  هل بإمكانك أن تحاول جعل مرات التكرار أقل؟",
   "toolboxHeader":"قطع",
+  "openWorkspace":"How It Works",
   "totalNumLinesOfCodeWritten":"مجموع كل الاوقات: {numLines, plural, one {1 خط} other {# خطوط}}  من الكود البرمجي.",
   "tryAgain":"حاول مرة أخرى",
   "backToPreviousLevel":"الرجوع إلى المستوى السابق",

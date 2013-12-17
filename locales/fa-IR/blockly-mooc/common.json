@@ -44,6 +44,7 @@
   "tooManyBlocksMsg":"این پازل را میتوان با <x id='START_SPAN'\/><x id='END_SPAN'\/> قطعه حل کرد.",
   "tooMuchWork":"شما من را مجبور به انجام مقدار زیادی کار کردید. آیا میشود با تعداد تکرار کمتری سعی نمایید؟",
   "toolboxHeader":"بلوک",
+  "openWorkspace":"How It Works",
   "totalNumLinesOfCodeWritten":"در مجموع: {numLines, plural, one {1 خط} other {# خط}} از کد.",
   "tryAgain":"دوباره تلاش کن",
   "backToPreviousLevel":"برگرد به سطح قبلی",

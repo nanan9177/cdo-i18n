@@ -44,6 +44,7 @@
   "tooManyBlocksMsg":"This puzzle can be solved with <x id='START_SPAN'\/><x id='END_SPAN'\/> blocks.",
   "tooMuchWork":"You made me do a lot of work!  Could you try repeating fewer times?",
   "toolboxHeader":"Blocks",
+  "openWorkspace":"How It Works",
   "totalNumLinesOfCodeWritten":"All-time total: {numLines, plural, one {1 line} other {# lines}} of code.",
   "tryAgain":"மீண்டும் முயற்சி செய்",
   "backToPreviousLevel":"Back to previous level",

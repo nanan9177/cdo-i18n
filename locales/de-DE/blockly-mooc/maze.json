@@ -37,7 +37,7 @@
   "removeAndAvoidTheCow":"entferne 1 und vermeide die Kuh",
   "removeN":"Entferne {shovelfuls}",
   "removePile":"Haufen entfernen",
-  "removeStack":"remove stack of {shovelfuls} piles",
+  "removeStack":"entferne den Stapel von {shovelfuls} Haufen",
   "removeSquare":"Viereck entfernen",
   "repeatUntil":"wiederholen bis",
   "repeatUntilBlocked":"Solange ein Weg vor dir liegt",

@@ -44,6 +44,7 @@
   "tooManyBlocksMsg":"Puzzle ini dapat diselesaikan dengan <x id='START_SPAN'\/><x id='END_SPAN'\/> blok.",
   "tooMuchWork":"Anda membuatkan saya melakukan banyak kerja! Bolehkah anda cuba ulang beberapa kali sahaja?",
   "toolboxHeader":"blok",
+  "openWorkspace":"How It Works",
   "totalNumLinesOfCodeWritten":"Total masa keseluruhan: {numLines, plural, one {1 line} other {# lines}} kod.",
   "tryAgain":"Cuba lagi",
   "backToPreviousLevel":"Kembali ke tahap yang sebelumnya",

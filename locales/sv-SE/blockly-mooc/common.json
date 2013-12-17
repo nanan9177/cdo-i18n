@@ -44,6 +44,7 @@
   "tooManyBlocksMsg":"Detta pusslet kan lösas med <x id='START_SPAN'\/><x id='END_SPAN'\/> block.",
   "tooMuchWork":"Du fick mig att göra en hel del arbete!  Du kan försöka upprepa färre gånger?",
   "toolboxHeader":"Block",
+  "openWorkspace":"How It Works",
   "totalNumLinesOfCodeWritten":"Totalt: {numLines, plural, one {1 rad} other {# rader}} kod.",
   "tryAgain":"Försök igen",
   "backToPreviousLevel":"Gå tillbaka till föregående nivå",

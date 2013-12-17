@@ -44,6 +44,7 @@
   "tooManyBlocksMsg":"Deze puzzel kan worden opgelost met <x id='START_SPAN'\/><x id='END_SPAN'\/> blokken.",
   "tooMuchWork":"Je laat me veel werk doen! Kun je proberen minder te herhalen?",
   "toolboxHeader":"Blokken",
+  "openWorkspace":"How It Works",
   "totalNumLinesOfCodeWritten":"Totale tijd: {numBlocks, plural, one {1 regel} other {# regels}} code.",
   "tryAgain":"Probeer opnieuw",
   "backToPreviousLevel":"Terug naar het vorige niveau",

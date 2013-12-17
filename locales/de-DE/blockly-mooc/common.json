@@ -44,6 +44,7 @@
   "tooManyBlocksMsg":"Dieses Puzzle kann mit <x id='START_SPAN'\/><x id='END_SPAN'\/> Bausteinen gelöst werden.",
   "tooMuchWork":"Du lässt mich ganz schön arbeiten! Könntest du versuchen es seltener zu wiederholen?",
   "toolboxHeader":"Bausteine",
+  "openWorkspace":"How It Works",
   "totalNumLinesOfCodeWritten":"Insgesamt: {numLines, plural, one {Eine Zeile} other {# Zeilen}} Code.",
   "tryAgain":"Versuche es noch einmal",
   "backToPreviousLevel":"Zurück zum vorherigen Level",

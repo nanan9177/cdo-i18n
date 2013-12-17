@@ -44,6 +44,7 @@
   "tooManyBlocksMsg":"可以使用 < x id = 'START_SPAN' \/ > < x id = 'END_SPAN' \/ > 模块来解决这个谜题。",
   "tooMuchWork":"你让我多做了很多工作 ！你可以尝试少重复几次吗？",
   "toolboxHeader":"模块",
+  "openWorkspace":"How It Works",
   "totalNumLinesOfCodeWritten":"全程统计： {numLines, plural, one {1行} other {# 行}} 行代码。",
   "tryAgain":"再次尝试",
   "backToPreviousLevel":"返回到上一级",

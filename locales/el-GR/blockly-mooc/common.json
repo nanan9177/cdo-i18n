@@ -44,6 +44,7 @@
   "tooManyBlocksMsg":"Αυτό το παζλ μπορεί να λυθεί με  <x id='START_SPAN'\/><x id='END_SPAN'\/> μπλοκ.",
   "tooMuchWork":"Με ανάγκασες να κάνω πολλή δουλειά! Μπορείς με λιγότερες επαναλήψεις;",
   "toolboxHeader":"Μπλοκ",
+  "openWorkspace":"How It Works",
   "totalNumLinesOfCodeWritten":"Γενικό σύνολο: {numLines, plural, one {1 γραμμή} other {# γραμμές}} κώδικα.",
   "tryAgain":"Δοκίμασε ξανά",
   "backToPreviousLevel":"Πίσω στο προηγούμενο επίπεδο",

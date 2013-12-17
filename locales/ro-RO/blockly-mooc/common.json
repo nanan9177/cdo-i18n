@@ -44,6 +44,7 @@
   "tooManyBlocksMsg":"Acest puzzle poate fi rezolvat cu blocuri <x id='START_SPAN'\/> <x id='END_SPAN'\/>.",
   "tooMuchWork":"M-ai făcut să lucrez foarte mult! Ai putea să încerci să repeți de mai puține ori?",
   "toolboxHeader":"Blocuri",
+  "openWorkspace":"How It Works",
   "totalNumLinesOfCodeWritten":"Totalul all-time: {numLines, plural, one {1 linie} other {# linii}} de cod.",
   "tryAgain":"Încearcă din nou",
   "backToPreviousLevel":"Înapoi la nivelul anterior",

@@ -44,6 +44,7 @@
   "tooManyBlocksMsg":"Puedes resolver este puzzle con <x id='START_SPAN'\/><x id='END_SPAN'\/> bloques.",
   "tooMuchWork":"¡Me has hecho trabajar mucho!  ¿Podrías tratar de repetir menos veces?",
   "toolboxHeader":"Bloques",
+  "openWorkspace":"How It Works",
   "totalNumLinesOfCodeWritten":"Total: {numLines, plural, one {1 línea} other {# lineas}} de código.",
   "tryAgain":"Vuelve a intentarlo",
   "backToPreviousLevel":"Volver al nivel anterior",

@@ -44,6 +44,7 @@
   "tooManyBlocksMsg":"Denne oppgaven kan løses med <x id='START_SPAN'\/><x id='END_SPAN'\/> blokker.",
   "tooMuchWork":"Du fikk meg til å gjøre masse arbeid! Kan du forsøke med mindre repetisjon?",
   "toolboxHeader":"Blokker",
+  "openWorkspace":"How It Works",
   "totalNumLinesOfCodeWritten":"Totalt: {numLines, plural, one {1 linje} other {# linjer}} med kode.",
   "tryAgain":"Forsøk igjen",
   "backToPreviousLevel":"Tilbake til forrige nivå",

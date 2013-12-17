@@ -44,6 +44,7 @@
   "tooManyBlocksMsg":"Ова се слагалица може решити са <x id='START_SPAN'\/><x id='END_SPAN'\/> блоковима.",
   "tooMuchWork":"Чините да ја радим пуно посла! Можете ли покушати понавлјати више пута?",
   "toolboxHeader":"Блокови",
+  "openWorkspace":"How It Works",
   "totalNumLinesOfCodeWritten":"Укупно : {numLines, plural, one {1 line} other {# lines}} кода.",
   "tryAgain":"Покушај поново",
   "backToPreviousLevel":"Натраг на претходни ниво",

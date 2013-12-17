@@ -39,7 +39,7 @@
   "CONTROLS_IF_ELSE_TOOLTIP":"Cuối cùng, khi không điều kiện nào đúng.",
   "CONTROLS_IF_HELPURL":"http:\/\/code.google.com\/p\/blockly\/wiki\/If_Then",
   "CONTROLS_IF_IF_TOOLTIP":"Thêm, bỏ, hoặc đổi thứ tự các mảnh con để tạo cấu trúc mới cho mảnh nếu.",
-  "CONTROLS_IF_MSG_ELSE":"nếu không",
+  "CONTROLS_IF_MSG_ELSE":"nếu không thì",
   "CONTROLS_IF_MSG_ELSEIF":"nếu không nếu",
   "CONTROLS_IF_MSG_IF":"nếu",
   "CONTROLS_IF_TOOLTIP_1":"Nếu điều kiện đúng, thực hiện các lệnh.",

@@ -44,6 +44,7 @@
   "tooManyBlocksMsg":"このパズルは <x id='START_SPAN'\/><x id='END_SPAN'\/>ブロックで解決する事ができます。\n",
   "tooMuchWork":"私にたくさん仕事をさせました！もう少し繰り返し回数を少なくできませんか？",
   "toolboxHeader":"ブロック",
+  "openWorkspace":"How It Works",
   "totalNumLinesOfCodeWritten":"すべての時間の合計: コードの {numLines, plural, one {1 ライン} other {# ライン}}。\n",
   "tryAgain":"やり直す",
   "backToPreviousLevel":"前のレベルに戻る",
