@@ -44,7 +44,7 @@
   "tooManyBlocksMsg":"Bu tapmaca <x id='START_SPAN'\/><x id='END_SPAN'\/> blokla həll oluna bilər.",
   "tooMuchWork":"Siz mənə çox iş gördürdünüz! Təkrarlamaları azalda bilərsiniz?",
   "toolboxHeader":"Bloklar",
-  "openWorkspace":"How It Works",
+  "openWorkspace":"Bu Necə İşləyir",
   "totalNumLinesOfCodeWritten":"Ümumi cəm: {numLines, plural, one {1 sətir} other {# sətir}} kod.",
   "tryAgain":"Bir daha cəhd edin",
   "backToPreviousLevel":"Əvvəlki mərhələyə qayıt",

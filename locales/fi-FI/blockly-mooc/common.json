@@ -44,7 +44,7 @@
   "tooManyBlocksMsg":"Tämän pulman voi ratkaista <x id='START_SPAN'\/><x id='END_SPAN'\/> lohkolla.",
   "tooMuchWork":"Sait minut tekemään paljon töitä! Voisitko kokeilla samaa vähemmillä toistoilla?",
   "toolboxHeader":"Lohkot",
-  "openWorkspace":"How It Works",
+  "openWorkspace":"Miten se toimii",
   "totalNumLinesOfCodeWritten":"Kokonaismäärä: {numLines, plural, one {yksi rivi} other {# riviä}} koodia.",
   "tryAgain":"Yritä uudestaan",
   "backToPreviousLevel":"Takaisin edelliseen tasoon",
