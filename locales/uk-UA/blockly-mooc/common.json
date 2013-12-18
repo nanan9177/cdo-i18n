@@ -44,7 +44,7 @@
   "tooManyBlocksMsg":"Це завдання можна розв'язати, використавши <x id='START_SPAN'\/><x id='END_SPAN'\/> блоків.",
   "tooMuchWork":"Ви змусили мене попрацювати! Може спробуємо менше повторів?",
   "toolboxHeader":"Блоки",
-  "openWorkspace":"How It Works",
+  "openWorkspace":"Як це працює",
   "totalNumLinesOfCodeWritten":"За весь час: {numLines, plural, one {1 рядок} other {# рядків}} коду.",
   "tryAgain":"Спробуй знову",
   "backToPreviousLevel":"Повернутися до попереднього рівня",

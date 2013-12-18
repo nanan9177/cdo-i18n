@@ -44,7 +44,7 @@
   "tooManyBlocksMsg":"Este quebra-cabeça pode ser resolvido com < x id='START_SPAN'\/>< x id= 'END_SPAN'\/> blocos.",
   "tooMuchWork":"Você me fez trabalhar bastante! Podemos tentar repetindo menos vezes?",
   "toolboxHeader":"Blocos",
-  "openWorkspace":"How It Works",
+  "openWorkspace":"Como funciona",
   "totalNumLinesOfCodeWritten":"Tempo total: {numLines, plural, one {1 linha} other {# linhas}} de código.",
   "tryAgain":"Tente novamente",
   "backToPreviousLevel":"Voltar",
