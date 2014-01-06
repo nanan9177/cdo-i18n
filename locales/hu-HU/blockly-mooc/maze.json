@@ -11,7 +11,7 @@
   "elseCode":"különben",
   "fill":"Töltse ki a 1",
   "fillN":"Töltse ki {shovelfuls}",
-  "fillStack":"Töltsön fel 2 lukat",
+  "fillStack":"fill stack of {shovelfuls} holes",
   "fillSquare":"négyzet kitöltése",
   "fillTooltip":"helyezzen 1 szennyeződés egységet ",
   "finalLevel":"Gratulálok! A végső rejtvény megoldotta.",

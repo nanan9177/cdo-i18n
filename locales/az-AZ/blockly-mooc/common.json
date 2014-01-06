@@ -54,5 +54,10 @@
   "workspaceHeader":"Bloklarınızı burada birləşdirin: ",
   "infinity":"Sonsuzluq",
   "rotateText":"Cihazınızı döndərin.",
-  "orientationLock":"Cihaz nizamlamalarında səmt kilidini söndürün."
+  "orientationLock":"Cihaz nizamlamalarında səmt kilidini söndürün.",
+  "shareDrawing":"Share your drawing:",
+  "wantToLearn":"Want to learn to code?",
+  "watchVideo":"Watch the Video",
+  "tryHOC":"Try the Hour of Code",
+  "signup":"Sign up for the intro course"
 }

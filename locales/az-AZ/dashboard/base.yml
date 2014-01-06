@@ -15,8 +15,8 @@
   welcome_back: "Bir daha xoş gəldiniz, %{name}"
   add_teacher_form:
     code_or_email:
-      label: "Koda və ya E-poçt ünvanına görə bir müəllim əlavə edin:"
-      placeholder: "Kod (ABCDEF) və ya E-poçt (teacher@school.edu)"
+      label: "Kod və ya e-poçt ünvanına görə bir müəllim əlavə edin:"
+      placeholder: "Kod (ABCDEF) və ya e-poçt (muellim@mekteb.edu.az)"
     submit: "Müəllim əlavə edin"
   appname: "Code.org"
   stage: "Mərhələ"
@@ -37,7 +37,7 @@
     sign_in_with: "%{provider} ilə daxil olun"
     signed_in: "Daxil oldunuz!"
     already_signedup: "Artıq qeydiyyatdan keçmisiniz?"
-    notyet_signedup: "Hələ də qoşulmamısınız?"
+    notyet_signedup: "Hələ qoşulmamısınız?"
     google_oauth2: "Google +"
     twitter: "Twitter"
     facebook: "Facebook"
@@ -50,20 +50,20 @@
     no_signup_header: "Qeydiyyatdan keçmək istəmirsiniz?"
     no_signup_message: 'Siz <a target="_blank" href="http://learn.code.org">müxtəlif mərhələ və tapmacalar</a>ı nəzərdən keçirə bilərsiniz, lakin nəticələrinizi yadda saxlamaq üçün qeydiyyatdan keçməyiniz lazım olacaq.'
     prizes_header: "The first students to complete the course win prizes! (U.S. students only)"
-    prizes_message: "U.S. students who earn all %{num_trophies} concept trophies can select a variety of prizes including free Dropbox space, Skype credits, and downloadable games from Electronic Arts and Valve."
+    prizes_message: "U.S. students who earn all %{num_trophies} concept trophies can select a variety of prizes including free Dropbox space, Skype credits, and downloadable games from Electronic Arts."
     teacher_educator_guide: "Təhsil işçisi üçün göstərişlərə baxın"
     teacher_prize_header: '<a target="_blank" href="http://DonorsChoose.org">"DonorsChoose.org"</a> mükafatları şəklində 1000 dollar qazanın'
-    teacher_prize_message: 'In partnership with <a target="_blank" href="http://DonorsChoose.org">DonorsChoose.org</a>, Code.org will offer up to $1,000 in classroom funding to U.S. public school teachers who lead at least 15 students through this course. <a href="http://code.org/educate/20hr">See educator guide for more info.</a> '
+    teacher_prize_message: '<a target="_blank" href="http://DonorsChoose.org">"DonorsChoose.org"</a>la tərəfdaşlıq edərək "Code.org" bu kursu ən azı 15 şagirdə keçən ABŞ-dakı müəllimlərə dərs fondu şəklində 1000 dollara qədər maliyyə dəstəyi təklif edəcək. <a href="http://code.org/educate/20hr">Təlimçi üçün göstərişlərdə daha geniş məlumat alın.</a> '
     teacher_pitch: "Öz sinfinizdə K-8 İnformatikaya Giriş kursunu tədris edin"
     teacher_title: "Müəllim kimi qeydiyyatdan keçin"
     student_pitch: "1 saat bitəndən sonra: K-8 İnformatikaya Giriş kursumuzu sınaqdan keçirin"
     student_title: "Qeydiyyatdan keçin"
     school_name: "Məktəbin Adı (vacib deyil)"
     school_address: "Məktəbin ünvanı (vacib deyil)"
-    address_placeholder: "adres, şəhər, vilayət, poçt indeksi"
+    address_placeholder: "ünvan, şəhər, vilayət, poçt indeksi"
     gender: "Cins (vacib deyil)"
     birthday: "Ad günü (vacib deyil)"
-    submit: "Qeydiyyatdan keç"
+    submit: "Qeydiyyatdan keçin"
     teacher: "Müəllimsiniz?"
     valid_username: "Olar!"
     invalid_username: "İstifadəçi adı ən azı 5 simvoldan ibarət olmalıdır"
@@ -90,7 +90,7 @@
       confirm_password: "Yeni parolu təsdiqləyin"
       submit: "Parolumu dəyişin"
   welcome_email:
-    subject: "Sinifimizə qoşulun (Code.org -da)"
+    subject: 'Sinifimizə qoşulun ("Code.org"da)'
     body: |
       "Code.org"dakı informatika dərslərinə qeydiyyatdan keçmək üçün aşağıdakı keçidi klikləyin (mən sizin "müəlliminiz" olacağam):
       
@@ -102,13 +102,13 @@
   follower:
     invite_sent: "Dəvətnamə göndərildi"
     added_teacher: "%{name} müəlliminiz kimi əlavə olundu"
-    registered: "Siz %{section_name} üçün qeydiyyatdan keçmisiniz."
+    registered: "Siz %{section_name} üçün qeydiyyatdan keçdiniz."
     error:
       signed_in: "Zəhmət olmasa, davam etməzdən öncə sistemdən çıxın"
       username_not_found: "%{username} istifadəçi adı tapılmadı"
       username_in_use: "%{username} artıq istifadə olunur, zəhmət olmasa, digərini seçin"
       no_teacher: "'%{teacher_email_or_code}' ilə daxil olan heç kim tapılmadı. Zəhmət olmasa, onlardan burada qeydiyyatdan keçməyi xahiş edin və sonra onları yenidən əlavə etməyə çalışın"
-      blank_code: "Please enter a code or your teacher's email address"
+      blank_code: "Lütfən, kodu və ya müəlliminizin e-poçt ünvanını daxil edin"
     mail:
       invite_student:
         subject: "Code.org-da %{teacher_name} ilə dərsə qoşulun!"
@@ -123,22 +123,22 @@
     success: "Mükafatınızı müvəffəqiyyətlə xərclədiniz, aşağıdakı koda baxın."
     error: "Mükafatınızı xərcləmək mümkün olmadı, lütfən bir də cəhd edin."
     error_us_only: "Mükafat almaq imkanı ancaq ABŞ-dan olan istifadəçilər üçün etibarlıdır."
-    error_not_earned: "You have not yet earned this prize."
-    error_already_redeemed: "Your prize has already been redeemed."
-    no_prizes_available: "We're sorry, but we currently have no prizes available."
+    error_not_earned: "Siz hələ bu mükafatı qazanmamısınız."
+    error_already_redeemed: "Mükafatınız artıq xərclənib."
+    no_prizes_available: "Üzr istəyirik, hazırda mükafatlar qalmayıb."
     confirm:
       title: "Zəhmət olmazsa, təsdiq edin"
       "no": Xeyr
       "yes": Bəli
       msg: "%{prize_name} mükafatını tələb emək istədiyinizə əminsiniz?"
       msg_student: "QEYD: Ancaq bir növ mükafat seçə bilərsiniz."
-      msg_publicschool: "Please confirm that you are a U.S. public school teacher."
+      msg_publicschool: "Zəhmət olmasa, ABŞ dövlət məktəbinin müəllimi olduğunuzu təsdiq edin."
       msg_visit_website: "Visit website"
     providers:
       apple_itunes: "$10 iTunes Gift Card"
       donors_choose: "DonorsChoose.org $750 credit"
       donors_choose_bonus: "DonorsChoose.org $250 credit"
-      dropbox: "10GB of Dropbox Space"
+      dropbox: '10GB "Dropbox" yaddaş sahəsi'
       valve: "Portal 2 (PC or Mac game download)"
       ea_bejeweled: "Bejeweled 3 (PC game download)"
       ea_fifa: "FIFA Soccer 13 (PC game download)"
@@ -150,7 +150,7 @@
       choose_teacher: "Click on the logo below to claim your prize:"
       earned: "Siz bir mükafat qazandınız! (yalnız ABŞ-dan olan şagirdlər)"
       not_earned_title: "Finish the tutorial, earn rewards (U.S. students only)"
-      not_earned: "Learn all the computer science concepts, collect all %{num_trophies} trophies, and earn real-world prizes. You can choose between 10GB of free Dropbox space, $10 in Skype credits, and free game downloads. NOTE: offer only valid to U.S. students, and only as long as supplies last."
+      not_earned: 'İnformatikanın bütün əsas anlayışlarını öyrənin, %{num_trophies} kubokun hamısını toplayın və həqiqi mükafatlar qazanın. Siz 10GB "Dropbox" yaddaş sahəsi, 10 dollarlıq "Skype" krediti və pulsuz oyun endirmək imkanından birini seçə bilərsiniz. QEYD: təklif yalnız ABŞ-dan olan şagirdlər üçün və yalnız mükafatlar verildiyi müddətdə etibarlıdır.'
       teacher:
         earned: "10 və ya daha çox şagird %{num_trophies} kubokun hamısını topladı. Siz bir müəllim mükafatı qazandınız! (yalnız ABŞ-dan olan müəllimlər)"
         not_earned_title: 'Teach the class, earn up to $1,000 in <a target="_blank" href="http://DonorsChoose.org">DonorsChoose.org</a> credits (U.S. teachers only)'
@@ -192,20 +192,20 @@
       prizes: "%{total_trophies} kubokun hamısını yığ və hədiyyələr qazan!"
       prize_earned: "Siz %{total_trophies} kubokun hamısımı topladınız. Mükafatı qazandınız!"
       prize_us_only: "(Yalnız ABŞ-dan olan şagirdlər)"
-      prizes_link: "daha çox məlumat"
+      prizes_link: "daha ətraflı"
   teacher:
     title:
       one: "%{name} sizin müəlliminizdir"
       other: "Müəllimləriniz:"
-    tools: "Müəllim Alətləri"
+    tools: "Müəllim üçün alətlər"
     students:
-      manage: "Tələbələri idarə et"
-      add: "Tələbələri əlavə et"
+      manage: "Tələbələri idarə edin"
+      add: "Tələbələri əlavə edin"
     rollup: "Gedişat paneli"
-    activity: "Son sinif işi"
+    activity: "Ən son sinif işləri"
   user:
-    new_password_hint: "(əgər dəyişmək istəmirsinizsə boş buraxın)"
-    current_password_hint: "(Dəyişikliklərinizi təsdiq etmək üçün sizin cari parolunuza ehtiyacımız var)"
+    new_password_hint: "(dəyişmək istəmirsinizsə, boş buraxın)"
+    current_password_hint: "(dəyişikliklərinizi təsdiq etmək üçün cari parolunuz lazımdır)"
     cancel:
       title: "Hesabımı ləğv et"
       hint: "Narazısiniz?"
@@ -223,13 +223,13 @@
     teacher_dashboard: "Gedişat panelinə baxın"
     teacher_student_count_one: "Sizin %{count} tələbəniz var."
     teacher_student_count: "Sizin %{count} tələbəniz var."
-    teacher_averages: 'Sizin tələbələriniz %{trophy_max} "Anlayışların Mənimsənilməsi" kubokundan orta hesabla %{trophy_average} saydasını qazandılar.'
-    classroom: "Sinifiniz"
+    teacher_averages: 'Tələbələriniz %{trophy_max} "Anlayışların mənimsənilməsi" kubokundan orta hesabla %{trophy_average} dənəsini qazandılar.'
+    classroom: "Sizin sinfiniz"
     student_progress: "Sizin təlim nəticələriniz"
-    student_stats: 'Siz %{trophy_max} "Anlayışların Mənimsənilməsi" kubokundan %{trophy_count} saydasını qazandınız.'
-    student_left_off: "Sizin sonuncu qaldığınız yer:"
-    student_finished_prize: "You've completed all tutorials, claim your %{prize_link} and pick another class %{online_link} or at a %{local_school_link}"
-    student_finished: "You've completed all tutorials, pick another class %{online_link} or at a %{local_school_link}"
+    student_stats: 'Siz %{trophy_max} "Anlayışların mənimsənilməsi" kubokundan %{trophy_count} dənəsini qazandınız.'
+    student_left_off: "Sonuncu qaldığınız yer:"
+    student_finished_prize: "Bütün dərslikləri başa vurdunuz, %{prize_link}ınızı əldə edərək %{online_link} və ya %{local_school_link}də başqa bir dərs seçin"
+    student_finished: "Bütün dərslikləri başa vurdunuz, %{online_link} və ya %{local_school_link}də başqa bir dərs seçin"
     local_school: "yerli məktəb"
     online: "onlayn"
     see_details: "Təfərrüatına baxın"
@@ -255,7 +255,7 @@
     title: "Kömək lazımdır?"
     subtitle: "Bu videolara və məsləhətlərə baxın"
     teacher: "Həlli gör"
-    auth_error: "You are not authorized to see the solution."
+    auth_error: "Həlli görməyə səlahiyyətiniz yoxdur."
   video:
     tab: "Video."
     notes: "Video yoxdur? Qeydləri göstər."

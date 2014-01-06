@@ -54,5 +54,10 @@
   "workspaceHeader":"Coloca tus bloques aquí:",
   "infinity":"Infinito",
   "rotateText":"Gira tu dispositivo.",
-  "orientationLock":"Desactiva el bloqueo de orientación en la configuración del dispositivo."
+  "orientationLock":"Desactiva el bloqueo de orientación en la configuración del dispositivo.",
+  "shareDrawing":"Share your drawing:",
+  "wantToLearn":"Want to learn to code?",
+  "watchVideo":"Watch the Video",
+  "tryHOC":"Try the Hour of Code",
+  "signup":"Sign up for the intro course"
 }

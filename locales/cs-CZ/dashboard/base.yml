@@ -50,7 +50,7 @@
     no_signup_header: "Nechceš se registrovat?"
     no_signup_message: 'Můžeš si <a target="_blank" href="http://learn.code.org">prohlédnout různé úrovně a hádanky</a>, ale budeš se muset zaregistrovat, aby se uložil tvůj pokrok.'
     prizes_header: "The first students to complete the course win prizes! (U.S. students only)"
-    prizes_message: "Studenti z USA, kteří získají všech %{num_trophies} trofejí v pojmech mohou vybírat z nabídky cen obsahující např. volné místo na Dropbox, Skype kredity a stáhnutelné hry od Electronic Arts a Valve."
+    prizes_message: "U.S. students who earn all %{num_trophies} concept trophies can select a variety of prizes including free Dropbox space, Skype credits, and downloadable games from Electronic Arts."
     teacher_educator_guide: "Podívat se na průvodce učitele"
     teacher_prize_header: 'Vyhraj 1,000$ v odměnách na <a target="_blank" href="http://DonorsChoose.org">DonorsChoose.org</a>'
     teacher_prize_message: 'Ve spolupráci s <a target="_blank" href="http://DonorsChoose.org">DonorsChoose.org</a>, Code.org nabízí dotaci až 1,000$ učitelům veřejných škol v USA, kteří provedou tímto kurzem alespoň 15 studentů. <a href="http://code.org/educate/20hr">Shlédnout pedagogický průvodce pro více informací.</a> '
@@ -228,8 +228,8 @@
     student_progress: "Tvůj pokrok v učení"
     student_stats: 'Získal jsi %{trophy_count} z možných %{trophy_max} trofejí "Mistrovství Pojetí".'
     student_left_off: "Kde jsi přestal:"
-    student_finished_prize: "You've completed all tutorials, claim your %{prize_link} and pick another class %{online_link} or at a %{local_school_link}"
-    student_finished: "You've completed all tutorials, pick another class %{online_link} or at a %{local_school_link}"
+    student_finished_prize: "Dokončil jsi všechna cvičení, vyzvedni si %{prize_link} a vyber si další třídu %{online_link} nebo v %{local_school_link}"
+    student_finished: "Dokončil jsi všechna cvičení, vyber si další třídu %{online_link} nebo v %{local_school_link}"
     local_school: "místní škola"
     online: "online"
     see_details: "Viz podrobnosti"

@@ -54,5 +54,10 @@
   "workspaceHeader":"Pasang blok anda di sini: ",
   "infinity":"Infinity",
   "rotateText":"Rotate your device.",
-  "orientationLock":"Turn off orientation lock in device settings."
+  "orientationLock":"Turn off orientation lock in device settings.",
+  "shareDrawing":"Share your drawing:",
+  "wantToLearn":"Want to learn to code?",
+  "watchVideo":"Watch the Video",
+  "tryHOC":"Try the Hour of Code",
+  "signup":"Sign up for the intro course"
 }

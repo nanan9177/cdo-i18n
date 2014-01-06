@@ -54,5 +54,10 @@
   "workspaceHeader":"รวบรวมบล็อกของคุณที่นี่: ",
   "infinity":"อินฟินิตี้",
   "rotateText":"หมุนอุปกรณ์ของคุณ.",
-  "orientationLock":"ปิดล็อควางแนวในการตั้งค่าอุปกรณ์."
+  "orientationLock":"ปิดล็อควางแนวในการตั้งค่าอุปกรณ์.",
+  "shareDrawing":"Share your drawing:",
+  "wantToLearn":"Want to learn to code?",
+  "watchVideo":"Watch the Video",
+  "tryHOC":"Try the Hour of Code",
+  "signup":"Sign up for the intro course"
 }

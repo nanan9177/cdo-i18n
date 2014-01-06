@@ -46,29 +46,29 @@
         text: "Bună, eu sunt JR! Fiecare echipa de cursă auto are nevoie de informaticieni pentru a câştiga. Ei analizează datele din maşină pentru a o face să meargă mai repede."
       2:
         image: "notes/stage5_2.jpg"
-        text: "In these puzzles, you'll be an artist that draws a line behind them everywhere they go."
+        text: "În aceste puzzle-uri, vei fi un artist care desenează o linie în spatele lor indiferent unde ei merg."
       3:
         image: "notes/stage5_3.jpg"
-        text: 'This block says "move forward by 100 pixels." Pixels are just really tiny dots on your screen.'
+        text: 'Acest bloc spune "merge mai departe cu 100 pixeli." Pixelii sunt de fapt doar puncte foarte mici pe ecran.'
       4:
         image: "notes/stage5_4.jpg"
-        text: 'This block says "turn right by 90 degrees." This will turn your artist the same amount as the "turn" blocks in the maze puzzles.'
+        text: 'Acest bloc spune "întoarce la dreapta cu 90 de grade." Acesta va roti artistul tău asemenea blocurilor "întoarce" din puzzle-urile de tip labirint.'
       5:
         image: "notes/stage5_5.jpg"
-        text: "Click on the arrow in either of these blocks to change the amount the artist moves forward or turns. Play around to get familiar with these new blocks."
+        text: "Dă clic pe săgeată în oricare din aceste blocuri în așa fel încât să modifici distanța cu care artistul va înainta sau unghiul cu care se va întoarce într-o direcție sau alta."
     farmer_intro:
       1:
         image: "notes/stage9_1.jpg"
-        text: "Hi, I'm Paola! In these puzzles, you're a farmer who has to get her field completely flat to start planting crops."
+        text: "Bună, eu sunt Paula! În aceste puzzle-uri, tu ești un fermier care vrea să-și curețe terenul ca să fie complet plat pentru a începe să-și planteze culturilor."
       2:
         image: "notes/stage9_2.jpg"
-        text: "You have to help her remove all the piles of dirt and fill in all the holes."
+        text: "Trebuie să o ajuți să-și elimine toate grămezile de murdărie și să-și umple toate găurile."
       3:
         image: "notes/stage9_3.jpg"
-        text: "The new blocks remove 1 shovelful of dirt from a pile and fill in 1 shovelful of dirt to a hole."
+        text: "Noile blocuri elimină o lopată de murdărie de pe o grămadă și umple o altă gaură cu o lopată de murdărie."
       4:
         image: "notes/stage9_4.jpg"
-        text: "The piles and holes are different sizes, so you have to tell the farmer how many shovelfuls to use."
+        text: "Grămezile și găurile sunt de mărimi diferite, deci va trebui să-i spui fermierului câte lopeți să folosească."
     loop_times:
       1:
         image: "notes/hoc2_1.jpg"
@@ -142,72 +142,69 @@
     function:
       1:
         image: "notes/stage13_1.jpg"
-        text: "Hi, I'm Brina, an engineer at Instagram. A function is certain lines of code that you want to use over and over again, so instead of writing that code out everytime, you can just use one block."
+        text: "Salut, eu sunt Brina, inginer la Instagram. O funcţie este alcătuită din anumite linii de cod pe care vrei să o folosești din nou și din nou, astfel încât în loc să scrii codul de fiecare dată, poți folosi doar un singur bloc."
       2:
         image: "notes/stage13_2.jpg"
-        text: "We're going to learn how to define functions. Function definitions have a star in the corner. The name of the function is written on the top line."
+        text: "Vom învață cum să definim funcții. Definițiile pentru funcții au o stea în colț. Numele funcției este scris pe prima linie de sus."
       3:
         image: "notes/stage13_3.jpg"
-        text: |-
-          The blocks that go inside the definition tell us what it does. So this function definition is called "fill 5" and it's made up of a "repeat" block and a "fill" block.
+        text: 'Blocuri care merg în interiorul definiției ne spun ce fac. Deci această definiție a funcției se numește "umple 5" și acesta este format dintr-un un bloc "repetă" și un bloc "umple".'
       4:
         image: "notes/stage13_4.jpg"
-        text: |-
-          The definition sits on the workspace, but our farmer won't run the function until we drag out our "fill 5" function block from functions category.
+        text: 'Definiția stă pe spațiul de lucru, dar fermierul nostru nu va rula funcția până când nu vom trage în afară blocul nostru cu funcția "umple 5" de la categoria de funcții.'
       5:
         image: "notes/stage13_5.jpg"
-        text: |-
-          Let's put the "fun" back in "FUNction!"
+        text: 'Sa punem "distracţia" înapoi în "Funcţie!" '
     loop_while:
       1:
         image: "notes/stage9_5.jpg"
-        text: |-
-          Hi, I'm Makinde! Let's learn about the "while block."
+        text: 'Salut, eu sunt Makinde! Hai să învățăm despre "blocul în timp ce" '
       2:
         image: "notes/stage9_6.jpg"
-        text: 'The "while block" will do whatever you put inside it AS LONG AS the statement on the top is TRUE.'
+        text: |
+          "Blocul în timp ce" va face tot ce ai pus în interiorul acestuia, ATÂTA TIMP CÂT 	
+          declarația din partea de sus este ADEVĂRATĂ.
       3:
         image: "notes/stage9_7.jpg"
-        text: "For example, if the farmer is standing on a pile, she will continue to remove 1 shovelful WHILE there is still a pile beneath her."
+        text: "De exemplu, în cazul în care fermierul stă pe o grămadă, el va continua să elimine o lopată ÎN TIMP CE încă există o grămadă sub el."
     loop_for:
       1:
         image: "notes/stage11_1.jpg"
-        text: "Hi, I'm Trina, and I work for Pixar. I've worked on a bunch of movies, including Shrek."
+        text: "Salut, eu sunt Trina și lucrez la Pixar. Am lucrat la o grămadă de filme, inclusiv Shrek."
       2:
         image: "notes/stage11_2.jpg"
-        text: 'This is our new "counter" loop. It will perform actions over and over again and you can make the actions change slightly each time.'
+        text: 'Acesta este noua buclă "contor". El va efectua acțiuni din nou și din nou și tu poți face ca acțiunile să se schimbe câte puțin de fiecare dată.'
       3:
         image: "notes/stage11_3.jpg"
-        text: 'In this example, our "counter" loop says "count with counter from 50 to 90 by 10" and inside it, we have our "draw a square" block. Drag the "counter" block from the "Variables" section into the "length" spot.'
+        text: 'În acest exemplu, buclă noastră "contor" spune "numără cu contorul de la 50 la 90 din 10 în 10" și în interiorul ei avem blocul nostru "desenează un pătrat". Trage blocul "contor" de la secțiune "Variabile" înspre locul "lungime".'
       4:
         image: "notes/stage11_4.jpg"
-        text: "This means our artist is going to draw a square that has 50 pixel length sides, then it will add 10 to that and draw a square with 60 pixel length sides. Then it will keep adding 10 and drawing squares until it reaches 90. So we'll have squares of 50, 60, 70, 80, and 90."
+        text: "Acest lucru înseamnă că artistul nostru va desena un pătrat care are lungimea laturile de 50 de pixeli, iar mai apoi va adăuga încă 10 pixeli la ele și va desena un pătrat cu lungimea laturilor de 60 de pixeli. Iar mai apoi va tot continua să adauge câte 10 pixeli și va desena pătrate până când va ajunge la un pătrat de 90 de pixeli. Astfel încât vom avea pătrate de 50, 60, 70, 80 și 90 de pixeli."
     parameters:
       1:
         image: "notes/stage15_1.jpg"
-        text: "Hi, I'm Janete, and I'm an engineer at Zynga."
+        text: "Salut, eu sunt Janete și sunt inginer la Zynga."
       2:
         image: "notes/stage15_2.jpg"
-        text: "What if we want to draw a bunch of triangles and have their lengths be different sizes?"
+        text: "Cum ar fi dacă am vrea să desenăm o grămadă de triunghiuri cu dimensiunile lor de dimensiuni diferite?"
       3:
         image: "notes/stage15_3.jpg"
-        text: "We could write all that code out by hand or we can use a function with parameters."
+        text: "Am putea scrie tot acel cod de mână sau am putea folosi o funcție cu parametri."
       4:
         image: "notes/stage15_4.jpg"
-        text: 'To do this, click the blue star on the "draw a triangle" function definition. Then drag "input name" into the "input" block.'
+        text: 'Pentru a face acest lucru, dă clic pe steaua albastră de la definiția funcției "desenează un triunghi". Apoi trage "nume intrare" înspre blocul "intrare".'
       5:
         image: "notes/stage15_5.jpg"
-        text: |-
-          Then if you write "length" in the spot where it says "x" and press "Enter" you'll create a length input for your function.
+        text: 'Apoi dacă scrii "lungime" în locul unde scrie "x" și apeși "Enter" vei crea o intrare de tipul lungime pentru funcția ta.'
       6:
         image: "notes/stage15_6.jpg"
-        text: 'Then click on the star. Now, you want to click on the variables category and drag the "length" block into the "move forward" block of your function definition. And drag away the old number block.'
+        text: 'Apoi dă clic pe stea. Acum, vei dori să dai clic pe categoria variabile și să tragi blocul "lungime" înspre blocul definiției funcției "mergi înainte". Și trage în afară blocul cu vechiul număr.'
       7:
         image: "notes/stage15_7.jpg"
-        text: 'To use your function with parameters, click on the functions category and drag out your "draw a triangle with length" function.'
+        text: 'Pentru a folosi funcția cu parametri, dă clic pe categoria de funcții și trage în afară funcția ta cu "desenează un triunghi cu lungime".'
       8:
         image: "notes/stage15_8.jpg"
-        text: "Now you can use the math block to input different numbers to draw triangles of different sizes."
+        text: "Acum poți folosi blocul de matematică cu diferite numere ca intrări pentru a desena triunghiuri de dimensiuni diferite."
     hoc_wrapup:
       1:
         image: "notes/hoc6_1.jpg"

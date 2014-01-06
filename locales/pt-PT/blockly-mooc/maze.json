@@ -11,7 +11,7 @@
   "elseCode":"senão",
   "fill":"Enche 1",
   "fillN":"preenche {shovelfuls}",
-  "fillStack":"preencha a pilha de dois buracos",
+  "fillStack":"fill stack of {shovelfuls} holes",
   "fillSquare":"Preencha o quadrado",
   "fillTooltip":"Coloca 1 unidade de terra",
   "finalLevel":"Parabéns! Resolveste o enigma final.",

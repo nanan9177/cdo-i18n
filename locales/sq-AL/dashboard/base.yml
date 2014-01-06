@@ -50,7 +50,7 @@
     no_signup_header: "Nuk ke deshire te regjistrohesh?"
     no_signup_message: "Ti mund te shfletosh faza te ndryshme dhe enigma ne Code.org, por te duhet te regjistrohesh qe te ruash progresin tend."
     prizes_header: "The first students to complete the course win prizes! (U.S. students only)"
-    prizes_message: "U.S. students who earn all %{num_trophies} concept trophies can select a variety of prizes including free Dropbox space, Skype credits, and downloadable games from Electronic Arts and Valve."
+    prizes_message: "U.S. students who earn all %{num_trophies} concept trophies can select a variety of prizes including free Dropbox space, Skype credits, and downloadable games from Electronic Arts."
     teacher_educator_guide: "Shiko guiden e edukimit"
     teacher_prize_header: "Fito 1000 dollare shperblim ngaDonorsChoose.org"
     teacher_prize_message: 'In partnership with <a target="_blank" href="http://DonorsChoose.org">DonorsChoose.org</a>, Code.org will offer up to $1,000 in classroom funding to U.S. public school teachers who lead at least 15 students through this course. <a href="http://code.org/educate/20hr">See educator guide for more info.</a> '

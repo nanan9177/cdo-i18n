@@ -35,19 +35,19 @@
         Unplug1: "Einführung in die Informatik"
         Maze: "Das Labyrinth"
         Unplug2: "Computational Thinking"
-        Unplug3: "Graph Paper Programming"
+        Unplug3: "Millimeterpapier Programmierung"
         Artist: "Der Künstler"
         Unplug4: "Algorithmen"
         Artist2: "Der Künstler 2"
-        Unplug5: "Functions"
+        Unplug5: "Funktionen"
         Farmer: "Der Bauer"
         Unplug6: "Bedingungen"
         Artist3: "Der Künstler 3"
-        Unplug7: "Song Writing"
+        Unplug7: "Lieder schreiben"
         Farmer2: "Der Bauer 2"
         Unplug8: "Abstraktion"
         Artist4: "Der Künstler 4"
-        Unplug9: "Relay Programming"
+        Unplug9: "Relais-Programmierung"
         Farmer3: "Der Bauer 3"
         Unplug10: "das Internet"
         Artist5: "Der Künstler 5"
@@ -71,16 +71,16 @@
         parameters: "Funktionen mit Parametern"
     level:
       instructions:
-        maze_2_2: 'Can you help me to catch the naughty pig? Stack a couple of "move forward" blocks together and press "Run Program" to help me get there. '
-        maze_2_1: "This pig is ruffling my feathers. Help me to find him!"
-        maze_2_2_5: "Trace the path and lead me to the silly pig. Avoid TNT or the feathers will fly!"
-        maze_2_3: "Guide me to the green evilness! (Watch out for TNT)"
-        maze_2_4: "Keep calm and help me to find the bad pig. Otherwise I might get angry!"
-        maze_2_5: "There's a way I can get to the silly pig using only 2 blocks. Can you figure it out?"
-        maze_2_6: "Try to get me to the green intruder using only three blocks."
-        maze_2_7: 'Help me banish this bad piggy using the fewest number of blocks. Try using more than one "repeat times" block.'
+        maze_2_2: 'Kannst du mir Helfen, das freche Schwein zu fangen? Stecke ein paar "vorwärts" Bausteine zusammen und drücke "Programm ausführen", um mir zu helfen. '
+        maze_2_1: "Dieses Schwein lässt meine Federn zu Berge stehen. Hilf mir es zu finden!"
+        maze_2_2_5: "Folge dem Pfad und führe mich zu dem dumme Schwein. Vermeide TNT oder die Federn fliegen!"
+        maze_2_3: "Führe mich zum grünen Bösen! (Achte auf das TNT)"
+        maze_2_4: "Bleib Ruhig und hilf mir das schlechte Schwein zu finden. Sonst könnte ich wütend werden!"
+        maze_2_5: "Es gibt einen Weg bei dem ich mit nur zwei Bausteinen zum grünen Schwein komme. Findest du ihn?"
+        maze_2_6: "Versuche mich mit nur drei Blöcken zum grünen Eindringling zu bringen."
+        maze_2_7: 'Hilf mir dieses schlechte Schweinchen mit möglichst wenigen Bausteinen zu verbannen. Verwende mehr als einen "Mal wiederholen" Baustein.'
         maze_2_8: 'Versuche einen "Wiederholen"-Baustein mit folgenden Bausteinen im Inneren "gehe vorwärts, gehe vorwärts, drehe", um dieses Rätsel zu lösen.'
-        maze_2_9: 'Ok, try the new "repeat until" block - it will repeat until I reach the annoying pig.'
+        maze_2_9: 'OK, probiere den neuen "Wiederholen-bis"-Baustein - dieser wiederholt, bis ich das grüne Schwein erreiche.'
         maze_2_10: "Okay, eine letzte Übung - kannst du das mit nur 4 Bausteinen lösen?"
         maze_2_11: "Sehr geehrte Person. Ich Zombie. Ich hungrig. ... Muss... zur... Sonnenblume... gelangen. Kannst du mich mit nur 5 Bausteinen hin bringen?"
         maze_2_12: "OK, das ist ähnlich, aber etwas anders. Schaffst du es in nur 5 Bausteinen?"

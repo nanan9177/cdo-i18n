@@ -11,7 +11,7 @@
   "elseCode":"אחרת",
   "fill":"מלא 1",
   "fillN":"מלא {shovelfuls}",
-  "fillStack":"מלא ערמה של 2 בורות",
+  "fillStack":"fill stack of {shovelfuls} holes",
   "fillSquare":"מלא את הריבוע",
   "fillTooltip":"שים יחידה אחת של עפר",
   "finalLevel":"מזל טוב! פתרת את החידה האחרונה.",

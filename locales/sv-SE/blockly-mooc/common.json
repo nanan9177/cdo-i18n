@@ -44,7 +44,7 @@
   "tooManyBlocksMsg":"Detta pusslet kan lösas med <x id='START_SPAN'\/><x id='END_SPAN'\/> block.",
   "tooMuchWork":"Du fick mig att göra en hel del arbete!  Du kan försöka upprepa färre gånger?",
   "toolboxHeader":"Block",
-  "openWorkspace":"How It Works",
+  "openWorkspace":"Hur det fungerar",
   "totalNumLinesOfCodeWritten":"Totalt: {numLines, plural, one {1 rad} other {# rader}} kod.",
   "tryAgain":"Försök igen",
   "backToPreviousLevel":"Gå tillbaka till föregående nivå",
@@ -54,5 +54,10 @@
   "workspaceHeader":"Sätt ihop dina block här: ",
   "infinity":"Oändlighet",
   "rotateText":"Rotera din enhet.",
-  "orientationLock":"Stäng av orienterings låset i enhetsinställningar."
+  "orientationLock":"Stäng av orienterings låset i enhetsinställningar.",
+  "shareDrawing":"Share your drawing:",
+  "wantToLearn":"Want to learn to code?",
+  "watchVideo":"Watch the Video",
+  "tryHOC":"Try the Hour of Code",
+  "signup":"Sign up for the intro course"
 }

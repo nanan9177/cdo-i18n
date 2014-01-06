@@ -50,7 +50,7 @@
     no_signup_header: "Не желите да се пријавите?"
     no_signup_message: 'Можете <a target="_blank" href="http://learn.code.org">претраживати разне нивое и загонетке</a>, али ће те морати да се пријавите како бих запамтили ваш напредак.'
     prizes_header: "The first students to complete the course win prizes! (U.S. students only)"
-    prizes_message: "U.S. students who earn all %{num_trophies} concept trophies can select a variety of prizes including free Dropbox space, Skype credits, and downloadable games from Electronic Arts and Valve."
+    prizes_message: "U.S. students who earn all %{num_trophies} concept trophies can select a variety of prizes including free Dropbox space, Skype credits, and downloadable games from Electronic Arts."
     teacher_educator_guide: "Погледај водич за едукатора"
     teacher_prize_header: 'Освоји $1,000 у <a target="_blank" href="http://DonorsChoose.org">DonorsChoose.org</a> Награде'
     teacher_prize_message: 'In partnership with <a target="_blank" href="http://DonorsChoose.org">DonorsChoose.org</a>, Code.org will offer up to $1,000 in classroom funding to U.S. public school teachers who lead at least 15 students through this course. <a href="http://code.org/educate/20hr">See educator guide for more info.</a> '

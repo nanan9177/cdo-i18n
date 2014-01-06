@@ -11,7 +11,7 @@
   "elseCode":"sinon",
   "fill":"Remplissez 1",
   "fillN":"remplissez {shovelfuls}",
-  "fillStack":"remplir la pile de 2 trous",
+  "fillStack":"fill stack of {shovelfuls} holes",
   "fillSquare":"remplissez le carré",
   "fillTooltip":"placer 1 unité de saleté",
   "finalLevel":"Félicitations ! Vous avez résolu l'énigme finale.",

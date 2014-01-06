@@ -50,7 +50,7 @@
     no_signup_header: "نمی خواهید ثبت نام کنید؟"
     no_signup_message: 'شما می‌توانید <a target="_blank" href="http://learn.code.org"> فهرست مراحل و پازل‌های مختلف را بررسی کنید</a>. باید ثبت نام کنید تا بتوانید پیشرفت‌های خود را ذخیره کنید.'
     prizes_header: "The first students to complete the course win prizes! (U.S. students only)"
-    prizes_message: "U.S. students who earn all %{num_trophies} concept trophies can select a variety of prizes including free Dropbox space, Skype credits, and downloadable games from Electronic Arts and Valve."
+    prizes_message: "U.S. students who earn all %{num_trophies} concept trophies can select a variety of prizes including free Dropbox space, Skype credits, and downloadable games from Electronic Arts."
     teacher_educator_guide: "به راهنمای معلم مراجعه کنید"
     teacher_prize_header: '۱۰۰۰ دلار پاداش بگیرید <a target="_blank" href="http://DonorsChoose.org"> DonorsChoose.org</a>'
     teacher_prize_message: 'In partnership with <a target="_blank" href="http://DonorsChoose.org">DonorsChoose.org</a>, Code.org will offer up to $1,000 in classroom funding to U.S. public school teachers who lead at least 15 students through this course. <a href="http://code.org/educate/20hr">See educator guide for more info.</a> '
@@ -106,7 +106,7 @@
       username_not_found: "نام کاربری %{username} یافت نشد"
       username_in_use: "%{username} قبلا انتخاب شده است، لطفا یک نام کاربری دیگر را امتحان کنید"
       no_teacher: "کسی با  '%{teacher_email_or_code}' وارد نشده است. لطفا از ایشان بخواهید تا ثبت نام کنند و بعد دوباره اضافه کردنشان را امتحان کنید"
-      blank_code: "Please enter a code or your teacher's email address"
+      blank_code: "لطفا یک کد یا آدرس ایمیل معلمتان را وارد کنید"
     mail:
       invite_student:
         subject: "در یک کلاس با %{teacher_name} در Code.org شرکت کنید!"
@@ -121,22 +121,22 @@
     success: "جایزه شما با موفقیت آزاد شد، کد زیر را مشاهده کنید."
     error: "جایزه شما قابل آزاد شدن نیست, لطفا دوباره سعی کنید."
     error_us_only: "پیشنهاد جایزه فقط برای کاربران ایالات متحده اعتبار دارد."
-    error_not_earned: "You have not yet earned this prize."
-    error_already_redeemed: "Your prize has already been redeemed."
-    no_prizes_available: "We're sorry, but we currently have no prizes available."
+    error_not_earned: "شما هنوز این جایزه را نبردید."
+    error_already_redeemed: "جایزه تان را قبلا استفاده کرده اید."
+    no_prizes_available: "متاسفیم، اما در حال حاضر هیچ جایزه ای موجود نیست."
     confirm:
       title: "لطفا تایید کنید"
       "no": نه
       "yes": بله
       msg: "آیا شما در مورد ادعای جایزه %{prize_name} مطمئنید؟"
       msg_student: "توجه: شما تنها می توانید یک نوع جایزه انتخاب کنید."
-      msg_publicschool: "Please confirm that you are a U.S. public school teacher."
+      msg_publicschool: "لطفا تایید کنید که شما یک معلم مدرسه دولتی در ایالات متحده هستند."
       msg_visit_website: "Visit website"
     providers:
       apple_itunes: "$10 iTunes Gift Card"
       donors_choose: "DonorsChoose.org $750 credit"
       donors_choose_bonus: "DonorsChoose.org $250 credit"
-      dropbox: "10GB of Dropbox Space"
+      dropbox: "10 گیگابایت از فضای دراپ باکس"
       valve: "Portal 2 (PC or Mac game download)"
       ea_bejeweled: "Bejeweled 3 (PC game download)"
       ea_fifa: "FIFA Soccer 13 (PC game download)"
@@ -252,8 +252,8 @@
   reference_area:
     title: "کمک نیاز دارید؟"
     subtitle: "دیدن این فیلم ها و نکات"
-    teacher: "See the solution"
-    auth_error: "You are not authorized to see the solution."
+    teacher: "مشاهده راه حل"
+    auth_error: "شما مجاز به دیدن راه حل نیستید."
   video:
     tab: "فیلم."
     notes: "فیلمی نیست؟ نمایش یادداشت ها."
@@ -267,4 +267,4 @@
   next_stage: "پایان! به مرحله بعد بروید"
   download_pdf: "طرح درس آزاد"
   share_code:
-    title: "Click 'Run program' to see my program in action"
+    title: '"اجرای برنامه" را کلیک کنید تا برنامه خود را در حال اجرا ببینید'

@@ -124,7 +124,7 @@
         turtle_4_9: "ここでは、前のパズルを解決します。図面を完成させるのに角度をどのくらいにする必要がありますか？（解くのに多少時間がかかるでしょう。)"
         turtle_4_10: "ここでは、前のパズルを解決します。図面を完成させるのに何回繰り返すひつようがあるでしょう？"
         turtle_4_11: "違うパターンを作るのに「ターン」と「繰り返し」ブロックの中の数字を変えてください。または、自分で残りのコードを自分の好きに書き変えて実験してみてください。"
-        maze_karel_1_1: "こんにちは、私は農民です。私の土地を平らにするのに助けが必要です、そうすれば根付けの準備ができます。「削除」ブロックで私を泥山にうごかして「削除」ブロックで泥山を削除してください。"
+        maze_karel_1_1: "こんにちは、私は農民です。私の土地を平らにするのに助けが必要です、そうすれば根付けの準備ができます。私を泥山にうごかして「取り除く」ブロックで泥山を取り除いてください。"
         maze_karel_1_2: '次に、私を穴へ移動させて、"fill"ブロックを使って、TWOシャベル一杯の泥山で一杯にしてください。'
         maze_karel_1_3: "私を泥山へ動かしてください、そしてできる限り少ないブロックを使って、シャベル何杯分で泥山をなくせるかを教えてください。"
         maze_karel_1_4: "泥山４つすべてをなくすのを手助けしてくれますか？ヒント: できるなら、繰り返しブロックを使う。"
@@ -174,11 +174,11 @@
           ライオンの周りに家を描く事で「正方形を描く」と「三角形を描く」（そして他のいくつかのブロック）をどう使うかを把握しているかをみます。
           
         turtle_3_5: "今、新しい「家を描く」関数を作成し、それを使って猫の家を描きます。ヒント：「何かをする」ブロックを使い、新しい関数を作成する。ブロックに自分でつけた名前をテキスト入力します。"
-        turtle_3_6: 'Using "draw a square" as an example, add an input named "length" to "draw a triangle". Then, draw triangles in different sizes. (Hint: click the star to add an input to a function)'
-        turtle_3_7: 'Add an input named "length" to "draw a house" and build a big house for the elephant (with edges 150 pixels long)'
-        turtle_3_8: 'Here are all of the blocks from the previous puzzle.  Modify "draw a house" so I end up at the bottom right corner after drawing a new house. Use this modified function to draw three houses.'
-        turtle_3_9: 'Can you re-create the "draw a house" function without help? Try it, and then draw a row of houses.'
-        turtle_3_10: "You've learned a lot! Now use it to draw whatever you want. Try to draw a star, or a spiral, or a fancy snowflake."
+        turtle_3_6: "「四角形を描画」を手本として、「三角形を描く」という関数をせいさくしてください。「長さ」という名前の入力を追加します。その後、様々なサイズの三角形を描画して見てくださ。 （ヒント：関数に入力を追加するには、星をクリックしてください）"
+        turtle_3_7: "「家を描画する」に「長さ」という名前の入力を追加します。そして、(エッジ 150 ピクセルの長さ) の大きな象の家を建て見てください。"
+        turtle_3_8: "パズルからのブロック、すべてがあります。「家を描画する」を変更して新しい家を描画した後の右下隅で終了するようにしてください。この変更された関数を使用して、3 つの家を描画します。"
+        turtle_3_9: "自分だけで「家を描画する」機能を作成できますか。それを試して、住宅の行を描画します。"
+        turtle_3_10: "あなたは多くのことを学んだ ！星、スパイイラル、または派手なスノーフレークなど自由に描画してください。"
         maze_karel_debug_seq_1: |
           デバッグの世界へようこそ ！私のコードは正しく動作されません。植物を植える準備するのに私が自分の土地を平らにできるよう、問題を発見してそれを修正してくれませんか？
           
@@ -188,27 +188,27 @@
           
           
         maze_karel_debug_repeat: "私の土地がすてきに平らになるようこのプログラムをデバグしてください。"
-        maze_karel_debug_while: "How should you change this program to help me fill the hole?"
+        maze_karel_debug_while: "どういうふうに、このプログラムを変化したら穴を埋めることができるでしょうか。"
         maze_karel_debug_if: "ヘルプ！私の土地が完璧に平らになるようこのプログラムを修正してください。"
         maze_karel_debug_if_else: |
           すべての積山を除去して穴を埋めルコとができるようこのプログラムをデバグしてください。
           
           
-        maze_karel_debug_function_1: "What should you change about this program to help me remove all the piles?"
-        maze_karel_debug_function_2: "Can you de-bug this program for me so I can make my field flat?"
-        maze_karel_debug_function_3: "Edit this program so I'll remove all the piles on my field. "
+        maze_karel_debug_function_1: "どんな変更をすればプログラムに杭を削除できるでしょうか。"
+        maze_karel_debug_function_2: "プログラムデバグしてもらえませんか。私のフィールドをひらっぺたくしたいんです。"
+        maze_karel_debug_function_3: "このプログラムを編集して、フィールドのすべての杭を削除するようにしてください。"
         turtle_5_1: "このプログラムを実行してみてください、そして何が起こるかを参照し変更をしてください。それがどのように動作するかを理解できますか？(または削除し、完全に別の何かと交換)"
         turtle_5_2: "このプログラムを実行してみてください、そして何が起こるかを参照し変更をしてください。それがどのように動作するかを理解できますか？(または削除し、完全に別の何かと交換)"
         turtle_5_3: "このプログラムを実行してみてください、そして何が起こるかを参照し変更をしてください。それがどのように動作するかを理解できますか？(または削除し、完全に別の何かと交換)"
         turtle_5_4: "このプログラムを実行してみてください、そして何が起こるかを参照し変更をしてください。それがどのように動作するかを理解できますか？(または削除し、完全に別の何かと交換)"
         turtle_5_5: "このプログラムを実行してみてください、そして何が起こるかを参照し変更をしてください。それがどのように動作するかを理解できますか？(または削除し、完全に別の何かと交換)"
         turtle_5_6: "このプログラムを実行してみてください、そして何が起こるかを参照し変更をしてください。それがどのように動作するかを理解できますか？(または削除し、完全に別の何かと交換)"
-        maze_3_1: "I need to get to that pig! Type in a couple of calls to move(); so I can get my eggs back."
-        maze_3_2: "Write me a program, so I can make it all the way to the pig."
-        maze_3_3: "How should I get to the pig? Make sure I don't run into the box of TNT!"
-        maze_3_4: "Argh! Write me a program that gets me around the TNT and to the pig."
+        maze_3_1: "豚を捕まえないといけない。move(); を何回かコールして卵をとりかえしてください。"
+        maze_3_2: "豚の居るとこに行けるようにプログラムを書いてください。"
+        maze_3_3: "どうやって豚を捕まえたらいいでしょうか？TNT　爆弾にぶつからないようにきおつけてください。"
+        maze_3_4: "なんてこった、TNT　を避けて豚が捕まえれるプログラム作って下さい。"
       levelIncompleteError:
-        maze_2_8: 'To solve this, find the pattern that repeats. Use a "repeat" block with these 3 blocks inside it: move, move, turn right.'
+        maze_2_8: "この問題を解くには、くり返しのパターンを見つけます。「移動」、「移動」、「右に回転」の3つのブロック（ブロック「くり返し」が中にはいっている）を使いましょう。"
       other1StarError:
         maze_2_14: "「くり返し」ブロックの中に「もし」ブロックが必要です。分からなくなったら、1つ前のレベルに戻って、「もし」ブロックがどのように動くのかを確認しましょう。"
       tooFewBlocksMsg:

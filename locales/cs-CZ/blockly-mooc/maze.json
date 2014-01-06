@@ -11,7 +11,7 @@
   "elseCode":"jinak",
   "fill":"vyplnit 1",
   "fillN":"vyplnit {shovelfuls}",
-  "fillStack":"vyplnit štos 2 děr",
+  "fillStack":"fill stack of {shovelfuls} holes",
   "fillSquare":"vyplnit čtverec",
   "fillTooltip":"umístit 1 jednotku hlíny",
   "finalLevel":"Dobrá práce! Vyřešil si poslední hádanku.",

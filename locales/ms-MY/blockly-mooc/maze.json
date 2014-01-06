@@ -11,7 +11,7 @@
   "elseCode":"lain",
   "fill":"Penuhkan 1",
   "fillN":"fill {shovelfuls}",
-  "fillStack":"fill stack of 2 holes",
+  "fillStack":"fill stack of {shovelfuls} holes",
   "fillSquare":"fill square",
   "fillTooltip":"Letakkan 1 unit kotoran",
   "finalLevel":"Tahniah! Anda berjaya menyelesaikan puzzle terakhir.",

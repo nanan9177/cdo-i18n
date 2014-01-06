@@ -16,7 +16,7 @@
   "dialogOK":"У реду",
   "emptyBlocksErrorMsg":"\"Repeat\" или  \"If\" блок мора имати још један блок у себи како би функционисао. Постарајте се да је унутрашнји блок правилно убачен у ванјски блок.",
   "finalStage":"Честитамо! Завршили сте последнју етапу.",
-  "finalStageTrophies":"Честитамо! Завршили сте последнју етапу и освојили  {numTrophies, plural, one {a trophy} other {# trophies}}.",
+  "finalStageTrophies":"Честитамо! Завршили сте последнју етапу и освојили  {numTrophies, plural, one {трофеј} other {# трофеја}}.",
   "generatedCodeInfo":"Блокови за ваш програм се такође могу репрезентовати у јава скрипту, светском најшире прихваћеном програмском језику:",
   "hashError":"Жао нам је, '%1' не одговара ни једном сачуваном програму.",
   "help":"Помоћ",
@@ -54,5 +54,10 @@
   "workspaceHeader":"Скупи своје блокове овде: ",
   "infinity":"бесконачност",
   "rotateText":"Окрените ваш уређај.",
-  "orientationLock":"Угасите оријентациону браву у подешаванјима уређаја."
+  "orientationLock":"Угасите оријентациону браву у подешаванјима уређаја.",
+  "shareDrawing":"Share your drawing:",
+  "wantToLearn":"Want to learn to code?",
+  "watchVideo":"Watch the Video",
+  "tryHOC":"Try the Hour of Code",
+  "signup":"Sign up for the intro course"
 }

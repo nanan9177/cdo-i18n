@@ -44,7 +44,7 @@
   "tooManyBlocksMsg":"Acest puzzle poate fi rezolvat cu blocuri <x id='START_SPAN'\/> <x id='END_SPAN'\/>.",
   "tooMuchWork":"M-ai făcut să lucrez foarte mult! Ai putea să încerci să repeți de mai puține ori?",
   "toolboxHeader":"Blocuri",
-  "openWorkspace":"How It Works",
+  "openWorkspace":"Cum funcţionează",
   "totalNumLinesOfCodeWritten":"Totalul all-time: {numLines, plural, one {1 linie} other {# linii}} de cod.",
   "tryAgain":"Încearcă din nou",
   "backToPreviousLevel":"Înapoi la nivelul anterior",
@@ -54,5 +54,10 @@
   "workspaceHeader":"Asamblează-ţi blocurile aici: ",
   "infinity":"Infinit",
   "rotateText":"Rotește dispozitivul tău.",
-  "orientationLock":"Oprește blocarea de orientare în setările dispozitivului."
+  "orientationLock":"Oprește blocarea de orientare în setările dispozitivului.",
+  "shareDrawing":"Share your drawing:",
+  "wantToLearn":"Want to learn to code?",
+  "watchVideo":"Watch the Video",
+  "tryHOC":"Try the Hour of Code",
+  "signup":"Sign up for the intro course"
 }

@@ -11,7 +11,7 @@
   "elseCode":"perndryshe",
   "fill":"mbush 1",
   "fillN":"mbush lopata{shovelfuls}",
-  "fillStack":"mbush grumbuj prej 2 gropash",
+  "fillStack":"fill stack of {shovelfuls} holes",
   "fillSquare":"mbush katrorin",
   "fillTooltip":"vendos nje njesi dheu",
   "finalLevel":"Urime! Ju keni perfunduar enigmen perfundimatare.",

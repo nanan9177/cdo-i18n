@@ -2,7 +2,7 @@
   devise:
     confirmations:
       confirmed: "Hesabınız müvəffəqiyyətlə təsdiq olundu. Artıq qeydiyyatdan keçdiniz."
-      send_instructions: "Bir neçə dəqiqəyə hesabınızı necə aktivləşdirəcəyiniz barədə bir e-məktub alacaqsınız."
+      send_instructions: "Bir neçə dəqiqəyə hesabınızı necə təsdiq edəcəyiniz barədə bir e-məktub alacaqsınız."
       send_paranoid_instructions: "E-poçt ünvanınız məlumat bazamızda varsa, bir neçə dəqiqəyə içərisində hesabınızı necə təsdiq edəcəyiniz barədə təlimatlar olam e-məktub alacaqsınız."
     failure:
       already_authenticated: "Artıq daxil olmusunuz."
@@ -43,7 +43,7 @@
       signed_out: "Hesabınızdan müvəffəqiyyətlə çıxdınız."
     unlocks:
       send_instructions: "Bir neçə dəqiqəyə hesabınızın kilidini necə açacağınız barədə bir e-məktub alacaqsınız."
-      send_paranoid_instructions: "Əgər, hesabını varsa, bir neçə dəqiqəyə hesabınızın kilidini necə açacağınız barədə bir e-məktub alacaqsınız."
+      send_paranoid_instructions: "Əgər, hesabınız varsa, bir neçə dəqiqəyə onun kilidini necə açacağınız barədə bir e-məktub alacaqsınız."
       unlocked: "Sizin hesabınızın kilidi müvəffəqiyyət ilə açılmışdır. Davam etmək üçün hesabınıza daxil olun."
   errors:
     messages:

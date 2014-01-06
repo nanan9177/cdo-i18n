@@ -11,7 +11,7 @@
   "elseCode":"əks halda",
   "fill":"birini doldur",
   "fillN":"{shovelfuls} doldur",
-  "fillStack":"dalbadal 2 çuxuru doldur",
+  "fillStack":"fill stack of {shovelfuls} holes",
   "fillSquare":"kvadrat doldur",
   "fillTooltip":"bir parça torpaq qoy",
   "finalLevel":"Təbriklər! Axırıncı tapmacanı da tapdınız.",

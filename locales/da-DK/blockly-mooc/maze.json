@@ -11,7 +11,7 @@
   "elseCode":"ellers",
   "fill":"fyld 1",
   "fillN":"fyld {shovelfuls}",
-  "fillStack":"fyld stak af 2 huller",
+  "fillStack":"fill stack of {shovelfuls} holes",
   "fillSquare":"Udfyld firkanten",
   "fillTooltip":"placér 1 enhed af jord",
   "finalLevel":"Tillykke! Du har løst det sidste puslespil.",

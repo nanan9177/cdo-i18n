@@ -50,10 +50,10 @@
     no_signup_header: "Viltu ekki skrá þig?"
     no_signup_message: 'Þú getur <a target="_blank" href="http://learn.code.org">skoðað hina ýmsu áfanga og þrautir</a>, en þú verður að skrá þig til að geta vistað árangur þinn.'
     prizes_header: "Fyrstu nemendurnir til að ljúka námskeiðinu vinna til verðlauna! (aðeins bandarískir nemendur)"
-    prizes_message: "U.S. students who earn all %{num_trophies} concept trophies can select a variety of prizes including free Dropbox space, Skype credits, and downloadable games from Electronic Arts and Valve."
+    prizes_message: "U.S. students who earn all %{num_trophies} concept trophies can select a variety of prizes including free Dropbox space, Skype credits, and downloadable games from Electronic Arts."
     teacher_educator_guide: "Sjá leiðarvísi kennara"
     teacher_prize_header: 'Verðlaun upp á $1000 í boði hjá <a target="_blank" href="http://DonorsChoose.org">DonorsChoose.org</a>'
-    teacher_prize_message: 'In partnership with <a target="_blank" href="http://DonorsChoose.org">DonorsChoose.org</a>, Code.org will offer up to $1,000 in classroom funding to U.S. public school teachers who lead at least 15 students through this course. <a href="http://code.org/educate/20hr">See educator guide for more info.</a> '
+    teacher_prize_message: 'Í samstarfi við <a target="_blank" href="http://DonorsChoose.org">DonorsChoose.org</a>, mun Code.org veita allt að $1.000 fjárstuðning til bekkjarstarfs í opinberum skólum í Bandaríkjunum hjá þeim kennurum sem leiða a.m.k. 15 nemendur í gegnum þetta námskeið. <a href="http://code.org/educate/20hr">Sjá nánar í leiðarvísi fyrir kennara.</a> '
     teacher_pitch: "Kenndu K-8 Intro to Computer Science í skólastofunni þinni"
     teacher_title: "Innskráning kennara"
     student_pitch: "Að lokinni 1 klst: prófaðu K-8 Intro to Computer Science"
@@ -108,7 +108,7 @@
       username_not_found: "Notandaheitið %{username} fannst ekki"
       username_in_use: "%{username} er í notkun, veldu annað"
       no_teacher: "Fann engan skráðan inn með '%{teacher_email_or_code}'. Biddu viðkomandi að skrá sig hér og reyndu svo aftur að bæta þeim við"
-      blank_code: "Please enter a code or your teacher's email address"
+      blank_code: "Vinsamlegast færðu inn kóða eða netfang kennara þíns"
     mail:
       invite_student:
         subject: "Komdu í bekk sem %{teacher_name} kennir hjá Code.org!"
@@ -123,22 +123,22 @@
     success: "Verðlaunin voru innleyst, sjá kóða fyrir neðan."
     error: "Ekki tókst að innleysa verðlaunin, vinsamlegast reyndu aftur."
     error_us_only: "Boðið um verðlaun gildir aðeins fyrir notendur í Bandaríkjunum."
-    error_not_earned: "You have not yet earned this prize."
-    error_already_redeemed: "Your prize has already been redeemed."
-    no_prizes_available: "We're sorry, but we currently have no prizes available."
+    error_not_earned: "Þú hefur enn ekki unnið til þessara verðlauna."
+    error_already_redeemed: "Verðlaunin þín hafa þegar verið innleyst."
+    no_prizes_available: "Því miður, en þessa stundina eru engin verðlaun í boði."
     confirm:
       title: "Vinsamlegast staðfestu"
       "no": Nei
       "yes": Já
       msg: "Ertu viss um að þú viljir gera kröfu um verðlaunin %{prize_name}?"
       msg_student: "ATHUGAÐU: Þú getur aðeins valið eina tegund verðlauna."
-      msg_publicschool: "Please confirm that you are a U.S. public school teacher."
+      msg_publicschool: "Vinsamlegast staðfestu að þú sért kennari í opinberum skóla í Bandaríkjunum."
       msg_visit_website: "Heimsækja heimasíðu"
     providers:
       apple_itunes: "$10 iTunes gjafakort"
       donors_choose: "$750 inneign hjá DonorsChoose.org"
       donors_choose_bonus: "$250 inneign hjá DonorsChoose.org"
-      dropbox: "10GB of Dropbox Space"
+      dropbox: "10GB Dropbox pláss"
       valve: "Portal 2 (PC eða Mac leikjaniðurhal)"
       ea_bejeweled: "Bejeweled 3 (PC leikjaniðurhal)"
       ea_fifa: "FIFA Soccer 13 (PC leikjaniðurhal)"
@@ -150,7 +150,7 @@
       choose_teacher: "Smelltu á merkið fyrir neðan til að kalla eftir verðlaunum þínum:"
       earned: "Þú hefur unnið til verðlauna! (Aðeins bandarískir nemendur)"
       not_earned_title: "Ljúktu við kennsluefnið og fáðu verðlaun (aðeins nemendur í Bandaríkjunum)"
-      not_earned: "Learn all the computer science concepts, collect all %{num_trophies} trophies, and earn real-world prizes. You can choose between 10GB of free Dropbox space, $10 in Skype credits, and free game downloads. NOTE: offer only valid to U.S. students, and only as long as supplies last."
+      not_earned: "Lærðu öll hugtökin í tölvunarfræði, safnaðu öllum %{num_trophies} bikurunum og þú getur unnið raunveruleg verðlaun. Þú getur valið um 10GB af Dropbox geymsluplássi, $10 í inneign hjá Skype og ókeypis niðurhal leikja. ATHUGAÐU: þetta boð gildir aðeins fyrir bandaríska nemendur og aðeins á meðan birgðir endast."
       teacher:
         earned: "10 eða fleiri nemendur söfnuðu öllum %{num_trophies} bikurunum. Þú hefur unnið til kennaraverðlauna! (aðeins bandarískir kennarar)"
         not_earned_title: 'Kenndu bekknum og fáðu allt að $1,000 inneign hjá <a target="_blank" href="http://DonorsChoose.org">DonorsChoose.org</a> (aðeins kennarar í Bandaríkjunum)'
@@ -228,8 +228,8 @@
     student_progress: "Námsframvinda þín"
     student_stats: 'Þú hefur unnið til %{trophy_count} af %{trophy_max} mögulegum "Concept Mastery" bikurum.'
     student_left_off: "Þú varst hér síðast:"
-    student_finished_prize: "You've completed all tutorials, claim your %{prize_link} and pick another class %{online_link} or at a %{local_school_link}"
-    student_finished: "You've completed all tutorials, pick another class %{online_link} or at a %{local_school_link}"
+    student_finished_prize: "Þú hefur lokið öllu kennsluefninu. Innleystu verðlaunin þín %{prize_link} og veldu annað nám á netinu: %{online_link} eða í skóla: %{local_school_link}"
+    student_finished: "Þú hefur lokið öllu kennsluefninu. Veldu annað nám á netinu: %{online_link} eða í skóla: %{local_school_link}"
     local_school: "nálægur skóli"
     online: "á netinu"
     see_details: "Sjá nánar"
@@ -254,8 +254,8 @@
   reference_area:
     title: "Vantar þig aðstoð?"
     subtitle: "Skoðaðu þessi myndbönd og vísbendingar"
-    teacher: "See the solution"
-    auth_error: "You are not authorized to see the solution."
+    teacher: "Sjá lausnina"
+    auth_error: "Þú hefur ekki heimild til að sjá lausnina."
   video:
     tab: "Myndbönd."
     notes: "Ekkert myndband? Sýna útskýringar."
@@ -269,4 +269,4 @@
   next_stage: "Búið! Halda áfram í næsta áfanga"
   download_pdf: "Opin kennsluáætlun"
   share_code:
-    title: "Click 'Run program' to see my program in action"
+    title: "Smelltu á 'Keyra forrit' til að prófa forritið mitt"

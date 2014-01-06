@@ -11,7 +11,7 @@
   "elseCode":"annars",
   "fill":"Fyll 1",
   "fillN":"fyll {shovelfuls}",
-  "fillStack":"fyll sammanliggande 2 hål",
+  "fillStack":"fill stack of {shovelfuls} holes",
   "fillSquare":"fyll kvadrat",
   "fillTooltip":"Placera 1 lera",
   "finalLevel":"Grattis! Du har löst det sista pusslet.",

@@ -44,7 +44,7 @@
   "tooManyBlocksMsg":"Þessa þraut er hægt að leysa með <x id='START_SPAN'\/><x id='END_SPAN'\/> kubbum.",
   "tooMuchWork":"Þú lagðir á mig mjög mikla vinnu! Gætirðu reynt að nota færri endurtekningar?",
   "toolboxHeader":"Kubbar",
-  "openWorkspace":"How It Works",
+  "openWorkspace":"Hvernig það virkar",
   "totalNumLinesOfCodeWritten":"Samtals: {numLines, plural, one {1 lína} other {# línur}} af kóða.",
   "tryAgain":"Reyna aftur",
   "backToPreviousLevel":"Til baka á fyrra stig",
@@ -54,5 +54,10 @@
   "workspaceHeader":"Settu kubbana saman hér: ",
   "infinity":"Óendanleiki",
   "rotateText":"Snúðu tækinu þínu.",
-  "orientationLock":"Slökktu á stefnulæsingu í stillingum tækis."
+  "orientationLock":"Slökktu á stefnulæsingu í stillingum tækis.",
+  "shareDrawing":"Share your drawing:",
+  "wantToLearn":"Want to learn to code?",
+  "watchVideo":"Watch the Video",
+  "tryHOC":"Try the Hour of Code",
+  "signup":"Sign up for the intro course"
 }

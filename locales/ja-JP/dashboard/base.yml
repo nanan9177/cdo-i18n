@@ -50,9 +50,7 @@
     no_signup_header: "入会したくないですか？"
     no_signup_message: '<a target="_blank"href="http://learn.code.org"> いろいろなステージとパズルを見られます。</a>しかし、あなたの進捗状況を保存するために入会する必要があります。'
     prizes_header: "The first students to complete the course win prizes! (U.S. students only)"
-    prizes_message: |
-      コンセプトトロフィー %{num_trophies} を獲得した全ての米国の学生はDropboxの無料スペース、スカイプのクレジット、そしてElectronic Artsから無料でダウンロードできるゲームなど、バラエティにあふれる商品が選べます。 
-      
+    prizes_message: "U.S. students who earn all %{num_trophies} concept trophies can select a variety of prizes including free Dropbox space, Skype credits, and downloadable games from Electronic Arts."
     teacher_educator_guide: "教育者のガイドを参照してください。"
     teacher_prize_header: '100ドル賞金が当たります<a target="_blank" href="http://DonorsChoose.org">DonorsChoose.org</a> rewards'
     teacher_prize_message: '<a target="_blank" href="http://DonorsChoose.org">DonorsChoose.org</a>とパートナーを組んで,Code.orgでは $1,000を上限とするクラスで使う資金を、このコースの間に少なくとも15人の学生を導いた米国の公立学校の教師へ提供します。 <a href="http://code.org/educate/20hr">詳細は教育者ガイドを参考にしてください。</a> '

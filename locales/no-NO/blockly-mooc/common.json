@@ -54,5 +54,10 @@
   "workspaceHeader":"Sett sammen blokkene dine her: ",
   "infinity":"Uendelig",
   "rotateText":"Roter enheten din.",
-  "orientationLock":"Skru av roteringslåsen på enheten din."
+  "orientationLock":"Skru av roteringslåsen på enheten din.",
+  "shareDrawing":"Share your drawing:",
+  "wantToLearn":"Want to learn to code?",
+  "watchVideo":"Watch the Video",
+  "tryHOC":"Try the Hour of Code",
+  "signup":"Sign up for the intro course"
 }

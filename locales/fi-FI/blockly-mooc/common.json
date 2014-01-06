@@ -54,5 +54,10 @@
   "workspaceHeader":"Kokoa lohkosi täällä: ",
   "infinity":"Ääretön",
   "rotateText":"Käännä laitettasi.",
-  "orientationLock":"Poista laitteesi asentolukko."
+  "orientationLock":"Poista laitteesi asentolukko.",
+  "shareDrawing":"Share your drawing:",
+  "wantToLearn":"Want to learn to code?",
+  "watchVideo":"Watch the Video",
+  "tryHOC":"Try the Hour of Code",
+  "signup":"Sign up for the intro course"
 }

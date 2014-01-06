@@ -11,7 +11,7 @@
   "elseCode":"anders",
   "fill":"vul in 1",
   "fillN":"vul {shovelfuls}",
-  "fillStack":"vul stapel van 2 gaten",
+  "fillStack":"fill stack of {shovelfuls} holes",
   "fillSquare":"vul vierkant",
   "fillTooltip":"plaats 1 stuke aarde",
   "finalLevel":"Gefeliciteerd! je hebt de laatste puzzel opgelost.",

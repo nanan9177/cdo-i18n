@@ -43,46 +43,46 @@
     facebook: "Facebook"
     windowslive: "Windows Live"
     forgot_password: "忘記了您的密碼嗎？"
-    need_confirmation: "Didn't receive confirmation instructions?"
-    need_unlock: "Didn't receive unlock instructions?"
+    need_confirmation: "沒有收到確認的說明嗎？"
+    need_unlock: "沒收到解鎖說明嗎？"
   signup_form:
     overview: "This 20-hour course introduces core computer science and programming concepts. The course is designed for use in classrooms for grades K-8, but it is fun to learn at all ages."
     no_signup_header: "不想註冊嗎？"
     no_signup_message: '您可以 <a target="_blank"href="HTTP://learn.code.org"> 流覽各個階段和關卡</a>，但您需要註冊以保存您的進度。'
     prizes_header: "The first students to complete the course win prizes! (U.S. students only)"
-    prizes_message: "U.S. students who earn all %{num_trophies} concept trophies can select a variety of prizes including free Dropbox space, Skype credits, and downloadable games from Electronic Arts and Valve."
+    prizes_message: "U.S. students who earn all %{num_trophies} concept trophies can select a variety of prizes including free Dropbox space, Skype credits, and downloadable games from Electronic Arts."
     teacher_educator_guide: "請參閱教育者指南"
-    teacher_prize_header: 'Win $1,000 in <a target="_blank" href="http://DonorsChoose.org">DonorsChoose.org</a> rewards'
+    teacher_prize_header: ' 在 <a target="_blank" href="http://DonorsChoose.org">DonorsChoose.org</a>贏得 $1,000 獎勵'
     teacher_prize_message: 'In partnership with <a target="_blank" href="http://DonorsChoose.org">DonorsChoose.org</a>, Code.org will offer up to $1,000 in classroom funding to U.S. public school teachers who lead at least 15 students through this course. <a href="http://code.org/educate/20hr">See educator guide for more info.</a> '
     teacher_pitch: "Teach the K-8 Intro to Computer Science in your classroom"
     teacher_title: "教師註冊"
     student_pitch: "Beyond 1 hour: try our K-8 Intro to Computer Science"
     student_title: "註冊帳號"
     school_name: "學校名稱 （選填）"
-    school_address: "School Address (optional)"
-    address_placeholder: "address, city, state, zip"
+    school_address: "學校地址 （選填）"
+    address_placeholder: "地址、 城市、 州、 郵遞區號"
     gender: "性別 （選填）"
     birthday: "生日 （選填）"
-    submit: "Sign up"
+    submit: "註冊"
     teacher: "你是老師嗎？"
-    valid_username: "Available!"
+    valid_username: "可使用!"
     invalid_username: "使用者名稱必須至少 5 個字元"
     taken_username: "使用者名稱已被使用"
     valid_password: "有效的密碼 ！"
-    invalid_password: "Password must be at least 6 characters"
-    mismatch_password: "The two passwords you entered do not match"
+    invalid_password: "密碼必須至少要 6 個字元"
+    mismatch_password: "您輸入的兩次密碼不一樣"
     student_terms: "I agree to be bound by the Code.org terms of service. If I am under 13 years of age, I confirm by submitting this form that I have my parent or legal guardian's permission to use the Code.org services."
     teacher_terms: "I agree to be bound by the Code.org terms of service."
   signin_form:
     title: "登入"
     login: "電子郵件或使用者名稱"
     password: "密碼"
-    remember: "Remember me"
+    remember: "記住密碼"
     submit: "登入"
   password:
     reset_form:
       title: "忘記密碼？"
-      email: "Email address"
+      email: "電子郵件地址"
       submit: "Send me reset password instructions"
     change_form:
       title: "更改您的密碼"
@@ -102,10 +102,10 @@
   follower:
     invite_sent: "Invite sent"
     added_teacher: "%{name} added as your teacher"
-    registered: "You've registered for %{section_name}."
+    registered: "你已經用 %{section_name}註冊。"
     error:
       signed_in: "請在繼續之前登出"
-      username_not_found: "Username %{username} not found"
+      username_not_found: "找不到使用者 %{username}"
       username_in_use: "%{username} is already taken, please pick another"
       no_teacher: "Could not find anyone signed in with '%{teacher_email_or_code}'. Please ask them to sign up here and then try adding them again"
       blank_code: "Please enter a code or your teacher's email address"
@@ -114,7 +114,7 @@
         subject: "Join a class with %{teacher_name} at Code.org!"
   reports:
     error:
-      access_denied: "You don't have access to this person's stats"
+      access_denied: "您不能讀取此人的統計資訊"
   redeem_prizes:
     title: "Redeem Prizes: %{name}"
     provider: "Provider:"
@@ -122,9 +122,9 @@
     redeem_header: "To redeem:"
     success: "Your prize was succesfully redeemed, see code below."
     error: "Your prize could not be redeemed, please try again."
-    error_us_only: "The prize offer is only valid for U.S. users."
-    error_not_earned: "You have not yet earned this prize."
-    error_already_redeemed: "Your prize has already been redeemed."
+    error_us_only: "這個獎項只提供給美國使用者。"
+    error_not_earned: "你還沒有獲得這一個獎項。"
+    error_already_redeemed: "您獲得的獎金已經兌現。"
     no_prizes_available: "We're sorry, but we currently have no prizes available."
     confirm:
       title: "Please Confirm"
@@ -161,15 +161,15 @@
           not_earned: 'If at least 7 of your students who earn all %{num_trophies} trophies are girls, your reward is an additional $250 in <a target="_blank" href="http://DonorsChoose.org">DonorsChoose.org</a> credits. <a target="_blank" href="http://DonorsChoose.org">DonorsChoose.org</a> credits can only be used by teachers in U.S. public schools.'
   crud:
     new_model: "新 %{model}"
-    show: "Show"
+    show: "顯示 "
     edit: "编辑"
     edit_model: "編輯 %{model}"
     update: "更新 "
     destroy: "Destroy"
     back: "返回"
-    confirm: "Are you sure?"
-    created: "%{model} was successfully created."
-    updated: "%{model} was successfully updated."
+    confirm: "是否確定？"
+    created: "%{model} 已建立。"
+    updated: "%{model} 已更新。"
   nav:
     header:
       finished_hoc: "I've finished my Hour of Code"
@@ -179,17 +179,17 @@
       label: "嗨 %{username}"
       stats: "我的進度"
       settings: "我的帳戶"
-      prizes: "Prizes"
+      prizes: "獎品"
       logout: "登出"
       signin: "登入"
       signup: "登記"
     popup:
       progress: "您的進度"
-      lines: "Total lines of code: %{lines}"
+      lines: "全部程式碼行數: %{lines}"
       close: "關閉"
       mastery: "觀念"
       puzzle_map: "階段"
-      prizes: "Collect all %{total_trophies} trophies and win prizes!"
+      prizes: "收集所有 %{total_trophies} 的獎盃，並贏取獎品 ！"
       prize_earned: "All %{total_trophies} trophies collected. Prize won!"
       prize_us_only: "（僅適用于美國學生）"
       prizes_link: "更多資訊 "
@@ -197,14 +197,14 @@
     title:
       one: "你的老師是 %{名字}"
       other: "你的老師："
-    tools: "Teacher Tools"
+    tools: "教師工具"
     students:
       manage: "學生管理"
       add: "新增學生"
-    rollup: "Progress Dashboard"
-    activity: "Recent class activity"
+    rollup: "進度表"
+    activity: "最近的班級活動"
   user:
-    new_password_hint: "(leave blank if you don't want to change it)"
+    new_password_hint: "（如果你不想變更它就保留空白）"
     current_password_hint: "（我們需要您現在的密碼以確認您的更改）"
     cancel:
       title: "取消我的帳戶"
@@ -219,30 +219,30 @@
   home:
     signin_message: "Or if you're already registered, %{link}"
     student_reg_link: "學生 "
-    teacher_reg_link: "Teacher"
-    teacher_dashboard: "See progress dashboard"
+    teacher_reg_link: "老師"
+    teacher_dashboard: "瀏覽進度表"
     teacher_student_count_one: "您有 %{count} 位學生."
-    teacher_student_count: "You have %{count} students."
+    teacher_student_count: "您有 %{count} 位學生."
     teacher_averages: 'On average your students have earned %{trophy_average} out of %{trophy_max} "Concept Mastery" trophies.'
     classroom: "您的教室"
     student_progress: "您的學習進度"
     student_stats: |-
       You've earned %{trophy_count} out of %{trophy_max} "Concept Mastery" trophies.
     student_left_off: "Where you left off:"
-    student_finished_prize: "You've completed all tutorials, claim your %{prize_link} and pick another class %{online_link} or at a %{local_school_link}"
-    student_finished: "You've completed all tutorials, pick another class %{online_link} or at a %{local_school_link}"
-    local_school: "local school"
+    student_finished_prize: "你已經完成所有練習課程，換取你的 %{prize_link}，挑戰另外的 %{online_link} 或 {local_school_link} %"
+    student_finished: "你已經完成所有練習課程，挑戰另外的 %{online_link} 或到% {local_school_link} "
+    local_school: "當地的學校"
     online: "在線上"
     see_details: "查看詳細資訊"
   gender:
-    male: "Male"
-    female: "Female"
+    male: "男性"
+    female: "女性"
     none: "Prefer not to answer"
   footer:
     help_from_html: 'Engineers from <a href="http://www.google.com">Google</a>, <a href="http://www.microsoft.com">Microsoft</a>, <a href="http://www.facebook.com">Facebook</a>, and <a href="http://www.twitter.com">Twitter</a> helped create this tutorial.'
-    art_from_html: 'Angry Birds&trade; & &copy; 2009 - 2013 <a href="http://www.rovio.com">Rovio Entertainment Ltd</a>. All Rights Reserved.<br/> Plants vs. Zombies&trade; & &copy; 2013 <a href="http://www.ea.com">Electronic Arts Inc.</a>. All Rights Reserved.'
+    art_from_html: 'Angry Birds&trade; & &copy; 2009 - 2013 <a href="http://www.rovio.com">Rovio Entertainment Ltd</a>. 版權所有.<br/> Plants vs. Zombies&trade; & &copy; 2013 <a href="http://www.ea.com">Electronic Arts Inc.</a>.版權所有.'
     feedback: "提供回饋"
-    translate: "Help us translate to your language"
+    translate: "幫我們翻譯成您國家的語言"
     tos: "服務條款"
     privacy: "隱私權政策"
   prize_mail:
@@ -255,8 +255,8 @@
   reference_area:
     title: "需要幫忙嗎？"
     subtitle: "看看這些影片和提示"
-    teacher: "See the solution"
-    auth_error: "You are not authorized to see the solution."
+    teacher: "參考解決方案"
+    auth_error: "您無權查看該解決方案。"
   video:
     tab: "影片"
     notes: "沒有視頻嗎？顯示注釋。"
@@ -267,7 +267,7 @@
     upgrade: "請升級您的瀏覽器。"
   slow_loading: "This is taking longer than usual..."
   try_reloading: "請嘗試重新載入網頁"
-  next_stage: "Finished! Continue to next stage"
+  next_stage: "完成 ！繼續邁向下一個階段"
   download_pdf: "Open Lesson Plan"
   share_code:
-    title: "Click 'Run program' to see my program in action"
+    title: "按一下'執行程式'來看看程式執行結果"

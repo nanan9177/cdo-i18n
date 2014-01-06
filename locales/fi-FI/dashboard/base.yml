@@ -50,7 +50,7 @@
     no_signup_header: "Etkö halua rekisteröityä?"
     no_signup_message: 'Voit <a target="_blank" href="http://learn.code.org">selata eri tasoja ja pulmia</a>, mutta sinun pitää rekistöröityä, jotta voit tallentaa edistymisesi.'
     prizes_header: "The first students to complete the course win prizes! (U.S. students only)"
-    prizes_message: "Yhdysvaltalaiset opiskelijat jotka ansaitsevat kaikki %{num_trophies} pokaalia voivat valita erilaisia palkintoja, kuten ilmaista Dropbox-tilaa, Skype-saldoa ja ladattavia Electronic Artsin ja Valven pelejä."
+    prizes_message: "U.S. students who earn all %{num_trophies} concept trophies can select a variety of prizes including free Dropbox space, Skype credits, and downloadable games from Electronic Arts."
     teacher_educator_guide: "Katso opettajan opas"
     teacher_prize_header: "(sivustolla mainitut raha- ja tavarapalkinnot ovat voimassa vain USA:ssa)"
     teacher_prize_message: 'Yhteistyössä <a target="_blank" href="http://DonorsChoose.org">DonorsChoose.org</a>:in kanssa Code.org tarjoaa jopa tuhat dollaria luokkarahoitusta yhdysvaltalaisten valtion koulujen opettajille, jotka opastavat vähintään 15 opiskelijaa läpi tästä kurssista. <a href="http://code.org/educate/20hr">Katso lisätiedot opettajan oppaasta.</a> '

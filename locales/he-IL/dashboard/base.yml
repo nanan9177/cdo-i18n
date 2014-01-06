@@ -3,25 +3,25 @@
     attributes:
       user:
         name: "שם"
-        email: "דואר אלקטרוני"
+        email: "אימייל"
         username: |
           שם משתמש
           
-        password: "סיסמה"
+        password: "סיסמא"
         password_confirmation: "וידוא סיסמא"
         current_password: "הסיסמה הנוכחית"
         locale: "שפה"
         gender: "מין"
-        edit_header: "עריכת פרטי חשבון"
-  hello: "שלום עולם"
+        edit_header: "שינוי פרטי החשבון"
+  hello: "הי עולם"
   welcome_back: "ברוך שובך, %{name}"
   add_teacher_form:
     code_or_email:
       label: "הוספת מורה על-ידי קוד או כתובת האימייל שלך:"
-      placeholder: "קוד (ABCDEF) או בדוא ל (teacher@school.edu)"
-    submit: "הוסף מורה"
+      placeholder: "קוד (ABCDEF) או תשלחו אימייל ל (teacher@school.edu)"
+    submit: "הוספת מורה"
   appname: "Code.org"
-  stage: "במה"
+  stage: "שלב"
   puzzle: "חידה"
   trophies: "גביעים"
   courses: "קורסים"
@@ -52,10 +52,12 @@
     no_signup_header: "למה שלא תירשם?"
     no_signup_message: 'אתה יכול <a target="_blank" href="http://learn.code.org">לדפדף בחידות והשלבים השונים</a>, אבל אתה צריך להירשם על-מנת לשמור את התהליך שאתה עובר.'
     prizes_header: "The first students to complete the course win prizes! (U.S. students only)"
-    prizes_message: "U.S. students who earn all %{num_trophies} concept trophies can select a variety of prizes including free Dropbox space, Skype credits, and downloadable games from Electronic Arts and Valve."
+    prizes_message: "U.S. students who earn all %{num_trophies} concept trophies can select a variety of prizes including free Dropbox space, Skype credits, and downloadable games from Electronic Arts."
     teacher_educator_guide: "ראה מדריך למחנך"
     teacher_prize_header: 'זכה בפרס בשווי 1,000 דולר ב-<a target="_blank" href="http://DonorsChoose.org">DonorsChoose.org</a>'
-    teacher_prize_message: 'In partnership with <a target="_blank" href="http://DonorsChoose.org">DonorsChoose.org</a>, Code.org will offer up to $1,000 in classroom funding to U.S. public school teachers who lead at least 15 students through this course. <a href="http://code.org/educate/20hr">See educator guide for more info.</a> '
+    teacher_prize_message: |
+      בשותפות עם <a target="_blank" href="http://DonorsChoose.org"> DonorsChoose.org </a>
+      Code.org מציע לך מימון של עד 1000 דולר למימון כיתת למידה בארצות הברית למורים שמלמדים לפחות 15 תלמידים בקורס <a href="http://code.org/educate/20hr"> הסתכל מדריך למורה לעוד מידע </a>
     teacher_pitch: "למד את כיתות ח׳ הקדמה למדעי המחשב בכיתה שלך"
     teacher_title: "מורה, הרשם"
     student_pitch: "אחרי שעה: נסה את ההקדמה שלנו למדעי המחשב לכיתות ח׳"
@@ -113,7 +115,7 @@
       no_teacher: |
         לא נמצא משתמש רשום ע״י ״%{teacher_email_or_code}״.
         אנא בקש מהם להירשם כאן ונסה להוסיף אותם שנית
-      blank_code: "Please enter a code or your teacher's email address"
+      blank_code: "בבקשה הכנס קוד או אימייל המורה שלך"
     mail:
       invite_student:
         subject: "הצטרף לכיתה עם %{teacher_name} ב-Code.org!"
@@ -128,22 +130,23 @@
     success: "Your prize was succesfully redeemed, see code below."
     error: "Your prize could not be redeemed, please try again."
     error_us_only: "הפרס הזה תקף אך ורק לתושבי ארצות הברית."
-    error_not_earned: "You have not yet earned this prize."
+    error_not_earned: "עדיין לא השגת את הפרס הזה."
     error_already_redeemed: "Your prize has already been redeemed."
-    no_prizes_available: "We're sorry, but we currently have no prizes available."
+    no_prizes_available: "אנו מצטערים, אך כרגע אין לנו אף פרס זמין."
     confirm:
       title: "Please Confirm"
       "no": לא
       "yes": כן
       msg: "אתה בטוח שאתה רוצה לבחור בפרס %{prize_name}?"
       msg_student: "הערה: ניתן לבחור רק סוג אחד של פרס."
-      msg_publicschool: "Please confirm that you are a U.S. public school teacher."
+      msg_publicschool: 'נא אשר כי הנך מורה בבית-ספר ציבורי בארה"ב.'
       msg_visit_website: "Visit website"
     providers:
       apple_itunes: "$10 iTunes Gift Card"
       donors_choose: "DonorsChoose.org $750 credit"
       donors_choose_bonus: "DonorsChoose.org $250 credit"
-      dropbox: "10GB of Dropbox Space"
+      dropbox: |-
+        נפח של 10 ג'יגה בייט ב"Dropbox"
       valve: "Portal 2 (PC or Mac game download)"
       ea_bejeweled: "Bejeweled 3 (PC game download)"
       ea_fifa: "FIFA Soccer 13 (PC game download)"
@@ -233,7 +236,7 @@
     student_progress: "התקדמות הלמידה שלך"
     student_stats: "הרווחת %{trophy_count} פרסים מתוך %{trophy_max} אפשריים."
     student_left_off: "היכן שהפסקתם:"
-    student_finished_prize: "You've completed all tutorials, claim your %{prize_link} and pick another class %{online_link} or at a %{local_school_link}"
+    student_finished_prize: "השלמת את כל המדריכים הרווחת את %{prize_link} ותוכל לקחת שיעור אחר %{online_link} או %{local_school_link}"
     student_finished: "You've completed all tutorials, pick another class %{online_link} or at a %{local_school_link}"
     local_school: 'בה"ס מקומי'
     online: "באינטרנט"
@@ -259,8 +262,8 @@
   reference_area:
     title: "צריך עזרה?"
     subtitle: "לראות את קטעי וידאו ורמזים"
-    teacher: "See the solution"
-    auth_error: "You are not authorized to see the solution."
+    teacher: "תראה את הפתרון"
+    auth_error: "אינך מורשה לראות את הפתרון."
   video:
     tab: "וידאו."
     notes: "אין וידאו? הצג הערות."
@@ -274,4 +277,4 @@
   next_stage: "סיימת! המשך לשלב הבא"
   download_pdf: "שיעור פתוח"
   share_code:
-    title: "Click 'Run program' to see my program in action"
+    title: 'לחץ " הפעל תוכנית" בשביל לראות את התוכנית שלך בפעולה'

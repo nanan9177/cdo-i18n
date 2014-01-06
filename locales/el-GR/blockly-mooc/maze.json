@@ -11,7 +11,7 @@
   "elseCode":"διαφορετικά",
   "fill":"γέμισε 1",
   "fillN":"γέμισε {shovelfuls}",
-  "fillStack":"γέμισε τη στοίβα των 2 τρυπών",
+  "fillStack":"fill stack of {shovelfuls} holes",
   "fillSquare":"γέμισε το τετράγωνο",
   "fillTooltip":"βάλε 1 μονάδα χώμα",
   "finalLevel":"Συγχαρητήρια! Έλυσες το τελευταίο Παζλ.",

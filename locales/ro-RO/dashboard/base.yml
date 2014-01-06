@@ -48,12 +48,12 @@
   signup_form:
     overview: "Acest curs de 20 de ore prezintă concepte de bază din informatică şi programare. Cursul este creat pentru utilizarea în săli de clasă pentru clasele K-8, dar este distractiv de învăţat la toate vârstele."
     no_signup_header: "Nu vrei să te înregistrezi?"
-    no_signup_message: 'Poţi <a target="_blank" href="http://learn.code.org"> parcurge diverse stadii şi puzzle-uri</a>, dar va trebui să înregistrezi pentru a-ți salva progresul.'
+    no_signup_message: 'Poţi <a target="_blank" href="http://learn.code.org"> parcurge diverse stadii şi puzzle-uri</a>, dar va trebui să te înregistrezi pentru a-ți salva progresul.'
     prizes_header: "Primii studenți care termină cursul de câștigă premii! (Numai pentru studenţi din SUA)"
-    prizes_message: "U.S. students who earn all %{num_trophies} concept trophies can select a variety of prizes including free Dropbox space, Skype credits, and downloadable games from Electronic Arts and Valve."
-    teacher_educator_guide: "See educator guide"
-    teacher_prize_header: 'Win $1,000 in <a target="_blank" href="http://DonorsChoose.org">DonorsChoose.org</a> rewards'
-    teacher_prize_message: 'In partnership with <a target="_blank" href="http://DonorsChoose.org">DonorsChoose.org</a>, Code.org will offer up to $1,000 in classroom funding to U.S. public school teachers who lead at least 15 students through this course. <a href="http://code.org/educate/20hr">See educator guide for more info.</a> '
+    prizes_message: "U.S. students who earn all %{num_trophies} concept trophies can select a variety of prizes including free Dropbox space, Skype credits, and downloadable games from Electronic Arts."
+    teacher_educator_guide: "Consultă ghidul educatorului"
+    teacher_prize_header: 'Câștigă $1000 în cadrul premiilor <a target="_blank" href="http://DonorsChoose.org">DonorsChoose.org</a>'
+    teacher_prize_message: 'În parteneriat cu <a target="_blank" href="http://DonorsChoose.org"> DonorsChoose.org</a>, Code.org va oferi până la 1.000 dolari, drept finanţare către clase, acelor profesori de şcoală publică din U.S.A. care coordonează cel puţin 15 elevi prin acest curs. <a href="http://code.org/educate/20hr"> a se vedea Ghidul educatorului pentru mai multe informaţii.</a> '
     teacher_pitch: "Predă Introducerea K-8 în Informatică în clasa ta"
     teacher_title: "Înregistrare Profesor"
     student_pitch: "Peste 1 oră: încearcă Introducerea noastră K-8 în Informatică"
@@ -71,8 +71,8 @@
     valid_password: "Parolă validă!"
     invalid_password: "Parola trebuie să conţină cel puțin 6 caractere"
     mismatch_password: "Cele două parole introduse nu se potrivesc"
-    student_terms: "I agree to be bound by the Code.org terms of service. If I am under 13 years of age, I confirm by submitting this form that I have my parent or legal guardian's permission to use the Code.org services."
-    teacher_terms: "I agree to be bound by the Code.org terms of service."
+    student_terms: "Sunt de acord cu termenii și condițiile Code.org. Dacă am vârsta sub 13 ani, atunci eu confirm prin trimiterea acestui formular că am permisiunea părinților mei sau a tutorelui legal pentru a folosi serviciile Code.org."
+    teacher_terms: "Sunt de acord să respect termeni și condițiile serviciului Code.org."
   signin_form:
     title: "Loghează-te"
     login: "Email sau nume de utilizator"
@@ -102,13 +102,13 @@
   follower:
     invite_sent: "Invitație trimisă"
     added_teacher: "%{name} adăugat(ă) ca și profesorul tău"
-    registered: "You've registered for %{section_name}."
+    registered: "Te-ai înregistrat pentru "
     error:
       signed_in: "Te rugăm să te deloghezi înainte de a continua"
       username_not_found: "Utilizatorul %{username} nu a fost găsit"
       username_in_use: "%{username} este deja luat, te rugăm să alegi altul"
       no_teacher: "Nu am găsit pe nimeni logat cu '%{teacher_email_or_code}'. Te rugăm să le ceri să se înregistreze aici și apoi încearcă să-i mai adăugi o dată"
-      blank_code: "Please enter a code or your teacher's email address"
+      blank_code: "Te rugăm să introduci un cod sau adresa de e-mail a profesorului"
     mail:
       invite_student:
         subject: "Alătură-te clasei cu %{teacher_name} la Code.org!"
@@ -122,23 +122,23 @@
     redeem_header: "To redeem:"
     success: "Ți-ai revendicat cu succes premiul, vezi codul de mai jos."
     error: "Premiul tău nu a putut fi revendicat, te rugăm să încerci din nou."
-    error_us_only: "The prize offer is only valid for U.S. users."
-    error_not_earned: "You have not yet earned this prize."
-    error_already_redeemed: "Your prize has already been redeemed."
-    no_prizes_available: "We're sorry, but we currently have no prizes available."
+    error_us_only: "Premiile oferite sunt valide doar pentru utilizatorii din Statele Unite."
+    error_not_earned: "Nu ai câștigat încă acest premiu."
+    error_already_redeemed: "Premiul tău a fost deja răscumpărat."
+    no_prizes_available: "Ne pare rău, dar nu avem niciun premiu disponibil în prezent."
     confirm:
       title: "Te rugăm să confirmi"
       "no": Nu
       "yes": Da
       msg: "Ești sigur(ă) ca vrei să revendici premiul %{prize_name}?"
       msg_student: "NOTĂ: Poți să alegi doar unul din aceste premii."
-      msg_publicschool: "Please confirm that you are a U.S. public school teacher."
+      msg_publicschool: "Te rugăm să confirmi că ești un profesor la o școală de stat din SUA."
       msg_visit_website: "Visit website"
     providers:
       apple_itunes: "$10 iTunes Gift Card"
       donors_choose: "DonorsChoose.org $750 credit"
       donors_choose_bonus: "DonorsChoose.org $250 credit"
-      dropbox: "10GB of Dropbox Space"
+      dropbox: "10GB de spațiu pe Dropbox"
       valve: "Portal 2 (PC or Mac game download)"
       ea_bejeweled: "Bejeweled 3 (PC game download)"
       ea_fifa: "FIFA Soccer 13 (PC game download)"
@@ -150,15 +150,15 @@
       choose_teacher: "Click on the logo below to claim your prize:"
       earned: "Aţi câştigat un premiu! (Numai pentru studenţii din SUA)"
       not_earned_title: "Finish the tutorial, earn rewards (U.S. students only)"
-      not_earned: "Learn all the computer science concepts, collect all %{num_trophies} trophies, and earn real-world prizes. You can choose between 10GB of free Dropbox space, $10 in Skype credits, and free game downloads. NOTE: offer only valid to U.S. students, and only as long as supplies last."
+      not_earned: "Învață toate conceptele de informatică, colectează toate cele %{num_trophies} trofee, şi câştigă premii reale. Puteţi alege între 10GB de spaţiu liber pe Dropbox, 10$ în credit pe Skype, şi descărcări gratuite de jocuri. Notă: Oferta valabilă numai pentru studenţi din SUA, şi numai atâta timp cât încă mai sunt pe stoc."
       teacher:
-        earned: "10 or more students collected all %{num_trophies} trophies. You have won a teacher prize! (U.S. teachers only)"
+        earned: "10 sau mai mulți studenţii au colectate toate cele %{num_trophies} trofee. Ai câștigat un premiu pentru profesor! (Numai pentru profesorii din SUA)"
         not_earned_title: 'Teach the class, earn up to $1,000 in <a target="_blank" href="http://DonorsChoose.org">DonorsChoose.org</a> credits (U.S. teachers only)'
-        not_earned: 'To reward first-time computer science teachers, you can earn up to $1,000 in <a href="http://DonorsChoose.org">DonorsChoose.org</a> credits for guiding a classroom through the K-8 intro course. To qualify, you need to successfully host a classroom of at least 15 students through the entire K-8 intro course, with all 15 students (or more) completing all tutorials and earning all %{num_trophies} trophies. If 7 or more of the students who earn all of the trophies are girls, your reward is $1,000 in <a target="_blank" href="http://DonorsChoose.org">DonorsChoose.org</a> credits. Otherwise, your reward is $750 in <a target="_blank" href="http://DonorsChoose.org">DonorsChoose.org</a> credits.  <a target="_blank" href="http://DonorsChoose.org">DonorsChoose.org</a> credits can only be used by teachers in U.S. public schools.'
+        not_earned: 'Pentru a răsplăti primii profesori de informatică, puteți câștiga până la 1.000$ de credite pe <a href="http://DonorsChoose.org"> DonorsChoose.org</a> pentru o clasă K-8 prin cursul de introducere. Pentru a te califica, trebuie să găzduiești cu succes o clasă de cel puțin 15 studenți prin întregul curs de introducere K-8, cu toți cei 15 studenți (sau mai mulți) care au completat toate tutorialele și au câștigat toate cele %{num_trophies} trofee. În cazul în care 7 sau mai mulți dintre studenți care câștigă toate trofeele sunt fete, atunci răsplata ta este de 1.000$în credite pe <a target="_blank" href="http://DonorsChoose.org"> DonorsChoose.org</a>. În caz contrar, răsplata ta este de 750$în credite pe<a target="_blank" href="http://DonorsChoose.org"> DonorsChoose.org</a>. Creditele de pe<a target="_blank" href="http://DonorsChoose.org"> DonorsChoose.org</a> pot fi utilizate numai de profesori din școlile de stat din SUA.'
         bonus:
           not_earned_title: 'You can still earn an additional $250 in <a target="_blank" href="http://DonorsChoose.org">DonorsChoose.org</a> credits (U.S. teachers only)'
-          earned: "7 or more of the students who collected all %{num_trophies} trophies are girls. You have won a bonus prize! (U.S. teachers only)"
-          not_earned: 'If at least 7 of your students who earn all %{num_trophies} trophies are girls, your reward is an additional $250 in <a target="_blank" href="http://DonorsChoose.org">DonorsChoose.org</a> credits. <a target="_blank" href="http://DonorsChoose.org">DonorsChoose.org</a> credits can only be used by teachers in U.S. public schools.'
+          earned: "7 sau mai mulți dintre studenți care au completat toate cele  %{num_trophies} trofee sunt fete. AI câștigat un premiu bonus! (numai pentru profesorii din SUA)"
+          not_earned: 'Dacă cel puțin 7 dintre studenți care câștigă toate cele %{num_trophies} trofee sunt fete, atunci recompensa ta este suplimentată cu 250$ în credite pe<a target="_blank" href="http://DonorsChoose.org"> DonorsChoose.org</a>. Creditele de pe<a target="_blank" href="http://DonorsChoose.org"> DonorsChoose.org</a> pot fi utilizate numai de profesori din școlile de stat din SUA.'
   crud:
     new_model: "%{model} nou"
     show: "Arată"
@@ -191,7 +191,7 @@
       puzzle_map: "Etape"
       prizes: "Colectează toate cele %{total_trophies} trofee și câștigă premii!"
       prize_earned: "Toate cele %{total_trophies} trofee au fost colectate. Premiu câștigat!"
-      prize_us_only: "(U.S. students only)"
+      prize_us_only: "(Numai pentru studenţi din SUA)"
       prizes_link: "mai multe informaţii"
   teacher:
     title:
@@ -221,15 +221,15 @@
     student_reg_link: "Student"
     teacher_reg_link: "Profesor"
     teacher_dashboard: "Vezi grila de progres"
-    teacher_student_count_one: "Aveţi un elev."
+    teacher_student_count_one: "Ai %{count} elevi."
     teacher_student_count: "Ai %{count} elevi."
     teacher_averages: 'În medie, elevii tăi au câștigat %{trophy_average} din cele %{trophy_max} trofee de "Concept de Măestrie"'
     classroom: "Clasa ta"
     student_progress: "Progresul tău de învățare"
     student_stats: 'Ai câştigat %{trophy_count} din cele %{trophy_max} trofee de "Concept de Măestrie"'
     student_left_off: "Unde ai rămas:"
-    student_finished_prize: "You've completed all tutorials, claim your %{prize_link} and pick another class %{online_link} or at a %{local_school_link}"
-    student_finished: "You've completed all tutorials, pick another class %{online_link} or at a %{local_school_link}"
+    student_finished_prize: "Ai completat toate tutorialele, revendică-ți %{prize_link} și alege o altă clasă %{online_link} sau la o %{local_school_link}"
+    student_finished: "Ai completat toate tutoriale, alege o altă clasă %{online_link} sau la o altă școală %{local_school_link}"
     local_school: "şcoală locală"
     online: "online"
     see_details: "Vezi detalii"
@@ -239,7 +239,7 @@
     none: "Prefer să nu răspund"
   footer:
     help_from_html: 'Ingineri de la <a href="http://www.google.com">Google</a>, <a href="http://www.microsoft.com">Microsoft</a>, <a href="http://www.facebook.com">Facebook</a> și <a href="http://www.twitter.com">Twitter</a> au ajutat la crearea acestui tutorial.'
-    art_from_html: 'Angry Birds&trade; & &copy; 2009 - 2013 <a href="http://www.rovio.com">Rovio Entertainment Ltd</a>. All Rights Reserved.<br/> Plants vs. Zombies&trade; & &copy; 2013 <a href="http://www.ea.com">Electronic Arts Inc.</a>. All Rights Reserved.'
+    art_from_html: 'Angry Birds&trade; & &copy; 2009-2013 <a href="http://www.rovio.com">Rovio Entertainment Ltd</a>. Toate drepturile rezervate. <br/> Plante vs. Zombies&trade; & &copy; 2013 <a href="http://www.ea.com"> Electronic Arts Inc.&trade;</a>. Toate drepturile rezervate.'
     feedback: "Oferă feedback"
     translate: "Ajută-ne să  traducem în limba ta"
     tos: "Termeni de utilizare a serviciului"
@@ -254,19 +254,19 @@
   reference_area:
     title: "Ai nevoie de ajutor?"
     subtitle: "Vezi aceste clipuri video şi sugestii"
-    teacher: "See the solution"
-    auth_error: "You are not authorized to see the solution."
+    teacher: "Vezi soluția"
+    auth_error: "Nu ești autorizat pentru a vedea soluția."
   video:
     tab: "Video."
     notes: "Nici un video? Arată note."
     autoplay_option: "Redare Automată clipuri video"
-    download: "Download Video"
+    download: "Descarcă Video"
   compatability:
     working: "Momentan efectuăm lucrări de susținere a browser-ului tău."
     upgrade: "Te rugăm să-ți actualizezi browser-ul."
   slow_loading: "Aceasta durează mai mult decât de obicei..."
   try_reloading: "Încearcă să reîncarci pagina"
-  next_stage: "Finished! Continue to next stage"
+  next_stage: "Ai terminat! Continuă la următorul stagiu"
   download_pdf: "Plan de lecţie deschisă"
   share_code:
-    title: "Click 'Run program' to see my program in action"
+    title: "Dă clic pe 'Rulează program' pentru a-ți vedea programul în acţiune"

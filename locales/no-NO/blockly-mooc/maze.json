@@ -11,7 +11,7 @@
   "elseCode":"ellers",
   "fill":"fyll 1",
   "fillN":"fyll {shovelfuls}",
-  "fillStack":"Fyll en rekke med 2 hull",
+  "fillStack":"fill stack of {shovelfuls} holes",
   "fillSquare":"fyll et kvadrat",
   "fillTooltip":"plasser 1 enhet jord",
   "finalLevel":"Gratulerer! Du har løst den siste oppgaven.",

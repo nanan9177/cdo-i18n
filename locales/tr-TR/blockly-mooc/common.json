@@ -54,5 +54,10 @@
   "workspaceHeader":"Bloklarını burda topla: ",
   "infinity":"Sonsuz",
   "rotateText":"Cihazınızı döndürün.",
-  "orientationLock":"Yönlendirme kilidini aygıt ayarlarından devre dışı bırakın."
+  "orientationLock":"Yönlendirme kilidini aygıt ayarlarından devre dışı bırakın.",
+  "shareDrawing":"Share your drawing:",
+  "wantToLearn":"Want to learn to code?",
+  "watchVideo":"Watch the Video",
+  "tryHOC":"Try the Hour of Code",
+  "signup":"Sign up for the intro course"
 }

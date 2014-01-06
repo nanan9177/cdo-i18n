@@ -11,7 +11,7 @@
   "elseCode":"nếu không thì",
   "fill":"điền vào 1",
   "fillN":"điền vào {shovelfuls}",
-  "fillStack":"lấp đầy 2 lỗ hổng",
+  "fillStack":"fill stack of {shovelfuls} holes",
   "fillSquare":"lấp đầy hình vuông",
   "fillTooltip":"Đặt 1 đơn vị của bụi bẩn",
   "finalLevel":"Chúc mừng! Bạn đã giải quyết các câu đố cuối cùng.",

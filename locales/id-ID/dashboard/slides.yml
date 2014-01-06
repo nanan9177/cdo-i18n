@@ -65,7 +65,7 @@
         text: "Anda harus membantu menghapus semua tumpukan tanah dan mengisi semua lubang."
       3:
         image: "notes/stage9_3.jpg"
-        text: "The new blocks remove 1 shovelful of dirt from a pile and fill in 1 shovelful of dirt to a hole."
+        text: "Blok baru yang memindahkan 1 sekop tumpukan tanah dan menimbun 1 sekop tanah ke sebuah lubang."
       4:
         image: "notes/stage9_4.jpg"
         text: "Tumpukan dan lubang adalah ukuran yang berbeda, sehingga Anda harus memberitahu petani berapa banyak sekop yang harus digunakan."
@@ -151,8 +151,7 @@
         text: 'Blok yang masuk dalam fungsi menjelaskan apa yang dikerjakannya. Jadi fungsi ini dinamakan "Timbunlah 5" dan itu terdiri dari blok "Ulangi" dan blok "timbun".'
       4:
         image: "notes/stage13_4.jpg"
-        text: |-
-          The definition sits on the workspace, but our farmer won't run the function until we drag out our "fill 5" function block from functions category.
+        text: 'Fungsi terletak di area kerja, tetapi seluruh fungsi tidak akan bekerja sampai Anda menarik keluar blok "fungsi isi 5" dari fungsi kategori.'
       5:
         image: "notes/stage13_5.jpg"
         text: 'Mari kita bersenang-senang dengan "Fungsi"! '
@@ -165,7 +164,7 @@
         text: 'Blok "Selama" akan mengerjakan perintah-perintah yang Anda tempatkan di dalamnya selama kondisinya berlaku.'
       3:
         image: "notes/stage9_7.jpg"
-        text: "For example, if the farmer is standing on a pile, she will continue to remove 1 shovelful WHILE there is still a pile beneath her."
+        text: "Misalnya, jika si petani berdiri di tumpukan, maka ia akan terus memindahkan 1 sekop SELAMA tumpukan masih ada."
     loop_for:
       1:
         image: "notes/stage11_1.jpg"

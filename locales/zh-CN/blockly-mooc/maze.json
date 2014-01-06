@@ -11,7 +11,7 @@
   "elseCode":"不然",
   "fill":"填充1",
   "fillN":"填充{shovelfuls}",
-  "fillStack":"填充深为2的坑",
+  "fillStack":"fill stack of {shovelfuls} holes",
   "fillSquare":"填充正方形",
   "fillTooltip":"填充1单位的土",
   "finalLevel":"恭喜你！你完成了最后一个谜题。",

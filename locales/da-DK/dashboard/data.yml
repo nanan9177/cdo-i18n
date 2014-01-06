@@ -93,7 +93,7 @@
         maze_2_19: "Kan du nøjes med at tilføje 3 blokke til at hjælpe mig med at løse en mere kompleks labyrint? Hvis du gør det rigtigt, kan jeg gå en vilkårlig kurvet vej, uanset længde."
         turtle_1_1: "Hej, er jeg en kunstner. Du kan skrive kode der får mig til at tegne næsten hvad som helst. Brug et par blokke for at få mig til at tegne over de grå streger i billedet."
         turtle_1_2: 'Tegn nu en firkant. Bemærk: Brug din foretrukne farve ved at vælge den i den nye "vælg farve" blok.'
-        turtle_1_3: "Lav en firkant ved kun at bruge 3 blokke."
+        turtle_1_3: "Lav en firkant ved brug af kun 3 blokke."
         turtle_1_4: 'Tegn en trekant, hvis sider alle er i forskellige farver, ved hjælp af indstillingen "tilfældig farve", der henter en forskellig farve hver gang. Tip: du bliver nødt til at finde ud af hvor langt der skal drejes ved at klikke på tallet i "drej" blokken.'
         turtle_1_5: "For at øve, prøv at tegne en konvolut ved først at tegne en trekant og derefter en firkant."
         turtle_1_6: "Kan du regne ud, hvordan man tegner denne trekant og firkant? Tip: Lav trekanten først, derefter regn ud hvor meget der skal drejes før firkanten tegnes."
@@ -119,14 +119,13 @@
         maze_karel_1_5: 'Hjælpe mig med at fylde alle disse huller med 5 skovlfulde jord. Tip: du kan sætte en "gentag" blok i en "imens" blok.'
         maze_karel_1_6: 'Fjern alle bunker jord, ved at bruge så få blokke som muligt. De nye muligheder i dropdown-menuen på "imens" blokken fortælle mig om jeg står på en bunke eller et hul.'
         maze_karel_1_7: "Wow, fandt jeg en rigtigt dybt hul! Jeg ved ikke hvor mange skovlfulde jord det behøver. Kan du skrive et program, der fylder det indtil jorden er lige?"
-        maze_karel_1_8: "Help me fill in the hole at the end of the field, using as few blocks as possible."
-        maze_karel_1_9: 'Make me remove all these piles of dirt. Try to use as few blocks as possible. Hint: try using a "while" block.'
-        maze_karel_1_10: "I'm working late, so it's dark out, and I can't tell how large the piles are. Now I don't have all the options I used to have on the while block. Move me along the field, and if there is a pile, remove it."
-        maze_karel_1_11: |-
-          It's still dark outside. Move me along the field. If there is a pile, remove it, and if there is a hole, fill it in. Hint: use the dropdown menu of options on the "if" block.
+        maze_karel_1_8: "Hjælp mig med at udfylde hullet i slutningen af feltet, ved hjælp af så få blokke som muligt."
+        maze_karel_1_9: 'Få mig til at fjerne alle disse bunker af snavs. Forsøg at bruge så få blokke som muligt. Tip: Prøv at bruge en "while" blok.'
+        maze_karel_1_10: 'Jeg arbejder sent, så det er blevet mørkt, og jeg kan ikke se hvor store bunkerne er. Nu har jeg ikke alle de muligheder, jeg plejede at have på "imens"-blokken. Flyt mig hen ad marken, og hvis der er en bunke, så fjern den.'
+        maze_karel_1_11: 'Det er stadig mørkt udenfor. Flyt mig hen ad marken. Hvis der er en bunke så fjern den, og hvis der er et hul så fyld det op. Tip: Brug rullemenuen med indstillinger på "hvis"-blokken.'
         turtle_2_1: "Hej. Mig zombie kunstner. Mig elsker at tegne! Hjælp mig med at tegne en firkant i en særlig farve. Vigtig note: du har de samme blokke, men de er nu blevet sat i kategorier."
-        turtle_2_2: 'Welcome to using functions, which let you define new blocks! Try the new "draw a square" block, found in the "Functions" category, to draw a small 50x50 green square.'
-        turtle_2_3: 'Use the "repeat" block (in the "Loops" category) to draw 3 squares of size 100, each 120 degrees apart. And do it in 3 different, random colors.'
+        turtle_2_2: 'Velkommen til brug af funktioner, der lader dig definere nye blokke! Brug den nye "tegn et kvadrat" blok (som du kan finde i "Funktioner" kategorien) til at tegne et lille kvadrat på 50x50 pixels.'
+        turtle_2_3: 'Brug "gentag" blokken (i kategorien "Sløjfer") til at tegne 3 kvadrater med størrelse 100 og 120 grader imellm. Og gør det i tre forskellige, tilfældige farver.'
         turtle_2_4: "Now we're going to get fancy. Change the code to draw 36 squares, 100 pixels wide, and each 10 degrees apart. Hint: you may want to use the slider to make me go faster."
         turtle_2_5: |-
           Draw squares with sides of 50, 60, 70, 80, and 90 pixels.  You'll need to use the "draw a square" function five times.
@@ -136,8 +135,7 @@
           Here's a program to draw a spiral, but the blocks are disabled so they won't run. Make a new program using a "count with" block (in the Loops category) and "counter" block (in the Variables category) to draw the same spiral.
         turtle_2_7_5: |-
           There's a new "draw a snowman" function (in the Functions category). Draw two snowmen, of height 250 and 100.
-        turtle_2_8: |-
-          This one's a bit tricky. Use the "draw a snowman" function and the new "jump forward" block (in the Actions category). Draw 3 snowmen in different colors, 100 pixels apart.
+        turtle_2_8: 'Denne er lidt mere vanskelig. Brug "tegn en snemand"-funktionen og den nye "hop fremad"-blokken (i action-kategorien). Tegn 3 snemænd i forskellige farver, 100 pixels fra hinanden.'
         turtle_2_9: 'Use a "count with" loop to draw a family of snowmen with heights of 110, 100, 90, 80, and 70. The snowmen should all be 60 pixels apart.'
         turtle_2_10: "Here's some code to try experimenting with different spirals.  What happens if you change the turn amount? Or set a random color in the loop?  Draw anything you like."
         maze_karel_2_1: "Try using the blocks to help me remove all the piles and fill in all the holes on the ground. Try to use loops instead of using too many blocks. Hint: you can put a loop inside another loop."

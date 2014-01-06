@@ -11,7 +11,7 @@
   "elseCode":"w przeciwnym razie",
   "fill":"wypełnij 1",
   "fillN":"wypełnij {shovelfuls}",
-  "fillStack":"wypełnij stos 2 otworów",
+  "fillStack":"fill stack of {shovelfuls} holes",
   "fillSquare":"wypełnij kwadrat",
   "fillTooltip":"umieść 1 jednostkę śmieci",
   "finalLevel":"Gratulacje! Rozwiązałeś końcową łamigłówkę.",

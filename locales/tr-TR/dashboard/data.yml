@@ -34,7 +34,7 @@
       name:
         Unplug1: "Bilgisayar Bilimine Giriş"
         Maze: "Labirent"
-        Unplug2: "Bilgisayımsal düşünme"
+        Unplug2: "Bilgisayarımsı Düşünme"
         Unplug3: "Grafik kağıdı programlama"
         Artist: "Sanatçı"
         Unplug4: "Algoritmalar"
@@ -73,13 +73,13 @@
       instructions:
         maze_2_2: 'Yaramaz domuzu yakalamama yardım edebilir misin? Oraya gitmem için birkaç "İlerle" bloğunu birleştirmeli ve "Programı Çalıştır" tuşuna basmalısın. '
         maze_2_1: "Bu domuz benim tüylerimi diken diken ediyor. Onu bulmama yardımcı ol!"
-        maze_2_2_5: "Yolu takip et ve beni sersem domuza götür. Patlayıcıdan ve uçan tüylerden sakınmayı unutma!"
+        maze_2_2_5: "Yolu takip et ve beni sersem domuza götür. Patlayıcılardan uzak dur yoksa bu tüylerim havaya uçacak!"
         maze_2_3: "Yeşil şeytana gitmeme önderlik et! (Patlayıcılara dikkat et)"
         maze_2_4: "Sakin ol ve kötü domuzu bulmama yardımcı ol. Aksi halde kızmaya başlayabilirim!"
         maze_2_5: "2 blok kullanarak yeşil domuzcuğa ulaşabileceğim bir yol var. Bunu çözebilir misin?"
         maze_2_6: "Sadece üç blok kullanarak beni yeşil haine ulaştırmaya çalış."
         maze_2_7: 'Bloklar en az sayıda kullanarak bu kötü domuzcuğu ortadan kaldırmama yardım et. Birden fazla "defa tekrar" bloğu kullanmayı dene.'
-        maze_2_8: 'Bunu çözmek için, bu üç bloğun içinden "tekrar" bloğu kullanmayı deneyin.'
+        maze_2_8: 'Bunu çözmek için, kendi içinde "ilerle, ilerle, dön" şeklinde 3 blok bulunan bir "tekrar" bloğu kullanmayı deneyin.'
         maze_2_9: 'Tamam, yeni "e kadar tekrarla" bloğunu dene. Bu, ben yeşil domuza ulaşana kadar tekrarlayacak.'
         maze_2_10: "Tamam, pratik için son kez. Bunu sadece 4 blok kullanarak çözebilir misin?"
         maze_2_11: "Değerli kişi.Ben zombi.Açım. Ayçiçeklerini almam gerekli.Bana onları sadece 5 blok kullanarak getirebilir misin?"
@@ -129,8 +129,7 @@
         turtle_2_4: "Şimdi biraz kafayı çekeceğiz. Kodu 36 kare çizmek için ayarla, 100 piksel genişliğinde ve her biri 10 aşama uzakta olsun. İpucu: Belki daha hızlı gitmem için kaydırgacı kullanmak istersin."
         turtle_2_5: '"Kare çiz" fonksiyonunu 5 kere kullanarak, 50, 60, 70, 80 ve 90 piksel boyutlarında kareler çizin.'
         turtle_2_6: 'Pekala,  bu program sonuncu karenin aynısını çizmek için bir sayaç kullanacaktır. Karenin sayaçla aynı boyutta olmasını istiyorsunuz, yani "sayaç" parçasını kullanın. İpucu: Bu parça Değişkenler kategorisindedir.'
-        turtle_2_7: |-
-          Here's a program to draw a spiral, but the blocks are disabled so they won't run. Make a new program using a "count with" block (in the Loops category) and "counter" block (in the Variables category) to draw the same spiral.
+        turtle_2_7: 'İşte spiral çizmeye yarayan bir program, fakat bu seferki bloklar devre dışı; yani böyle çalışmayacak. Aynı spirali içine "ile say" bloğu (Döngüler kategorisinde) ve "zıt" bloğunu (Değişkenler kategorisinde) koyarak oluşturun.'
         turtle_2_7_5: 'Fonksiyonlar kategorisinde yeni bir fonksiyon var: "Kardan adam çiz". Boyları 250 ve 100 olan iki kardan adam çiz.'
         turtle_2_8: 'Bu biraz uğraştıracak. "Kardan adam çiz" ve yeni "İleri zıpla" (Hareketler kategorisinde) fonksiyonunu kullanarak aralarında 100 piksel bulunan 3 farklı renkte kardan adam çiz.'
         turtle_2_9: 'Use a "count with" loop to draw a family of snowmen with heights of 110, 100, 90, 80, and 70. The snowmen should all be 60 pixels apart.'

@@ -47,7 +47,7 @@
         Farmer2: "האיכר 2"
         Unplug8: "הפשטה"
         Artist4: "האמן 4"
-        Unplug9: "Relay Programming"
+        Unplug9: "הרץ פעולה בשנית"
         Farmer3: "האיכר 3"
         Unplug10: "האינטרנט"
         Artist5: "האומן 5"
@@ -72,11 +72,11 @@
     level:
       instructions:
         maze_2_2: 'תוכל לעזור לי לתפוס את החזיר השובב? חבר כמה בלוקים של "לך קדימה" יחד ותלחץ על "הפעל תוכנית" כדי לעזור לי להגיע אליו. '
-        maze_2_1: "This pig is ruffling my feathers. Help me to find him!"
-        maze_2_2_5: "Trace the path and lead me to the silly pig. Avoid TNT or the feathers will fly!"
-        maze_2_3: "Guide me to the green evilness! (Watch out for TNT)"
+        maze_2_1: "החזיר הזה מבלגן לי את הנוצות. תעזור לי למצוא אותו!"
+        maze_2_2_5: "תשרטטו את השביל ותובילו אותי אל החזיר המטופש הזה. תזהרו מדנמיט או הנוצות שלי יעופו!"
+        maze_2_3: "תוביל אותי לרוע הירוק!(תיזהר מדינמיט)"
         maze_2_4: "תהיו רגועים ותעזרו לי למצוא את החזיר הרע. אחרת אני עלול להתעצבן!"
-        maze_2_5: "There's a way I can get to the silly pig using only 2 blocks. Can you figure it out?"
+        maze_2_5: "יש דרך בה אני אוכל להגיע לחזיר הטפשי כשאני אשתמש רק ב2 בלוקים. אתם יכולים למצוא אותה?"
         maze_2_6: "Try to get me to the green intruder using only three blocks."
         maze_2_7: 'Help me banish this bad piggy using the fewest number of blocks. Try using more than one "repeat times" block.'
         maze_2_8: 'To solve this one, try a "repeat" block with these 3 blocks inside it: move, move, turn.'
@@ -98,7 +98,7 @@
           Draw a triangle whose sides are all in different colors, using the "random color" option that picks a different color each time. Hint: you'll have to figure out how far to turn by clicking on the number in the turn block.
         turtle_1_5: "Now, for practice, draw a triangle and then a square to draw an envelope."
         turtle_1_6: "Can you figure out how draw this triangle and square? Hint: Do the triangle first, then figure out how much to turn before drawing the square."
-        turtle_1_7: "Ok, let's make it a bit harder - see if you can draw these green glasses. The squares are 100 pixels on each side, and they're 50 pixels apart. Don't forget to draw in green!"
+        turtle_1_7: "בסדר, בוא ננסה רמה קצת יותר קשה -בוא נראה אם אתה יכול לצייר משקפיים ירוקים. והריבועים צריכים 100 פיקסלים בכל צד, ובנפרד - 50 פיקסלים. אל תשכח לצייר בצבע ירוק!"
         turtle_1_8: 'Ok, try to figure out what happens if you run this code (or press "Run" to try it). Then, repeat it enough times to complete the drawing. The colors will be different every time.'
         turtle_1_9: "Can you figure out what number to replace the question marks with to draw a circle?"
         turtle_1_10: 'You made it! Now, draw anything you want. Some fun ideas: a stick figure, snowflake, or spiral. Also try the new "set width" block. Have fun!'
@@ -167,12 +167,12 @@
         turtle_3_9: 'האם תוכל ליצור מחדש את פונקציית "צייר בית" ללא עזרה? נסה את זה ולאחר מכן צייר שורת בתים.'
         turtle_3_10: "למדת הרבה! עתה השתמש בזה כדי לצייר את מה שאתה רוצה. נסה לצייר כוכב, או ספירלה, או פתית שלג מהודר."
         maze_karel_debug_seq_1: "Welcome to debugging! My code doesn't work right. Can you spot the problem and fix it so that I can get my field flat and ready for planting?"
-        maze_karel_debug_seq_2: "What's wrong with this program? How should you fix it so I can remove that pile?"
+        maze_karel_debug_seq_2: "מה שגוי בתוכנית הזאת? כיצד הוכל לתקן ובכך אני הוכל להסיר את העירמה?"
         maze_karel_debug_repeat: "De-bug this program for me so my field will be nice and flat."
-        maze_karel_debug_while: "How should you change this program to help me fill the hole?"
-        maze_karel_debug_if: "Help! Fix the program so my field will be completely flat."
+        maze_karel_debug_while: "כיצד תוכל לשנות את התוכנית בשביל שתוכל לעזור לי למלא את החור?"
+        maze_karel_debug_if: "עזרה! תקן את התוכנית בשביל שהחלקה שלי תהיה ישרה לחלוטין."
         maze_karel_debug_if_else: "De-bug this program so I can fill in the holes and remove all the piles."
-        maze_karel_debug_function_1: "What should you change about this program to help me remove all the piles?"
+        maze_karel_debug_function_1: "מה אתה צריך לשנות בתוכנית הזאת בשביל לעזור לי להסיר את כל הערימות?"
         maze_karel_debug_function_2: "Can you de-bug this program for me so I can make my field flat?"
         maze_karel_debug_function_3: "Edit this program so I'll remove all the piles on my field. "
         turtle_5_1: "נסה להפעיל תוכנית זו ולבצע שינויים כדי לראות מה מתרחש. האם אתה יכול להבין איך התוכנית עובדת? (או למחוק אותה ולהחליף אותה במשהו שונה לגמרי)"
@@ -199,11 +199,11 @@
         farmer_intro: "Farmer Intro"
         loop_times: "Repeat Times Block"
         loop_until: "Repeat Until Block"
-        if: "If Block"
-        if_else: "If/else Block"
-        function: "Functions"
-        loop_while: "While Block"
+        if: 'בלוק "אם"'
+        if_else: "בלוק אם/אחרת"
+        function: "פונקציות"
+        loop_while: "בלוק בעת"
         loop_for: "Counter Block"
-        parameters: "Functions with Parameters"
+        parameters: "פונקציות ופרמטרים"
         hoc_wrapup: "Hour of Code Wrapup"
         20_wrapup: "20-Hour Wrapup"

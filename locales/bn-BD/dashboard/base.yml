@@ -23,7 +23,7 @@
   puzzle: "ধাঁধা"
   trophies: "পুরষ্কার"
   courses: "পাঠ্যতালিকা"
-  of: "of"
+  of: "এর"
   more: "বেশি"
   less: "কম"
   try_hoc: "Hour of Code এ আসতে, এখানে ক্লিক করো>>"
@@ -37,7 +37,7 @@
     sign_in_with: "%{provider} এর সাথে সাইন ইন করো"
     signed_in: "সাইনড ইন!"
     already_signedup: "ইতিমধ্যে সাইন আপ করেছ?"
-    notyet_signedup: "Haven't joined yet?"
+    notyet_signedup: "এখনো যোগ দেননি?"
     google_oauth2: "গুগল +"
     twitter: "টুইটার"
     facebook: "ফেইসবুক"
@@ -47,50 +47,50 @@
     need_unlock: "আনলক করার নির্দেশাবলী পাওনি?"
   signup_form:
     overview: "This 20-hour course introduces core computer science and programming concepts. The course is designed for use in classrooms for grades K-8, but it is fun to learn at all ages."
-    no_signup_header: "Don't want to sign up?"
+    no_signup_header: "সাইন আপ করতে চান না?"
     no_signup_message: 'You can <a target="_blank" href="http://learn.code.org">browse the various stages and puzzles</a>, but you will need to sign up to save your progress.'
     prizes_header: "The first students to complete the course win prizes! (U.S. students only)"
-    prizes_message: "U.S. students who earn all %{num_trophies} concept trophies can select a variety of prizes including free Dropbox space, Skype credits, and downloadable games from Electronic Arts and Valve."
+    prizes_message: "U.S. students who earn all %{num_trophies} concept trophies can select a variety of prizes including free Dropbox space, Skype credits, and downloadable games from Electronic Arts."
     teacher_educator_guide: "See educator guide"
     teacher_prize_header: 'Win $1,000 in <a target="_blank" href="http://DonorsChoose.org">DonorsChoose.org</a> rewards'
     teacher_prize_message: 'In partnership with <a target="_blank" href="http://DonorsChoose.org">DonorsChoose.org</a>, Code.org will offer up to $1,000 in classroom funding to U.S. public school teachers who lead at least 15 students through this course. <a href="http://code.org/educate/20hr">See educator guide for more info.</a> '
     teacher_pitch: "Teach the K-8 Intro to Computer Science in your classroom"
-    teacher_title: "Teacher sign up"
+    teacher_title: "শিক্ষক সাইন আপ"
     student_pitch: "Beyond 1 hour: try our K-8 Intro to Computer Science"
-    student_title: "Sign up"
+    student_title: "সাইন আপ"
     school_name: "স্কুলের নাম (ঐচ্ছিক)"
-    school_address: "School Address (optional)"
-    address_placeholder: "address, city, state, zip"
-    gender: "Gender (optional)"
-    birthday: "Birthday (optional)"
-    submit: "Sign up"
-    teacher: "Are you a teacher?"
+    school_address: "স্কুলের ঠিকানা (ঐচ্ছিক)"
+    address_placeholder: "ঠিকানা, শহর, রাজ্য, জিপ"
+    gender: "লিঙ্গ (ঐচ্ছিক)"
+    birthday: "জন্মদিন (ঐচ্ছিক)"
+    submit: "সাইন আপ"
+    teacher: "আপনি কি শিক্ষক?"
     valid_username: "Available!"
-    invalid_username: "Username must be at least 5 characters"
+    invalid_username: "ব্যবহারকারীর নাম কমপক্ষে 5 অক্ষর হতে হবে"
     taken_username: "Username is already taken"
-    valid_password: "Valid password!"
-    invalid_password: "Password must be at least 6 characters"
+    valid_password: "সঠিক পাসওয়ার্ড!"
+    invalid_password: "পাসওয়ার্ডের অন্তত 6 অক্ষর হতে হবে"
     mismatch_password: "The two passwords you entered do not match"
     student_terms: "I agree to be bound by the Code.org terms of service. If I am under 13 years of age, I confirm by submitting this form that I have my parent or legal guardian's permission to use the Code.org services."
     teacher_terms: "I agree to be bound by the Code.org terms of service."
   signin_form:
-    title: "Sign in"
-    login: "Email or username"
-    password: "Password"
-    remember: "Remember me"
-    submit: "Sign in"
+    title: "সাইন ইন করুন"
+    login: "ব্যবহারকারীর নাম অথবা ই-মেইল"
+    password: "পাসওয়ার্ড"
+    remember: "আমাকে মনে রাখুন"
+    submit: "সাইন ইন করুন"
   password:
     reset_form:
-      title: "Forgot your password?"
+      title: "আপনার পাসওয়ার্ড ভুলে গেছেন?"
       email: "Email address"
       submit: "Send me reset password instructions"
     change_form:
-      title: "Change your password"
-      new_password: "New password"
-      confirm_password: "Confirm new password"
-      submit: "Change my password"
+      title: "আপনার পাসওয়ার্ড পরিবর্তন করুন"
+      new_password: "নতুন পাসওয়ার্ড"
+      confirm_password: "নতুন পাসওয়ার্ড নিশ্চিত করুন"
+      submit: "আমার পাসওয়ার্ড পরিবর্তন করুন"
   welcome_email:
-    subject: "Join my class (on Code.org)"
+    subject: "আমার ক্লাসে (Code.org তে) যোগ দিন।"
     body: |
       Click the link below to sign up for computer science tutorials on Code.org (with me as your "teacher"):
       
@@ -100,15 +100,15 @@
       
       %{name}
   follower:
-    invite_sent: "Invite sent"
-    added_teacher: "%{name} added as your teacher"
-    registered: "You've registered for %{section_name}."
+    invite_sent: "আমন্ত্রণ পাঠানো হল।"
+    added_teacher: "%{name} আপনার শিক্ষক হিসেবে যুক্ত হলেন।"
+    registered: "আপনি %{section_name} এর জন্য নিবন্ধন করেছেন।"
     error:
       signed_in: "Please signout before proceeding"
       username_not_found: "Username %{username} not found"
       username_in_use: "%{username} is already taken, please pick another"
       no_teacher: "Could not find anyone signed in with '%{teacher_email_or_code}'. Please ask them to sign up here and then try adding them again"
-      blank_code: "Please enter a code or your teacher's email address"
+      blank_code: "দয়া করে কোড বা আপনার শিক্ষকের ই-মেইল ঠিকানা প্রবেশ করান"
     mail:
       invite_student:
         subject: "Join a class with %{teacher_name} at Code.org!"

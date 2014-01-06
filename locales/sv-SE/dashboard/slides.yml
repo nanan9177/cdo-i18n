@@ -65,10 +65,10 @@
         text: "Du måste hjälpa henne ta bort alla smutshögar och fylla i alla hål."
       3:
         image: "notes/stage9_3.jpg"
-        text: "The new blocks remove 1 shovelful of dirt from a pile and fill in 1 shovelful of dirt to a hole."
+        text: "De nya kuberna tar bort 1 skopa jord från en hög och fyller ett hål med en skopa jord."
       4:
         image: "notes/stage9_4.jpg"
-        text: "The piles and holes are different sizes, so you have to tell the farmer how many shovelfuls to use."
+        text: "Högarna och hålen har olika storlekar, så du måste fråga bonden hur många skopor jord du behöver använda."
     loop_times:
       1:
         image: "notes/hoc2_1.jpg"
@@ -142,10 +142,10 @@
     function:
       1:
         image: "notes/stage13_1.jpg"
-        text: "Hi, I'm Brina, an engineer at Instagram. A function is certain lines of code that you want to use over and over again, so instead of writing that code out everytime, you can just use one block."
+        text: "Hej, jag är Brian, en av Instagrams ingenjörer. En funktion är en kodrad med olika koder som du vill använda om och om igen, så istället för att skriva ner var kod för sig så kan du istället använda en kub."
       2:
         image: "notes/stage13_2.jpg"
-        text: "We're going to learn how to define functions. Function definitions have a star in the corner. The name of the function is written on the top line."
+        text: "Vi kommer att lära dig att definiera funktioner. Funktionsdefinitioner har en stjärna i hörnet. Namnet på funktionen är skriven på den översta raden."
       3:
         image: "notes/stage13_3.jpg"
         text: |-

@@ -50,7 +50,7 @@
     no_signup_header: "Czy nie chcesz się zarejestrować?"
     no_signup_message: 'Możesz <a target="_blank" href="http://learn.code.org"> przeglądać różne etapy i łamigłówki </a>, ale musisz się zarejestrować, aby zapisać swoje wyniki.'
     prizes_header: "Pierwsi uczniowie, którzy ukończą kurs, wygrywają nagrody! (Tylko dla uczniów z US)"
-    prizes_message: "Studenci z USA, którzy zdobyli wszystkie %{num_trophies} trofea dotyczące pojęć mogą wybrać wiele nagród, w tym wolne miejsce na Dropbox, kredyty Skype i gry do pobrania z Electronic Arts and Valve."
+    prizes_message: "U.S. students who earn all %{num_trophies} concept trophies can select a variety of prizes including free Dropbox space, Skype credits, and downloadable games from Electronic Arts."
     teacher_educator_guide: "Patrz podręcznik nauczyciela"
     teacher_prize_header: 'Wygraj 1000$ spośród nagród <a target="_blank" href="http://DonorsChoose.org"> DonorsChoose.org</a>'
     teacher_prize_message: 'We współpracy z <a target="_blank" href="http://DonorsChoose.org"> DonorsChoose.org</a>, Code.org będzie oferować do 1.000 $ finansowania klasy tym nauczycielom ze szkół publicznych w USA , którzy poprowadzą co najmniej 15 uczniów przez ten kurs. <a href="http://code.org/educate/20hr"> Zobacz przewodnik dla nauczyciela po więcej informacji.</a> '

@@ -44,7 +44,7 @@
   "tooManyBlocksMsg":"این پازل را میتوان با <x id='START_SPAN'\/><x id='END_SPAN'\/> قطعه حل کرد.",
   "tooMuchWork":"شما من را مجبور به انجام مقدار زیادی کار کردید. آیا میشود با تعداد تکرار کمتری سعی نمایید؟",
   "toolboxHeader":"بلوک",
-  "openWorkspace":"How It Works",
+  "openWorkspace":"چگونه کار می کند",
   "totalNumLinesOfCodeWritten":"در مجموع: {numLines, plural, one {1 خط} other {# خط}} از کد.",
   "tryAgain":"دوباره تلاش کن",
   "backToPreviousLevel":"برگرد به سطح قبلی",
@@ -54,5 +54,10 @@
   "workspaceHeader":"بلوک‌های خودت رو اینجا سرهم کن: ",
   "infinity":"بی نهایت",
   "rotateText":"بچرخان دستگاه خود را.",
-  "orientationLock":"حالت افقی را در تنظیمات دستگاه خاموش کنید."
+  "orientationLock":"حالت افقی را در تنظیمات دستگاه خاموش کنید.",
+  "shareDrawing":"Share your drawing:",
+  "wantToLearn":"Want to learn to code?",
+  "watchVideo":"Watch the Video",
+  "tryHOC":"Try the Hour of Code",
+  "signup":"Sign up for the intro course"
 }

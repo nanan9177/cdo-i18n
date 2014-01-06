@@ -54,5 +54,10 @@
   "workspaceHeader":"הרכב את הבלוקים שלך כאן: ",
   "infinity":"אינסוף",
   "rotateText":"סובב את המכשיר שלך.",
-  "orientationLock":"בטל את נעילת הכיוון בהגדרות המכשיר."
+  "orientationLock":"בטל את נעילת הכיוון בהגדרות המכשיר.",
+  "shareDrawing":"Share your drawing:",
+  "wantToLearn":"Want to learn to code?",
+  "watchVideo":"Watch the Video",
+  "tryHOC":"Try the Hour of Code",
+  "signup":"Sign up for the intro course"
 }

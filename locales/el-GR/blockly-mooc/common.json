@@ -54,5 +54,10 @@
   "workspaceHeader":"Συναρμολόγησε τα μπλοκ σου εδώ: ",
   "infinity":"άπειρο",
   "rotateText":"Γυρίστε τη συσκευή σας.",
-  "orientationLock":"Απενεργοποιήστε το κλείδωμα περιστροφής στις ρυθμίσης της συσκευής."
+  "orientationLock":"Απενεργοποιήστε το κλείδωμα περιστροφής στις ρυθμίσης της συσκευής.",
+  "shareDrawing":"Share your drawing:",
+  "wantToLearn":"Want to learn to code?",
+  "watchVideo":"Watch the Video",
+  "tryHOC":"Try the Hour of Code",
+  "signup":"Sign up for the intro course"
 }

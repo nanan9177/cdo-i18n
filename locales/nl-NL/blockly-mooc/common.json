@@ -44,7 +44,7 @@
   "tooManyBlocksMsg":"Deze puzzel kan worden opgelost met <x id='START_SPAN'\/><x id='END_SPAN'\/> blokken.",
   "tooMuchWork":"Je laat me veel werk doen! Kun je proberen minder te herhalen?",
   "toolboxHeader":"Blokken",
-  "openWorkspace":"How It Works",
+  "openWorkspace":"Hoe het werkt",
   "totalNumLinesOfCodeWritten":"Totale tijd: {numBlocks, plural, one {1 regel} other {# regels}} code.",
   "tryAgain":"Probeer opnieuw",
   "backToPreviousLevel":"Terug naar het vorige niveau",
@@ -54,5 +54,10 @@
   "workspaceHeader":"Zet je blokken hier in elkaar:",
   "infinity":"Oneindig",
   "rotateText":"Draai je apparaat.",
-  "orientationLock":"Schakel de orientatie blokkering uit in de instellingen van je apparaat."
+  "orientationLock":"Schakel de orientatie blokkering uit in de instellingen van je apparaat.",
+  "shareDrawing":"Share your drawing:",
+  "wantToLearn":"Want to learn to code?",
+  "watchVideo":"Watch the Video",
+  "tryHOC":"Try the Hour of Code",
+  "signup":"Sign up for the intro course"
 }

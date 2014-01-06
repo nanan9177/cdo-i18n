@@ -11,7 +11,7 @@
   "elseCode":"그렇지 않으면",
   "fill":"메우기1번",
   "fillN":"메우기{shovelfuls}번",
-  "fillStack":"메우기2번",
+  "fillStack":"fill stack of {shovelfuls} holes",
   "fillSquare":"사각형 메우기",
   "fillTooltip":"메우기1번",
   "finalLevel":"축하합니다! 마지막 퍼즐을 해결했습니다.",

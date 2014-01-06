@@ -74,7 +74,7 @@
           - unplug10
       Unplug11:
         title: "Wrap-Up"
-        desc: "The final wrap-up in the first 20-hour series will help the class relive all of their favorite moments, while giving them next steps that they can take on their own if they are interested in continuing their computer science journey."
+        desc: "Финальный обзор первой двадцатичасовой серии напомнит классу любимые моменты и поможет заинтересовавшимся информатикой в выборе последующих самостоятельных шагов."
         video: "Rbi7keldjZY"
         download: "https://s3.amazonaws.com/cdo-videos/new/20-wrapup-activity.mp4"
         pdfs:

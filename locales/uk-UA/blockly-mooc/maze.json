@@ -11,7 +11,7 @@
   "elseCode":"інакше",
   "fill":"заповнити 1",
   "fillN":"заповнити {shovelfuls}",
-  "fillStack":"заповнити 2 ями",
+  "fillStack":"fill stack of {shovelfuls} holes",
   "fillSquare":"заповнити квадрат",
   "fillTooltip":"поставити 1 відро землі",
   "finalLevel":"Вітання! Ви розв'язали останнє завдання.",

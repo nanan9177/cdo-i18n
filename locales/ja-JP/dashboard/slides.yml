@@ -65,7 +65,7 @@
         text: "あなたは彼女がすべての土の山を取り除いて、すべての穴を埋めるのを手伝わなければなりません。"
       3:
         image: "notes/stage9_3.jpg"
-        text: "The new blocks remove 1 shovelful of dirt from a pile and fill in 1 shovelful of dirt to a hole."
+        text: "新しいブロックは山から土をシャベル1杯分だけ取り除いたり、穴に土をシャベル1杯分だけ埋めたりできます。"
       4:
         image: "notes/stage9_4.jpg"
         text: "泥山や穴は大きさが違うので、あなたは農民にシャベルを何回使えばいいか教えなければなりません。"
@@ -151,8 +151,7 @@
         text: "定義の中に入るブロックは何をするかを私たちに告げます。そうですこの関数定義は『５を塗りつぶす」と呼ばれ、そして「繰り返し」ブロックと「塗りつぶし」ブロックで成り立っています。"
       4:
         image: "notes/stage13_4.jpg"
-        text: |-
-          The definition sits on the workspace, but our farmer won't run the function until we drag out our "fill 5" function block from functions category.
+        text: 'ワークスペースの上に定義が位置づいていますが、私たちの農民は、関数カテゴリーから"fill 5"関数をドラッグしてこないとその関数は実行しません。'
       5:
         image: "notes/stage13_5.jpg"
         text: |-
@@ -169,7 +168,7 @@
           
       3:
         image: "notes/stage9_7.jpg"
-        text: "For example, if the farmer is standing on a pile, she will continue to remove 1 shovelful WHILE there is still a pile beneath her."
+        text: "たとえば、農民が積山に立っていると、彼女の下に積山があるのに、彼女は1シャベルを削除し続けるでしょう。"
     loop_for:
       1:
         image: "notes/stage11_1.jpg"
@@ -179,10 +178,16 @@
         text: "これは私たちの新しい「カウンター」ループです。アクションが何度も繰り返し実行され、アクションを毎回少しずつ変更を行うことができます。"
       3:
         image: "notes/stage11_3.jpg"
-        text: 'In this example, our "counter" loop says "count with counter from 50 to 90 by 10" and inside it, we have our "draw a square" block. Drag the "counter" block from the "Variables" section into the "length" spot.'
+        text: |
+          この例では、私たちの「カウンター」ループは「50から90までを10
+          ずつ計算機で数える」といいます、その中で、私たちは私たちの「正方形を描く」ブロックを持っています。「長さ」スポットのなかの「可変」セクションから「カウンター」ブロックをドラッグしなさい。
+          
+          
       4:
         image: "notes/stage11_4.jpg"
-        text: "This means our artist is going to draw a square that has 50 pixel length sides, then it will add 10 to that and draw a square with 60 pixel length sides. Then it will keep adding 10 and drawing squares until it reaches 90. So we'll have squares of 50, 60, 70, 80, and 90."
+        text: |
+          つまり、私たちのアーティストは50ピクセルの辺を持つ正方形を描くという事です。そして更に10を加えて60ピクセルのへんを持つ正方形を描きます。そしてその後90ピクセルになるまで10
+          ずつ加えて、正方形を作っていきます。そうすると私たちは50, 60, 70, 80, そして90の正方形が出来上がります。
     parameters:
       1:
         image: "notes/stage15_1.jpg"
@@ -198,34 +203,51 @@
         text: "手ですべてのコードを書くことができる、または私たちはパラメーターを持つ関数を使用できます。"
       4:
         image: "notes/stage15_4.jpg"
-        text: 'To do this, click the blue star on the "draw a triangle" function definition. Then drag "input name" into the "input" block.'
+        text: "これを行うに、「三角形を描く」関数の定義の上の青い星をクリックすます。それから、Inputブロックの中にあるInput nameをドラッグしてください。"
       5:
         image: "notes/stage15_5.jpg"
-        text: |-
-          Then if you write "length" in the spot where it says "x" and press "Enter" you'll create a length input for your function.
+        text: |
+          その時、もし"x"とあるスポットの中に「長さ」を記述をし、"Enter"キーを押すことで、あなた用の長さ入力の関数が作成できます。
+          
+          
+          
+          それが言うところのスポットで「長さ」を記述する場合、"x"と"Enter キーを押します"、長さの入力関数を作成します。
       6:
         image: "notes/stage15_6.jpg"
-        text: 'Then click on the star. Now, you want to click on the variables category and drag the "length" block into the "move forward" block of your function definition. And drag away the old number block.'
+        text: |
+          それから星をクリックしてください。次に変数カテゴリの上をクリックします、そして
+          あなたの関数定義の「前へ進む」ブロックの中に「長さ」ブロックをドラッグします。そして
+          古い数字ブロックをドラッグして消します。
       7:
         image: "notes/stage15_7.jpg"
-        text: 'To use your function with parameters, click on the functions category and drag out your "draw a triangle with length" function.'
+        text: |
+          パラメーターを持つ関数を使用するには、関数カテゴリをクリックし、「長さ」関数と一緒に「三角形を描く」をドラッグで引き出します。
+          
+          
       8:
         image: "notes/stage15_8.jpg"
-        text: "Now you can use the math block to input different numbers to draw triangles of different sizes."
+        text: "次に、異なる寸法の三角形を描くには、違う数字を入力する事で数学ブロックを使う事ができます。"
     hoc_wrapup:
       1:
         image: "notes/hoc6_1.jpg"
-        text: "Congratulations! With the last puzzle you solved, you just wrote code that can tell ANY robot how to find it's way through a non-branching maze or tunnel of any length, whether it's a zombie, a bird, a mars rover, or even a self-driving car."
+        text: |
+          おめでとうございます ！最後のパズルを解決したという事は、たった今、あなたが、どんなロボットにも分岐点のない迷路や、どんなに長いのトンネルでも、それがゾンビだろうと、鳥だろうと火星無人探知機だろうと、もしくは自動運転車だろうと、進む道を見つける方法を導くコードを書き上げました。
+          
+          
+          
+          とだけ言うことができるあらゆるロボット迷路の非分岐または任意の長さのトンネルを介しての方法を検索する方法も、自車の運転や火星ローバー鳥ゾンビかどうかのコードを書いた。
       2:
         image: "notes/hoc6_2.jpg"
-        text: "The basic concepts you used are at the heart of every program or app you'll ever try.  We learned about repeat loops, repeat until statements, if statements, and if else statements."
+        text: |
+          あなたが用いた基本概念は全てのプログラミングやこれからトライするであろうアプリの中心あります。私たちは「繰り返しループ」、「まで繰り返す」、「ifステートメント」そして「if
+           elseステートメント」について学びました。
       3:
         image: "notes/hoc6_3.jpg"
-        text: "If you liked your first hour of code, visit code.org to continue your education into computer science! Once you complete our 20 hour course, you'll have mastered the basics of programming, and can start learning how to write phone apps, robot instructions, games, you name it."
+        text: "もしあなたが初めてのhour of codeが好きであったなら、code.orgを訪問しコンピューターサイエンスの分野にあなたの教育を継続してください。私たちの20時間のコースを完了したら、あなたはもうプログラミングの基本をマスターしています、そして携帯アプリやロポットインストラクション、ゲーム、思いつくもの何でも、コードを書く勉強を始められます。"
       4:
         image: "notes/hoc6_4.jpg"
-        text: "Technology is changing everything we do and it doesn't matter if you're young or old: programming is fun, it's creative, and anyone can learn!"
+        text: "テクノロジーは私たちがする事のすべてを変えています、そしてあなたが若かろうと、年をとっていようと、全く関係ありません。プログラミングは楽しいです。創造的で、誰でも学べます！"
     20_wrapup:
       1:
         image: "notes/bird.png"
-        text: "Show notes coming soon!"
+        text: "ノートの表示は近日公開予定！"

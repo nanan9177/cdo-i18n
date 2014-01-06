@@ -1,6 +1,6 @@
 {
   "ADD_COMMENT":"加入註解",
-  "CHANGE_VALUE_TITLE":"更改值:",
+  "CHANGE_VALUE_TITLE":"修改值:",
   "COLLAPSE_ALL":"收合積木",
   "COLLAPSE_BLOCK":"收合區塊",
   "COLOUR_BLEND_COLOUR1":"顏色 1",
@@ -22,7 +22,7 @@
   "COLOUR_RGB_TOOLTIP":"透過指定紅、綠、 藍色的值來建立一種顏色。所有的值必須介於 0 和 100 之間。",
   "CONTROLS_FLOW_STATEMENTS_HELPURL":"https:\/\/code.google.com\/p\/blockly\/wiki\/Loops#Loop_Termination_Blocks",
   "CONTROLS_FLOW_STATEMENTS_OPERATOR_BREAK":"停止迴圈",
-  "CONTROLS_FLOW_STATEMENTS_OPERATOR_CONTINUE":"繼續下一個迴圈",
+  "CONTROLS_FLOW_STATEMENTS_OPERATOR_CONTINUE":"繼續下一個 迴圈",
   "CONTROLS_FLOW_STATEMENTS_TOOLTIP_BREAK":"離開當前的 迴圈",
   "CONTROLS_FLOW_STATEMENTS_TOOLTIP_CONTINUE":"跳過這個迴圈的其餘步驟，並繼續下一次的迴圈運算。",
   "CONTROLS_FLOW_STATEMENTS_WARNING":"警告： 此積木僅可用於迴圈內。",

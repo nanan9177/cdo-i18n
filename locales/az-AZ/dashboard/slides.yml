@@ -43,29 +43,29 @@
     artist_intro:
       1:
         image: "notes/stage5_1.jpg"
-        text: 'Salam, mənim adım "JR"dır. Avtomobil yarışlarında iştirak edən hər bir komandanın informatika üzrə mütəxəssisə ehtiyacı var. Onlar avtomobildən daxil olan məlumatları təhlil edərək onun daha sürətlə hərəkət etməyini təmin edirlər.'
+        text: "Salam, mənim adım Cey-Ardır. Avtomobil yarışlarında iştirak edən hər bir komandanın informatika üzrə mütəxəssisə ehtiyacı var. Onlar avtomobildən daxil olan məlumatları təhlil edərək onun daha sürətlə hərəkət etməyini təmin edirlər."
       2:
         image: "notes/stage5_2.jpg"
-        text: "Bu tampacalarda siz onarın arxasıyla xətt çəkən rəssam olacaqsınız."
+        text: "Bu tampacalarda siz hara getsə arxasıyla xətt çəkən bir rəssam olacaqsınız."
       3:
         image: "notes/stage5_3.jpg"
-        text: 'Bu blok "100 piksel irəli get" deyir. Piksellər sadəcə ekranınızdakı kiçik nöqtələrdir.'
+        text: 'Bu blok "100 piksel irəli get" deyir. Piksellər sadəcə ekranınızdakı çox kiçik nöqtələrdir.'
       4:
         image: "notes/stage5_4.jpg"
-        text: 'Bu blok "90 dərəcə sağa dönün" deyir. Bu sizin rəssamınızı labirint tapmacasındakı "dön" blokları qədər döndərəcək.'
+        text: 'Bu blok "90 dərəcə sağa dön" deyir. Bu, rəssamınızı labirint tapmacasındakı "dön" blokları qədər döndərəcək.'
       5:
         image: "notes/stage5_5.jpg"
-        text: "Rəssamın nə qədər irəli getməsini və ya dönməsini dəyişmək üçün bu blokların birində oxu klikləyin."
+        text: "Rəssamın nə qədər irəli getməyini və ya dönməyini dəyişmək üçün bu blokların hər ikisində oxu klikləyin. Oynaya-oynaya bu yeni bloklarla tanış olun."
     farmer_intro:
       1:
         image: "notes/stage9_1.jpg"
-        text: "Salam, mən Paolayam. Bu tapmacada siz məhsul (dənlik) əkmək üçün sahəsini tamamilə təmizləməli olan bir fermersiniz."
+        text: "Salam, mən Paolayam. Bu tapmacada siz taxıl əkmək üçün sahəsini tamamilə hamarlamalı olan bir fermersiniz."
       2:
         image: "notes/stage9_2.jpg"
-        text: "Siz ona bütün torpaq qalaqlarını təmizləyib çuxurlara doldurmaqda kömək etməlisiniz."
+        text: "Siz ona bütün torpaq təpəciklərini yığışdıraraq çuxurları doldurmaqda kömək etməlisiniz."
       3:
         image: "notes/stage9_3.jpg"
-        text: "Yeni bloklar təpəcikdən bir kürək torpağı götürür və boşluğu bir kürək torpaq ilə doldurur."
+        text: "Yeni bloklar təpəcikdən bir kürək torpağı götürür və çüxüra bir kürək torpaq doldurur."
       4:
         image: "notes/stage9_4.jpg"
         text: "Çuxurlarin və təpəciklərin ölçüləri müxtəlifdir. Ona görə də siz fermerə neçə kürək istifadə etməli olduğunu deməlisiniz."
@@ -81,10 +81,10 @@
         text: 'Biz köməklik üçün yeni "təkrar et" blokundan istifadə edə bilərik.'
       4:
         image: "notes/hoc2_4.jpg"
-        text: '5 "irəli get" blokundan istifadə etməkdənsə...'
+        text: '5 dənə "irəli get" blokundan istifadə etməkdənsə...'
       5:
         image: "notes/hoc2_5.jpg"
-        text: 'Biz "təkrar et" blokunun içərisində "irəli get" bloku yerləşdirə və bu blokda təkrarlanmaların sayını bildirmək üçün bir ədəd daxil edə bilərik.'
+        text: 'Biz "irəli get" blokunu "təkrar et" blokunun içərisində yerləşdirə və bu blokda təkrarlanmaların sayını bildirmək üçün bir ədəd daxil edə bilərik.'
       6:
         image: "notes/hoc2_6.jpg"
         text: 'Bunu bilmək vacibdir: siz "təkrar et" blokunun daxilində birdən çox əmr yerləşdirə bilərsiniz.'
@@ -94,7 +94,7 @@
     loop_until:
       1:
         image: "notes/hoc3_1.jpg"
-        text: 'Salam, mənim adım Krisdir. "Miami Heat" komandasına qoşulmazdan əvvəl mən Corciya Texnologiya İnstitutunda İnformatika oxumuşam. Gəlin, yeni blokumuzu sınaqdan keçirək, "təkrar et, ona qədər ki" blokunu.'
+        text: 'Salam, mənim adım Krisdir. "Miami Heat" komandasına qoşulmazdan əvvəl mən Corciya Texnologiya İnstitutunda İnformatika oxumuşam. Gəlin, yeni blokumuzu sınaqdan keçirək, "təkrar et, ta ki" blokunu.'
       2:
         image: "notes/hoc3_2.jpg"
         text: "Bəs əgər biz quşun donuza çatması üçün nə qədər yerdəyişmə etməli olduğunu bilməsək necə?"
@@ -103,17 +103,17 @@
         text: 'Əgər biz "təkrar et, ta ki" blokunun daxilində "irəli get" blokunu yerləşdirsək, quş donuza çatana (və ya divara dəyənə) QƏDƏR irəli gedəcək.'
       4:
         image: "notes/hoc3_4.jpg"
-        text: 'Bunu bilmək vacibdir: daha əvvəldə olduğu kimi,  biz "təkrar et, ta ki" blokunun daxilində bir neçə blok yerləşdirə bilərik. Bu zaman onların hər biri təkrar olunacaqdır.'
+        text: 'Bunu bilmək vacibdir: daha əvvəldə olduğu kimi,  biz "təkrar et, ta ki" blokunun daxilində bir neçə blok yerləşdirə bilərik. Bu zaman onların hamısı təkrar olunacaq.'
     if:
       1:
         image: "notes/hoc4_1.jpg"
-        text: 'Salam, mən Billəm! Gəlin, yeni bir təməl anlayışı öyrənək: "əgər" ifadələri. Kompüterlər qərarları belə onların köməyi ilə verir.'
+        text: 'Salam, mən Billəm! Gəlin, yeni bir təməl anlayışı öyrənək: "əgər" ifadələri. Kompüterlər qərarları onların köməyi ilə verir.'
       2:
         image: "notes/hoc4_2.jpg"
         text: 'Siz özünüz də hər gün "əgər" ifadəsindən istifadə edirsiniz. Hər səhər çölə çıxmazdan əvvəl siz deyirsiniz ki, ƏGƏR çöldə yağış yağırsa mən gödəkçəmi geyinməliyəm.'
       3:
         image: "notes/hoc4_3.jpg"
-        text: "Biz zombiyə deyə bilərik ki, yoxlasın ƏGƏR sola yol var varmı və əgər o sol yol taparsa biz onu həmin istiqamətə döndərə bilərik."
+        text: "Biz zombiyə deyə bilərik ki, yoxlasın, sola yol varmı və ƏGƏR o sola yol tapsa, biz onu həmin tərəfə döndərə bilərik."
       4:
         image: "notes/hoc4_4.jpg"
         text: 'Bunun kodunu yazmaq üçün gəlin "əgər" blokunu dartaq və onun daxilinə "sola dön" bloku yerləşdirək.'
@@ -161,7 +161,7 @@
         text: 'Salam, mənim adım Makindedir. Gəlin "nə qədər ki" bloku haqqında öyrənək '
       2:
         image: "notes/stage9_6.jpg"
-        text: '"Nə qədər ki" bloku başlığında yazılan ifadə "doğru" OLDUĞU MÜDDƏTCƏ içərisinə yerləşdirdiklərinizi təkrarlayacaq.'
+        text: '"Hələ ki" bloku başlığında yazılan ifadə "doğru" OLDUĞU MÜDDƏTCƏ içərisinə yerləşdirdiklərinizi təkrarlayacaq.'
       3:
         image: "notes/stage9_7.jpg"
         text: "Məsələn, əgər fermer təpəciyin üzərində dayanırsa, o, altında təpəcik olduğu müddətcə bir kürək torpağı altından yığışdırır."

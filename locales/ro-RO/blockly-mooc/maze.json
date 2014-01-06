@@ -11,7 +11,7 @@
   "elseCode":"altfel",
   "fill":"umple 1",
   "fillN":"umple {shovelfuls}",
-  "fillStack":"umple grupul de 2 găuri",
+  "fillStack":"fill stack of {shovelfuls} holes",
   "fillSquare":"umple pătratul",
   "fillTooltip":"Plasaţi o unitate de pământ",
   "finalLevel":"Felicitări! Ai rezolvat puzzle-ul final.",

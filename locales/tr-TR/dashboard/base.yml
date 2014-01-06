@@ -50,7 +50,7 @@
     no_signup_header: "Kaydolmak istemiyor musun?"
     no_signup_message: '<a target="_blank" href="http://learn.code.org">Çeşitli aşamalara ve bulmacalara gözatabilirsin</a> ama ilerlemeni kaydetmek için kayıt olman gerekmektedir.'
     prizes_header: "The first students to complete the course win prizes! (U.S. students only)"
-    prizes_message: "U.S. students who earn all %{num_trophies} concept trophies can select a variety of prizes including free Dropbox space, Skype credits, and downloadable games from Electronic Arts and Valve."
+    prizes_message: "U.S. students who earn all %{num_trophies} concept trophies can select a variety of prizes including free Dropbox space, Skype credits, and downloadable games from Electronic Arts."
     teacher_educator_guide: "Eğitim rehberine bakın"
     teacher_prize_header: '1.000 $ kazan <a target="_blank" href="http://DonorsChoose.org"> DonorsChoose.org</a> ödülleri'
     teacher_prize_message: 'In partnership with <a target="_blank" href="http://DonorsChoose.org">DonorsChoose.org</a>, Code.org will offer up to $1,000 in classroom funding to U.S. public school teachers who lead at least 15 students through this course. <a href="http://code.org/educate/20hr">See educator guide for more info.</a> '
@@ -240,7 +240,7 @@
       Bu eğitimin oluşturulmasında  <a href="http://www.google.com">Google</a>, <a href="http://www.microsoft.com">Microsoft</a>, <a href="http://www.facebook.com">Facebook</a>, and <a href="http://www.twitter.com">Twitter'dan</a> mühendisler yardım etti.
     art_from_html: 'Kızgın kuşlar ™ & © 2009-2013 <a href="http://www.rovio.com"> Rovio Eğlence Ltd</a>. Tüm hakları saklıdır. <br/> Bitkiler vs Zombies ™ & © 2013 <a href="http://www.ea.com"> Electronic Arts Inc</a>. Tüm hakları saklıdır.'
     feedback: "Geri besleme sağla"
-    translate: "Kendi dilinize çevirmek bize yardım edin"
+    translate: "Kendi dilinize çevirmemiz için bize yardım edin"
     tos: "Hizmet Şartları"
     privacy: "Gizlilik Politikası"
   prize_mail:
@@ -252,7 +252,7 @@
       subject: "Bonus ödülünüzü Code.org'ta bozdurun!"
   reference_area:
     title: "Yardım ister misiniz?"
-    subtitle: "Bu videoları ve ipuçlarına bakın"
+    subtitle: "Bu videolara ve ipuçlarına bakın"
     teacher: "Çözüme bakın"
     auth_error: "Bu çözümü görmek için yetkiniz yok."
   video:

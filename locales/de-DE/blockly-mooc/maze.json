@@ -11,7 +11,7 @@
   "elseCode":"ansonsten",
   "fill":"1 hinzufügen",
   "fillN":"fülle {shovelfuls}",
-  "fillStack":"fülle den Stapel mit 2 Löchern",
+  "fillStack":"fill stack of {shovelfuls} holes",
   "fillSquare":"Viereck füllen",
   "fillTooltip":"Lege eine Einheit Schmutz auf den Boden",
   "finalLevel":"Glückwunsch! Sie haben das letzte Puzzle gelöst.",

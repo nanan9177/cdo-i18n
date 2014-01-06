@@ -50,10 +50,10 @@
     no_signup_header: "لاترغب بالتسجيل؟"
     no_signup_message: 'يمكنك<a target="_blank" href="http://learn.code.org"> تصفح مختلف المراحل والالغاز</a>, ولكن سوف تحتاج إلى التسجيل لحفظ تقدمك.'
     prizes_header: "The first students to complete the course win prizes! (U.S. students only)"
-    prizes_message: "U.S. students who earn all %{num_trophies} concept trophies can select a variety of prizes including free Dropbox space, Skype credits, and downloadable games from Electronic Arts and Valve."
+    prizes_message: "U.S. students who earn all %{num_trophies} concept trophies can select a variety of prizes including free Dropbox space, Skype credits, and downloadable games from Electronic Arts."
     teacher_educator_guide: "راجع دليل المعلم"
     teacher_prize_header: 'اربح 1000دولار في المكافئات <a target="_blank" href="http://DonorsChoose.org"> DonorsChoose.org </a> '
-    teacher_prize_message: 'In partnership with <a target="_blank" href="http://DonorsChoose.org">DonorsChoose.org</a>, Code.org will offer up to $1,000 in classroom funding to U.S. public school teachers who lead at least 15 students through this course. <a href="http://code.org/educate/20hr">See educator guide for more info.</a> '
+    teacher_prize_message: 'في شراكة مع <a target="_blank" href="http://DonorsChoose.org"> DonorsChoose.org </a> Code.org سوف يقدم عرض اكثر من 1000 دولار لتمويل المعلمين في المدارس الحكومية في الولايات المتحدة الامريكية الذين يقومون بتدريس على الاقل 15 طالب خلال هذا الكورس <a href="http://code.org/educate/20hr"> لمزيد من المعلومات انظر دليل المعلم </a>'
     teacher_pitch: "اعطاء مقدمة عن علوم الكمبيوتر للمستوى المبتدئ والمتوسط في فصلك الدراسي"
     teacher_title: "تسجيل حساب المعلم"
     student_pitch: "بعد اتمامك ساعة واحدة من البرمجة : جرب مقدمة عن علوم الكمبيوتر للمستوئ المبتدئ والمتوسط"
@@ -109,7 +109,7 @@
       username_not_found: "اسم المستخدم %{username} غير موجود"
       username_in_use: "%{username} مستخدم، الرجاء اختر واحدا آخر من فضلك"
       no_teacher: "تعذر العثور على أي شخص مسجل بـ  '%{teacher_email_or_code}'. من فضلك أطلب منهم التسجيل هنا و من ثم محاولة إضافتهم مرة أخرى"
-      blank_code: "Please enter a code or your teacher's email address"
+      blank_code: "الرجاء ادخل رمز او عنوان البريد الالكتروني الخاص بالمعلم"
     mail:
       invite_student:
         subject: "أنضم إلى الصف مع %{teacher_name} في Code.org!"
@@ -124,22 +124,22 @@
     success: "تم استرداد جائزتك بنجاح, راجع الكود البرمجي ادناه."
     error: "لم يتم استرداد جائزتك بنجاح, الرجاء المحاولة مرة اخرى."
     error_us_only: "عرض الجائزة صالحة فقط للمستخدمين في الولايات المتحدة."
-    error_not_earned: "You have not yet earned this prize."
-    error_already_redeemed: "Your prize has already been redeemed."
-    no_prizes_available: "We're sorry, but we currently have no prizes available."
+    error_not_earned: "انت لم تكسب هذه الجائزة بعد."
+    error_already_redeemed: "جائزتك تم استردادها الان."
+    no_prizes_available: "نحن نعتذر لعدم توفر الجوائز حاليا."
     confirm:
       title: "الرجاء تأكيد"
       "no": لا
       "yes": نعم
       msg: "هل انت متأكد من المطالبة بالجائزة %{prize_name} ؟"
       msg_student: "ملاحظة: يمكنك فقط اختيار نوع واحد من الجائزة."
-      msg_publicschool: "Please confirm that you are a U.S. public school teacher."
+      msg_publicschool: "الرجاء تأكيد من انك معلم في مدرسة حكومية في الولايات المتحدة الامريكية."
       msg_visit_website: "Visit website"
     providers:
       apple_itunes: "$10 iTunes Gift Card"
       donors_choose: "DonorsChoose.org $750 credit"
       donors_choose_bonus: "DonorsChoose.org $250 credit"
-      dropbox: "10GB of Dropbox Space"
+      dropbox: "10 كيكا بايت من مساحة دروب بوكس"
       valve: "Portal 2 (PC or Mac game download)"
       ea_bejeweled: "Bejeweled 3 (PC game download)"
       ea_fifa: "FIFA Soccer 13 (PC game download)"
@@ -151,7 +151,7 @@
       choose_teacher: "Click on the logo below to claim your prize:"
       earned: "انت حصلت جائزة (فقط لطلاب الولايات المتحدة)"
       not_earned_title: "Finish the tutorial, earn rewards (U.S. students only)"
-      not_earned: "Learn all the computer science concepts, collect all %{num_trophies} trophies, and earn real-world prizes. You can choose between 10GB of free Dropbox space, $10 in Skype credits, and free game downloads. NOTE: offer only valid to U.S. students, and only as long as supplies last."
+      not_earned: "تعلم جميع مفاهيم علوم الكمبيوتر , اجمع جميع الجوائز%{num_trophies}، واكسب جوائز العالم الحقيقي. يمكنك أن تختار بين 10 كيكا بايت للتخزين المجاني من دروب بوكس، 10 دولار رصيد سكايب ، وتحميل العاب مجانية. ملاحظة: العروض فقط صالحة للطلاب في الولايات المتحدة."
       teacher:
         earned: "10 أو أكثر من الطلاب جمع جميع الجوائز %{num_trophies} لقد فزت بجائزة معلم! (المعلمين في الولايات المتحدة فقط)"
         not_earned_title: 'Teach the class, earn up to $1,000 in <a target="_blank" href="http://DonorsChoose.org">DonorsChoose.org</a> credits (U.S. teachers only)'
@@ -229,8 +229,8 @@
     student_progress: "تقدم تعلمك"
     student_stats: 'لقد حصلت %{trophy_count} من %{trophy_max}  جائزة "اتقان المفهوم".'
     student_left_off: "اين كنت آخر مرة:"
-    student_finished_prize: "You've completed all tutorials, claim your %{prize_link} and pick another class %{online_link} or at a %{local_school_link}"
-    student_finished: "You've completed all tutorials, pick another class %{online_link} or at a %{local_school_link}"
+    student_finished_prize: "لقد أتممت جميع الدروس, اطلب %{prize_link} وقم باختيار صف آخر %{online_link} أو في %{local_school_link}"
+    student_finished: "لقد أتممت جميع الدروس, قم باختيار صف آخر %{online_link} أو في %{local_school_link}"
     local_school: "مدرسة محلية"
     online: "متصل"
     see_details: "مشاهدة التفاصيل"
@@ -255,8 +255,8 @@
   reference_area:
     title: "بحاجة إلى مساعدة؟"
     subtitle: "مشاهدة اشرطة الفيديو والتلميحات"
-    teacher: "See the solution"
-    auth_error: "You are not authorized to see the solution."
+    teacher: "انظر الى الحل"
+    auth_error: "انت غير مسموح لك برؤية الحل."
   video:
     tab: "فيديو."
     notes: "لا يوجد فيديو؟ اظهر الملاحظات."
@@ -270,4 +270,4 @@
   next_stage: "انتهى! استمر في المرحلة القادمة"
   download_pdf: "افتح خطة الدرس"
   share_code:
-    title: "Click 'Run program' to see my program in action"
+    title: 'اضغط " تنفيذ البرنامج " لرؤية برنامجك في العمل'

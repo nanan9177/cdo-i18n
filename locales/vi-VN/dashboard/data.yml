@@ -39,7 +39,7 @@
         Artist: "nghệ sĩ"
         Unplug4: "các bước lập trình"
         Artist2: "Nghệ sĩ 2"
-        Unplug5: "Functions"
+        Unplug5: "Các hàm"
         Farmer: "người nông dân"
         Unplug6: "điều kiện"
         Artist3: "nghệ sĩ 3"
@@ -78,12 +78,12 @@
         maze_2_4: "Giữ bình tĩnh và giúp mình tìm những chú lợn xấu xa. Hoặc là mình giận đó!"
         maze_2_5: "Có một cách mà tôi có thể đến chỗ heo ngốc chỉ bằng hai khối. Bạn có làm được không?"
         maze_2_6: "Hãy đưa mình đến chỗ heo ngốc chỉ trong ba khối."
-        maze_2_7: 'Help me banish this bad piggy using the fewest number of blocks. Try using more than one "repeat times" block.'
+        maze_2_7: "Giúp mình đuổi chú lợn xấu xí này đi bằng cách sử dụng các khối ít nhất có thể. Bạn thử dùng các khối  lặp lại nhiều hơn một lần."
         maze_2_8: 'Để giải quyết điều này, hãy thử một khối "lặp lại" với 3 khối bên trong nó: di chuyển, di chuyển, lần lượt.'
-        maze_2_9: 'Ok, try the new "repeat until" block - it will repeat until I reach the annoying pig.'
-        maze_2_10: "Ok, one last time for practice - can you solve this one using only 4 blocks?"
-        maze_2_11: "Dear person.  Me zombie. Me hungry. Must... get... to sunflower... Can you get me there with only 5 blocks?"
-        maze_2_12: "Ok, this is similar, but slightly different. Can you do it in only 5 blocks?"
+        maze_2_9: 'Ok, hãy thử khối mới " lặp lại cho đến khi" nó sẽ lặp lại hành động cho đến khi gặp được những chú lợn phiền toái.'
+        maze_2_10: "Được rồi, lần cuối để luyện tập nhé - Bạn có thể giải quyết trò này chỉ bằng 4 khối được không?"
+        maze_2_11: "Bạn thân mến. Tôi zombie đây... Tôi đói quá... Tôi cần tới chỗ có hoa hướng dương. Bạn có thể giúp tôi tới nơi mà chỉ cần sử dụng 5 khối không?"
+        maze_2_12: "Được rồi, nó cũng tương tự nhưng chỉ hơi khác một chút. Liệu bạn có thể thực hiện chỉ với 5 khối không?"
         maze_2_13: 'Use the new "if" block to let me decide when to turn. Hint: you only need one more block, but learn how we set it up so you can do it on your own next time.'
         maze_2_14: 'Ok, this is just like the last puzzle, but you need to remember how you used the "if" block and the "repeat" block together.'
         maze_2_15: 'Me want sunflower! Use an "if" block to get me there with the fewest number of blocks.'

@@ -35,23 +35,23 @@
         Unplug1: "Bevezetés a számítógép tudományába"
         Maze: "A labirintus"
         Unplug2: "Számítógépes gondolkodás"
-        Unplug3: "Papíron programozás"
+        Unplug3: "Grafikus programozás"
         Artist: "A művész"
         Unplug4: "algoritmusok"
         Artist2: "A művész 2"
         Unplug5: "Függvények"
-        Farmer: "A mezőgazdasági termelő"
-        Unplug6: "Feltételes mód"
+        Farmer: "A Farmer"
+        Unplug6: "Feltételek/Döntések"
         Artist3: "A művész 3"
         Unplug7: "Dal iras"
-        Farmer2: "A mezőgazdasági termelő 2"
+        Farmer2: "A Farmer 2"
         Unplug8: "Absztrakció"
         Artist4: "A művész 4"
         Unplug9: "Váltó programozás"
-        Farmer3: "A mezőgazdasági termelő 3"
+        Farmer3: "A Farmer 3"
         Unplug10: "Az internet"
         Artist5: "A művész 5"
-        Unplug11: "utoszo"
+        Unplug11: "Összefoglaló"
         MazeEC: "A labirintus"
     trophy:
       name:
@@ -67,7 +67,7 @@
         loop_until: "Ismételd amíg, blokk"
         loop_while: "Míg a blokk"
         loop_for: "szamlalo blokk"
-        function: "Funkciók"
+        function: "Függvények"
         parameters: "Paraméterezett függvények"
     level:
       instructions:
@@ -126,70 +126,61 @@
           Még mindig sötét van. Vezess végig a földemen. Ha földkupacot találsz, takarítsd el, ha gödört, töltsd fel.
           Tipp: "használ a legördülő menü \"if\" (ha) blokkját."
         turtle_2_1: "Helló. Én lenni zombi művész. Én szeret rajzol! Segíteni nekem rajzol különleges színű négyzet. Fontos megjegyzés: ugyanazok a blokkjaid vannak, viszont most nincsenek kategorizálva."
-        turtle_2_2: 'Welcome to using functions, which let you define new blocks! Try the new "draw a square" block, found in the "Functions" category, to draw a small 50x50 green square.'
-        turtle_2_3: 'Use the "repeat" block (in the "Loops" category) to draw 3 squares of size 100, each 120 degrees apart. And do it in 3 different, random colors.'
-        turtle_2_4: "Now we're going to get fancy. Change the code to draw 36 squares, 100 pixels wide, and each 10 degrees apart. Hint: you may want to use the slider to make me go faster."
-        turtle_2_5: |-
-          Draw squares with sides of 50, 60, 70, 80, and 90 pixels.  You'll need to use the "draw a square" function five times.
-        turtle_2_6: |-
-          Ok, this program will use a counter, to draw the same squares as last time. You want the square to be the same size as the counter, so use the "counter" block. Hint: It's in the Variables category.
-        turtle_2_7: |-
-          Here's a program to draw a spiral, but the blocks are disabled so they won't run. Make a new program using a "count with" block (in the Loops category) and "counter" block (in the Variables category) to draw the same spiral.
-        turtle_2_7_5: |-
-          There's a new "draw a snowman" function (in the Functions category). Draw two snowmen, of height 250 and 100.
-        turtle_2_8: |-
-          This one's a bit tricky. Use the "draw a snowman" function and the new "jump forward" block (in the Actions category). Draw 3 snowmen in different colors, 100 pixels apart.
-        turtle_2_9: 'Use a "count with" loop to draw a family of snowmen with heights of 110, 100, 90, 80, and 70. The snowmen should all be 60 pixels apart.'
-        turtle_2_10: "Here's some code to try experimenting with different spirals.  What happens if you change the turn amount? Or set a random color in the loop?  Draw anything you like."
-        maze_karel_2_1: "Try using the blocks to help me remove all the piles and fill in all the holes on the ground. Try to use loops instead of using too many blocks. Hint: you can put a loop inside another loop."
-        maze_karel_2_2: |-
-          We've defined our own block called "fill 5", which is now in the Functions category. Use it to help me fill in this hole.
-        maze_karel_2_3: |-
-          Use the new "fill 5" function block to make me fill in all the holes. You'll have to drag out the "fill 5" block out from the Functions category.
+        turtle_2_2: 'Üdvözöljük azon funkciók honában, amelyek segítségével új blokkokat definiálhat! Próbálja ki az új "négyzet rajzolás" blokkot.  A "Funkciók" között találja, és egy 50 x 50 kis zöld négyzetet rajzol  .'
+        turtle_2_3: 'Használja az "ismétlés"/repeat blokkot (a "Ciklus" kategória) , hogy rajzoljon 3, 100 egységnyi négyzetet, 120 fokkal elfordítva egymástól. Csinálja ezeket 3 különböző, véletlenszerű színnel.'
+        turtle_2_4: "Legyünk viccesek. Változtassuk meg a kódot, rajzoljunk 36, 100 képpont széles négyzetet,  10 fokkal elforgatva. Tipp: Lehet, hogy csúszkát szeretne használni, hogy gyorsítson."
+        turtle_2_5: 'Rajzoljon 50, 60, 70, 80 és 90 képpont oldalú négyzeteket.  Ötször lesz szüksége a "négyzet rajzolás" funkcióra .'
+        turtle_2_6: 'OK, ez az utolsó program, egy számlálót használ, ugyanazoknak a négyzeteknek a rajzolásához, mint a múltkor. Úgy oldja meg, hogy a négyzet akkora legyen, mint a számláló, ezért használja a "counter"/számláló blokkot. Tipp: ott találja a változók között.'
+        turtle_2_7: 'Ez a program egy spirált rajzolna, de a blokkok le vannak tiltva, így nem fut. Csináljon egy új programot, a "count with"/számláló blokk (ciklusok kategóriában), és a "counter"/számláló blokk (változók között) segítségével ami megrajzolja ugyan ezt a spirált.'
+        turtle_2_7_5: 'Van egy új "Rajzolj hóembert" funkció (a függvények kategória). Rajzoljon két, 250 és 100 magas hóembert,  .'
+        turtle_2_8: 'Ez itt egy kicsit trükkös. A "Rajzolj hóembert" funkció, és az új "ugrás előre" blokk (a műveletek kategória). A 3 hóember legyen különböző színű , 100 képpontra egymástól.'
+        turtle_2_9: 'A "count with" ciklus segítségével rajzoljon egy hóember családot  110, 100, 90, 80, 70 magasságokkal. A hóemberek legyenek 60 képpontra egymástól.'
+        turtle_2_10: "Itt van egy kód, amivel kísérletezhet különböző spirálokkal.  Mi történik, ha módosítja a fordulatot? Vagy egy véletlenszerűen a színt a ciklusban?  Próbálkozzon!"
+        maze_karel_2_1: "Blokkok használatával segítsen nekem eltakarítani a földhalmokat, és feltölteni a gödröket a szántóföldön. Használjon ciklusokat a sok blokk helyett. Tipp: a ciklus belsejébe is elhelyezhet egy másik ciklust."
+        maze_karel_2_2: 'Már létrehoztunk egy saját blokkot, az úgynevezett "töltsd fel 5", amely jelenleg a függvények között található. Használja,  hogy feltöltse ezt a lyukat.'
+        maze_karel_2_3: 'Az új "töltsd fel 5" funkció blokk segítségével töltse fel a lyukakat. A "töltsd fel 5" blokkot függvények között találja.'
         maze_karel_2_4: "Definiáljunk egy új funkciót, amely eltávolít 7 shovelfult. Aztán használd arra, hogy írj egy programot ami segít nekem eltávolítani az összes kupacot."
-        maze_karel_2_5: "Create a new function that removes 6 shovelfuls from a pile, and use it to help me level out all the piles."
-        maze_karel_2_6: 'Use two new functions, "fill 8" and "remove 8", to help me level out the pile and fill in the hole.'
-        maze_karel_2_7: "There's a cow in my field! Write a new function that helps me avoid the cow and remove the pile. Put all your blocks inside the new function."
-        maze_karel_2_8: 'Use this new function, "avoid the cow and remove 1", to help me remove all the piles.'
-        maze_karel_2_9: "Ok, here's a function that removes 4 different piles of dirt in a vertical column. Try putting this function inside a loop, so that you remove all the piles of dirt using only a few new blocks."
-        maze_karel_2_10: "Move me across the field, and use these two functions to help me remove all the piles and fill all the holes."
-        turtle_3_1: |-
-          This puzzle shows you how the "draw a square" and "draw a circle" functions are defined.  Defining a function doesn't run its blocks.  You have to pull out the "draw a square" block to actually draw a square.
-        turtle_3_2: 'Using the "draw a square" function as an example, create a "draw a triangle" function and use it.'
+        maze_karel_2_5: "Hozzon létre egy új funkciót, amely eltávolít egy 6 lapátnyi kupacot, majd használja, hogy segítsen nekem eltüntetni a halmot."
+        maze_karel_2_6: 'Használja a két új funkciót, a "töltsd ki a 8" és a "távolítsd el 8", hogy segítsen nekem eltüntetni a kupacot és feltölteni a lyukat.'
+        maze_karel_2_7: "Az mezőmön van egy tehén! Írjon egy új funkciót, amely segít kikerülni a tehént, és távolítsa el a halmot. Tegye mindezt egy  új funkció blokkba ."
+        maze_karel_2_8: 'Használja ezt a függvényt, "kerüld ki a tehenet, és tüntess el 1", hogy segítsen nekem eltávolítani a kupacokat.'
+        maze_karel_2_9: "OK, itt van egy függvény, amely eltávolít a 4 kupac földet egy függőleges oszlopban. Próbálja ki ez a funkciót egy ciklus belsejében, hogy eltávolítsa az összes kupacot, csak néhány új blokkok segítségével."
+        maze_karel_2_10: "Mozgass a mezőn, és a két funkció segítségével segítsen nekem eltakarítani a földkupacokat, és feltölteni a lyukakat."
+        turtle_3_1: 'Ez a játék megmutatja, hogy a "négyzet rajzolás" és "rajzoljon egy kört" függvényeket.  Meghatározása a funkció nem működik a blokkok.  Akkor húzza ki a "négyzet rajzolásához" blokk, valójában a négyzet rajzolásához.'
+        turtle_3_2: 'A "négyzet rajzolásához" függvénnyel például, hozzon létre egy "draw egy háromszög" funkció, és használja azt.'
         turtle_3_3: "Rajzoljon háromszög alakú kerítést a macskák körül, és négyzet alakú kerítést a tehenek körül! Tip: tesztelje a programot miközben végighalad rajta."
         turtle_3_4: 'Lássuk tud-e rajzolni egy "négyzetet" vagy egy "háromszöget" (és pár másik blokkot) hogy egy házat rajzoljon az oroszlán körül.'
         turtle_3_5: 'Most készítsen egy új "rajzoljon házat" funkciót és használja ház készítésére a két macska körül. Tipp: készítsen egy új funkciót használva a "csinálj valamit" blokkot, majd írja be a saját szövegét, hogy elnevezze a blokkot.'
         turtle_3_6: 'Használja a "négyzet rajzolását" példaként, adjon hozzá egy bemeneti "hosszúság"-ot, ahhoz hogy "rajzoljon egy háromszöget". Aztán rajzoljon háromszögeket különböző méretben! (Tipp: kattintson a csillagra hogy hozzáadjon bemenetit egy funkcióhoz)'
-        turtle_3_7: 'Add an input named "length" to "draw a house" and build a big house for the elephant (with edges 150 pixels long)'
-        turtle_3_8: 'Here are all of the blocks from the previous puzzle.  Modify "draw a house" so I end up at the bottom right corner after drawing a new house. Use this modified function to draw three houses.'
-        turtle_3_9: 'Can you re-create the "draw a house" function without help? Try it, and then draw a row of houses.'
-        turtle_3_10: "You've learned a lot! Now use it to draw whatever you want. Try to draw a star, or a spiral, or a fancy snowflake."
-        maze_karel_debug_seq_1: "Welcome to debugging! My code doesn't work right. Can you spot the problem and fix it so that I can get my field flat and ready for planting?"
-        maze_karel_debug_seq_2: "What's wrong with this program? How should you fix it so I can remove that pile?"
-        maze_karel_debug_repeat: "De-bug this program for me so my field will be nice and flat."
-        maze_karel_debug_while: "How should you change this program to help me fill the hole?"
-        maze_karel_debug_if: "Help! Fix the program so my field will be completely flat."
-        maze_karel_debug_if_else: "De-bug this program so I can fill in the holes and remove all the piles."
-        maze_karel_debug_function_1: "What should you change about this program to help me remove all the piles?"
-        maze_karel_debug_function_2: "Can you de-bug this program for me so I can make my field flat?"
-        maze_karel_debug_function_3: "Edit this program so I'll remove all the piles on my field. "
-        turtle_5_1: "Try running this program, and make changes to see what happens. Can you figure out how it works? (Or delete it and replace it with something totally different)"
-        turtle_5_2: "Try running this program, and make changes to see what happens. Can you figure out how it works? (Or delete it and replace it with something totally different)"
-        turtle_5_3: "Try running this program, and make changes to see what happens. Can you figure out how it works? (Or delete it and replace it with something totally different)"
-        turtle_5_4: "Try running this program, and make changes to see what happens. Can you figure out how it works? (Or delete it and replace it with something totally different)"
-        turtle_5_5: "Try running this program, and make changes to see what happens. Can you figure out how it works? (Or delete it and replace it with something totally different)"
-        turtle_5_6: "Try running this program, and make changes to see what happens. Can you figure out how it works? (Or delete it and replace it with something totally different)"
-        maze_3_1: "I need to get to that pig! Type in a couple of calls to move(); so I can get my eggs back."
-        maze_3_2: "Write me a program, so I can make it all the way to the pig."
-        maze_3_3: "How should I get to the pig? Make sure I don't run into the box of TNT!"
-        maze_3_4: "Argh! Write me a program that gets me around the TNT and to the pig."
+        turtle_3_7: 'Add hozzá egy input nevű "hossza" a "ház" és építsenek egy nagy ház, az elefánt (a szélei 150 pixel hosszú)'
+        turtle_3_8: 'Itt van minden a blokkokat az előző puzzle.  Módosítsa a "egy ház rajzolása", úgyhogy a végén a jobb alsó sarokban után rajz egy új házat. Ehhez a funkcióhoz módosított rajzoljunk három ház.'
+        turtle_3_9: 'Lehet újra létrehozni segítség nélkül "dolgozzon egy ház" funkció? Próbálja ki, és Ezután rajzolja a házak sora.'
+        turtle_3_10: "Már sokmindent megtanult! Most használhatja mindezt, és azt rajzolhat, amit csak akar. Megpróbálhat  csillag, spirál, vagy akár egy izgalmas hópehely megrajzolásával."
+        maze_karel_debug_seq_1: "Üdvözöljük hibakeresés földjén! A kódom nem fut helyesen. Meg tudja keresni a problémát, és ki tudja javítani, hogy a szántóföldem egyenletes legyen, készen álljon a palántázásra?"
+        maze_karel_debug_seq_2: "Mi a baj ezzel a programmal? Hogyan lehet kijavítani, hogy eltávolíthassam a földhányásokat?"
+        maze_karel_debug_repeat: "Irtsd ki a programhibákat (ezt hívjuk debuggolásnak), hogy a földem sima és szép lehessen."
+        maze_karel_debug_while: "Mit kell változtatni a programon, hogy segítsen a gödrök feltöltésében?"
+        maze_karel_debug_if: "segíts! Javítsd ki a program, hogy a mező teljesen lapos legyen."
+        maze_karel_debug_if_else: "Debuggold ez a programot, hogy is töltse fel a gödröket, és távolítsa el a födhányásokat."
+        maze_karel_debug_function_1: "Mit kell változtatni ezen a programon, hogy segítsen eltávolítani a földkupacokat?"
+        maze_karel_debug_function_2: "Tudja Ön debuggolni  ez a programot nekem, hogy a mezőmet elegyengesse?"
+        maze_karel_debug_function_3: "Szerkessze át a programot, hogy eltüntessek minden földkupacot a földemről. "
+        turtle_5_1: "Próbálja meg futtatni ezt a programot, és változtassa meg, hogy lássa, mi történik. Ki tudja kitalálni, hogyan fog működni? (Akár törölheti az egészet, és írhat helyette valami teljesen mást)"
+        turtle_5_2: "Próbálja meg futtatni ezt a programot, és változtassa meg, hogy lássa, mi történik. Ki tudja kitalálni, hogyan fog működni? (Akár törölheti az egészet, és írhat helyette valami teljesen mást)"
+        turtle_5_3: "Próbálja meg futtatni ezt a programot, és változtassa meg, hogy lássa, mi történik. Ki tudja kitalálni, hogyan fog működni? (Akár törölheti az egészet, és írhat helyette valami teljesen mást)"
+        turtle_5_4: "Próbálja meg futtatni ezt a programot, és változtassa meg, hogy lássa, mi történik. Ki tudja kitalálni, hogyan fog működni? (Akár törölheti az egészet, és írhat helyette valami teljesen mást)"
+        turtle_5_5: "Próbálja meg futtatni ezt a programot, és változtassa meg, hogy lássa, mi történik. Ki tudja kitalálni, hogyan fog működni? (Akár törölheti az egészet, és írhat helyette valami teljesen mást)"
+        turtle_5_6: "Próbálja meg futtatni ezt a programot, és változtassa meg, hogy lássa, mi történik. Ki tudja kitalálni, hogyan fog működni? (Akár törölheti az egészet, és írhat helyette valami teljesen mást)"
+        maze_3_1: "El kell kapnom a malacot. Gépelj be néhány move(); (mozgás()) utasítást, hogy visszakapjam a tojásaimat."
+        maze_3_2: "Írj egy programot, hogy megtehessem az egész utat a malachoz."
+        maze_3_3: "Hogy jussak el a malachoz? Vigyázz, nehogy belefussak egy doboz TNT-be!"
+        maze_3_4: "Ahh! Írj nekem egy programot amivel megkerülhetem a TNT-t és eljuthatok a malachoz."
       levelIncompleteError:
-        maze_2_8: 'To solve this, find the pattern that repeats. Use a "repeat" block with these 3 blocks inside it: move, move, turn right.'
+        maze_2_8: 'Hogy ezt megoldhasd, találd meg az ismétlődő mintát. Használj egy "ismételd amíg" blokkot, benne ezzel a 3 blokkal: előrelépni, előrelépni, fordulj jobbra.'
       other1StarError:
-        maze_2_14: |-
-          You need an "if" block inside a "repeat" block. If you're having trouble, try the previous level again to see how it worked.
+        maze_2_14: 'Szüksége van egy "ha"/"if" blokkra a  "repeat"/"ismételd" blokkon belül. Ha gondjaid vannak, próbáld újra az előző szintet, hogy lásd, hogyan működött.'
       tooFewBlocksMsg:
-        maze_2_8: 'To solve this, find the pattern that repeats. Use a "repeat" block with these 3 blocks inside it: move, move, turn right.'
+        maze_2_8: 'Hogy ezt megold, találd meg az ismétlődő mintát. Használj egy "repeat"/ "ismételd amíg" blokkot, benne ezzel a 3 blokkal: előrelépni, előrelépni,  jobbra.'
     video:
       name:
         maze_intro: "Labirintus Intro"
@@ -203,5 +194,5 @@
         loop_while: "Amig blokk"
         loop_for: "Számláló blokk"
         parameters: "Paraméterezett függvények"
-        hoc_wrapup: "Hour of Code Wrapup"
-        20_wrapup: "20-Hour Wrapup"
+        hoc_wrapup: "A kódolás órája összefoglaló"
+        20_wrapup: "20 órás összefoglaló"

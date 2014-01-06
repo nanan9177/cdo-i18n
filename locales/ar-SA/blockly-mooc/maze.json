@@ -11,7 +11,7 @@
   "elseCode":"والا",
   "fill":"املأ 1",
   "fillN":"املأ {shovelfuls}",
-  "fillStack":"ملء الحفرتين بالكدس",
+  "fillStack":"fill stack of {shovelfuls} holes",
   "fillSquare":"املأ المربع",
   "fillTooltip":"ضع وحدة 1 من التراب",
   "finalLevel":"تهانينا ! لقد قمت بحل اللغز الاخير.",

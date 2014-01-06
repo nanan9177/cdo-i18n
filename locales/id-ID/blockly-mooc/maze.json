@@ -11,7 +11,7 @@
   "elseCode":"jika tidak",
   "fill":"Timbun 1",
   "fillN":"Timbun {shovelfuls}",
-  "fillStack":"Timbun 2 lubang",
+  "fillStack":"fill stack of {shovelfuls} holes",
   "fillSquare":"isi persegi empat",
   "fillTooltip":"tempat 1 unit tanah",
   "finalLevel":"Horee! Anda telah memecahkan teka-teki akhir.",

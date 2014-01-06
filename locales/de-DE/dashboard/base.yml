@@ -50,10 +50,10 @@
     no_signup_header: "Warum erstellst du dir keinen Account?"
     no_signup_message: 'Du kannst <a target="_blank" href="http://learn.code.org">die verschiedenen Level und Puzzle</a> durchsuchen, aber um Deinen Fortschritt zu speichern musst Du dich anmelden.'
     prizes_header: "The first students to complete the course win prizes! (U.S. students only)"
-    prizes_message: "U.S. students who earn all %{num_trophies} concept trophies can select a variety of prizes including free Dropbox space, Skype credits, and downloadable games from Electronic Arts and Valve."
+    prizes_message: "U.S. students who earn all %{num_trophies} concept trophies can select a variety of prizes including free Dropbox space, Skype credits, and downloadable games from Electronic Arts."
     teacher_educator_guide: "Lehrer-Handbuch"
     teacher_prize_header: 'Gewinnen Sie $1,000 mit <a target="_blank" href="http://DonorsChoose.org">DonorsChoose.org</a> Belohnungen'
-    teacher_prize_message: 'In partnership with <a target="_blank" href="http://DonorsChoose.org">DonorsChoose.org</a>, Code.org will offer up to $1,000 in classroom funding to U.S. public school teachers who lead at least 15 students through this course. <a href="http://code.org/educate/20hr">See educator guide for more info.</a> '
+    teacher_prize_message: 'In Partnerschaft mit <a target="_blank" href="http://DonorsChoose.org">DonorsChoose.org</a> bieten Code.org bis zu $1.000 für die Klassenkasse, für Lehrer einer öffentlichen Schule in der USA, die mindestens 15 Schüler durch diesen Kurs führen. <a href="http://code.org/educate/20hr">Siehe Erzieher Leitfaden für mehr Information.</a> '
     teacher_pitch: "Unterrichten Sie die Einführung in die Informatik für Sechstklässler in ihrem Klassenraum"
     teacher_title: "Lehrer Anmeldung"
     student_pitch: "Unter einer Stunde:Testen Sie unsere Einführung in die Informatik für Siebtklässler"
@@ -108,7 +108,7 @@
       username_not_found: "Benutzername %{username} wurde nicht gefunden"
       username_in_use: "%{username} ist bereits vergeben, bitte wählen Sie einen anderen"
       no_teacher: "Es konnte niemand angemeldet mit '%{teacher_email_or_code}' gefunden werden. Bitten Sie bitte denjenigen sich hier registrieren und versuchen Sie es dann erneut."
-      blank_code: "Please enter a code or your teacher's email address"
+      blank_code: "Bitte gib einen Code oder Die E-Mail-Adresse deines Sprachlehrers ein"
     mail:
       invite_student:
         subject: "Besuchen Sie eine Klasse von %{teacher_name} auf Code.org!"
@@ -123,22 +123,22 @@
     success: "Dein Preis wurde erfolgreich eingelöst, siehe Code unten."
     error: "Dein Preis konnte nicht eingelöst werden, bitte versuche es erneut."
     error_us_only: "Die Preise sind nur für amerikanische Nutzer."
-    error_not_earned: "You have not yet earned this prize."
+    error_not_earned: "Du hast diesen Preis noch nicht verdient."
     error_already_redeemed: "Your prize has already been redeemed."
-    no_prizes_available: "We're sorry, but we currently have no prizes available."
+    no_prizes_available: "Es tut uns leid, aber es stehen zur Zeit keine Preise zur Verfügung."
     confirm:
       title: "Bitte bestätigen"
       "no": Nein
       "yes": Ja
       msg: "Bist du sicher, dass du den %{prize_name} Preis beanspruchen möchtest?"
       msg_student: "HINWEIS: Du kannst dir nur einen Preis-Typ aussuchen."
-      msg_publicschool: "Please confirm that you are a U.S. public school teacher."
+      msg_publicschool: "Bitte bestätige, dass du du ein Lehrer einer öffentlichen US-Schule bist."
       msg_visit_website: "Visit website"
     providers:
       apple_itunes: "$10 iTunes Gift Card"
       donors_choose: "DonorsChoose.org $750 credit"
       donors_choose_bonus: "DonorsChoose.org $250 credit"
-      dropbox: "10GB of Dropbox Space"
+      dropbox: "10GB Dropbox-Speicherplatz"
       valve: "Portal 2 (PC or Mac game download)"
       ea_bejeweled: "Bejeweled 3 (PC game download)"
       ea_fifa: "FIFA Soccer 13 (PC game download)"

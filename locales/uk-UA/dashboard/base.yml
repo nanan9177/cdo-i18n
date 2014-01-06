@@ -50,12 +50,12 @@
     no_signup_header: "Не хочете зареєструватись?"
     no_signup_message: 'Ви можете <a target="_blank" href="http://learn.code.org">переглянути різні рівні та завдання</a>, але для збереження результатів потрібно реєструватись.'
     prizes_header: "Перші учні, які завершать курс, можуть виграти призи! (лише США)"
-    prizes_message: "Студенти США, котрі вибороли всі %{num_trophies} трофеїв, можуть вибрати низку призів, таких як: безкоштовний файловий простір Dropbox, кредити Skype та завантажувальні ігри від Electronic Arts та Valve."
+    prizes_message: "U.S. students who earn all %{num_trophies} concept trophies can select a variety of prizes including free Dropbox space, Skype credits, and downloadable games from Electronic Arts."
     teacher_educator_guide: "Переглянути посібник для вчителя"
     teacher_prize_header: 'Виграйте 1000$ у  <a target="_blank" href="http://DonorsChoose.org">DonorsChoose.org</a>'
     teacher_prize_message: |
       У партнерстві з <a target="_blank" href="http://DonorsChoose.org"> DonorsChoose.org</a> Code.org запропонує $1000 тим викладачам державних шкіл Сполучених Штат Америки, які навчатимуть принаймні 15 учнів через цей курс.
-      <a href="http://code.org/educate/20hr">Переглянь викладацький путівник для детальнішої інформації</a> 
+      <a href="http://code.org/educate/20hr">Перегляньте вказівник для вчителів для детальнішої інформації</a> 
     teacher_pitch: "Навчати вступ до інформатики у вашому класі"
     teacher_title: "Реєстрація вчителя"
     student_pitch: "Більше 1 години: спробуйте вступ до інформатики"
@@ -152,7 +152,7 @@
       choose_teacher: "Натисніть на логотип нижче, щоб замовити приз:"
       earned: "Ви виграли приз! (лише учні зі США)"
       not_earned_title: "Пройдіть всі уроки, отримайте нагороди (лише для учнів зі США)"
-      not_earned: "Вивчіть усі поняття комп'ютерної дисципліни, збери усі %{num_trophies} трофеїв, та зароби справжні призи. Ви також можете вибрати між 10ГБ вільного простору Dropbox, $10 Stype кредитів, або безкоштовні ігри. ЗАУВАЖТЕ: пропозиція тільки дійсна для студентів США та тільки до закінчення призових запасів."
+      not_earned: "Вивчіть усі поняття інформатики, зберіть усі %{num_trophies} трофеї, та отримайте справжні призи. Ви також можете вибрати між 10ГБ вільного простору Dropbox, $10 кредитів Stype, або безкоштовні ігри. ЗАУВАЖТЕ: пропозиція тільки дійсна для учнів зі США та тільки до закінчення призових запасів."
       teacher:
         earned: "10 чи більше ваших учнів зібрали усі %{num_trophies} трофеї. Ви виграли вчительський приз 750$! (лише для вчителів зі США)"
         not_earned_title: 'Навчайте цілий клас, щоб виграти до 1000$ кредитів <a target="_blank" href="http://DonorsChoose.org">DonorsChoose.org</a> (лише для вчителів зі США)'

@@ -51,7 +51,7 @@
     no_signup_message: |-
       Pwede mong  <a target="_blank" href="http://learn.code.org">i-browse ang iba't ibang stage at mga palaisipan</a>, pero kailangan mo mag sign-up para ma-save ang mga nagawa.
     prizes_header: "The first students to complete the course win prizes! (U.S. students only)"
-    prizes_message: "U.S. students who earn all %{num_trophies} concept trophies can select a variety of prizes including free Dropbox space, Skype credits, and downloadable games from Electronic Arts and Valve."
+    prizes_message: "U.S. students who earn all %{num_trophies} concept trophies can select a variety of prizes including free Dropbox space, Skype credits, and downloadable games from Electronic Arts."
     teacher_educator_guide: "Bisitahin ang gabay para sa mga guro"
     teacher_prize_header: 'Manalo ng $1,000 <a target="_blank"href="http://DonorsChoose.org">DonorsChoose.org</a> rewards'
     teacher_prize_message: 'In partnership with <a target="_blank" href="http://DonorsChoose.org">DonorsChoose.org</a>, Code.org will offer up to $1,000 in classroom funding to U.S. public school teachers who lead at least 15 students through this course. <a href="http://code.org/educate/20hr">See educator guide for more info.</a> '

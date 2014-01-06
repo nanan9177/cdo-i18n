@@ -65,7 +65,7 @@
         text: "Tienes que ayudarla a quitar todos los montones de tierra y rellenar todos los huecos."
       3:
         image: "notes/stage9_3.jpg"
-        text: "Los nuevos bloques eliminan una palada llena de tierra de una pila y rellanan  con una palada de tierra un hueco."
+        text: "Los nuevos bloques eliminan una palada llena de tierra de un montón y rellanan  con una palada de tierra un hueco."
       4:
         image: "notes/stage9_4.jpg"
         text: "Los montones y los huecos son de diferente tamaño así que tienes que decir al granjero cuantas palas debe usar."
@@ -151,7 +151,7 @@
         text: 'Los bloques que se encuentran dentro de la definición nos dicen qué hace. Así que esta definición de función se llama "rellena 5" y está formada por un bloque "repetir" y un bloque "rellenar".'
       4:
         image: "notes/stage13_4.jpg"
-        text: 'La definición se encuentra en el espacio de trabajo, pero nuestro agricultor no ejecutara la función hasta que arrastramos el bloque "llenar 5" boque de función de la categoría de funciones.'
+        text: 'La definición se encuentra en el espacio de trabajo, pero nuestro agricultor no ejecutará la función hasta que arrastremos el bloque "llenar 5" desde la categoría de funciones.'
       5:
         image: "notes/stage13_5.jpg"
         text: "¡Volvamos a hacer divertidas las funciones! "
@@ -161,10 +161,10 @@
         text: '¡Hola! soy Makinde. Vamos a aprender acerca del bloque "mientras". '
       2:
         image: "notes/stage9_6.jpg"
-        text: 'El "bloque mientras que (While)" hará todo lo que pones en su interior mientras la declaración en la parte superior es TRUE (Cierta).'
+        text: 'El "bloque mientras que (While)" hará todo lo que pones en su interior mientras la declaración en la parte superior es verdadera.'
       3:
         image: "notes/stage9_7.jpg"
-        text: "Por ejemplo, si la granjera está sobre una pila, continuará eliminando una palada mientras(WHILE) aún haya una pila debajo de ella."
+        text: "Por ejemplo, si la granjera está sobre un montón, continuará eliminando una palada llena mientras(WHILE) quede tierra debajo de ella."
     loop_for:
       1:
         image: "notes/stage11_1.jpg"

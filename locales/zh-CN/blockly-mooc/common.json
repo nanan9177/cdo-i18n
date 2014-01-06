@@ -44,7 +44,7 @@
   "tooManyBlocksMsg":"可以使用 < x id = 'START_SPAN' \/ > < x id = 'END_SPAN' \/ > 模块来解决这个谜题。",
   "tooMuchWork":"你让我多做了很多工作 ！你可以尝试少重复几次吗？",
   "toolboxHeader":"模块",
-  "openWorkspace":"How It Works",
+  "openWorkspace":"它是如何工作的？",
   "totalNumLinesOfCodeWritten":"全程统计： {numLines, plural, one {1行} other {# 行}} 行代码。",
   "tryAgain":"再次尝试",
   "backToPreviousLevel":"返回到上一级",
@@ -54,5 +54,10 @@
   "workspaceHeader":"在这里组装你的模块:",
   "infinity":"无限远",
   "rotateText":"旋转您的设备。",
-  "orientationLock":"关闭设置中的旋转锁定。"
+  "orientationLock":"关闭设置中的旋转锁定。",
+  "shareDrawing":"Share your drawing:",
+  "wantToLearn":"Want to learn to code?",
+  "watchVideo":"Watch the Video",
+  "tryHOC":"Try the Hour of Code",
+  "signup":"Sign up for the intro course"
 }

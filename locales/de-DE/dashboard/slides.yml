@@ -65,7 +65,7 @@
         text: "Du musst, um ihr zu helfen, alles Schmutzstapel entfernen und in die Löcher füllen."
       3:
         image: "notes/stage9_3.jpg"
-        text: "The new blocks remove 1 shovelful of dirt from a pile and fill in 1 shovelful of dirt to a hole."
+        text: "Die neuen Bausteine entferne eine Schaufen voll Erde von einem Haufen und fülle eine Schaufel voll Erde in ein Loch."
       4:
         image: "notes/stage9_4.jpg"
         text: "Die Haufen und Löcher sind unterschiedlich groß, weshalb du dem Bauer sagen musst, wie viele Schaufeln er benutzen muss."
@@ -142,10 +142,10 @@
     function:
       1:
         image: "notes/stage13_1.jpg"
-        text: "Hi, I'm Brina, an engineer at Instagram. A function is certain lines of code that you want to use over and over again, so instead of writing that code out everytime, you can just use one block."
+        text: "Hi, bin ich Brina, Ingenieur bei Instagram. Eine Funktion ist eine Zusammenfassung bestimmter Codezeilen, die Du immer und immer wieder verwenden möchtest, statt den Code jedesmal auszuschreiben, kannst du einfach einen Baustein verwenden."
       2:
         image: "notes/stage13_2.jpg"
-        text: "We're going to learn how to define functions. Function definitions have a star in the corner. The name of the function is written on the top line."
+        text: "Wir lernen jetzt, wie man Funktionen definiert. Funktionsdefinitionen haben einen Stern in der Ecke. Der Name der Funktion ist in der obersten Zeile geschrieben."
       3:
         image: "notes/stage13_3.jpg"
         text: |-

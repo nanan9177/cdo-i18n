@@ -50,10 +50,10 @@
     no_signup_header: "Nem akar regisztrálni?"
     no_signup_message: '<a target="_blank" href="http://learn.code.org">Böngészhetsz a különböző szintek és feladatok között</a>, de regisztrálnod kell, hogy elmenthesd, hogy hol tartassz.'
     prizes_header: "The first students to complete the course win prizes! (U.S. students only)"
-    prizes_message: "U.S. students who earn all %{num_trophies} concept trophies can select a variety of prizes including free Dropbox space, Skype credits, and downloadable games from Electronic Arts and Valve."
+    prizes_message: "U.S. students who earn all %{num_trophies} concept trophies can select a variety of prizes including free Dropbox space, Skype credits, and downloadable games from Electronic Arts."
     teacher_educator_guide: "Lásd a tanító segítségét"
     teacher_prize_header: 'Nyerj $1,000-t <a target="_blank" href="http://DonorsChoose.org">DonorsChoose.org</a>'
-    teacher_prize_message: 'In partnership with <a target="_blank" href="http://DonorsChoose.org">DonorsChoose.org</a>, Code.org will offer up to $1,000 in classroom funding to U.S. public school teachers who lead at least 15 students through this course. <a href="http://code.org/educate/20hr">See educator guide for more info.</a> '
+    teacher_prize_message: 'Együttműködve a <a target="_blank" href="http://DonorsChoose.org"> DonorsChoose.org</a> Code.org kínál akár $1,000-t  csoportot szervező USA állami iskolában  tanító tanárokak, akik legalább 15 diákok végigsegítenek a kurzuson. <a href="http://code.org/educate/20hr"> lásd a pedagógus útmutató további info.</a> '
     teacher_pitch: "Tanítsd az általános iskolás Bevezetés a Számítógépes Tudományba anyagot a tanteremben"
     teacher_title: "Tanár regisztrálás"
     student_pitch: "Túl az egy órán: próbáld ki a K-8 bevezetést a számítástechnika tudományába"
@@ -103,7 +103,7 @@
       username_not_found: "%{username} felhasználónevet nem találjuk"
       username_in_use: "%{username} már foglalt, kérjük válasszon egy újat"
       no_teacher: "Nem találam senkit '%{teacher_email_or_code}' -val bejelentkezve . Kérje meg , jelentkezzen be és utána próbálja meg újra"
-      blank_code: "Please enter a code or your teacher's email address"
+      blank_code: "Kérlek, írj be egy kódot, vagy az oktatód e-mail címét!"
     mail:
       invite_student:
         subject: "Csatlakozz egy osztályhoz %{teacher_name} a Code.org-on belül!"
@@ -118,22 +118,22 @@
     success: "Your prize was succesfully redeemed, see code below."
     error: "Your prize could not be redeemed, please try again."
     error_us_only: "A díjat csak amerikai felhasználók nyerhetik."
-    error_not_earned: "You have not yet earned this prize."
-    error_already_redeemed: "Your prize has already been redeemed."
-    no_prizes_available: "We're sorry, but we currently have no prizes available."
+    error_not_earned: "Ezt a díjat még nem szerezted meg."
+    error_already_redeemed: "A díjadat már megkaptad."
+    no_prizes_available: "Sajnáljuk, jelenleg nincsenek elérhető díjak."
     confirm:
       title: "Please Confirm"
       "no": No
       "yes": Yes
       msg: "Are you sure you want to claim the %{prize_name} prize?"
       msg_student: "NOTE: You can only choose one type of prize."
-      msg_publicschool: "Please confirm that you are a U.S. public school teacher."
+      msg_publicschool: "Kérjük, erősítse meg, hogy Ön egy U.S. állami iskolai tanár."
       msg_visit_website: "Visit website"
     providers:
       apple_itunes: "$10 iTunes Gift Card"
       donors_choose: "DonorsChoose.org $750 credit"
       donors_choose_bonus: "DonorsChoose.org $250 credit"
-      dropbox: "10GB of Dropbox Space"
+      dropbox: "10GB Dropbox tárhely"
       valve: "Portal 2 (PC or Mac game download)"
       ea_bejeweled: "Bejeweled 3 (PC game download)"
       ea_fifa: "FIFA Soccer 13 (PC game download)"
@@ -145,7 +145,7 @@
       choose_teacher: "Click on the logo below to claim your prize:"
       earned: "Elért egy díjat! (Csak U.S. tanulóknak!)"
       not_earned_title: "Finish the tutorial, earn rewards (U.S. students only)"
-      not_earned: "Learn all the computer science concepts, collect all %{num_trophies} trophies, and earn real-world prizes. You can choose between 10GB of free Dropbox space, $10 in Skype credits, and free game downloads. NOTE: offer only valid to U.S. students, and only as long as supplies last."
+      not_earned: "Ismerd meg a számítógép tudomány fogalmait, gyűjtsd össze a trófeákat % {num_trophies}, és nyerj értékes díjakat. Választhatsz 10GB szabad Dropbox tárhely, 10 $ Skype kredit, és szabad játék letöltés között. Megjegyzés: az ajánlat csak amerikai diákoknak szól , és csak a szolgáltató működéséig él."
       teacher:
         earned: "10 vagy több diákja minden %{num_trophies}-trófeát begyűjtött. Ön egy tanári díjat nyert! (Csak USA tanároknak)"
         not_earned_title: 'Teach the class, earn up to $1,000 in <a target="_blank" href="http://DonorsChoose.org">DonorsChoose.org</a> credits (U.S. teachers only)'
@@ -223,8 +223,8 @@
     student_progress: "Fejlődésed"
     student_stats: 'Már megszereztél %{trophy_count} trófeát a %{trophy_max} "Concept Mastery" trófeákból.'
     student_left_off: "Ahol abbahagyta:"
-    student_finished_prize: "You've completed all tutorials, claim your %{prize_link} and pick another class %{online_link} or at a %{local_school_link}"
-    student_finished: "You've completed all tutorials, pick another class %{online_link} or at a %{local_school_link}"
+    student_finished_prize: "Befejezted az összes oktatóanyagot, azt állítják, a {prize_link} %, és válasszon egy másik osztály % {online_link} vagy a {local_school_link} %"
+    student_finished: "Miután befejezte az összes oktatóanyag, válasszon egy másik osztály % {online_link} vagy a {local_school_link} %"
     local_school: "helyi iskola"
     online: "online"
     see_details: "Részletek"
@@ -249,8 +249,8 @@
   reference_area:
     title: "Szüksége van segítségre?"
     subtitle: "Nézd meg ezeket a videókat és tanácsokat"
-    teacher: "See the solution"
-    auth_error: "You are not authorized to see the solution."
+    teacher: "Megoldás megtekintése"
+    auth_error: "Nem vagy jogosult a megoldás megtekintésére."
   video:
     tab: "Videó."
     notes: "Nem látszik a videó? Olvassa el a szöveges magyarázatot!"
@@ -264,4 +264,4 @@
   next_stage: "Befejezve! Folytatás a következő pályára"
   download_pdf: "Nyitott óravázlat"
   share_code:
-    title: "Click 'Run program' to see my program in action"
+    title: "Kattints a 'Program futtatása'  gombra, hogy lásd, hogyan működik"

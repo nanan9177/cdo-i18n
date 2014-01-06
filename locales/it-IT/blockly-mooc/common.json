@@ -54,5 +54,10 @@
   "workspaceHeader":"Assembla i tuoi blocchi qui: ",
   "infinity":"Infinito",
   "rotateText":"Ruotare il dispositivo.",
-  "orientationLock":"Disattivare blocco orientamento nelle impostazioni del dispositivo."
+  "orientationLock":"Disattivare blocco orientamento nelle impostazioni del dispositivo.",
+  "shareDrawing":"Share your drawing:",
+  "wantToLearn":"Want to learn to code?",
+  "watchVideo":"Watch the Video",
+  "tryHOC":"Try the Hour of Code",
+  "signup":"Sign up for the intro course"
 }

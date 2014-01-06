@@ -54,5 +54,10 @@
   "workspaceHeader":"ここでブロックを組み立てよう:",
   "infinity":"無限\n",
   "rotateText":"お使いのデバイスを回転させてください。",
-  "orientationLock":"デバイスの設定にあるオリエンテーション（方向）ロックをオフにしてください。"
+  "orientationLock":"デバイスの設定にあるオリエンテーション（方向）ロックをオフにしてください。",
+  "shareDrawing":"Share your drawing:",
+  "wantToLearn":"Want to learn to code?",
+  "watchVideo":"Watch the Video",
+  "tryHOC":"Try the Hour of Code",
+  "signup":"Sign up for the intro course"
 }

@@ -3,56 +3,56 @@
     script:
       name:
         20-hour:
-          desc: "K-8 Intro to Computer Science Course"
-          Unplug1: "Stage 1"
-          Maze: "Stage 2"
-          Unplug2: "Stage 3"
-          Unplug3: "Stage 4"
-          Artist: "Stage 5"
-          Unplug4: "Stage 6"
-          Artist2: "Stage 7"
-          Unplug5: "Stage 8"
-          Farmer: "Stage 9"
-          Unplug6: "Stage 10"
-          Artist3: "Stage 11"
-          Unplug7: "Stage 12"
-          Farmer2: "Stage 13"
-          Unplug8: "Stage 14"
-          Artist4: "Stage 15"
-          Unplug9: "Stage 16"
-          Farmer3: "Stage 17"
-          Unplug10: "Stage 18"
-          Artist5: "Stage 19"
-          Unplug11: "Stage 20"
+          desc: "K-8 Introdução ao curso de informática"
+          Unplug1: "Etapa 1"
+          Maze: "Etapa 2"
+          Unplug2: "Etapa 3"
+          Unplug3: "Etapa 4"
+          Artist: "Etapa 5"
+          Unplug4: "Etapa 6"
+          Artist2: "Etapa 7"
+          Unplug5: "Etapa 8"
+          Farmer: "Etapa 9"
+          Unplug6: "Etapa 10"
+          Artist3: "Etapa 11"
+          Unplug7: "Etapa 12"
+          Farmer2: "Etapa 13"
+          Unplug8: "Etapa 14"
+          Artist4: "Etapa 15"
+          Unplug9: "Etapa 16"
+          Farmer3: "Etapa 17"
+          Unplug10: "Etapa 18"
+          Artist5: "Etapa 19"
+          Unplug11: "Etapa 20"
         Hour of Code:
-          desc: "Hour of Code"
-          Maze: "Stage 1"
+          desc: "Hora de Código"
+          Maze: "Etapa 1"
         Edit Code:
-          desc: "Edit Code"
-          MazeEC: "Stage 1"
+          desc: "Editar código"
+          MazeEC: "Etapa 1"
     game:
       name:
-        Unplug1: "Introduction to Computer Science"
+        Unplug1: "Introdução à informática"
         Maze: "O Labirinto"
-        Unplug2: "Computational Thinking"
-        Unplug3: "Graph Paper Programming"
+        Unplug2: "Pensamento computacional"
+        Unplug3: "Programação de papel milimetrico"
         Artist: "O Artista"
         Unplug4: "Algoritmos"
         Artist2: "O Artista 2"
         Unplug5: "Funções"
         Farmer: "O Agricultor"
-        Unplug6: "Conditionals"
+        Unplug6: "Condicionais"
         Artist3: "O Artista 3"
-        Unplug7: "Song Writing"
+        Unplug7: "escrita de canção"
         Farmer2: "O Agricultor 2"
-        Unplug8: "Abstraction"
+        Unplug8: "Abstração"
         Artist4: "O Artista 4"
-        Unplug9: "Relay Programming"
+        Unplug9: "Programação do relé"
         Farmer3: "O Agricultor 3"
-        Unplug10: "The Internet"
+        Unplug10: "A Internet"
         Artist5: "O Artista 5"
-        Unplug11: "Wrap-up"
-        MazeEC: "The Maze"
+        Unplug11: "Resumo"
+        MazeEC: "O Labirinto"
     trophy:
       name:
         Bronze: "Bronze"
@@ -71,16 +71,16 @@
         parameters: "Funções com parâmetros"
     level:
       instructions:
-        maze_2_2: 'Can you help me to catch the naughty pig? Stack a couple of "move forward" blocks together and press "Run Program" to help me get there. '
-        maze_2_1: "This pig is ruffling my feathers. Help me to find him!"
-        maze_2_2_5: "Trace the path and lead me to the silly pig. Avoid TNT or the feathers will fly!"
-        maze_2_3: "Guide me to the green evilness! (Watch out for TNT)"
-        maze_2_4: "Keep calm and help me to find the bad pig. Otherwise I might get angry!"
-        maze_2_5: "There's a way I can get to the silly pig using only 2 blocks. Can you figure it out?"
-        maze_2_6: "Try to get me to the green intruder using only three blocks."
-        maze_2_7: 'Help me banish this bad piggy using the fewest number of blocks. Try using more than one "repeat times" block.'
+        maze_2_2: 'Podes ajudar-me a apanhar o porco malvado? Empilha uns blocos "Avançar" e pressione "Executar programa" para me ajudar a chegar lá.'
+        maze_2_1: "Este porco está a enervar-me. Ajuda-me a encontrá-lo!"
+        maze_2_2_5: "Traça o caminho e leva-me até ao porco tolo. Evita a dinamite ou as penas vão voar!"
+        maze_2_3: "Guia-me até à maldade verde! (Cuidado com a dinamite)"
+        maze_2_4: "Mantém a calma e ajuda-me a encontrar o porco malvado. Senão posso ficar zangado!"
+        maze_2_5: "Há uma maneira de chegar ao porco tolo usando apenas 2 blocos. Consegues descobrir?"
+        maze_2_6: "Tenta levar-me ao intruso verde usando apenas três blocos."
+        maze_2_7: 'Ajuda-me a expulsar este porquinho malvado usando o menor número de blocos. Tenta usar mais do que um bloco "repetir".'
         maze_2_8: 'Para resolver este, tente um bloco "repetir" com estes 3 blocos no seu interior: mover, mover, virar.'
-        maze_2_9: 'Ok, try the new "repeat until" block - it will repeat until I reach the annoying pig.'
+        maze_2_9: 'Ok, tenta o novo bloco "repetir até" - irá repetir até eu alcançar o porco irritante.'
         maze_2_10: "Ok, uma última vez para praticar - consegues resolver este um usando apenas 4 blocos?"
         maze_2_11: "Querida pessoa.  Eu zombie. Eu com fome. Tenho... ir... girassol... Consegues colocar-me lá com apenas 5 blocos?"
         maze_2_12: "Ok, isto é semelhante, mas ligeiramente diferente. Consegues fazê-lo com apenas 5 blocos?"
@@ -120,7 +120,7 @@
         maze_karel_1_6: 'Remove todos os montes de terra, usando o mínimo de blocos quanto possível. As novas opções no menu pendente do bloco "enquanto" dizem-me se estou em cima do monte ou do buraco.'
         maze_karel_1_7: "Uau, eu encontrei um buraco muito fundo! Não sei quantas pazadas de terra serão precisas. Podes escrever um programa que o encha até que o chão fique liso?"
         maze_karel_1_8: "Ajuda-me a preencher o buraco no final do campo, usando o menor número de blocos quanto possível."
-        maze_karel_1_9: 'Make me remove all these piles of dirt. Try to use as few blocks as possible. Hint: try using a "while" block.'
+        maze_karel_1_9: 'Faz-me remover estes montes de terra. Tenta usar o mínimo de blocos possível. Dica: tente usar um bloco de "enquanto".'
         maze_karel_1_10: 'Estou a trabalhar até tarde e como tal está muito escuro e eu não consigo saber o tamanho dos montes de terra. Agora não tenho todas as opções que eu costumava ter no bloco "enquanto". Move-me ao longo do campo e se houver um monte de terra, remove-o.'
         maze_karel_1_11: 'Ainda está escuro lá fora. Move-me ao longo do campo. Se houver um monte, remove-o e se houver um buraco, preenche-o. Dica: usa o menu pendente de opções no bloco "se".'
         turtle_2_1: "Olá. Eu artista zombie. Eu adoro desenhar! Ajuda-me a desenhar um quadrado numa cor especial. Nota importante: continuas a ter os mesmos blocos, mas eles agora foram organizados em categorias."

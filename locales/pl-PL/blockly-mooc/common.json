@@ -54,5 +54,10 @@
   "workspaceHeader":"Połącz swoje bloki tutaj: ",
   "infinity":"Nieskończoność",
   "rotateText":"Obróć swoje urządzenie.",
-  "orientationLock":"Wyłącz blokadę orientacji w ustawieniach urządzenia."
+  "orientationLock":"Wyłącz blokadę orientacji w ustawieniach urządzenia.",
+  "shareDrawing":"Share your drawing:",
+  "wantToLearn":"Want to learn to code?",
+  "watchVideo":"Watch the Video",
+  "tryHOC":"Try the Hour of Code",
+  "signup":"Sign up for the intro course"
 }

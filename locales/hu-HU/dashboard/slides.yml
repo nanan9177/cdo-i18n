@@ -55,7 +55,7 @@
         text: 'Ez a blokk azt mondja "forduljon jobbra 90 fokban." Ez el fogja fordítani a művészt ugyanabban a mennyiségben, mint amennyiben a "fordulj" blokkok a labirintus rejtvényekben.'
       5:
         image: "notes/stage5_5.jpg"
-        text: "Click on the arrow in either of these blocks to change the amount the artist moves forward or turns. Play around to get familiar with these new blocks."
+        text: "Kattints valamelyik blokkra, hogy megváltoztasd a művész lépéseinek számát, vagy a fordulások mértékét.  Játssz ezekkel, hogy jobban megismerd ezeket az új blokkokat."
     farmer_intro:
       1:
         image: "notes/stage9_1.jpg"
@@ -65,7 +65,7 @@
         text: "Segítened kell neki eltávolítani az összes földet, s kitölteni vele a lyukakat."
       3:
         image: "notes/stage9_3.jpg"
-        text: "The new blocks remove 1 shovelful of dirt from a pile and fill in 1 shovelful of dirt to a hole."
+        text: "Az új blokk  1 eltüntet egy ásónyi földet a kupacból, ill.  egy ásónyi földdel feltölt egy gödröt."
       4:
         image: "notes/stage9_4.jpg"
         text: "A halmok és a lyukak különböző méretűek, meg kell mondania a farmernek, hogy hány shovelfult használjon."
@@ -145,15 +145,13 @@
         text: "Szia, Brina vagyok , mérnök az Instagram-nál. Egy függvény az bizonyos sorok a kódból amit újra és újra használni szeretnél, így ahelyett, hogy a kódot ki minden alkalommal be kelljen írni, akkor csak használ egy blokk."
       2:
         image: "notes/stage13_2.jpg"
-        text: "We're going to learn how to define functions. Function definitions have a star in the corner. The name of the function is written on the top line."
+        text: "Itt az idő, hogy megtanuljunk függvényeket definiálni. A függvény definíciókat csillaggal jelezzük. A függvény nevét a legfelső sorba írjuk."
       3:
         image: "notes/stage13_3.jpg"
-        text: |-
-          The blocks that go inside the definition tell us what it does. So this function definition is called "fill 5" and it's made up of a "repeat" block and a "fill" block.
+        text: 'A blokkok a definíción belül mutatják meg, hogy mit is csinál. Ez a függvény, amit "feltölt 5"-nek hívunk egy repeat/ismételd és egy feltölt blokkból áll.'
       4:
         image: "notes/stage13_4.jpg"
-        text: |-
-          The definition sits on the workspace, but our farmer won't run the function until we drag out our "fill 5" function block from functions category.
+        text: 'A definíció csak ott csücsül a munkapadon, de a farmer nem tudja futtatni, amíg mi ki nem húzzuk a "feltölt 5" függvényblokkot a függvények közül.'
       5:
         image: "notes/stage13_5.jpg"
         text: |-
@@ -165,49 +163,48 @@
           Hi, I'm Makinde! Let's learn about the "while block."
       2:
         image: "notes/stage9_6.jpg"
-        text: 'The "while block" will do whatever you put inside it AS LONG AS the statement on the top is TRUE.'
+        text: 'A "While"/"Amíg" blokk addig csinálja amit beletettél, amíg a feltétel amit az elején tettél igaz.'
       3:
         image: "notes/stage9_7.jpg"
-        text: "For example, if the farmer is standing on a pile, she will continue to remove 1 shovelful WHILE there is still a pile beneath her."
+        text: "Például ha a farmer áll egy földkupacnál, ő ADDIG tüntet el 1-1 lapátnyi földet, AMÍG van ott egyáltalán kupac."
     loop_for:
       1:
         image: "notes/stage11_1.jpg"
         text: "Szia én Trina vagyok, és a Pixar-nál dolgozom. Már egy csomó filmen dolgoztam, beleértve a Shrek."
       2:
         image: "notes/stage11_2.jpg"
-        text: 'This is our new "counter" loop. It will perform actions over and over again and you can make the actions change slightly each time.'
+        text: "Ez az új számlálós ciklus. Ez végrehajtja a feladatait újra és újra, minden alkalommal egy kicsit másképp."
       3:
         image: "notes/stage11_3.jpg"
-        text: 'In this example, our "counter" loop says "count with counter from 50 to 90 by 10" and inside it, we have our "draw a square" block. Drag the "counter" block from the "Variables" section into the "length" spot.'
+        text: 'Ebben a példában a mi "counter"/"számláló" ciklusunk azt mondja: "Számolj a számlálóval 50-től 90-ig 10-essével", és a cikluson belül van a "négyzet rajzoló" blokk. Húzd a "számláló"-t  "Változók" közül a  "hossza" helyére.'
       4:
         image: "notes/stage11_4.jpg"
-        text: "This means our artist is going to draw a square that has 50 pixel length sides, then it will add 10 to that and draw a square with 60 pixel length sides. Then it will keep adding 10 and drawing squares until it reaches 90. So we'll have squares of 50, 60, 70, 80, and 90."
+        text: "Ez azt jelenti, hogy a művészünk rajzol egy 50 képpontos négyzetet, majd hozzáad  10-et, és rajzol egy 60 képpontosat,. Majd újra hozzáad 10-et és rajzol egy négyzetet, amíg eléri a 90-et. Végül lesz 50, 60, 70, 80 és 90 oldalú négyzetünk."
     parameters:
       1:
         image: "notes/stage15_1.jpg"
         text: "Szia Janete vagyok, egy mernok vagyok Zynganal."
       2:
         image: "notes/stage15_2.jpg"
-        text: "What if we want to draw a bunch of triangles and have their lengths be different sizes?"
+        text: "Mit tegyünk, ha egy csomó, különböző méretű háromszöget akarunk rajzolni?"
       3:
         image: "notes/stage15_3.jpg"
-        text: "We could write all that code out by hand or we can use a function with parameters."
+        text: "Legépelhetjük az egész, hosszú kódot, vagy használhatunk függvényt paraméterekkel."
       4:
         image: "notes/stage15_4.jpg"
-        text: 'To do this, click the blue star on the "draw a triangle" function definition. Then drag "input name" into the "input" block.'
+        text: 'Hogy ezt megtehessük, kattintsunk a kék csillagra a"rajzolj háromszöget" függvény definícióján. Ezután húzd a "bemenet neve" változót az "input"/"bemenet" blokkba.'
       5:
         image: "notes/stage15_5.jpg"
-        text: |-
-          Then if you write "length" in the spot where it says "x" and press "Enter" you'll create a length input for your function.
+        text: 'Ekkor ha "hosszúság"-ot írsz a mezőbe, amikor az írja "x" és lenyomod az "Enter"-t, akkor megadod a "hosszúság" bemenetét a függvényednek.'
       6:
         image: "notes/stage15_6.jpg"
-        text: 'Then click on the star. Now, you want to click on the variables category and drag the "length" block into the "move forward" block of your function definition. And drag away the old number block.'
+        text: 'Ezután kattints a csillagra. Most kattints a változók kategóriára és húzd a "hossz" elemet a "haladj előre" elemre a függvényeden belül. Ezután dobd ki a régi szám blokkot.'
       7:
         image: "notes/stage15_7.jpg"
-        text: 'To use your function with parameters, click on the functions category and drag out your "draw a triangle with length" function.'
+        text: 'Hogy egy függvényt paraméterekkel használj, kattints a függvények kategóriájára és húzd ki a "rajzolj egy megadott méretű háromszöget" függvényt.'
       8:
         image: "notes/stage15_8.jpg"
-        text: "Now you can use the math block to input different numbers to draw triangles of different sizes."
+        text: "Most a matematikai blokkot használva számokat adhatsz meg, hogy különböző méretű háromszögeket rajzolj."
     hoc_wrapup:
       1:
         image: "notes/hoc6_1.jpg"

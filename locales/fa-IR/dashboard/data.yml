@@ -41,7 +41,7 @@
         Artist2: "هنرمند 2"
         Unplug5: "توابع"
         Farmer: "کشاورز"
-        Unplug6: "شرطها"
+        Unplug6: "شرطی ها"
         Artist3: "هنرمند 3"
         Unplug7: "آهنگ سازی"
         Farmer2: "کشاورز 2"
@@ -136,29 +136,26 @@
         turtle_2_7: 'این یه برنامه برای رسم مارپیچ هست، اما بلوکها غیرفعال شدن تا نتونن حرکت کنن. با استفاده از یک بلوک " شمارش با" (در دسته بندی لوپها) و یک بلوک "شمارشگر" (در دسته بندی متغیرها) یک برنامه بنویس که عین همون مارپیچ رو رسم کنه.'
         turtle_2_7_5: "در دسته بندی توابع یک تابع رسم آدم برفی وجود داره. دو تا آدم برفی به ارتفاع 250 و 100 رسم کن."
         turtle_2_8: 'این یکی یه ذره قلق داره. از توابع رسم آدم برفی و بلوک جدید "بپر جلو" (در دسته بندی اقدامات) استفاده کن. 3 تا آدم برفی با رنگهای مختلف رسم کن که هر کدوم 100 پیکسل از هم فاصله دارن.'
-        turtle_2_9: 'Use a "count with" loop to draw a family of snowmen with heights of 110, 100, 90, 80, and 70. The snowmen should all be 60 pixels apart.'
-        turtle_2_10: "Here's some code to try experimenting with different spirals.  What happens if you change the turn amount? Or set a random color in the loop?  Draw anything you like."
-        maze_karel_2_1: "Try using the blocks to help me remove all the piles and fill in all the holes on the ground. Try to use loops instead of using too many blocks. Hint: you can put a loop inside another loop."
-        maze_karel_2_2: |-
-          We've defined our own block called "fill 5", which is now in the Functions category. Use it to help me fill in this hole.
-        maze_karel_2_3: |-
-          Use the new "fill 5" function block to make me fill in all the holes. You'll have to drag out the "fill 5" block out from the Functions category.
-        maze_karel_2_4: "Define a new function that removes 7 shovelfuls. Then use it to write a program that helps me remove all the piles."
-        maze_karel_2_5: "Create a new function that removes 6 shovelfuls from a pile, and use it to help me level out all the piles."
-        maze_karel_2_6: 'Use two new functions, "fill 8" and "remove 8", to help me level out the pile and fill in the hole.'
-        maze_karel_2_7: "There's a cow in my field! Write a new function that helps me avoid the cow and remove the pile. Put all your blocks inside the new function."
-        maze_karel_2_8: 'Use this new function, "avoid the cow and remove 1", to help me remove all the piles.'
-        maze_karel_2_9: "Ok, here's a function that removes 4 different piles of dirt in a vertical column. Try putting this function inside a loop, so that you remove all the piles of dirt using only a few new blocks."
-        maze_karel_2_10: "Move me across the field, and use these two functions to help me remove all the piles and fill all the holes."
-        turtle_3_1: |-
-          This puzzle shows you how the "draw a square" and "draw a circle" functions are defined.  Defining a function doesn't run its blocks.  You have to pull out the "draw a square" block to actually draw a square.
-        turtle_3_2: 'Using the "draw a square" function as an example, create a "draw a triangle" function and use it.'
-        turtle_3_3: "Draw triangular fences around the cats and a square fence around the cow.  Tip: test the program as you go along."
-        turtle_3_4: 'See if you can figure out how to use "draw a square" and "draw a triangle" (and some other blocks) to draw a house around the lion.'
-        turtle_3_5: 'Now create a new "draw a house" function and use it to house two cats. Hint: create a new function using the "do something" block, and type your own text to name the block.'
-        turtle_3_6: 'Using "draw a square" as an example, add an input named "length" to "draw a triangle". Then, draw triangles in different sizes. (Hint: click the star to add an input to a function)'
-        turtle_3_7: 'Add an input named "length" to "draw a house" and build a big house for the elephant (with edges 150 pixels long)'
-        turtle_3_8: 'Here are all of the blocks from the previous puzzle.  Modify "draw a house" so I end up at the bottom right corner after drawing a new house. Use this modified function to draw three houses.'
+        turtle_2_9: 'با استفاده ازیک حلقۀ "count with" خانواده ای از آدم برفی ها بکش با قدهای 110، 100، 90، 80 و 70. آدم برفی ها باید 60 پیکسل با هم فاصله داشته باشند.'
+        turtle_2_10: 'مقداری کُد برای آزمایش کردن با مارپیچ های مختلف اینجاست. چه میشود اگر مقدار "چرخش" را تغییر دهی؟ یا یک رنگ رندوم در حلقه بگذاری؟ هرچه دوست داری بکش.'
+        maze_karel_2_1: "سعی کن با استفاده از بلوک ها به من کمک کنی تا تمام کُپه ها را حذف و تمام سوراخ های روی زمین را پر کنم. سعی کن بجای استفاده از بلوک های زیاد از حلقه ها استفاده کنی. راهنمائی: میتوانی یک حلقه را داخل یک حلقۀ دیگر بکار ببری."
+        maze_karel_2_2: 'ما بلوک خودمان را با نام "fill 5" تعریف کردیم، که الان در زمرۀ "توابع" است. با استفاده از آن در پر کردن این چاله به من کمک کن.'
+        maze_karel_2_3: 'با استفاده از بلوک تابع جدید "fill 5" من را وادار کن چاله ها را پر کنم. باید بلوک "fill 5" را از دستۀ "توابع" بیرون بکشی.'
+        maze_karel_2_4: "یک تابع جدید تعریف کن که به اندازۀ 7 بیلچه حذف کند. سپس با استفاده از آن برنامه ای بنویس که به من کمک کند تمام کپه ها را حذف کنم."
+        maze_karel_2_5: "یک تابع جدید بساز که به اندازۀ 6 بیلچه از یک کپه حذف کند، و با استفاده از آن به من کمک کن تا تمام کپه ها را صاف کنم."
+        maze_karel_2_6: 'با استفاده از دو تابع جدید "fill 8" و "remove 8" به من کمک کن تا کپه را صاف و چاله را پر کنم.'
+        maze_karel_2_7: "یک گاو در زمین من است! یک تابع جدید بنویس که به من کمک کند تا با اجتناب از گاو کپه را حذف کنم. تمام بلوک هایت را داخل تابع جدید بگذار."
+        maze_karel_2_8: 'با استفاده از این تابع جدید "avoid the cow and remove 1"، کمکم کن تا تمام کپه ها را حذف کنم.'
+        maze_karel_2_9: "خوب، اینجا یک تابع است که 4 کُپۀ مختلف خاک در یک ستون عمودی را حذف میکند. سعی کن این تابع را در یک حلقه قرار دهی بطوری که تمام کُپه های خاک را تنها با استفاده از چند بلوک جدید حذف کنی."
+        maze_karel_2_10: "مرا در میان زمین حرکت بده و با استفاده از این دو تابع کمکم کن تا تمام کپه ها را حذف و تمام چاله ها را پر کنم."
+        turtle_3_1: 'این پازل به شما نشان می دهد توابع "draw a square" و "draw a circle" چگونه تعریف می شوند. تعریف یک تابع بلوک های آن را اجرا نمی کند. شما باید بلوک "draw a square" را بیرون آورید تا واقعاً یک مربع رسم کنید.'
+        turtle_3_2: 'با استفاده از تابع "draw a square" بعنوان مثال، یک تابع "draw a triangle" ایجاد و از آن استفاده کن.'
+        turtle_3_3: "اطراف گربه ها حصار مثلثی و دور گاو یک حصار مربعی بکش. راهنمائی: در خلال پیشرفت برنامه را تست کن."
+        turtle_3_4: 'ببین اگر میتوانی، کشف کن که با استفاده از "رسم یک مربع" و "رسم یک مثلث" (و چند بلوک دیگر)، چگونه خانه ای اطراف شیر بکشی.'
+        turtle_3_5: 'حالا یک تابع جدید با نام "draw a house" ایجاد کن و با استفاده از آن، دو گربه را در آن جای بده. راهنمائی: با استفاده از بلوک "do something" یک تابع جدید ایجاد کن و با تایپ متن دلخواهت به آن اسم بده.'
+        turtle_3_6: 'با استفاده از "draw a square" بعنوان مثال، یک ورودی با نام "length" به "draw a triangle" اضافه کن.سپس مثلث هائی با اندازه های مختلف رسم کن. (راهنمائی: برای اضافه کردن یک ورودی به یک تابع روی ستاره کلیک کن)'
+        turtle_3_7: 'یک ورودی با نام "length" به "draw a house" اضافه کن و یک خانۀ بزرگ برای فیل بساز(طول هر لبه 150 پیکسل)'
+        turtle_3_8: 'تمام بلوک های پازل قبلی اینجا هستند. "draw a house" را طوری تغییر بده که من بعد از رسم یک خانۀ جدید به گوشۀ پائین و سمت راست برسم. با استفاده از این تابع اصلاح شده سه خانه رسم کن.'
         turtle_3_9: 'می تونی تابع "draw a house" رو بدون کمک دوباره ایجاد کنی؟ تلاش بکن و بعد یک ردیف از خانه ها رو بکش .'
         turtle_3_10: "خیلی بلد شدی! حالا با دانسته هات هر چیزی که دلت می خواد بکش. مثلا یه ستاره، یا یه مارپیچ یا یه دانه برف خوشگل."
         maze_karel_debug_seq_1: " به اشکال زدایی خوش آمدی! کد من درست کار نمی کند. می تونی محل مشکل رو پیدا و درستش کنی طوری که من بتونم مزرعم رو صاف و آماده برای کاشت کنم؟"

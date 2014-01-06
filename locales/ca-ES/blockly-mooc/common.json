@@ -54,5 +54,10 @@
   "workspaceHeader":"Monta els teus blocs aquí: ",
   "infinity":"Infinit",
   "rotateText":"Gira el teu dispositiu.",
-  "orientationLock":"Desactiva el bloqueig d'orientació en els ajustos del teu dispositiu."
+  "orientationLock":"Desactiva el bloqueig d'orientació en els ajustos del teu dispositiu.",
+  "shareDrawing":"Share your drawing:",
+  "wantToLearn":"Want to learn to code?",
+  "watchVideo":"Watch the Video",
+  "tryHOC":"Try the Hour of Code",
+  "signup":"Sign up for the intro course"
 }

@@ -11,7 +11,7 @@
   "elseCode":"sino",
   "fill":"llenar 1",
   "fillN":"llenar {shovelfuls}",
-  "fillStack":"llenar pila de dos agujeros",
+  "fillStack":"fill stack of {shovelfuls} holes",
   "fillSquare":"llena el cuadrado",
   "fillTooltip":"Colocar 1 unidad de tierra",
   "finalLevel":"¡Felicidades! Has resuelto el puzzle final.",

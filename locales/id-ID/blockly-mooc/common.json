@@ -44,7 +44,7 @@
   "tooManyBlocksMsg":"Teka-teki ini dapat diselesaikan dengan blok < x id = 'START_SPAN' \/> < x id = 'END_SPAN'\/>.",
   "tooMuchWork":"Anda membuat saya melakukan terlalu banyak pekerjaan!  Bisakan Anda coba membuat pengulangan yang lebih sedikit?",
   "toolboxHeader":"Blok",
-  "openWorkspace":"How It Works",
+  "openWorkspace":"Cara kerjanya",
   "totalNumLinesOfCodeWritten":"Total keseluruhan: {numLines, plural, one {1 baris} other {# baris}} kode.",
   "tryAgain":"Ayo coba lagi!",
   "backToPreviousLevel":"Kembali ke teka-teki sebelumnya",
@@ -54,5 +54,10 @@
   "workspaceHeader":"Rakitlah blok Anda disini: ",
   "infinity":"∞",
   "rotateText":"Memutar perangkat anda.",
-  "orientationLock":"Matikan orientasi kunci dalam pengaturan perangkat."
+  "orientationLock":"Matikan orientasi kunci dalam pengaturan perangkat.",
+  "shareDrawing":"Share your drawing:",
+  "wantToLearn":"Want to learn to code?",
+  "watchVideo":"Watch the Video",
+  "tryHOC":"Try the Hour of Code",
+  "signup":"Sign up for the intro course"
 }

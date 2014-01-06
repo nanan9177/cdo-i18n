@@ -54,5 +54,10 @@
   "workspaceHeader":"Assemblez vos blocs ici : ",
   "infinity":"Infini",
   "rotateText":"Tourne ton appareil.",
-  "orientationLock":"Désactive le verrouillage de l'orientation dans les paramètres du périphérique."
+  "orientationLock":"Désactive le verrouillage de l'orientation dans les paramètres du périphérique.",
+  "shareDrawing":"Share your drawing:",
+  "wantToLearn":"Want to learn to code?",
+  "watchVideo":"Watch the Video",
+  "tryHOC":"Try the Hour of Code",
+  "signup":"Sign up for the intro course"
 }
