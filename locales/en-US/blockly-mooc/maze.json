@@ -11,7 +11,7 @@
   "elseCode": "else",
   "fill": "fill 1",
   "fillN": "fill {shovelfuls}",
-  "fillStack": "fill stack of 2 holes",
+  "fillStack": "fill stack of {shovelfuls} holes",
   "fillSquare": "fill square",
   "fillTooltip": "place 1 unit of dirt",
   "finalLevel": "Congratulations! You have solved the final puzzle.",
