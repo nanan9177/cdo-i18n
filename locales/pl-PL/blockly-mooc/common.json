@@ -55,9 +55,9 @@
   "infinity":"Nieskończoność",
   "rotateText":"Obróć swoje urządzenie.",
   "orientationLock":"Wyłącz blokadę orientacji w ustawieniach urządzenia.",
-  "shareDrawing":"Share your drawing:",
-  "wantToLearn":"Want to learn to code?",
-  "watchVideo":"Watch the Video",
-  "tryHOC":"Try the Hour of Code",
-  "signup":"Sign up for the intro course"
+  "shareDrawing":"Udostępnij swój rysunek:",
+  "wantToLearn":"Czy chcesz nauczyć się kodowania (programowania)?",
+  "watchVideo":"Obejrzyj wideo",
+  "tryHOC":"Weź udział w Godzinie kodowania (the Hour Code)",
+  "signup":"Zapisz się na kurs wprowadzający"
 }

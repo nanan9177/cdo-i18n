@@ -134,7 +134,7 @@
   "LISTS_SET_INDEX_TOOLTIP_SET_FROM_END":"Infogar objektet vid en angiven position i en lista. #1 är det sista objektet.",
   "LISTS_SET_INDEX_TOOLTIP_SET_FROM_START":"Infogar elementet vid en angiven position i en lista. #1 är det sista elementet.",
   "LISTS_SET_INDEX_TOOLTIP_SET_LAST":"Anger det sista elementet i en lista.",
-  "LISTS_SET_INDEX_TOOLTIP_SET_RANDOM":"Anger ett slumpmässigt element i en lista.",
+  "LISTS_SET_INDEX_TOOLTIP_SET_RANDOM":"Sätter in ett slumpat element i en lista.",
   "LISTS_TOOLTIP":"Ger tillbaka sant om listan är tom.",
   "LOGIC_BOOLEAN_FALSE":"falskt",
   "LOGIC_BOOLEAN_HELPURL":"http:\/\/code.google.com\/p\/blockly\/wiki\/True_False",

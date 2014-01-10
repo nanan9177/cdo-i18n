@@ -27,7 +27,7 @@
   more: "වැඩි"
   less: "අඩු"
   try_hoc: "පැයේ කේතය උත්සහ කරන්න, මෙතන ක්ලික් කරන්න >> "
-  try_k8intro: "හෝ, පරිඝණක පඨමාලාව සදහා වු අපේ කේ-8 හැදින්වීම උත්සහකරන්න (පැය 15-25 ක්)"
+  try_k8intro: "හෝ, පරිඝණක විද්‍යා පඨමාලාව සදහා වු අපේ කේ-8 හැදින්වීම උත්සහකරන්න (පැය 15-25 ක්)"
   already_started: "දැනටමත් පටන්ගෙනද? මෙතනින් නැවත පටන්ගන්න >> "
   demos: "ඇඩ්මින්: සියලු ඩෙමො වර්ග"
   continue: "කරගෙන යන්න"
@@ -170,6 +170,8 @@
     confirm: "Are you sure?"
     created: "%{model} was successfully created."
     updated: "%{model} was successfully updated."
+    destroyed: "%{model} was successfully deleted."
+    access_denied: "You do not have access to this %{model}."
   nav:
     header:
       finished_hoc: "I've finished my Hour of Code"

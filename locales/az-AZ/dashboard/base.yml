@@ -170,6 +170,8 @@
     confirm: "Əminsiniz?"
     created: "%{model} müvəffəqiyyətlə yaradıldı."
     updated: "%{model} müvəffəqiyyətlə yeniləndi."
+    destroyed: "%{model} was successfully deleted."
+    access_denied: "You do not have access to this %{model}."
   nav:
     header:
       finished_hoc: "Kod Saatımı bitirdim"

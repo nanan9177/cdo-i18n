@@ -50,7 +50,7 @@
     no_signup_header: "لاترغب بالتسجيل؟"
     no_signup_message: 'يمكنك<a target="_blank" href="http://learn.code.org"> تصفح مختلف المراحل والالغاز</a>, ولكن سوف تحتاج إلى التسجيل لحفظ تقدمك.'
     prizes_header: "The first students to complete the course win prizes! (U.S. students only)"
-    prizes_message: "U.S. students who earn all %{num_trophies} concept trophies can select a variety of prizes including free Dropbox space, Skype credits, and downloadable games from Electronic Arts."
+    prizes_message: "طلاب الولايات المتحدة الذين يكسبون كل مفهوم الجوائز %{num_trophies} يمكنك تحديد مجموعة متنوعة من الجوائز والتي تتضمن مساحة حرة من دروب بوكس , رصيد سكايب ، والألعاب القابلة للتحميل من الفنون الإلكترونية."
     teacher_educator_guide: "راجع دليل المعلم"
     teacher_prize_header: 'اربح 1000دولار في المكافئات <a target="_blank" href="http://DonorsChoose.org"> DonorsChoose.org </a> '
     teacher_prize_message: 'في شراكة مع <a target="_blank" href="http://DonorsChoose.org"> DonorsChoose.org </a> Code.org سوف يقدم عرض اكثر من 1000 دولار لتمويل المعلمين في المدارس الحكومية في الولايات المتحدة الامريكية الذين يقومون بتدريس على الاقل 15 طالب خلال هذا الكورس <a href="http://code.org/educate/20hr"> لمزيد من المعلومات انظر دليل المعلم </a>'
@@ -171,6 +171,8 @@
     confirm: "هل أنت متأكد؟"
     created: "تم بنجاح إنشاء %{model}."
     updated: "تم بنجاح تحديث %{model}."
+    destroyed: "%{model} was successfully deleted."
+    access_denied: "You do not have access to this %{model}."
   nav:
     header:
       finished_hoc: "لقد انهيت ساعة من البرمجة "

@@ -44,7 +44,7 @@
   "tooManyBlocksMsg":"Questo puzzle può essere risolto con < x id= 'START_SPAN'\/><x id='END_SPAN'\/> blocchi.",
   "tooMuchWork":"Mi hai fatto fare un sacco di lavoro!  Potresti provare a ripetere un minor numero di volte?",
   "toolboxHeader":"Blocchi",
-  "openWorkspace":"How It Works",
+  "openWorkspace":"Come funziona",
   "totalNumLinesOfCodeWritten":"Totale di tutti i tempi: {numLines, plural, one {1 linea} other {# linee}} del codice.",
   "tryAgain":"Riprova",
   "backToPreviousLevel":"Torna al livello precedente",
@@ -55,9 +55,9 @@
   "infinity":"Infinito",
   "rotateText":"Ruotare il dispositivo.",
   "orientationLock":"Disattivare blocco orientamento nelle impostazioni del dispositivo.",
-  "shareDrawing":"Share your drawing:",
-  "wantToLearn":"Want to learn to code?",
-  "watchVideo":"Watch the Video",
-  "tryHOC":"Try the Hour of Code",
-  "signup":"Sign up for the intro course"
+  "shareDrawing":"Condividi il tuo disegno:",
+  "wantToLearn":"Vuoi imparare a programmare?",
+  "watchVideo":"Guarda il video",
+  "tryHOC":"Prova l'ora di programmazione",
+  "signup":"Iscriviti al corso introduttivo"
 }

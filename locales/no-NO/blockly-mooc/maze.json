@@ -17,6 +17,7 @@
   "finalLevel":"Gratulerer! Du har løst den siste oppgaven.",
   "heightParameter":"høyde",
   "holePresent":"det er et hull",
+  "ifCode":"if",
   "ifPathAhead":"hvis det er sti foran",
   "ifTooltip":"Hvis det er en sti i den angitte retningen, så utfør noen handlinger.",
   "ifelseTooltip":"Hvis det er en sti i den angitte retningen, så utfør den første blokken med handlinger. Ellers, utfør den andre blokken med handlinger.",

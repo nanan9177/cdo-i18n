@@ -65,7 +65,7 @@
         text: "Du må hjelpe henne med å fjerne alle jordhaugene, og fyle alle hullene."
       3:
         image: "notes/stage9_3.jpg"
-        text: "The new blocks remove 1 shovelful of dirt from a pile and fill in 1 shovelful of dirt to a hole."
+        text: "De nye blokkene fjerner 1 spade med jord fra en haug og fyller 1 spade med jord i et hull."
       4:
         image: "notes/stage9_4.jpg"
         text: "Hauger og hull har forskjellige størrelse eller dybde, så du må fortelle bonden hvor mange spadetak som det er behov for."

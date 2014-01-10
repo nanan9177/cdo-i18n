@@ -17,6 +17,7 @@
   "finalLevel":"Complimenti! Hai risolto il puzzle finale.",
   "heightParameter":"altezza",
   "holePresent":"c'è un buco",
+  "ifCode":"if",
   "ifPathAhead":"Se percorso avanti",
   "ifTooltip":"Se c'è un percorso nella direzione specificata, quindi fare alcune azioni.",
   "ifelseTooltip":"Se c'è un percorso nella direzione specificata, effettua il primo blocco di azioni. Altrimenti, effettua il secondo.",

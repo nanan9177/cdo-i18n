@@ -170,6 +170,8 @@
     confirm: "확실한가요?"
     created: "%{model} 가 만들어졌습니다."
     updated: "%{model} 가 수정 되었습니다."
+    destroyed: "%{model} was successfully deleted."
+    access_denied: "You do not have access to this %{model}."
   nav:
     header:
       finished_hoc: "Hour of Code 완료"

@@ -170,6 +170,8 @@
     confirm: "Јесте ли сигурни?"
     created: "%{model} је успешно направлјен."
     updated: "%{model} је успешно ажуриран."
+    destroyed: "%{model} was successfully deleted."
+    access_denied: "You do not have access to this %{model}."
   nav:
     header:
       finished_hoc: "Завршио сам свој Сат Програмиранја"

@@ -17,6 +17,7 @@
   "finalLevel":"Chúc mừng! Bạn đã giải quyết các câu đố cuối cùng.",
   "heightParameter":"chiều cao",
   "holePresent":"đó là một lỗ",
+  "ifCode":"if",
   "ifPathAhead":"Nếu có đường ở phía trước",
   "ifTooltip":"Nếu có một con đường theo hướng được chỉ định, sau đó làm một số hành động.",
   "ifelseTooltip":"Nếu có đường đi theo hướng được định sẵn, thực hiện hành động trong khối lệnh đầu tiên. Nếu không, thực hiện hành động trong khối lệnh thứ hai.",

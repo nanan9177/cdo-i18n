@@ -17,6 +17,7 @@
   "finalLevel":"Congratulations! You have solved the final puzzle.",
   "heightParameter":"height",
   "holePresent":"there is a hole",
+  "ifCode":"if",
   "ifPathAhead":"if path ahead",
   "ifTooltip":"If there is a path in the specified direction, then do some actions.",
   "ifelseTooltip":"If there is a path in the specified direction, then do the first block of actions. Otherwise, do the second block of actions.",
@@ -40,12 +41,12 @@
   "removeStack":"remove stack of {shovelfuls} piles",
   "removeSquare":"remove square",
   "repeatUntil":"repeat until",
-  "repeatUntilBlocked":"while path ahead",
+  "repeatUntilBlocked":"ขณะที่ยังมีทางข้างหน้า",
   "repeatUntilFinish":"repeat until finish",
   "turnLeft":"เลี้ยวซ้าย",
   "turnRight":"เลี้ยวขวา",
-  "turnTooltip":"Turns me left or right by 90 degrees.",
+  "turnTooltip":"หันตัวเราไปทางซ้ายหรือขวา 90 องศา",
   "while":"while",
-  "whileTooltip":"Repeat the enclosed actions until finish point is reached.",
+  "whileTooltip":"ทำซ้ำจนกระทั่งถึงจุดสิ้นสุด",
   "yes":"Yes"
 }

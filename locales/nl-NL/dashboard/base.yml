@@ -170,6 +170,8 @@
     confirm: "Weet je het zeker?"
     created: "%{model} aangemaakt."
     updated: "%{model} bijgewerkt."
+    destroyed: "%{model} was successfully deleted."
+    access_denied: "You do not have access to this %{model}."
   nav:
     header:
       finished_hoc: "Ik heb mijn Uur Code afgemaakt"

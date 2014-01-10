@@ -171,6 +171,8 @@
     confirm: "Είσαι σίγουρος;"
     created: "Το %{model} δημιουργήθηκε με επιτυχία."
     updated: "Το %{model} ενημερώθηκε με επιτυχία."
+    destroyed: "%{model} was successfully deleted."
+    access_denied: "You do not have access to this %{model}."
   nav:
     header:
       finished_hoc: "Ολοκλήρωσα την Ώρα του Κώδικα"

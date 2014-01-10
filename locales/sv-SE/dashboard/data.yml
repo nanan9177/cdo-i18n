@@ -193,5 +193,5 @@
         loop_while: '"Medan"-block'
         loop_for: '"Räknar"-block'
         parameters: "Funktioner med parametrar"
-        hoc_wrapup: "Timmen med Kod Sammanfattning"
+        hoc_wrapup: "Sammanfattning för Timmen med Kod"
         20_wrapup: "20-Timmars sammanfattning"

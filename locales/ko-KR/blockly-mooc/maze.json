@@ -17,6 +17,7 @@
   "finalLevel":"축하합니다! 마지막 퍼즐을 해결했습니다.",
   "heightParameter":"높이:",
   "holePresent":"구덩이가 있으면",
+  "ifCode":"if",
   "ifPathAhead":"만약, 앞쪽에 길이 있으면",
   "ifTooltip":"어떤 방향에 길이 있으면, 동작을 실행합니다.",
   "ifelseTooltip":"어떤 방향에 길이 있으면, 첫 번째 블럭의 동작들을 수행하고, 아니면 두 번째 블럭의 동작들을 수행합니다.",

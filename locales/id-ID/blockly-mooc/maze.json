@@ -17,6 +17,7 @@
   "finalLevel":"Horee! Anda telah memecahkan teka-teki akhir.",
   "heightParameter":"tinggi",
   "holePresent":"ada lubang",
+  "ifCode":"if",
   "ifPathAhead":"Jika jalan ke depan",
   "ifTooltip":"Jika ada jalan ke arah yang ditentukan, lakukan beberapa perintah.",
   "ifelseTooltip":"Jika ada jalan ke arah yang ditentukan, maka lakukan perintah yang berada di blok pertama. Jika tidak ada, maka lakukan perintah yang berada di blok kedua.",

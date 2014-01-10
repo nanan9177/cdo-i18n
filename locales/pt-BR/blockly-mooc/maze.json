@@ -17,6 +17,7 @@
   "finalLevel":"Parabéns! Você resolveu o quebra-cabeça final.",
   "heightParameter":"altura",
   "holePresent":"há um buraco",
+  "ifCode":"if",
   "ifPathAhead":"se há caminho à frente",
   "ifTooltip":"Se há um caminho na direção especificada, faça algumas ações.",
   "ifelseTooltip":"Se há um caminho na direção especificada, então faça o primeiro bloco de ações. Caso contrário, faça o segundo bloco de ações.",

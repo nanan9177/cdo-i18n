@@ -17,6 +17,7 @@
   "finalLevel":"Parabéns! Resolveste o enigma final.",
   "heightParameter":"altura",
   "holePresent":"Há um buraco sob a letra",
+  "ifCode":"if",
   "ifPathAhead":"Se há caminho em frente",
   "ifTooltip":"Se há caminho na direção especificada, faz algumas ações.",
   "ifelseTooltip":"Se há caminho na direção especificada, faz o primeiro bloco de ações. Senão, faz o segundo bloco de ações.",

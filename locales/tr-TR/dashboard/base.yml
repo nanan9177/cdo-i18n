@@ -50,10 +50,11 @@
     no_signup_header: "Kaydolmak istemiyor musun?"
     no_signup_message: '<a target="_blank" href="http://learn.code.org">Çeşitli aşamalara ve bulmacalara gözatabilirsin</a> ama ilerlemeni kaydetmek için kayıt olman gerekmektedir.'
     prizes_header: "The first students to complete the course win prizes! (U.S. students only)"
-    prizes_message: "U.S. students who earn all %{num_trophies} concept trophies can select a variety of prizes including free Dropbox space, Skype credits, and downloadable games from Electronic Arts."
+    prizes_message: "Bütün %{num_trophies} kavram kupalarını kazanan ABD öğrencileri Dropbox disk alanı, Skype kredisi ve Electronic Arts'dan indirilebilir oyunlar da dahil çeşitli ödüller seçebilir."
     teacher_educator_guide: "Eğitim rehberine bakın"
     teacher_prize_header: '1.000 $ kazan <a target="_blank" href="http://DonorsChoose.org"> DonorsChoose.org</a> ödülleri'
-    teacher_prize_message: 'In partnership with <a target="_blank" href="http://DonorsChoose.org">DonorsChoose.org</a>, Code.org will offer up to $1,000 in classroom funding to U.S. public school teachers who lead at least 15 students through this course. <a href="http://code.org/educate/20hr">See educator guide for more info.</a> '
+    teacher_prize_message: |-
+      Bu dersi en az 15 öğrencinin almasını sağlayan ABD devlet okulu öğretmenleri için Code.org <a target="_blank" href="http://DonorsChoose.org"> DonorsChoose.org</a> ile ortaklık içinde 1000$'a kadar fon sunacaktır. <a href="http://code.org/educate/20hr">Daha fazla bilgi için eğitimci kılavuzuna bakınız.</a> 
     teacher_pitch: "Bilgisayar Bilimine Giriş K-8'i sınıfında öğret"
     teacher_title: "Öğretmen Kayıt"
     student_pitch: "1 Saat ötesinde: Bilgisayar bilimi K-8 Intromuzu deneyin"
@@ -129,7 +130,7 @@
       "yes": Evet
       msg: "%{prize_name} ödülünü talep etmek istediğinize emin misiniz?"
       msg_student: "Not: Yalnızca bir tür ödül seçebilirsiniz."
-      msg_publicschool: "Please confirm that you are a U.S. public school teacher."
+      msg_publicschool: "Lütfen ABD devlet okulu öğretmeni olduğunuzu onaylayın."
       msg_visit_website: "Visit website"
     providers:
       apple_itunes: "$10 iTunes Gift Card"
@@ -147,7 +148,7 @@
       choose_teacher: "Click on the logo below to claim your prize:"
       earned: "Bir ödül kazandın! (Sadece A.B.D. öğrencileri için)"
       not_earned_title: "Finish the tutorial, earn rewards (U.S. students only)"
-      not_earned: "Learn all the computer science concepts, collect all %{num_trophies} trophies, and earn real-world prizes. You can choose between 10GB of free Dropbox space, $10 in Skype credits, and free game downloads. NOTE: offer only valid to U.S. students, and only as long as supplies last."
+      not_earned: "Bütün bilgisayar bilimi kavramlarını öğren, %{num_trophies} kupanın tamamını topla ve gerçek hediyeler kazan. 10GB ücretsiz Dropbox disk alanı, 10$ Skype parası veya ücretsiz oyun indirme hediyelerinden birini seçebilirsin. NOT: Bu teklif sadece A.B.D. öğrencileri için geçerlidir ve elimizde kaldığı kadarıyla verilebilir."
       teacher:
         earned: "10 veya daha fazla öğrenci %{num_trophies} adet kupanın tamamını topladı. Öğretmen ödülü kazandın! (Sadece A.B.D. öğretmenleri için)"
         not_earned_title: 'Teach the class, earn up to $1,000 in <a target="_blank" href="http://DonorsChoose.org">DonorsChoose.org</a> credits (U.S. teachers only)'
@@ -168,6 +169,8 @@
     confirm: "Emin misiniz?"
     created: "%{model} başarılı bir şekilde oluşturuldu."
     updated: "%{model} başarılı bir şekilde güncellendi."
+    destroyed: "%{model} was successfully deleted."
+    access_denied: "You do not have access to this %{model}."
   nav:
     header:
       finished_hoc: "Kod Saati'ni tamamladım"
@@ -226,8 +229,8 @@
     student_progress: "Öğrenme ilerlemeniz"
     student_stats: '"Kavram Ustalığı" kupalarından %{trophy_max} kupadan %{trophy_count} kupayı kazandınız.'
     student_left_off: "Kaldığınız yer:"
-    student_finished_prize: "You've completed all tutorials, claim your %{prize_link} and pick another class %{online_link} or at a %{local_school_link}"
-    student_finished: "You've completed all tutorials, pick another class %{online_link} or at a %{local_school_link}"
+    student_finished_prize: "Bütün eğitimleri tamamladınız, %{prize_link} ödül talep edin ve başka bir %{online_link} ders ya da %{local_school_link} yerel ders seçin"
+    student_finished: "Bütün örnek dersleri tamamladınız, şimdi başka bir  %{online_link} ders veya %{local_school_link} yerel ders seçebilirsiniz"
     local_school: "Yerel okul"
     online: "Online"
     see_details: "Ayrıntılara bakınız"
@@ -268,4 +271,4 @@
   next_stage: "Bitti! Bir sonraki aşamaya geç"
   download_pdf: "Açık ders planı"
   share_code:
-    title: "Click 'Run program' to see my program in action"
+    title: "Programı çalıştırmak için 'Programı çalıştır'a tıklayın"

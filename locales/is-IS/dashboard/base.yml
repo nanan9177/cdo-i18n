@@ -50,7 +50,7 @@
     no_signup_header: "Viltu ekki skrá þig?"
     no_signup_message: 'Þú getur <a target="_blank" href="http://learn.code.org">skoðað hina ýmsu áfanga og þrautir</a>, en þú verður að skrá þig til að geta vistað árangur þinn.'
     prizes_header: "Fyrstu nemendurnir til að ljúka námskeiðinu vinna til verðlauna! (aðeins bandarískir nemendur)"
-    prizes_message: "U.S. students who earn all %{num_trophies} concept trophies can select a variety of prizes including free Dropbox space, Skype credits, and downloadable games from Electronic Arts."
+    prizes_message: "Bandarískir nemendur sem safna öllum %{num_trophies} hugtakabikurunum geta valið ýmiss verðlaun þar á meðal ókeypis pláss á Dropbox, inneign hjá Skype og leikjaniðurhal hjá Electronic Arts."
     teacher_educator_guide: "Sjá leiðarvísi kennara"
     teacher_prize_header: 'Verðlaun upp á $1000 í boði hjá <a target="_blank" href="http://DonorsChoose.org">DonorsChoose.org</a>'
     teacher_prize_message: 'Í samstarfi við <a target="_blank" href="http://DonorsChoose.org">DonorsChoose.org</a>, mun Code.org veita allt að $1.000 fjárstuðning til bekkjarstarfs í opinberum skólum í Bandaríkjunum hjá þeim kennurum sem leiða a.m.k. 15 nemendur í gegnum þetta námskeið. <a href="http://code.org/educate/20hr">Sjá nánar í leiðarvísi fyrir kennara.</a> '
@@ -170,6 +170,8 @@
     confirm: "Ertu viss?"
     created: "Tókst að búa til %{model}."
     updated: "Tókst að uppfæra %{model}."
+    destroyed: "%{model} was successfully deleted."
+    access_denied: "You do not have access to this %{model}."
   nav:
     header:
       finished_hoc: "Ég hef lokið við mína Kóðun í klukkustund"

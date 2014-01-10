@@ -50,7 +50,7 @@
     no_signup_header: "Nechceš se registrovat?"
     no_signup_message: 'Můžeš si <a target="_blank" href="http://learn.code.org">prohlédnout různé úrovně a hádanky</a>, ale budeš se muset zaregistrovat, aby se uložil tvůj pokrok.'
     prizes_header: "The first students to complete the course win prizes! (U.S. students only)"
-    prizes_message: "U.S. students who earn all %{num_trophies} concept trophies can select a variety of prizes including free Dropbox space, Skype credits, and downloadable games from Electronic Arts."
+    prizes_message: "Studenti z USA, kteří získají všech %{num_trophies} trofejí v pojmech mohou vybírat z nabídky cen obsahující např. volné místo na Dropbox, Skype kredity a stáhnutelné hry od Electronic Arts."
     teacher_educator_guide: "Podívat se na průvodce učitele"
     teacher_prize_header: 'Vyhraj 1,000$ v odměnách na <a target="_blank" href="http://DonorsChoose.org">DonorsChoose.org</a>'
     teacher_prize_message: 'Ve spolupráci s <a target="_blank" href="http://DonorsChoose.org">DonorsChoose.org</a>, Code.org nabízí dotaci až 1,000$ učitelům veřejných škol v USA, kteří provedou tímto kurzem alespoň 15 studentů. <a href="http://code.org/educate/20hr">Shlédnout pedagogický průvodce pro více informací.</a> '
@@ -170,6 +170,8 @@
     confirm: "Jsi si jistý?"
     created: "%{model} byl úspěšně vytvořen."
     updated: "%{model} byl úspěšně aktualizován."
+    destroyed: "%{model} was successfully deleted."
+    access_denied: "You do not have access to this %{model}."
   nav:
     header:
       finished_hoc: "Dokončil jsem svou Hodinu Kódu"

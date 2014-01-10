@@ -178,6 +178,8 @@
     confirm: "אתה בטוח?"
     created: "%{model} נוצר בהצלחה."
     updated: "%{model} עודכן בהצלחה."
+    destroyed: "%{model} was successfully deleted."
+    access_denied: "You do not have access to this %{model}."
   nav:
     header:
       finished_hoc: "סיימתי את שעת הקוד שלי"

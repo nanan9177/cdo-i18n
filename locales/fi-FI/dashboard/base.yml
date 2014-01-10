@@ -176,6 +176,8 @@
     confirm: "Oletko varma?"
     created: "%{model} luotiin onnistuneesti."
     updated: "%{model} päivitettiin onnistuneesti."
+    destroyed: "%{model} was successfully deleted."
+    access_denied: "You do not have access to this %{model}."
   nav:
     header:
       finished_hoc: "Olen suorittanut Koodituntini"

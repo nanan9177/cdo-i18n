@@ -163,6 +163,8 @@
     confirm: "Adakah anda pasti?"
     created: "%{model} telah berjaya dicipta."
     updated: "%{model} telah berjaya diperbaharui."
+    destroyed: "%{model} was successfully deleted."
+    access_denied: "You do not have access to this %{model}."
   nav:
     header:
       finished_hoc: "Saya telah menyelesaikan Hour of Code saya"

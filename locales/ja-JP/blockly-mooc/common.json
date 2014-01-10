@@ -55,9 +55,9 @@
   "infinity":"無限\n",
   "rotateText":"お使いのデバイスを回転させてください。",
   "orientationLock":"デバイスの設定にあるオリエンテーション（方向）ロックをオフにしてください。",
-  "shareDrawing":"Share your drawing:",
-  "wantToLearn":"Want to learn to code?",
-  "watchVideo":"Watch the Video",
-  "tryHOC":"Try the Hour of Code",
-  "signup":"Sign up for the intro course"
+  "shareDrawing":"図面を共有します。",
+  "wantToLearn":"コードのしかたを習いたいですか？",
+  "watchVideo":"ビデオを見る",
+  "tryHOC":"コードの時間を試してください。",
+  "signup":"イントロのコースに申し込む"
 }

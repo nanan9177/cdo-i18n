@@ -17,6 +17,7 @@
   "finalLevel":"Tillykke! Du har løst det sidste puslespil.",
   "heightParameter":"højde",
   "holePresent":"der er et hul",
+  "ifCode":"if",
   "ifPathAhead":"hvis stien fortsætter",
   "ifTooltip":"Hvis der er en sti i den angivne retning, så udfør nogle udsagn.",
   "ifelseTooltip":"Hvis der er en sti i den angivne retning, så udfør den første blok af udsagn. Ellers udfør den anden blok af udsagn.",

@@ -77,32 +77,31 @@
         maze_2_3: "תוביל אותי לרוע הירוק!(תיזהר מדינמיט)"
         maze_2_4: "תהיו רגועים ותעזרו לי למצוא את החזיר הרע. אחרת אני עלול להתעצבן!"
         maze_2_5: "יש דרך בה אני אוכל להגיע לחזיר הטפשי כשאני אשתמש רק ב2 בלוקים. אתם יכולים למצוא אותה?"
-        maze_2_6: "Try to get me to the green intruder using only three blocks."
-        maze_2_7: 'Help me banish this bad piggy using the fewest number of blocks. Try using more than one "repeat times" block.'
-        maze_2_8: 'To solve this one, try a "repeat" block with these 3 blocks inside it: move, move, turn.'
-        maze_2_9: 'Ok, try the new "repeat until" block - it will repeat until I reach the annoying pig.'
+        maze_2_6: "נסה להביא אותי לפולש הירוק תוך שימוש רק בשלושה בלוקים."
+        maze_2_7: 'עזור לי לגרש את החזרזיר הרע באמצעות כמה שפחות בלוקים. נסה להשתמש בבלוק "חזור על הפקודה" יותר מפעם אחת.'
+        maze_2_8: 'על מנת לפתור את המקרה הזה, השתמש בבלוק "חזור שוב" עם שלושה בלוקים בתוכו: קדימה, קדימה, הסתובב.'
+        maze_2_9: 'נסה להשתמש בבלוק החדש: "חזור עד ש" -  הוא יחזור על עצמו עד שאגיע לחזרזיר המעצבן.'
         maze_2_10: "טוב, בפעם האחרונה לאימון - האם אתה יכול לפתור זאת באמצעות רק 4 בלוקים?"
         maze_2_11: "איש יקר. אני זומבי. אני רעב. חייב... להגיע.... אל החמנית... אתה יכול להוביל אותי לשם באמצעות 5 בלוקים בלבד?"
         maze_2_12: ". בסדר, זה דומה, אבל שונה במקצת. האם אתה יכול לעשות זאת רק בעזרת 5 בלוקים?"
-        maze_2_13: 'Use the new "if" block to let me decide when to turn. Hint: you only need one more block, but learn how we set it up so you can do it on your own next time.'
-        maze_2_14: 'Ok, this is just like the last puzzle, but you need to remember how you used the "if" block and the "repeat" block together.'
-        maze_2_15: 'Me want sunflower! Use an "if" block to get me there with the fewest number of blocks.'
-        maze_2_16: "Ok, let's do that again for practice - this isn't very different, but watch out for the chompers!"
-        maze_2_17: 'The "If-else" blocks checks a condition, and then does one thing OR another. To get me to the sunflower try to use this new block.'
-        maze_2_18: 'One more practice of the "if-else" block, can you get it right on your first try?'
-        maze_2_19: "Can you add just 3 blocks to help me solve a more complex maze? If you do it right, I can walk any curvy path no matter the length."
-        turtle_1_1: "Hi, I'm an artist. You can write code to make me draw almost anything. Use a few blocks to make me draw over the gray lines in the picture."
-        turtle_1_2: 'Now, draw a square. NOTE: use your favorite color by picking it in the new "set color" block.'
+        maze_2_13: 'השתמש בבלוק החדש "אם" על מנת לעזור לי לחהליט מתי לפנות. רמז: אתה צריך רק עוד בלוק אחד נוסף, אבל תלמד איך ליישם זאת על מנת שתוכל בפעם הבאה לעשות בעצמך.'
+        maze_2_14: 'טוב, זה בדיוק כמו החידה האחרונה, אבל עליך לזכור איך להשתמש בבלוק "אם" ובבלוק "חזור שוב" יחד.'
+        maze_2_15: 'אני רוצה חמניות! השתמש בבלוק "אם" על מנת להביא אותי לשם תוך שימוש בכמה שפחות בלוקים.'
+        maze_2_16: "טוב, בו נעשה זאת שוב על מנת להתאמן - זה לא מאוד קשה, אבל תיזהר מהצ'ומפרים!"
+        maze_2_17: 'הבלוק "אם - אז" בודק את המצב, ועושה פעולה אחת או אחרת. על מנת להביא אותי לחמניות השתדל להשתמש בבלוק החדש.'
+        maze_2_18: 'עוד תרגול אחד של הבלוק "אם - אז", האם אתה יכול להצליח בנסיון הראשון?'
+        maze_2_19: "האם אתה יכול להוסיף רק 3 בלוקים על מנת לעזור לי לפתור מבוך מסובך יותר? אם תעשה זאת נכון, אני אוכל ללכת  בכל דרך מפותלת לא משנה מה אורכה."
+        turtle_1_1: "שלום, אני אמן. באפשרותך לכתוב קוד על מנת לעזור לי לצייר כמעט כל דבר. השתמש בכמה בלוקים על מנת לגרום לי לצייר על הקוים האפורים בתמונה."
+        turtle_1_2: 'עכשיו צייר ריבוע. הערה: השתמש בצבע האהוב עלייך ע"י בחירתו בבלוק החדש "הגדר צבע".'
         turtle_1_3: "צור ריבוע באמצעות 3 בלוקים בלבד."
-        turtle_1_4: |-
-          Draw a triangle whose sides are all in different colors, using the "random color" option that picks a different color each time. Hint: you'll have to figure out how far to turn by clicking on the number in the turn block.
-        turtle_1_5: "Now, for practice, draw a triangle and then a square to draw an envelope."
-        turtle_1_6: "Can you figure out how draw this triangle and square? Hint: Do the triangle first, then figure out how much to turn before drawing the square."
+        turtle_1_4: 'צייר משולש שכל אחת מהפאות שלו בצבע שונה ע"י שימוש באפשרות "צבע אקראי" שבוחר צבע שונה בכל פעם. רמז: עליך להפעיל ע"י לחיצה על המספר בבלוק הסיבוב.'
+        turtle_1_5: "עכשיו לאימון, צייר משולש ואז מרובע על מנת לצייר מעטפה."
+        turtle_1_6: "האם אתה יכול לצייר את המשולש והריבוע הזה? רמז: צייר את המשולש קודם, ואז מצא כמה צריך להסתובב בטרם תצייר את הריבוע."
         turtle_1_7: "בסדר, בוא ננסה רמה קצת יותר קשה -בוא נראה אם אתה יכול לצייר משקפיים ירוקים. והריבועים צריכים 100 פיקסלים בכל צד, ובנפרד - 50 פיקסלים. אל תשכח לצייר בצבע ירוק!"
-        turtle_1_8: 'Ok, try to figure out what happens if you run this code (or press "Run" to try it). Then, repeat it enough times to complete the drawing. The colors will be different every time.'
+        turtle_1_8: 'בסדר, נסה להבין מה קורה אם תפעיל קוד זה (או לחץ "הפעל" על מנת לנסות). עכשיו חזור על כך מספיק פעמים על מנת להשלים את הציור. הצבעים יהיו שונים בכל פעם.'
         turtle_1_9: "Can you figure out what number to replace the question marks with to draw a circle?"
-        turtle_1_10: 'You made it! Now, draw anything you want. Some fun ideas: a stick figure, snowflake, or spiral. Also try the new "set width" block. Have fun!'
-        turtle_4_1: 'Can you draw a triangle (with edges of 100 pixels) with only 3 blocks? Hint: use a "repeat" block.'
+        turtle_1_10: 'עשית זאת! עכשיו צייר מה שאתה רוצה. כמה רעיונות כיפיים: מר קו, פתית שלג או ספירלה. כמו כן נסה את הבלוק החדש "קבע עובי". תהנה!'
+        turtle_4_1: 'האם אתה יכול לצייר משולש (עם קצוות של 100 פיקסלים) בעזרת 3 בלוקים בלבד? רמז: השתמש בבלוק "חזור".'
         turtle_4_2: |-
           Try adding one block to complete this puzzle. Hint: we've provided blocks to draw 2 identical triangles, you need to put a "turn" in between, and decide out how far to turn.
         turtle_4_3: |-

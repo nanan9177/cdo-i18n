@@ -165,6 +165,8 @@
     confirm: "Biztos benne?"
     created: "%{model} sikeresen létrehozva."
     updated: "%{model} sikeresen frissítve."
+    destroyed: "%{model} was successfully deleted."
+    access_denied: "You do not have access to this %{model}."
   nav:
     header:
       finished_hoc: "Befejeztem a Kód Óráját"

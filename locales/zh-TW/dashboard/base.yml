@@ -170,6 +170,8 @@
     confirm: "是否確定？"
     created: "%{model} 已建立。"
     updated: "%{model} 已更新。"
+    destroyed: "%{model} was successfully deleted."
+    access_denied: "You do not have access to this %{model}."
   nav:
     header:
       finished_hoc: "I've finished my Hour of Code"

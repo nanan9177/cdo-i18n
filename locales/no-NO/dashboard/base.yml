@@ -50,7 +50,7 @@
     no_signup_header: "Ønsker du ikke å registrere deg?"
     no_signup_message: 'Du kan <a target="_blank" href="http://learn.code.org">bla gjennom de forskjellige nivåene og oppgavene</a>, men du må registrere deg for å lagre hvor langt du har nådd.'
     prizes_header: "The first students to complete the course win prizes! (U.S. students only)"
-    prizes_message: "U.S. students who earn all %{num_trophies} concept trophies can select a variety of prizes including free Dropbox space, Skype credits, and downloadable games from Electronic Arts."
+    prizes_message: "Amerikanske elever som får alle %{num_trophies} konsept-pokaler kan velge mellom flere priser som gratis Dropbox-lagringsplass, Skype-kreditt, og nedlastbare spill fra Electronic Arts."
     teacher_educator_guide: "Se lærerveiledningen"
     teacher_prize_header: '(Kun i USA) Vinn $1,000 i <a target="_blank" href="http://DonorsChoose.org">DonorsChoose.org</a> premier'
     teacher_prize_message: 'I samarbeid med <a target="_blank" href="http://DonorsChoose.org"> DonorsChoose.org</a> tilbyr Code.org opp til $1000 til USAs offentlig ansatte skolelærere som leder minst 15 elever gjennom dette kurset. <a href="http://code.org/educate/20hr"> se pedagog guide for mer info.</a> '
@@ -170,6 +170,8 @@
     confirm: "Er du sikker?"
     created: "%{model} ble opprettet."
     updated: "%{model} ble oppdatert."
+    destroyed: "%{model} was successfully deleted."
+    access_denied: "You do not have access to this %{model}."
   nav:
     header:
       finished_hoc: "Jeg har fullført min Kodetimen"

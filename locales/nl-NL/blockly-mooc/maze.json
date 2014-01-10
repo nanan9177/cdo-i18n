@@ -17,6 +17,7 @@
   "finalLevel":"Gefeliciteerd! je hebt de laatste puzzel opgelost.",
   "heightParameter":"hoogte",
   "holePresent":"daar is een gat",
+  "ifCode":"if",
   "ifPathAhead":"er een pad aankomt",
   "ifTooltip":"als er een pad is in de aangegeven richting, doe een paar acties.",
   "ifelseTooltip":"als er een pad in de opgegeven richting is, doe je het eerste actie blok. anders, doe je de tweede actie blok.",

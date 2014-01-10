@@ -50,7 +50,7 @@
     no_signup_header: "Não quer se registar?"
     no_signup_message: 'Você pode <a target="_blank" href="http://learn.code.org"> consultar as várias fases e quebra-cabeças</a>, mas você precisará inscrever-se para gravar seu progresso.'
     prizes_header: "The first students to complete the course win prizes! (U.S. students only)"
-    prizes_message: "U.S. students who earn all %{num_trophies} concept trophies can select a variety of prizes including free Dropbox space, Skype credits, and downloadable games from Electronic Arts."
+    prizes_message: "Estudantes dos EUA que ganharem todos os %{num_trophies} troféus de conceito podem selecionar uma variedade de prêmios, incluindo espaço grátis no Dropbox, créditos Skype e download de jogos da Electronic Arts."
     teacher_educator_guide: "Consulte o guia do educador"
     teacher_prize_header: 'Ganhe $1000 em recompensas de <a target="_blank" href="http://DonorsChoose.org">DonorsChoose.org</a>'
     teacher_prize_message: 'Em parceria com a <a target="_blank" href="http://DonorsChoose.org">DonorsChoose.org</a>, Code.org vai oferecer até US $1.000 em recursos de sala de aula para professores de escolas públicas dos EUA que conduzirem pelo menos 15 alunos através deste curso. <a href="http://code.org/educate/20hr">Ver guia do educador para obter mais informações.</a> '
@@ -170,6 +170,8 @@
     confirm: "Tem certeza?"
     created: "%{model} foi criado com sucesso."
     updated: "%{model} foi atualizado com sucesso."
+    destroyed: "%{model} was successfully deleted."
+    access_denied: "You do not have access to this %{model}."
   nav:
     header:
       finished_hoc: "Eu terminei a minha Hora de Código"

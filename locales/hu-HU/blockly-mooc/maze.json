@@ -17,6 +17,7 @@
   "finalLevel":"Gratulálok! A végső rejtvény megoldotta.",
   "heightParameter":"magasság",
   "holePresent":"van egy lyuk",
+  "ifCode":"if",
   "ifPathAhead":"Ha útvonal van előttünk",
   "ifTooltip":"Ha a megadott irányban létezik egy útvonal, akkor csinálj bizonyos intézkedéseket.",
   "ifelseTooltip":"Ha van egy út a megadott irányban, akkor csináld az első blokk műveletek. Másképp csinál a második blokk műveletek.",

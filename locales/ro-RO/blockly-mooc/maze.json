@@ -17,6 +17,7 @@
   "finalLevel":"Felicitări! Ai rezolvat puzzle-ul final.",
   "heightParameter":"înălțime",
   "holePresent":"acolo este o gaură",
+  "ifCode":"if",
   "ifPathAhead":"dacă drum înainte ",
   "ifTooltip":"Dacă există o cale de acces în direcţia specificată, atunci realizează unele acțiunii.",
   "ifelseTooltip":"Dacă există o cale de acces în direcţia specificată, atunci realizează primul bloc de acţiuni. Altfel, fă-l pe al doilea bloc de acţiuni.",

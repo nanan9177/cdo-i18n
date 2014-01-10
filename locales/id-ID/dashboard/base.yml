@@ -50,7 +50,7 @@
     no_signup_header: "Tidak ingin mendaftar?"
     no_signup_message: 'Anda dapat <a target="_blank" href="http://learn.code.org"> mencoba berbagai tahap dan berbagai teka-teki</a>, tetapi Anda akan perlu untuk masuk supaya kemajuan belajar Anda dapat dicatat.'
     prizes_header: "Para siswa yang pertama yang menyelesaikan kursus akan memenangkan hadiah! (hanya untuk siswa di Amerika Serikat)"
-    prizes_message: "U.S. students who earn all %{num_trophies} concept trophies can select a variety of prizes including free Dropbox space, Skype credits, and downloadable games from Electronic Arts."
+    prizes_message: "Siswa Amerika Serikat yang telah memperoleh seluruh %{num_trophies} piala konsep dapat memilih berbagai hadiah seperti ruang simpan Dropbox gratis, kredit Skype, dan men-download permainan dari Electronic Arts."
     teacher_educator_guide: "Lihat panduan guru"
     teacher_prize_header: 'Memenangkan $1.000 hadiah dari <a target="_blank" href="http://DonorsChoose.org"> DonorsChoose.org</a>'
     teacher_prize_message: 'Bekerja sama dengan <a target="_blank" href="http://DonorsChoose.org"> DonorsChoose.org</a>, Code.org akan menawarkan hadiah hingga $1.000 dalam kelas pendanaan untuk US guru sekolah umum yang memimpin setidaknya 15 siswa melalui kursus ini. <a href="http://code.org/educate/20hr"> Lihat pendidik panduan untuk info lebih lanjut.</a> '
@@ -168,6 +168,8 @@
     confirm: "Anda yakin?"
     created: "%{model} berhasil dibuat."
     updated: "%{model} berhasil dibuat."
+    destroyed: "%{model} was successfully deleted."
+    access_denied: "You do not have access to this %{model}."
   nav:
     header:
       finished_hoc: "Saya telah menyelesaikan jam kode!"

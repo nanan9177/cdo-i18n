@@ -34,7 +34,7 @@
       name:
         Unplug1: "Einführung in die Informatik"
         Maze: "Das Labyrinth"
-        Unplug2: "Computational Thinking"
+        Unplug2: "Computerbezogenes Denken"
         Unplug3: "Millimeterpapier Programmierung"
         Artist: "Der Künstler"
         Unplug4: "Algorithmen"
@@ -120,7 +120,7 @@
         maze_karel_1_6: 'Entfernen Sie alle Erdhaufen, mit so wenig Bausteine wie möglich. Die neuen Optionen im Dropdown-Menü auf dem "Wenn"-Baustein sagen mir, ob ich auf einem Haufen oder einem Loch stehe.'
         maze_karel_1_7: "Wow, ich habe ein wirklich tiefes Loch gefunden! Ich weiß nicht wie viele Schaufeln von Erde es braucht. Können Sie ein Programm schreiben, das es ausfüllt, bis der Boden eben ist?"
         maze_karel_1_8: "Hilf mir das Loch am Ende des Feldes zu füllen mit so wenigen Bausteinen wie möglich."
-        maze_karel_1_9: 'Make me remove all these piles of dirt. Try to use as few blocks as possible. Hint: try using a "while" block.'
+        maze_karel_1_9: 'Hilf mir, all diese Haufen Erde zu entfernen. Versuche so wenig Bausteine wie möglich zu benutzen. Hinweis: Versuche den "Solange"-Baustein zu benutzen.'
         maze_karel_1_10: 'Weil ich Überstunden mache und es deshalb draußen schon dunkel ist, kann ich nicht erkennen wie groß die Häufen sind. Jetzt habe ich nicht alle Optionen, die ich sonst beim "solange"-Baustein hatte. Bewege mich am Feld entlang und wenn dort ein Haufen ist, dann entferne ihn.'
         maze_karel_1_11: 'Es ist immer noch dunkel draußen. Bewege mich am Feld entlang. Wenn dort ein Haufen ist, dann entferne ihn. Ist dort jedoch ein Loch, dann fülle es auf. Hinweis: verwende das Aufklappmenü des "wenn"-Bausteins.'
         turtle_2_1: "Hallo. Mich Zombie Künstler. Mich lieben zeichnen! Hilf mir ein Quadrat in einer besonderen Farbe zu zeichnen. Wichtiger Hinweis: du hast die gleichen Bausteine, aber sie wurden jetzt in Kategorien sortiert."
@@ -163,12 +163,12 @@
         maze_karel_debug_function_1: "Was musst du am Programm ändern, damit es mir hilft alle Erdhaufen zu entfernen?"
         maze_karel_debug_function_2: "Kannst du dieses Programm für mich auf Fehler überprüfen und sie beseitigen, damit ich mein Feld flach machen kann?"
         maze_karel_debug_function_3: "Bearbeite das Programm so, dass ich alle Erdhaufen von meinem Feld entferne. "
-        turtle_5_1: "Try running this program, and make changes to see what happens. Can you figure out how it works? (Or delete it and replace it with something totally different)"
-        turtle_5_2: "Try running this program, and make changes to see what happens. Can you figure out how it works? (Or delete it and replace it with something totally different)"
-        turtle_5_3: "Try running this program, and make changes to see what happens. Can you figure out how it works? (Or delete it and replace it with something totally different)"
-        turtle_5_4: "Try running this program, and make changes to see what happens. Can you figure out how it works? (Or delete it and replace it with something totally different)"
-        turtle_5_5: "Try running this program, and make changes to see what happens. Can you figure out how it works? (Or delete it and replace it with something totally different)"
-        turtle_5_6: "Try running this program, and make changes to see what happens. Can you figure out how it works? (Or delete it and replace it with something totally different)"
+        turtle_5_1: "Versuche, dieses Programm auszuführen und verändere es, um zu sehen, was passiert. Kannst du herausfinden, wie es funktioniert? (Oder lösche es und ersetze es durch etwas ganz anderes)"
+        turtle_5_2: "Versuche, dieses Programm auszuführen und verändere es, um zu sehen, was passiert. Kannst du herausfinden, wie es funktioniert? (Oder lösche es und ersetze es durch etwas ganz anderes)"
+        turtle_5_3: "Versuche, dieses Programm auszuführen und verändere es, um zu sehen, was passiert. Kannst du herausfinden, wie es funktioniert? (Oder lösche es und ersetze es durch etwas ganz anderes)"
+        turtle_5_4: "Versuche, dieses Programm auszuführen und verändere es, um zu sehen, was passiert. Kannst du herausfinden, wie es funktioniert? (Oder lösche es und ersetze es durch etwas ganz anderes)"
+        turtle_5_5: "Versuche, dieses Programm auszuführen und verändere es, um zu sehen, was passiert. Kannst du herausfinden, wie es funktioniert? (Oder lösche es und ersetze es durch etwas ganz anderes)"
+        turtle_5_6: "Versuche, dieses Programm auszuführen und verändere es, um zu sehen, was passiert. Kannst du herausfinden, wie es funktioniert? (Oder lösche es und ersetze es durch etwas ganz anderes)"
         maze_3_1: "Ich muss zu diesem Schwein kommen! Schreibe ein paar Aufrufe von bewegen(); damit ich mir meine Eier zurückholen kann."
         maze_3_2: "Schreibe mir ein Programm mit dem ich es bis zu dem Schwein schaffe."
         maze_3_3: "Wie komme ich zum Schwein? Passe auf das ich nicht in den TNT-Sprengstoff laufe!"

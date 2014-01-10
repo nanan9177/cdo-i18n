@@ -148,12 +148,10 @@
         text: "Wir lernen jetzt, wie man Funktionen definiert. Funktionsdefinitionen haben einen Stern in der Ecke. Der Name der Funktion ist in der obersten Zeile geschrieben."
       3:
         image: "notes/stage13_3.jpg"
-        text: |-
-          The blocks that go inside the definition tell us what it does. So this function definition is called "fill 5" and it's made up of a "repeat" block and a "fill" block.
+        text: 'Die Bausteine, die in der Definition liegen, sagen uns, was sie tut. Daher heißt diese Funktionsdefinition "5 hinzufügen" und ist aus einem "wiederhole"-Baustein und einem "hinzufügen"-Baustein aufgebaut.'
       4:
         image: "notes/stage13_4.jpg"
-        text: |-
-          The definition sits on the workspace, but our farmer won't run the function until we drag out our "fill 5" function block from functions category.
+        text: 'Die Definition ist auf dem Arbeitsplatz, aber unserer Bauer wird die Funktion nicht ausführen, bis wir unseren "5 hinzufügen"-Baustein aus der Funktionen-Kategorie hinzufügen.'
       5:
         image: "notes/stage13_5.jpg"
         text: |-
@@ -165,49 +163,48 @@
           Hi, I'm Makinde! Let's learn about the "while block."
       2:
         image: "notes/stage9_6.jpg"
-        text: 'The "while block" will do whatever you put inside it AS LONG AS the statement on the top is TRUE.'
+        text: 'Der "solange"-Baustein wird alles, was du hereintust, ausführen, SOLANGE die Anweisung darüber WAHR ist.'
       3:
         image: "notes/stage9_7.jpg"
-        text: "For example, if the farmer is standing on a pile, she will continue to remove 1 shovelful WHILE there is still a pile beneath her."
+        text: "Zum Beispiel, wenn der Bauer auf einem Haufen steht, wird sie immer wieder einen Haufen entfernen, SOLANGE sie immernoch auf einem Haufen steht."
     loop_for:
       1:
         image: "notes/stage11_1.jpg"
-        text: "Hi, I'm Trina, and I work for Pixar. I've worked on a bunch of movies, including Shrek."
+        text: "Hi, ich bin Trina und ich arbeite für Pixar. Ich habe an vielen Filmen, einschließlich Shrek mitgearbeitet."
       2:
         image: "notes/stage11_2.jpg"
-        text: 'This is our new "counter" loop. It will perform actions over and over again and you can make the actions change slightly each time.'
+        text: 'Dies ist unsere neue "Zähler"-Schleife. Sie wiederholt Befehle immer und immer wieder und du kannst die Befehle jedes mal leicht verändern lassen.'
       3:
         image: "notes/stage11_3.jpg"
-        text: 'In this example, our "counter" loop says "count with counter from 50 to 90 by 10" and inside it, we have our "draw a square" block. Drag the "counter" block from the "Variables" section into the "length" spot.'
+        text: 'In diesem Beispiel sagt die "Zähler"-Schleife "Zähle mit Zähler von 50 bis 90 mit 10" und in der Schleife gibt es einen "Zeichne ein Quadrat"-Baustein. Ziehe den "Zähler"-Baustein aus dem "Variablen"-Abschnitt auf die Stelle, wo der "Länge"-Baustein ist.'
       4:
         image: "notes/stage11_4.jpg"
-        text: "This means our artist is going to draw a square that has 50 pixel length sides, then it will add 10 to that and draw a square with 60 pixel length sides. Then it will keep adding 10 and drawing squares until it reaches 90. So we'll have squares of 50, 60, 70, 80, and 90."
+        text: "Dies bedeutet, dass unser Künstler ein Quadrat zeichnen wird, das eine Seitenlänge von 50 Pixeln hat, dann wird er 10 hinzufügen und ein Quadrat mit einer Seitenlänge von 60 Pixeln zeichnen. Er wird immer 10 hinzufügen und Quadrate malen, bis er 90 erreicht hat. Also gibt es Quadrate mit Seitenlängen von 50, 60, 70, 80 und 90."
     parameters:
       1:
         image: "notes/stage15_1.jpg"
-        text: "Hi, I'm Janete, and I'm an engineer at Zynga."
+        text: "Hi, ich bin Janete und ich bin Ingenieurin bei Zynga."
       2:
         image: "notes/stage15_2.jpg"
-        text: "What if we want to draw a bunch of triangles and have their lengths be different sizes?"
+        text: "Was, wenn wir ein paar Dreiecke mit verschiedenen Längen malen wollen?"
       3:
         image: "notes/stage15_3.jpg"
-        text: "We could write all that code out by hand or we can use a function with parameters."
+        text: "Wir könnten den ganzen Code per Hand schreiben, oder wir benutzen eine Funktion mit Parametern."
       4:
         image: "notes/stage15_4.jpg"
-        text: 'To do this, click the blue star on the "draw a triangle" function definition. Then drag "input name" into the "input" block.'
+        text: 'Um dies zu tun, klicke auf den blauen Stern der "Zeichne ein Dreieck"-Funktionsdefinition. Ziehe dann "Name eingeben" in den "Eingeben"-Baustein.'
       5:
         image: "notes/stage15_5.jpg"
-        text: |-
-          Then if you write "length" in the spot where it says "x" and press "Enter" you'll create a length input for your function.
+        text: 'Schreibe dann "Länge" and sie Stelle, wo "x" steht, drücke "Enter" und du erstellst eine Längeneingabe für deine Funktion.'
       6:
         image: "notes/stage15_6.jpg"
-        text: 'Then click on the star. Now, you want to click on the variables category and drag the "length" block into the "move forward" block of your function definition. And drag away the old number block.'
+        text: 'Dann klicke auf den Stern. Jetzt klickst du auf die "Variablen"-Kategorie und ziehst den "Länge"-Baustein in den "vorwärts bewegen"-Baustein deiner Funktionsdefinition. Ziehe den alten Nummernblock weg.'
       7:
         image: "notes/stage15_7.jpg"
-        text: 'To use your function with parameters, click on the functions category and drag out your "draw a triangle with length" function.'
+        text: 'Um deine Funktion mit Parametern zu benutzen, klicke auf die "Funktionen"-Kategorie und ziehe deine "Zeichne ein Dreieck mit Länge"-Funktion heruas.'
       8:
         image: "notes/stage15_8.jpg"
-        text: "Now you can use the math block to input different numbers to draw triangles of different sizes."
+        text: "Jetzt kannst du den Mathe-Baustein verändern, um Dreiecke in verschiedenen Größen zu zeichnen."
     hoc_wrapup:
       1:
         image: "notes/hoc6_1.jpg"

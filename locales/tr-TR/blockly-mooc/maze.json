@@ -17,6 +17,7 @@
   "finalLevel":"Tebrikler! Son bulmacayı da çözdünüz.",
   "heightParameter":"Yükseklik",
   "holePresent":"bir delik var",
+  "ifCode":"if",
   "ifPathAhead":"İleride yol varsa",
   "ifTooltip":"Belirtilen yönde bir yolu varsa o zaman bazı eylemler yapın.",
   "ifelseTooltip":"Belirtilen yönde bir yolu varsa o zaman ilk bloktaki eylemleri yap . Aksi takdirde, \nikinci bloktaki eylemleri yap.",

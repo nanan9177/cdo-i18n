@@ -55,9 +55,9 @@
   "infinity":"Бесконечность",
   "rotateText":"Поверните ваше устройство.",
   "orientationLock":"Выключите блокировку ориентации в настройках устройства.",
-  "shareDrawing":"Share your drawing:",
-  "wantToLearn":"Want to learn to code?",
-  "watchVideo":"Watch the Video",
-  "tryHOC":"Try the Hour of Code",
-  "signup":"Sign up for the intro course"
+  "shareDrawing":"Поделитесь вашим рисунком:",
+  "wantToLearn":"Хотите научиться писать код?",
+  "watchVideo":"Смотреть видео",
+  "tryHOC":"Попробуйте час кода",
+  "signup":"Подпишитесь на вводный курс"
 }

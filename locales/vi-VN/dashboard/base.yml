@@ -166,6 +166,8 @@
     confirm: "Bạn chắc chứ?"
     created: "%{model} was successfully created."
     updated: "%{model} was successfully updated."
+    destroyed: "%{model} was successfully deleted."
+    access_denied: "You do not have access to this %{model}."
   nav:
     header:
       finished_hoc: "I've finished my Hour of Code"

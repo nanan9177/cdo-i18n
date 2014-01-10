@@ -17,6 +17,7 @@
   "finalLevel":"Félicitations ! Vous avez résolu l'énigme finale.",
   "heightParameter":"hauteur",
   "holePresent":"Il y a un trou",
+  "ifCode":"if",
   "ifPathAhead":"Si chemin à parcourir",
   "ifTooltip":"S'il y a un chemin dans la direction indiquée, alors effectuer certaines actions.",
   "ifelseTooltip":"S'il y a un chemin dans la direction indiquée, alors exécuter le premier bloc d'actions. Sinon, exécuter le deuxième bloc d'actions.",

@@ -17,6 +17,7 @@
   "finalLevel":"恭喜你！你完成了最后一个谜题。",
   "heightParameter":"高度",
   "holePresent":"地上有一个坑",
+  "ifCode":"if",
   "ifPathAhead":"如果前面有路",
   "ifTooltip":"如果在指定的方向有路，执行一些操作。",
   "ifelseTooltip":"如果在指定的方向有路，执行第一部分的操作。否则，执行第二部分的操作。",

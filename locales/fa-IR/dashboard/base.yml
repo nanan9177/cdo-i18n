@@ -168,6 +168,8 @@
     confirm: "مطمئنید؟"
     created: "%{model} با موفقیت ساخته شد."
     updated: "%{model} با موفقیت به روز شد."
+    destroyed: "%{model} was successfully deleted."
+    access_denied: "You do not have access to this %{model}."
   nav:
     header:
       finished_hoc: "من ساعتی با کد خود را به پایان رسانده ام"

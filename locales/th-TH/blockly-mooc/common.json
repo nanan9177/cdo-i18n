@@ -44,7 +44,7 @@
   "tooManyBlocksMsg":"ปริศนานี้สามารถแก้ไขได้ด้วย <x id='START_SPAN'\/><x id='END_SPAN'\/> บล็อกได้.",
   "tooMuchWork":"คุณทำให้ฉันทำงานมาก! คุณอาจจะลองทำซ้ำครั้งน้อยลง?",
   "toolboxHeader":"บล็อก",
-  "openWorkspace":"How It Works",
+  "openWorkspace":"วิธีการทำงาน",
   "totalNumLinesOfCodeWritten":"รวมสรุป: {numLines, plural, one {1 line} other {# lines}} of code.",
   "tryAgain":"ลองอีกครั้ง",
   "backToPreviousLevel":"กลับไปยังระดับก่อนหน้า",
@@ -55,9 +55,9 @@
   "infinity":"อินฟินิตี้",
   "rotateText":"หมุนอุปกรณ์ของคุณ.",
   "orientationLock":"ปิดล็อควางแนวในการตั้งค่าอุปกรณ์.",
-  "shareDrawing":"Share your drawing:",
-  "wantToLearn":"Want to learn to code?",
-  "watchVideo":"Watch the Video",
-  "tryHOC":"Try the Hour of Code",
-  "signup":"Sign up for the intro course"
+  "shareDrawing":"แชร์รูปวาดของคุณ:",
+  "wantToLearn":"ต้องการศึกษาการเขียนโปรแกรม?",
+  "watchVideo":"ดูวีดีโอ",
+  "tryHOC":"ลองใช้ Hour of Code สิ",
+  "signup":"ลงทะเบียนเพื่อทดลองเรียน"
 }

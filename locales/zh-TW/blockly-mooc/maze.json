@@ -17,6 +17,7 @@
   "finalLevel":"恭喜你 ！你已經解決了最後的關卡。",
   "heightParameter":"高度",
   "holePresent":"there is a hole",
+  "ifCode":"if",
   "ifPathAhead":"if path ahead",
   "ifTooltip":"If there is a path in the specified direction, then do some actions.",
   "ifelseTooltip":"If there is a path in the specified direction, then do the first block of actions. Otherwise, do the second block of actions.",

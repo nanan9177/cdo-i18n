@@ -108,7 +108,7 @@
       username_not_found: "Nom d'utilisateur %{username} introuvable"
       username_in_use: "%{username} est déjà pris, veuillez en choisir un autre"
       no_teacher: "N'a pu trouver personne connecté avec  '%{teacher_email_or_code}'. Veuillez leur demander de s'inscrire ici et ensuite de réessayer de le ajouter encore une fois"
-      blank_code: "Please enter a code or your teacher's email address"
+      blank_code: "Veuillez saisir un code ou l'adresse email de votre enseignant"
     mail:
       invite_student:
         subject: "Rejoins une classe avec %{teacher_name} à Code.org !"
@@ -123,22 +123,22 @@
     success: "Your prize was succesfully redeemed, see code below."
     error: "Your prize could not be redeemed, please try again."
     error_us_only: "Les prix ne sont disponibles que pour les utilisateurs américains."
-    error_not_earned: "You have not yet earned this prize."
-    error_already_redeemed: "Your prize has already been redeemed."
-    no_prizes_available: "We're sorry, but we currently have no prizes available."
+    error_not_earned: "Vous n'avez pas encore gagné ce prix."
+    error_already_redeemed: "Votre prix a déjà été réclamé."
+    no_prizes_available: "Nous sommes désolés, mais nous n'avons actuellement pas de prix disponibles."
     confirm:
       title: "Please Confirm"
       "no": Non
       "yes": Oui
       msg: "Are you sure you want to claim the %{prize_name} prize?"
       msg_student: "NOTE: You can only choose one type of prize."
-      msg_publicschool: "Please confirm that you are a U.S. public school teacher."
+      msg_publicschool: "Veuillez confirmer que vous êtes enseignant d'école publique aux États-Unis."
       msg_visit_website: "Visit website"
     providers:
       apple_itunes: "$10 iTunes Gift Card"
       donors_choose: "DonorsChoose.org $750 credit"
       donors_choose_bonus: "DonorsChoose.org $250 credit"
-      dropbox: "10GB of Dropbox Space"
+      dropbox: "10Go d'espace Dropbox"
       valve: "Portal 2 (PC or Mac game download)"
       ea_bejeweled: "Bejeweled 3 (PC game download)"
       ea_fifa: "FIFA Soccer 13 (PC game download)"
@@ -171,6 +171,8 @@
     confirm: "Etes-vous sûr?"
     created: "%{model} a été créé avec succès."
     updated: "%{model} a été mis à jour avec succès."
+    destroyed: "%{model} was successfully deleted."
+    access_denied: "You do not have access to this %{model}."
   nav:
     header:
       finished_hoc: "J'ai fini mon heure de Code"
@@ -255,8 +257,8 @@
   reference_area:
     title: "Besoin d'aide ?"
     subtitle: "Voir ces vidéos et conseils"
-    teacher: "See the solution"
-    auth_error: "You are not authorized to see the solution."
+    teacher: "Voir la solution"
+    auth_error: "Vous n'êtes pas autorisé à voir la solution."
   video:
     tab: "Vidéo."
     notes: "Pas de vidéo ? Montrer les notes."
@@ -270,4 +272,4 @@
   next_stage: "Terminé! Continuer l'étape suivante"
   download_pdf: "Ouvrir le plan de la leçon"
   share_code:
-    title: "Click 'Run program' to see my program in action"
+    title: "Cliquez sur « Exécuter le programme » pour voir mon programme en action"

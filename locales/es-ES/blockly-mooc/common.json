@@ -55,9 +55,9 @@
   "infinity":"Infinito",
   "rotateText":"Gira tu dispositivo.",
   "orientationLock":"Desactiva el bloqueo de orientación en la configuración del dispositivo.",
-  "shareDrawing":"Share your drawing:",
-  "wantToLearn":"Want to learn to code?",
-  "watchVideo":"Watch the Video",
-  "tryHOC":"Try the Hour of Code",
-  "signup":"Sign up for the intro course"
+  "shareDrawing":"Comparte tu dibujo:",
+  "wantToLearn":"¿Quieres aprender a programar?",
+  "watchVideo":"Ve el Video",
+  "tryHOC":"Prueba la Hora del Código",
+  "signup":"Inscríbete en el curso de introducción"
 }

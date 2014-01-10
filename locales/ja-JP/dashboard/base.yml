@@ -170,6 +170,8 @@
     confirm: "確かですか。"
     created: "%{model} はエラーなく、作成されました。"
     updated: "%{model} はエラーなく更新しました。"
+    destroyed: "%{model} was successfully deleted."
+    access_denied: "You do not have access to this %{model}."
   nav:
     header:
       finished_hoc: "コーディングの時間を終わる"

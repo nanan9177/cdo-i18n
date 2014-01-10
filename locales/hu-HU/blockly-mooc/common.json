@@ -23,7 +23,7 @@
   "hintTitle":"Tanács:",
   "levelIncompleteError":"Minden szükséges blokkot felhasználtál, de nem megfelelően.",
   "listVariable":"lista",
-  "missingBlocksErrorMsg":"A feladvány megoldásához használj egyet, vagy néhányat  az alábbi blokkok közül.",
+  "missingBlocksErrorMsg":"Próbáld meg a lenti blokkokat használni, hogy megoldd a rejtvényt.",
   "nextLevel":"Gratulálok! Megoldottad a {puzzleNumber}. feladványt.",
   "nextLevelTrophies":"Gratulálok! Megoldottad a {puzzleNumber}. feladványt és nyertél {numTrophies, plural, one {egy trófeát} other {# trófeát}}.",
   "nextStage":"Gratulálok! Teljesítetted a {stageNumber} szakaszt.",
@@ -55,9 +55,9 @@
   "infinity":"Végtelenség",
   "rotateText":"Fordítsd el a készüléket.",
   "orientationLock":"Kapcsolja ki a tájolási zárást az eszközbeállítások panelon.",
-  "shareDrawing":"Share your drawing:",
-  "wantToLearn":"Want to learn to code?",
-  "watchVideo":"Watch the Video",
-  "tryHOC":"Try the Hour of Code",
-  "signup":"Sign up for the intro course"
+  "shareDrawing":"Oszd meg a rajzodat:",
+  "wantToLearn":"Szeretnél megtanulni programozni?",
+  "watchVideo":"Nézd meg a videót",
+  "tryHOC":"Próbáld ki a kódolás óráját",
+  "signup":"Regisztrálj a bevezető képzésre"
 }

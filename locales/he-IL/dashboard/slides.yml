@@ -211,7 +211,7 @@
     hoc_wrapup:
       1:
         image: "notes/hoc6_1.jpg"
-        text: "Congratulations! With the last puzzle you solved, you just wrote code that can tell ANY robot how to find it's way through a non-branching maze or tunnel of any length, whether it's a zombie, a bird, a mars rover, or even a self-driving car."
+        text: "מזל טוב! עם הפאזל האחרון שפתרת, כתבת קוד שיכול לומר לכל רובוט (בין אם זה זומבי, ציפור, מארס-רובר או אפילו מכונית שנוהגת מעצמה) איך למצוא את הדרך מבוך או מנהרה באורך כלשהו, ."
       2:
         image: "notes/hoc6_2.jpg"
         text: "המושגים הבסיסיים בהם השתמשת הם בליבה של כל תוכנית או אפליקציה שאי פעם תנסה. למדנו על לולאות ״חזור״, הצהרות ״חזור-עד״,  הצהרות ״אם״ והצהרות ״אם-אחרת״."

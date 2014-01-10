@@ -171,6 +171,8 @@
     confirm: "Estàs segur?"
     created: "%{model} s'ha creat correctament."
     updated: "%{model} s'ha actualitzat correctament."
+    destroyed: "%{model} was successfully deleted."
+    access_denied: "You do not have access to this %{model}."
   nav:
     header:
       finished_hoc: "He acabat la meva Hora de Codi"

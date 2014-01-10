@@ -173,6 +173,8 @@
     confirm: "Är du säker?"
     created: "%{model} har skapats."
     updated: "%{model} har uppdaterats."
+    destroyed: "%{model} was successfully deleted."
+    access_denied: "You do not have access to this %{model}."
   nav:
     header:
       finished_hoc: "Jag är klar med min Timme med Kod"

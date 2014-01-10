@@ -3,7 +3,7 @@
     maze_intro:
       1:
         image: "notes/hoc1_1.jpg"
-        text: "Welcome to your first hour of code! Let's dive right into your first taste of programming."
+        text: "ยินดีต้อนรับสู่ Hour of Code มาลองลิ้มรสการเขียนโปรแกรมดูสิ"
       2:
         image: "notes/hoc1_2.jpg"
         text: "We'll be using Blockly, a visual programming language where you drag and drop blocks to write code."
@@ -36,7 +36,7 @@
         text: "To do more than one action, you can drag many block to your workspace and attach them together. The bird will do the commands from top to bottom."
       12:
         image: "notes/hoc1_12.jpg"
-        text: 'If you run a program and want to fix it and try again, press the "Reset" button.'
+        text: "ถ้าคุณรันโปรแกรมแล้วต้องการแก้ไข กรุณากดปุ่ม Reset"
       13:
         image: "notes/hoc1_13.jpg"
         text: "Let's go get those pigs!"

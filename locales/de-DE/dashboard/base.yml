@@ -50,7 +50,7 @@
     no_signup_header: "Warum erstellst du dir keinen Account?"
     no_signup_message: 'Du kannst <a target="_blank" href="http://learn.code.org">die verschiedenen Level und Puzzle</a> durchsuchen, aber um Deinen Fortschritt zu speichern musst Du dich anmelden.'
     prizes_header: "The first students to complete the course win prizes! (U.S. students only)"
-    prizes_message: "U.S. students who earn all %{num_trophies} concept trophies can select a variety of prizes including free Dropbox space, Skype credits, and downloadable games from Electronic Arts."
+    prizes_message: "US-Studenten, die alle %{num_trophies} Konzept-Trophäen gesammelt haben, können eine Vielzahl von Preisen einschließlich Dropbox-Speicherplatz, Skype-Guthaben und herunterladbare Spiele von Electronic Arts und Valve gewinnen."
     teacher_educator_guide: "Lehrer-Handbuch"
     teacher_prize_header: 'Gewinnen Sie $1,000 mit <a target="_blank" href="http://DonorsChoose.org">DonorsChoose.org</a> Belohnungen'
     teacher_prize_message: 'In Partnerschaft mit <a target="_blank" href="http://DonorsChoose.org">DonorsChoose.org</a> bieten Code.org bis zu $1.000 für die Klassenkasse, für Lehrer einer öffentlichen Schule in der USA, die mindestens 15 Schüler durch diesen Kurs führen. <a href="http://code.org/educate/20hr">Siehe Erzieher Leitfaden für mehr Information.</a> '
@@ -124,7 +124,7 @@
     error: "Dein Preis konnte nicht eingelöst werden, bitte versuche es erneut."
     error_us_only: "Die Preise sind nur für amerikanische Nutzer."
     error_not_earned: "Du hast diesen Preis noch nicht verdient."
-    error_already_redeemed: "Your prize has already been redeemed."
+    error_already_redeemed: "Dein Preis wurde bereits eingelöst."
     no_prizes_available: "Es tut uns leid, aber es stehen zur Zeit keine Preise zur Verfügung."
     confirm:
       title: "Bitte bestätigen"
@@ -150,7 +150,7 @@
       choose_teacher: "Click on the logo below to claim your prize:"
       earned: "Sie haben etwas gewonnen! (nur für amerikanische Studenten)"
       not_earned_title: "Finish the tutorial, earn rewards (U.S. students only)"
-      not_earned: "Learn all the computer science concepts, collect all %{num_trophies} trophies, and earn real-world prizes. You can choose between 10GB of free Dropbox space, $10 in Skype credits, and free game downloads. NOTE: offer only valid to U.S. students, and only as long as supplies last."
+      not_earned: "Lerne alle Konzepte der Informatik, sammle alle %{num_trophies} Trophäen und gewinne echte Preise. Du kannst zwischen 10GB freien Dropbox-Speicherplatz, $10 Skype-Guthaben und gratis Spiele-Downloads wählen. HINWEIS: Angebot gilt nur für US-Studenten und nur solange der Vorrat reicht."
       teacher:
         earned: "Zehn oder mehr Schüler haben alle %{num_trophies} Trophäen gesammelt. Sie haben den Lehrer-Preis gewonnen! (nur U.S. Lehrer)"
         not_earned_title: 'Teach the class, earn up to $1,000 in <a target="_blank" href="http://DonorsChoose.org">DonorsChoose.org</a> credits (U.S. teachers only)'
@@ -173,6 +173,8 @@
     confirm: "Bist du sicher?"
     created: "%{model} wurde erfolgreich erstellt."
     updated: "%{model} wurde erfolgreich aktualisiert."
+    destroyed: "%{model} was successfully deleted."
+    access_denied: "You do not have access to this %{model}."
   nav:
     header:
       finished_hoc: "Ich habe meine Programmierstunde beendet."
@@ -231,8 +233,8 @@
     student_progress: "Ihr Lernfortschritt"
     student_stats: 'Sie haben %{trophy_count} von %{trophy_max} "Concept Mastery" Trophäen.'
     student_left_off: "Wo Sie aufgehört haben:"
-    student_finished_prize: "You've completed all tutorials, claim your %{prize_link} and pick another class %{online_link} or at a %{local_school_link}"
-    student_finished: "You've completed all tutorials, pick another class %{online_link} or at a %{local_school_link}"
+    student_finished_prize: "Du hast alles Tutorials abgeschlossen, hole dir nun deinen %{prize_link} und wähle eine andere Klasse über den %{online_link} oder in deiner %{local_school_link}"
+    student_finished: "Du hast alle Tutorials abgeschlossen. Wähle eine andere Klasse %{online_link} oder in deiner %{local_school_link}"
     local_school: "örtliche Schule"
     online: "online"
     see_details: "Zeige Details"
@@ -257,8 +259,8 @@
   reference_area:
     title: "Brauchen Sie Hilfe?"
     subtitle: "Sehen Sie sich diese Videos und Hinweise an"
-    teacher: "See the solution"
-    auth_error: "You are not authorized to see the solution."
+    teacher: "Lösung sehen"
+    auth_error: "Du bist nicht berechtigt, die Lösung zu sehen."
   video:
     tab: "Video."
     notes: "Kein Video? Im Text Format anzeigen."
@@ -272,4 +274,4 @@
   next_stage: "Geschafft! Fahre mit dem nächsten Level fort."
   download_pdf: "Unterrichtsplan öffnen"
   share_code:
-    title: "Click 'Run program' to see my program in action"
+    title: "Klicke auf 'Programm ausführen', um mein Programm in Aktion zu sehen"
