@@ -2,11 +2,6 @@
 
 set -e
 
-function cp_out() {
-  echo "$1 => $2"
-  cp $1 $2
-}
-
 #locales=$(ls locales | grep -v 'en-US')
 locales='zh-CN'
 
@@ -21,14 +16,13 @@ for locale in $locales; do
   en_dir=locales/en-US/dashboard
 
   # Special case the un-prefixed Yaml file.
-  ruby ./lib/merge-yml.rb $en_dir/base.yml $loc_dir/base.yml $orig_dir/$locale.yml
+  ruby ./lib/merge-translation.rb "yml" $en_dir/base.yml $loc_dir/base.yml $orig_dir/$locale.yml
   perl -i ./lib/fix-ruby-yml.pl $orig_dir/$locale.yml
 
   # Merge in all the other Yaml files.
   for file in $(find $loc_dir -name '*.yml' -and -not -name 'base.yml'); do
     relname=${file#$loc_dir}
-    # cp_out $file $orig_dir${relname%.yml}.${locale}.yml
-    ruby ./lib/merge-yml.rb $en_dir$relname $file $orig_dir${relname%.yml}.${locale}.yml
+    ruby ./lib/merge-translation.rb "yml" $en_dir$relname $file $orig_dir${relname%.yml}.${locale}.yml
     perl -i ./lib/fix-ruby-yml.pl $orig_dir${relname%.yml}.${locale}.yml
   done
 
@@ -42,7 +36,7 @@ for locale in $locales; do
   # Copy JSON files.
   for file in $(find $loc_dir -name '*.json'); do
     relname=${file#$loc_dir}
-    cp_out $file $orig_dir${relname%.json}/${js_locale}.json
+    ruby ./lib/merge-translation.rb "json" $en_dir$relname $file $orig_dir${relname%.json}/${js_locale}.json
   done
 
 
@@ -55,7 +49,7 @@ for locale in $locales; do
   # Copy JSON files.
   for file in $(find $loc_dir -name '*.json'); do
     relname=${file#$loc_dir}
-    cp_out $file $orig_dir$relname
+    ruby ./lib/merge-translation.rb "json" $en_dir$relname $file $orig_dir$relname
   done
 
 
@@ -65,7 +59,7 @@ for locale in $locales; do
   en_dir=locales/en-US/pegasus
 
   # Merge YML file.
-  ruby ./lib/merge-yml.rb $en_dir/mobile.yml $loc_dir/mobile.yml $orig_dir/$locale.yml
+  ruby ./lib/merge-translation.rb "yml" $en_dir/mobile.yml $loc_dir/mobile.yml $orig_dir/$locale.yml
   perl -i ./lib/fix-ruby-yml.pl $orig_dir/$locale.yml
 
 

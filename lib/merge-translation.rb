@@ -1,6 +1,7 @@
 #!/usr/bin/ruby
 
 require 'yaml'
+require 'json'
 
 # Avoids previous translation to be overwritten by English translation.
 # This function iterates through the new_translation, and restore the previous
@@ -31,15 +32,31 @@ def merge_translation_tree(en_translation, new_translation, prev_translation)
   new_translation
 end
 
-en_translation = YAML.load_file("#{ARGV[0]}")
-new_translation = YAML.load_file("#{ARGV[1]}")
-prev_translation = YAML.load_file("#{ARGV[2]}")
+if ARGV[0] == "yml"
+  en_translation = YAML.load_file("#{ARGV[1]}")
+  new_translation = YAML.load_file("#{ARGV[2]}")
+  prev_translation = YAML.load_file("#{ARGV[3]}")
 
-# Get new translation
-new_translation[new_translation.keys[0]] =
-  merge_translation_tree(en_translation.values[0],
-                         new_translation.values[0],
-                         prev_translation.values[0])
-File.open("#{ARGV[2]}", 'w+') do |f|
-  f.write(new_translation.to_yaml)
+  # Get new translation
+  new_translation[new_translation.keys[0]] =
+    merge_translation_tree(en_translation.values[0],
+                           new_translation.values[0],
+                           prev_translation.values[0])
+
+  File.open("#{ARGV[3]}", 'w+') do |f|
+    f.write(new_translation.to_yaml)
+  end
+else
+  en_translation = JSON.parse(File.read("#{ARGV[1]}"))
+  new_translation = JSON.parse(File.read("#{ARGV[2]}"))
+  prev_translation = JSON.parse(File.read("#{ARGV[3]}"))
+
+  # Get new translation
+  new_translation = merge_translation_tree(en_translation,
+                                           new_translation,
+                                           prev_translation)
+
+  File.open("#{ARGV[3]}", 'w+') do |f|
+    f.write(JSON.pretty_generate(new_translation))
+  end
 end
