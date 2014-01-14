@@ -32,6 +32,7 @@ def merge_translation_tree(en_translation, new_translation, prev_translation)
   new_translation
 end
 
+# Translation begins
 if ARGV[0] == "yml"
   en_translation = YAML.load_file("#{ARGV[1]}")
   new_translation = YAML.load_file("#{ARGV[2]}")
@@ -60,3 +61,5 @@ else
     f.write(JSON.pretty_generate(new_translation))
   end
 end
+
+puts "#{ARGV[2]} + #{ARGV[1]} => #{ARGV[3]}"

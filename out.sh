@@ -2,8 +2,7 @@
 
 set -e
 
-#locales=$(ls locales | grep -v 'en-US')
-locales='zh-CN'
+locales=$(ls locales | grep -v 'en-US')
 
 for locale in $locales; do
 
@@ -67,16 +66,16 @@ done
 
 
 # Push translations to each sub project.
-#git submodule foreach git add .
-#git submodule foreach 'git commit --message=Translations --edit || true'
-#git submodule update --remote --rebase projects/*
-#for proj in $(ls projects); do
-#  proj_dir=projects/$proj
-#  branch=$(git config -f .gitmodules submodule.${proj_dir}.branch)
-#  (cd $proj_dir && git push origin HEAD:$branch)
-#done
+git submodule foreach git add .
+git submodule foreach 'git commit --message=Translations --edit || true'
+git submodule update --remote --rebase projects/*
+for proj in $(ls projects); do
+  proj_dir=projects/$proj
+  branch=$(git config -f .gitmodules submodule.${proj_dir}.branch)
+  (cd $proj_dir && git push origin HEAD:$branch)
+done
 
 # Commit submodules.
-#git add projects
-#git commit projects -m 'Updated submodules with latest translations'
-#git push origin master
+git add projects
+git commit projects -m 'Updated submodules with latest translations'
+git push origin master
