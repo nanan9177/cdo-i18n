@@ -54,6 +54,7 @@
     teacher_educator_guide: "Lásd a tanító segítségét"
     teacher_prize_header: 'Nyerj $1,000-t <a target="_blank" href="http://DonorsChoose.org">DonorsChoose.org</a>'
     teacher_prize_message: 'Együttműködve a <a target="_blank" href="http://DonorsChoose.org"> DonorsChoose.org</a> Code.org kínál akár $1,000-t  csoportot szervező USA állami iskolában  tanító tanárokak, akik legalább 15 diákok végigsegítenek a kurzuson. <a href="http://code.org/educate/20hr"> lásd a pedagógus útmutató további info.</a> '
+    teacher_prize_limits: '(Limit: $1,000 per teacher. <a target="_blank" href="http://help.donorschoose.org/app/answers/detail/a_id/454/kw/code.org">See FAQ for more limits</a>)'
     teacher_pitch: "Tanítsd az általános iskolás Bevezetés a Számítógépes Tudományba anyagot a tanteremben"
     teacher_title: "Tanár regisztrálás"
     student_pitch: "Túl az egy órán: próbáld ki a K-8 bevezetést a számítástechnika tudományába"
@@ -107,6 +108,8 @@
     mail:
       invite_student:
         subject: "Csatlakozz egy osztályhoz %{teacher_name} a Code.org-on belül!"
+      student_disassociated:
+        subject: "Code.org notification: %{student_name} is no longer associated as your student."
   reports:
     error:
       access_denied: "Nincs jogosultságod megtekinteni ennek a személyesnek a statisztikáját"
@@ -121,6 +124,7 @@
     error_not_earned: "Ezt a díjat még nem szerezted meg."
     error_already_redeemed: "A díjadat már megkaptad."
     no_prizes_available: "Sajnáljuk, jelenleg nincsenek elérhető díjak."
+    teacher_info_required: "Teacher prizes require school name and address information:"
     confirm:
       title: "Please Confirm"
       "no": No
@@ -194,6 +198,7 @@
     title:
       one: "A te tanárod %{name}"
       other: "A tanáraid:"
+    remove: "(remove teacher)"
     tools: "Tanári eszközök"
     students:
       manage: "Diákok kezelése"

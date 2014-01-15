@@ -50,10 +50,11 @@
     no_signup_header: "入会したくないですか？"
     no_signup_message: '<a target="_blank"href="http://learn.code.org"> いろいろなステージとパズルを見られます。</a>しかし、あなたの進捗状況を保存するために入会する必要があります。'
     prizes_header: "The first students to complete the course win prizes! (U.S. students only)"
-    prizes_message: "U.S. students who earn all %{num_trophies} concept trophies can select a variety of prizes including free Dropbox space, Skype credits, and downloadable games from Electronic Arts."
+    prizes_message: "コンセプトトロフィー %{num_trophies} こ（全部）を獲得した米国の学生は無料Dropbox、スカイプのクレジット、とかElectronic Artsからの無料ダウンロードできるゲームなど、バラエティにあふれる商品が選べます。"
     teacher_educator_guide: "教育者のガイドを参照してください。"
     teacher_prize_header: '100ドル賞金が当たります<a target="_blank" href="http://DonorsChoose.org">DonorsChoose.org</a> rewards'
     teacher_prize_message: '<a target="_blank" href="http://DonorsChoose.org">DonorsChoose.org</a>とパートナーを組んで,Code.orgでは $1,000を上限とするクラスで使う資金を、このコースの間に少なくとも15人の学生を導いた米国の公立学校の教師へ提供します。 <a href="http://code.org/educate/20hr">詳細は教育者ガイドを参考にしてください。</a> '
+    teacher_prize_limits: '(Limit: $1,000 per teacher. <a target="_blank" href="http://help.donorschoose.org/app/answers/detail/a_id/454/kw/code.org">See FAQ for more limits</a>)'
     teacher_pitch: "あなたの教室でK 8(幼稚園から８学年生）にコンピューター科学の紹介を教える。"
     teacher_title: "教師入会"
     student_pitch: "1 時間を超えて: 私たちのK 8 入門コンピューターサイエンスを試してみてください"
@@ -112,6 +113,8 @@
     mail:
       invite_student:
         subject: "%{teacher_name} のクラスを Code.org で参加 ！%{teacher_name}"
+      student_disassociated:
+        subject: "Code.org notification: %{student_name} is no longer associated as your student."
   reports:
     error:
       access_denied: "この人の統計情報へのアクセス権を持っていません。"
@@ -126,6 +129,7 @@
     error_not_earned: "あなたはまだこの賞を獲得していません。"
     error_already_redeemed: "あなたの賞金は既に換金されています。"
     no_prizes_available: "申し訳ありませんが、ただ今賞品がありません。"
+    teacher_info_required: "Teacher prizes require school name and address information:"
     confirm:
       title: "確認してください"
       "no": いいえ
@@ -170,8 +174,8 @@
     confirm: "確かですか。"
     created: "%{model} はエラーなく、作成されました。"
     updated: "%{model} はエラーなく更新しました。"
-    destroyed: "%{model} was successfully deleted."
-    access_denied: "You do not have access to this %{model}."
+    destroyed: "%{model}は正常に削除されました。"
+    access_denied: "この %{model} へのアクセスを必要はありません。"
   nav:
     header:
       finished_hoc: "コーディングの時間を終わる"
@@ -199,6 +203,7 @@
     title:
       one: "あなたの先生は%{name}です"
       other: "あなたの先生:"
+    remove: "(remove teacher)"
     tools: "教師のツール"
     students:
       manage: "学生の管理。"

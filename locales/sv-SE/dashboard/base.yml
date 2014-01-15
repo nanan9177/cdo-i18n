@@ -54,6 +54,7 @@
     teacher_educator_guide: "Se pedagogguiden"
     teacher_prize_header: 'Vinn $1&nbsp;000 i <a target="_blank" href="http://DonorsChoose.org"> DonorsChoose.org</a>-belöningar'
     teacher_prize_message: 'I samarbete med <a target="_blank" href="http://DonorsChoose.org"> DonorsChoose.org</a>, kommer Code.org att erbjuda upp till $1.000 i klassrummets finansiering till amerikanska offentliga skolors lärare som leder minst 15 studenter genom kursen. <a href="http://code.org/educate/20hr"> se pedagog guide för mer info.</a> '
+    teacher_prize_limits: '(Limit: $1,000 per teacher. <a target="_blank" href="http://help.donorschoose.org/app/answers/detail/a_id/454/kw/code.org">See FAQ for more limits</a>)'
     teacher_pitch: "Undervisa i Datakunskap, 6 - 15 år, i ditt klassrum"
     teacher_title: "Läraranmälnming"
     student_pitch: "Efter 1 timme: prova vår introduktion till datakunskap för 6-15 åringar"
@@ -112,6 +113,8 @@
     mail:
       invite_student:
         subject: "Gå med i en klass med %{teacher_name} på Code.org!"
+      student_disassociated:
+        subject: "Code.org notification: %{student_name} is no longer associated as your student."
   reports:
     error:
       access_denied: "Du har inte tillgång till denna personens uppgifter"
@@ -126,6 +129,7 @@
     error_not_earned: "Du har ännu inte tilldelats detta pris."
     error_already_redeemed: "Ditt pris har redan blivit aktiverat."
     no_prizes_available: "Vi beklagar, men vi har för närvarande inga tillgängliga priser."
+    teacher_info_required: "Teacher prizes require school name and address information:"
     confirm:
       title: "Vänligen bekräfta"
       "no": Nej
@@ -202,6 +206,7 @@
     title:
       one: "Din lärare är %{name}"
       other: "Dina lärare:"
+    remove: "(remove teacher)"
     tools: "Lärar-verktyg"
     students:
       manage: "Hantera elever"

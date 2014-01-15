@@ -17,7 +17,7 @@
   "finalLevel":"Onneksi olkoon! Olet suorittanut viimeisen pulman.",
   "heightParameter":"korkeus",
   "holePresent":"tässä on kuoppa",
-  "ifCode":"if",
+  "ifCode":"jos",
   "ifPathAhead":"jos edessä on polku",
   "ifTooltip":"Jos määrätyssä suunnassa on polku, niin suorita jokin toiminto.",
   "ifelseTooltip":"Jos määrätyssä suunnassa on polku, niin suorita ensimmäinen lohko toimintoja. Muuten suorita toinen lohko toimintoja.",

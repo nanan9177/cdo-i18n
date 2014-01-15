@@ -70,7 +70,7 @@
   "LISTS_CREATE_EMPTY_HELPURL":"http:\/\/en.wikipedia.org\/wiki\/Linked_list#Empty_lists",
   "LISTS_CREATE_EMPTY_TITLE":"建立空列表",
   "LISTS_CREATE_EMPTY_TOOLTIP":"返回一個長度為 0 的列表，不包含任何資料記錄",
-  "LISTS_CREATE_WITH_CONTAINER_TITLE_ADD":"加入",
+  "LISTS_CREATE_WITH_CONTAINER_TITLE_ADD":"清單變數",
   "LISTS_CREATE_WITH_CONTAINER_TOOLTIP":"添加、 刪除或重新排列各區塊來此重新配置這個 列表 積木。",
   "LISTS_CREATE_WITH_INPUT_WITH":"使用這些值建立列表",
   "LISTS_CREATE_WITH_ITEM_TOOLTIP":"將一個項目加入到列表中。",

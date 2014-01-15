@@ -58,6 +58,7 @@
     teacher_prize_message: |
       בשותפות עם <a target="_blank" href="http://DonorsChoose.org"> DonorsChoose.org </a>
       Code.org מציע לך מימון של עד 1000 דולר למימון כיתת למידה בארצות הברית למורים שמלמדים לפחות 15 תלמידים בקורס <a href="http://code.org/educate/20hr"> הסתכל מדריך למורה לעוד מידע </a>
+    teacher_prize_limits: '(Limit: $1,000 per teacher. <a target="_blank" href="http://help.donorschoose.org/app/answers/detail/a_id/454/kw/code.org">See FAQ for more limits</a>)'
     teacher_pitch: "למד את כיתות ח׳ הקדמה למדעי המחשב בכיתה שלך"
     teacher_title: "מורה, הרשם"
     student_pitch: "אחרי שעה: נסה את ההקדמה שלנו למדעי המחשב לכיתות ח׳"
@@ -119,6 +120,8 @@
     mail:
       invite_student:
         subject: "הצטרף לכיתה עם %{teacher_name} ב-Code.org!"
+      student_disassociated:
+        subject: "Code.org notification: %{student_name} is no longer associated as your student."
   reports:
     error:
       access_denied: "אין לך גישה לסטטיסטיקות של האדם הזה"
@@ -133,6 +136,7 @@
     error_not_earned: "עדיין לא השגת את הפרס הזה."
     error_already_redeemed: "Your prize has already been redeemed."
     no_prizes_available: "אנו מצטערים, אך כרגע אין לנו אף פרס זמין."
+    teacher_info_required: "Teacher prizes require school name and address information:"
     confirm:
       title: "Please Confirm"
       "no": לא
@@ -207,6 +211,7 @@
     title:
       one: "המורה שלך הוא %{name}"
       other: "המורים שלך:"
+    remove: "(remove teacher)"
     tools: "כלים למורה"
     students:
       manage: "נהל תלמידים"

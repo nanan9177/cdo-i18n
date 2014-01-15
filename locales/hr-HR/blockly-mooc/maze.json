@@ -17,7 +17,7 @@
   "finalLevel":"Čestitamo! Riješen je posljednji zadatak.",
   "heightParameter":"visina",
   "holePresent":"ovdje je rupa",
-  "ifCode":"if",
+  "ifCode":"ako",
   "ifPathAhead":"ako ima staze koja vodi ravno",
   "ifTooltip":"Ako staza ide u zadanom smjeru, onda napravi zadane radnje.",
   "ifelseTooltip":"Ako staza vodi u zadanom smjeru, onda napravi prvi grupu radnji, a inače napravi drugu grupu radnji.",

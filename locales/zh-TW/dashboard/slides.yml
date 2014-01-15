@@ -43,32 +43,32 @@
     artist_intro:
       1:
         image: "notes/stage5_1.jpg"
-        text: "Hi, I'm JR! Every race car team need computer scientists to win. They analyze data from the car to make it go faster."
+        text: "Hi，我是 JR！ 每一個車隊都需要電腦科學協助他們贏得比賽。透過賽程中車體的資料分析，將可以使車子跑得更快。"
       2:
         image: "notes/stage5_2.jpg"
-        text: "In these puzzles, you'll be an artist that draws a line behind them everywhere they go."
+        text: "在這些關卡中，你將扮演一名四處走動並留下繪畫線條的藝術家。"
       3:
         image: "notes/stage5_3.jpg"
-        text: 'This block says "move forward by 100 pixels." Pixels are just really tiny dots on your screen.'
+        text: '這個程式積木的意思是"向前移動100個像素"。像素指的是電腦螢幕上的小點點。'
       4:
         image: "notes/stage5_4.jpg"
-        text: 'This block says "turn right by 90 degrees." This will turn your artist the same amount as the "turn" blocks in the maze puzzles.'
+        text: '這個程式積木說的是"向右轉90度"。這個動作就像你在"迷宮"關卡中，使用"轉動"程式積木來轉動藝術家是同樣的效果喔。'
       5:
         image: "notes/stage5_5.jpg"
-        text: "Click on the arrow in either of these blocks to change the amount the artist moves forward or turns. Play around to get familiar with these new blocks."
+        text: "點選程式積木中的箭頭來改變藝術家的動作，使他向前遺動或是轉彎。試著隨意玩玩並熟悉這些新的程式積木的功能。"
     farmer_intro:
       1:
         image: "notes/stage9_1.jpg"
-        text: "Hi, I'm Paola! In these puzzles, you're a farmer who has to get her field completely flat to start planting crops."
+        text: "你好，我是 Paola ！在這些關卡中，你是一個必需將田地整平，好用來種植農作物的農夫。。"
       2:
         image: "notes/stage9_2.jpg"
-        text: "You have to help her remove all the piles of dirt and fill in all the holes."
+        text: "你必需幫助她將所有小土堆移除，並將所有的坑洞填滿。"
       3:
         image: "notes/stage9_3.jpg"
-        text: "The new blocks remove 1 shovelful of dirt from a pile and fill in 1 shovelful of dirt to a hole."
+        text: '新的程式積木"移除1"將從小土堆移除一鏟的泥土，"填滿1"將往坑洞中填入一鏟的泥土。'
       4:
         image: "notes/stage9_4.jpg"
-        text: "The piles and holes are different sizes, so you have to tell the farmer how many shovelfuls to use."
+        text: "每一個小土堆和坑洞的大小都不相同，所以你必需告訴農夫她要使用幾鏟來完成工作。"
     loop_times:
       1:
         image: "notes/hoc2_1.jpg"
@@ -142,7 +142,7 @@
     function:
       1:
         image: "notes/stage13_1.jpg"
-        text: "Hi, I'm Brina, an engineer at Instagram. A function is certain lines of code that you want to use over and over again, so instead of writing that code out everytime, you can just use one block."
+        text: "Hi, 我是 Brina 來是 Instagram的工程師。函數指的是會重覆使用到的程式碼，因此你可以使用函數類別的程式積木來取代重覆出現的大量程式碼。"
       2:
         image: "notes/stage13_2.jpg"
         text: "We're going to learn how to define functions. Function definitions have a star in the corner. The name of the function is written on the top line."
@@ -204,10 +204,10 @@
         text: 'Then click on the star. Now, you want to click on the variables category and drag the "length" block into the "move forward" block of your function definition. And drag away the old number block.'
       7:
         image: "notes/stage15_7.jpg"
-        text: 'To use your function with parameters, click on the functions category and drag out your "draw a triangle with length" function.'
+        text: '要使用具有參數的函數功能，只需點選函數類別，然後將函數"畫一個長度為...的三角形"程式積木拖拉到出來就行了。'
       8:
         image: "notes/stage15_8.jpg"
-        text: "Now you can use the math block to input different numbers to draw triangles of different sizes."
+        text: "現在您可以使用數學類別的程式積木，輸入不同的數值來畫出不同大小的三角形。"
     hoc_wrapup:
       1:
         image: "notes/hoc6_1.jpg"
@@ -224,4 +224,4 @@
     20_wrapup:
       1:
         image: "notes/bird.png"
-        text: "Show notes coming soon!"
+        text: "顯示備註即將推出 ！"

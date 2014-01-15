@@ -54,6 +54,7 @@
     teacher_educator_guide: "Katso opettajan opas"
     teacher_prize_header: "(sivustolla mainitut raha- ja tavarapalkinnot ovat voimassa vain USA:ssa)"
     teacher_prize_message: 'Yhteistyössä <a target="_blank" href="http://DonorsChoose.org">DonorsChoose.org</a>:in kanssa Code.org tarjoaa jopa tuhat dollaria luokkarahoitusta yhdysvaltalaisten valtion koulujen opettajille, jotka opastavat vähintään 15 opiskelijaa läpi tästä kurssista. <a href="http://code.org/educate/20hr">Katso lisätiedot opettajan oppaasta.</a> '
+    teacher_prize_limits: '(Limit: $1,000 per teacher. <a target="_blank" href="http://help.donorschoose.org/app/answers/detail/a_id/454/kw/code.org">See FAQ for more limits</a>)'
     teacher_pitch: "Opeta ala-asteen tietojenkäsittelyn johdantoa luokallesi"
     teacher_title: "Opettajien rekisteröityminen"
     student_pitch: "Ensimmäisen tunnin jälkeen: kokeile ala-asteen tietojenkäsittelyn johdantoa"
@@ -112,6 +113,8 @@
     mail:
       invite_student:
         subject: "Liity opettajan %{teacher_name} luokkaan Code.org:ssa!"
+      student_disassociated:
+        subject: "Code.org notification: %{student_name} is no longer associated as your student."
   reports:
     error:
       access_denied: "Sinulla ei ole oikeutta katsella tämän henkilön tietoja"
@@ -126,6 +129,7 @@
     error_not_earned: "Et ole vielä ansainnut tätä palkintoa."
     error_already_redeemed: "Palkintosi on jo lunastettu."
     no_prizes_available: "Pahoittelemme, mutta tällä hetkellä ei ole palkintoja saatavilla."
+    teacher_info_required: "Teacher prizes require school name and address information:"
     confirm:
       title: "Vahvista"
       "no": Ei
@@ -176,8 +180,8 @@
     confirm: "Oletko varma?"
     created: "%{model} luotiin onnistuneesti."
     updated: "%{model} päivitettiin onnistuneesti."
-    destroyed: "%{model} was successfully deleted."
-    access_denied: "You do not have access to this %{model}."
+    destroyed: "%{model} poistaminen onnistui."
+    access_denied: "Sinulla ei ole pääsyä tähän %{model}."
   nav:
     header:
       finished_hoc: "Olen suorittanut Koodituntini"
@@ -211,6 +215,7 @@
     title:
       one: "Opettajasi on %{name}"
       other: "Opettajasi:"
+    remove: "(remove teacher)"
     tools: "Opettajan työkalut"
     students:
       manage: "Hallinnoi oppilaita"

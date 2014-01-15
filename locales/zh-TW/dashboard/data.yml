@@ -25,34 +25,34 @@
           Artist5: "階段 19"
           Unplug11: "階段 20"
         Hour of Code:
-          desc: "Hour of Code"
+          desc: "一小時的程式碼"
           Maze: "階段 1"
         Edit Code:
           desc: "編輯程式碼"
           MazeEC: "階段 1"
     game:
       name:
-        Unplug1: "Introduction to Computer Science"
-        Maze: "The Maze"
-        Unplug2: "Computational Thinking"
-        Unplug3: "Graph Paper Programming"
-        Artist: "The Artist"
-        Unplug4: "Algorithms"
-        Artist2: "The Artist 2"
+        Unplug1: "電腦科學導論"
+        Maze: "迷宮"
+        Unplug2: "電腦計算式思維"
+        Unplug3: "圖畫紙程式設計"
+        Artist: "藝術家"
+        Unplug4: "演算法"
+        Artist2: "藝術家 2 號"
         Unplug5: "函數"
-        Farmer: "The Farmer"
-        Unplug6: "Conditionals"
-        Artist3: "The Artist 3"
+        Farmer: "農夫"
+        Unplug6: "條件式陳述"
+        Artist3: "藝術家 3 號"
         Unplug7: "歌曲創作"
-        Farmer2: "The Farmer 2"
-        Unplug8: "Abstraction"
-        Artist4: "The Artist 4"
-        Unplug9: "Relay Programming"
-        Farmer3: "The Farmer 3"
-        Unplug10: "The Internet"
-        Artist5: "The Artist 5"
-        Unplug11: "Wrap-up"
-        MazeEC: "The Maze"
+        Farmer2: "農夫 2 號"
+        Unplug8: "抽象"
+        Artist4: "藝術家 4 號"
+        Unplug9: "接力式程式設計"
+        Farmer3: "農夫 3 號"
+        Unplug10: "網際網路"
+        Artist5: "藝術家 5 號"
+        Unplug11: "總結"
+        MazeEC: "迷宮"
     trophy:
       name:
         Bronze: "銅"
@@ -60,15 +60,15 @@
         Gold: "金"
     concept:
       description:
-        sequence: "Sequence"
-        if: "If block"
-        if_else: "If-else block"
-        loop_times: "Repeat times block"
-        loop_until: "Repeat until block"
-        loop_while: "While block"
-        loop_for: "Counter block"
+        sequence: "序列 "
+        if: '"如果" 程式積木'
+        if_else: '"如果-否則" 程式積木'
+        loop_times: "重覆多少次 程式積木"
+        loop_until: '"重覆直到" 程式積木'
+        loop_while: '"當....時" 程式積木'
+        loop_for: '"計數" 程式積木'
         function: "函數"
-        parameters: "Functions with parameters"
+        parameters: "具有參數的函數"
     level:
       instructions:
         maze_2_2: '你可以幫我抓住這淘氣的豬嗎？堆疊幾個"向前"塊在一起，然後按"運行程式"來幫我。'
@@ -120,14 +120,13 @@
         maze_karel_1_6: '移除所有成堆的泥土，盡可能使用較少的塊。新的選項在下拉式功能表中的"while"塊上告訴我是否我站在一堆或一個洞上。'
         maze_karel_1_7: "哇，我發現一個很深的洞 ！我不知道它需要多少鏟子量的泥土。您可以寫一個程式來將它填充直到地面是平的嗎？"
         maze_karel_1_8: "幫我在該欄位尾端使用盡可能少的塊來把坑填滿。"
-        maze_karel_1_9: 'Make me remove all these piles of dirt. Try to use as few blocks as possible. Hint: try using a "while" block.'
+        maze_karel_1_9: '試著盡可能使用最少的程式積木，讓我將所有的小土丘通通移除。提示：試著使用"當...時"程式積木。'
         maze_karel_1_10: '我工作很晚，所以外面很黑，我不能知道土堆有多大。現在我用還沒有所有我能使用的選項塊在"當..."塊上。讓我延著田地邊移動，並移動它，如果有土堆。'
-        maze_karel_1_11: |-
-          It's still dark outside. Move me along the field. If there is a pile, remove it, and if there is a hole, fill it in. Hint: use the dropdown menu of options on the "if" block.
+        maze_karel_1_11: '現在外面還是一片漆黑。將我沿著田地移動，如果有土丘就將它移除，如果有坑洞就將它填滿。提示：使用"如果"程式積木選項中的下拉式選單。'
         turtle_2_1: "你好。我僵屍的表演者。我愛繪圖 ！幫我用特殊顏色來畫一個正方形。重要說明： 您有所有同樣的塊，但他們現在已經安置在各類別中。"
-        turtle_2_2: 'Welcome to using functions, which let you define new blocks! Try the new "draw a square" block, found in the "Functions" category, to draw a small 50x50 green square.'
-        turtle_2_3: 'Use the "repeat" block (in the "Loops" category) to draw 3 squares of size 100, each 120 degrees apart. And do it in 3 different, random colors.'
-        turtle_2_4: "Now we're going to get fancy. Change the code to draw 36 squares, 100 pixels wide, and each 10 degrees apart. Hint: you may want to use the slider to make me go faster."
+        turtle_2_2: '歡迎使用"函數類別"，在這裡你可以定義新的程式積木！你可以在"函數類別"中找到新的"畫一個正方形"程式積木，試著使用它畫一個 "50x50" 的 "綠色" 正方形。'
+        turtle_2_3: '使用"重覆"程式積木(在"迴圈類別"目錄下)，畫出三個大小為100的正方形，每個角度差120度。同時使用三個不同的隨機顏色來繪製。'
+        turtle_2_4: '現在讓我們試著繪製花式的圖形吧。改變程式碼畫出36個正方形，寬度100像素，每個相差10度。提示：你可能會想使用下方的"滑桿"來讓我走得更快些。'
         turtle_2_5: '繪製邊為 50、 60、 70、 80、90 畫素的正方形。您需要使用"繪製一個正方形"的函數五次。'
         turtle_2_6: '好的, 這程式將使用一個計數器，來最後一次繪製同樣的正方形。你想要這正方形，將和計數器的大小相同，因此，使用這"計數器"塊。提示： 它是在變數類別中。'
         turtle_2_7: '這裡是一個繪製一個螺旋的程式，但塊將被禁用，因此它們不會執行。使一個新程式使用"計數..."塊 (在迴圈類別） 和"計數器"塊 (在變數類別） 繪製相同的螺旋。'
@@ -139,15 +138,15 @@
         maze_karel_2_2: '我們定義了這在函數類別中稱為"填充 5"的塊。使用它來協助我填充這洞。'
         maze_karel_2_3: '使用新的"填充 5"功能塊，使我填充所有的洞。你得從函數類別拉出"填充 5"塊來。'
         maze_karel_2_4: "定義一個新的函數來移除 7 個鏟子量的土堆。然後使用它寫一個程式來協助我移除所有土堆。"
-        maze_karel_2_5: "Create a new function that removes 6 shovelfuls from a pile, and use it to help me level out all the piles."
-        maze_karel_2_6: 'Use two new functions, "fill 8" and "remove 8", to help me level out the pile and fill in the hole.'
+        maze_karel_2_5: '建立一個新"函數"，可以從土堆中移除6鏟泥土，使用它來幫助我擺脫這些土堆。'
+        maze_karel_2_6: '使用兩個新函數，"填充 8"及"移除 8"幫我移除所有的土堆及填滿所有的坑洞。'
         maze_karel_2_7: "在我的田地上有一頭母牛! 寫一個新的函數來協助我避開母牛並將土堆移除。把你的所有塊放在新函數內。"
         maze_karel_2_8: '使用這個新功能"避開母牛和移除 1 "，來協助我移除所有土堆。'
         maze_karel_2_9: "好的，這裡是一個在垂直列中移除 4 堆不同泥土堆的函數。請嘗試將此函數放在迴圈中，以便您移除所有成堆的泥土在只使用幾個塊下。"
         maze_karel_2_10: "移動我越過這田地，並用這兩個函數來協助我移除所有土堆和填充所有的洞。"
         turtle_3_1: '這個謎題向您顯示"畫一個正方形"和"畫圓"函式是如何定義的。定義一個不能運行其塊的函數。你必須拉出"繪製一個正方形"塊實際上畫一個正方形。'
         turtle_3_2: '使用"繪製一個正方形"的函數作為一個例子，創建一個"畫一個三角形"的函數，並使用它。'
-        turtle_3_3: "Draw triangular fences around the cats and a square fence around the cow.  Tip: test the program as you go along."
+        turtle_3_3: "在貓的周圍畫一個三角形的籬巴，在牛的周圍畫一個正方形的籬巴。提示：你可以邊寫程式邊測試。"
         turtle_3_4: '看看是否你能找出如何使用"繪製一個正方形"和"繪製一個三角形"（和一些其他塊）來畫一個房子在獅子周圍。'
         turtle_3_5: '現在創建一個新的"畫房子"的函數，並使用它來藏兩只貓。提示： 創建一個新的函數，使用"做點什麼"塊，並鍵入您自己的文字來為區塊的命名。'
         turtle_3_6: '使用"繪製一個正方形"為例，添加命名為"長度"的輸入來"繪製一個三角形"。然後，用不同的大小繪製三角形。（提示： 請按一下星星來添加一個輸入到函數)'
@@ -164,35 +163,34 @@
         maze_karel_debug_function_1: "你應該改變有關此程式的什麼來幫我移除所有的土堆？"
         maze_karel_debug_function_2: "你可以除錯此程式因此我可以使我的田地平坦嗎？"
         maze_karel_debug_function_3: "編輯此程式所以我會移除所有在我的田地上的土堆。"
-        turtle_5_1: "Try running this program, and make changes to see what happens. Can you figure out how it works? (Or delete it and replace it with something totally different)"
-        turtle_5_2: "Try running this program, and make changes to see what happens. Can you figure out how it works? (Or delete it and replace it with something totally different)"
-        turtle_5_3: "Try running this program, and make changes to see what happens. Can you figure out how it works? (Or delete it and replace it with something totally different)"
-        turtle_5_4: "Try running this program, and make changes to see what happens. Can you figure out how it works? (Or delete it and replace it with something totally different)"
-        turtle_5_5: "Try running this program, and make changes to see what happens. Can you figure out how it works? (Or delete it and replace it with something totally different)"
-        turtle_5_6: "Try running this program, and make changes to see what happens. Can you figure out how it works? (Or delete it and replace it with something totally different)"
+        turtle_5_1: "試著執行這個程式，然後做些改變看看它會發生什麼事情。你能清楚的知道它是怎麼運作的嗎？(或著刪除它，然後用完全不同的程式碼來取代它)"
+        turtle_5_2: "試著執行這個程式，然後做些改變看看它會發生什麼事情。你能清楚的知道它是怎麼運作的嗎？(或著刪除它，然後用完全不同的程式碼來取代它)"
+        turtle_5_3: "試著執行這個程式，然後做些改變看看它會發生什麼事情。你能清楚的知道它是怎麼運作的嗎？(或著刪除它，然後用完全不同的程式碼來取代它)"
+        turtle_5_4: "試著執行這個程式，然後做些改變看看它會發生什麼事情。你能清楚的知道它是怎麼運作的嗎？(或著刪除它，然後用完全不同的程式碼來取代它)"
+        turtle_5_5: "試著執行這個程式，然後做些改變看看它會發生什麼事情。你能清楚的知道它是怎麼運作的嗎？(或著刪除它，然後用完全不同的程式碼來取代它)"
+        turtle_5_6: "試著執行這個程式，然後做些改變看看它會發生什麼事情。你能清楚的知道它是怎麼運作的嗎？(或著刪除它，然後用完全不同的程式碼來取代它)"
         maze_3_1: "我要去抓那頭豬 ！輸入幾個呼叫 move() 的程式；那我可以拿我的蛋回來。"
         maze_3_2: "給我寫一個程式，所以我可以用它抓到那頭豬。"
         maze_3_3: "我應該如何抓到那頭豬？確保我不會碰到那 TNT 的盒子！"
-        maze_3_4: "Argh! Write me a program that gets me around the TNT and to the pig."
+        maze_3_4: "阿！給我一個程式讓我可以繞過那些TNT炸藥，然後抓到那隻豬。"
       levelIncompleteError:
-        maze_2_8: 'To solve this, find the pattern that repeats. Use a "repeat" block with these 3 blocks inside it: move, move, turn right.'
+        maze_2_8: '要解決這個關卡，請找出重覆的片斷。使用"重覆"程式積木將: 前進，前進，右轉 這三個程式積木包在其中。'
       other1StarError:
-        maze_2_14: |-
-          You need an "if" block inside a "repeat" block. If you're having trouble, try the previous level again to see how it worked.
+        maze_2_14: '你需要將"如果"程式積木放在"重覆"程式積木中。如果遇到困難，試著回到前一個階段看看它是如何運作的。'
       tooFewBlocksMsg:
-        maze_2_8: 'To solve this, find the pattern that repeats. Use a "repeat" block with these 3 blocks inside it: move, move, turn right.'
+        maze_2_8: '要解決這個關卡，請找出重覆的片斷。使用"重覆"程式積木將: 前進，前進，右轉 這三個程式積木包在其中。'
     video:
       name:
-        maze_intro: "Maze Intro"
-        artist_intro: "Artist Intro"
-        farmer_intro: "Farmer Intro"
-        loop_times: "Repeat Times Block"
-        loop_until: "Repeat Until Block"
-        if: "If Block"
-        if_else: "If/else Block"
+        maze_intro: "迷宮簡介"
+        artist_intro: "藝術家簡介"
+        farmer_intro: "農夫簡介"
+        loop_times: '"重覆...次"程式積木'
+        loop_until: '"重覆...直到"程式積木'
+        if: '"如果"程式積木'
+        if_else: '"如果..否則"程式積木'
         function: "函數"
-        loop_while: "While Block"
-        loop_for: "Counter Block"
-        parameters: "Functions with Parameters"
-        hoc_wrapup: "Hour of Code Wrapup"
-        20_wrapup: "20-Hour Wrapup"
+        loop_while: '"當...時"程式積木'
+        loop_for: '"計數" 程式積木'
+        parameters: "具有參數的函數"
+        hoc_wrapup: "一小時程式碼總結"
+        20_wrapup: "20小時課程總結"

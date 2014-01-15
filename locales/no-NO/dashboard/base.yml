@@ -54,6 +54,7 @@
     teacher_educator_guide: "Se lærerveiledningen"
     teacher_prize_header: '(Kun i USA) Vinn $1,000 i <a target="_blank" href="http://DonorsChoose.org">DonorsChoose.org</a> premier'
     teacher_prize_message: 'I samarbeid med <a target="_blank" href="http://DonorsChoose.org"> DonorsChoose.org</a> tilbyr Code.org opp til $1000 til USAs offentlig ansatte skolelærere som leder minst 15 elever gjennom dette kurset. <a href="http://code.org/educate/20hr"> se pedagog guide for mer info.</a> '
+    teacher_prize_limits: '(Limit: $1,000 per teacher. <a target="_blank" href="http://help.donorschoose.org/app/answers/detail/a_id/454/kw/code.org">See FAQ for more limits</a>)'
     teacher_pitch: "Lær bort ungdomsskolepensum i informatikk i klassen"
     teacher_title: "Påmelding for lærere"
     student_pitch: "Utover 1 time: Prøv vårt ungdomsskole-introduksjon til informatikk"
@@ -112,6 +113,8 @@
     mail:
       invite_student:
         subject: "Bli med i en av klassene til %{teacher_name} på Code.org!"
+      student_disassociated:
+        subject: "Code.org notification: %{student_name} is no longer associated as your student."
   reports:
     error:
       access_denied: "Du har ikke tilgang til denne personens statistikk"
@@ -126,6 +129,7 @@
     error_not_earned: "Du har ikke ennå fortjent denne premien."
     error_already_redeemed: "Premien din har allerede blitt innløst."
     no_prizes_available: "Beklager, men vi har ingen premiene tilgjengelig."
+    teacher_info_required: "Teacher prizes require school name and address information:"
     confirm:
       title: "Vennligst bekreft"
       "no": Nei
@@ -199,6 +203,7 @@
     title:
       one: "%{name} er læreren din"
       other: "Dine lærere:"
+    remove: "(remove teacher)"
     tools: "Lærerverktøy"
     students:
       manage: "Administrer elever"

@@ -26,10 +26,10 @@
   of: "的"
   more: "更多"
   less: "更少"
-  try_hoc: "Try the Hour of Code, click here >> "
-  try_k8intro: "Or, try our K-8 Intro to Computer Science Course (15-25 hours)"
+  try_hoc: "試試看一小時的程式碼，請按一下這裡 >>"
+  try_k8intro: "或試試我們提供給 K-8 的電腦科學簡介課程 (15-25 小時)"
   already_started: "已經開始了嗎？從這裡繼續 >>"
-  demos: "Admin: All Demos"
+  demos: "管理者：示範"
   continue: "繼續 "
   prize: "prize"
   more_info: "更多的資訊"
@@ -46,17 +46,18 @@
     need_confirmation: "沒有收到確認的說明嗎？"
     need_unlock: "沒收到解鎖說明嗎？"
   signup_form:
-    overview: "This 20-hour course introduces core computer science and programming concepts. The course is designed for use in classrooms for grades K-8, but it is fun to learn at all ages."
+    overview: "這 20 小時課程將介紹核心電腦科學和程式設計的概念。本課程是設計給 K-8 年級的學生在教室內使用，但對所有年齡的人來說，也能以有趣的方式透過本課程來進行學習。"
     no_signup_header: "不想註冊嗎？"
     no_signup_message: '您可以 <a target="_blank"href="HTTP://learn.code.org"> 流覽各個階段和關卡</a>，但您需要註冊以保存您的進度。'
     prizes_header: "The first students to complete the course win prizes! (U.S. students only)"
-    prizes_message: "U.S. students who earn all %{num_trophies} concept trophies can select a variety of prizes including free Dropbox space, Skype credits, and downloadable games from Electronic Arts."
+    prizes_message: "贏得所有 %{num_trophies} 個概念獎盃的美國學生，可以以下項目中選取獎品，包括免費的DropBox空間、Skype點數及EA所提供的遊戲下載。"
     teacher_educator_guide: "請參閱教育者指南"
     teacher_prize_header: ' 在 <a target="_blank" href="http://DonorsChoose.org">DonorsChoose.org</a>贏得 $1,000 獎勵'
-    teacher_prize_message: 'In partnership with <a target="_blank" href="http://DonorsChoose.org">DonorsChoose.org</a>, Code.org will offer up to $1,000 in classroom funding to U.S. public school teachers who lead at least 15 students through this course. <a href="http://code.org/educate/20hr">See educator guide for more info.</a> '
-    teacher_pitch: "Teach the K-8 Intro to Computer Science in your classroom"
+    teacher_prize_message: '透過與 <a target="_blank" href="http://DonorsChoose.org">DonorsChoose.org</a>合作。 Code.org 將為帶領至少15位學生參加本次課程的全美公立學校提供$1000的教學基金。 <a href="http://code.org/educate/20hr">更詳細的訊息請參閱教師指南。</a> '
+    teacher_prize_limits: '(Limit: $1,000 per teacher. <a target="_blank" href="http://help.donorschoose.org/app/answers/detail/a_id/454/kw/code.org">See FAQ for more limits</a>)'
+    teacher_pitch: "在您的班上進行K-8電腦科學簡介課程。"
     teacher_title: "教師註冊"
-    student_pitch: "Beyond 1 hour: try our K-8 Intro to Computer Science"
+    student_pitch: "在一小時之後：試試我們的K-8電腦科學簡介課程"
     student_title: "註冊帳號"
     school_name: "學校名稱 （選填）"
     school_address: "學校地址 （選填）"
@@ -71,8 +72,8 @@
     valid_password: "有效的密碼 ！"
     invalid_password: "密碼必須至少要 6 個字元"
     mismatch_password: "您輸入的兩次密碼不一樣"
-    student_terms: "I agree to be bound by the Code.org terms of service. If I am under 13 years of age, I confirm by submitting this form that I have my parent or legal guardian's permission to use the Code.org services."
-    teacher_terms: "I agree to be bound by the Code.org terms of service."
+    student_terms: "我同意遵手Code.org的服務條款。如果我的年齡小於13歲，當我確認送出此表單的同時，我已經取得父母或法定監護人的允許，來使用 Code.org 的服務。"
+    teacher_terms: "我同意接受 Code.org服務條款的約束。"
   signin_form:
     title: "登入"
     login: "電子郵件或使用者名稱"
@@ -83,35 +84,37 @@
     reset_form:
       title: "忘記密碼？"
       email: "電子郵件地址"
-      submit: "Send me reset password instructions"
+      submit: "將重設密碼的操作說明寄送給我"
     change_form:
       title: "更改您的密碼"
       new_password: "新密碼"
       confirm_password: "確認新密碼"
       submit: "更改我的密碼"
   welcome_email:
-    subject: "Join my class (on Code.org)"
+    subject: "加入我(在 Code.org)的班級"
     body: |
-      Click the link below to sign up for computer science tutorials on Code.org (with me as your "teacher"):
+      點選下方的超連結來報名參加在 Code.org 的電腦科學課程(我將成為你的"老師")：
       
       %{link}
       
-      The tutorials are fun, visually engaging, and teach the basic concepts of computer science using a simple, guided, game-like experience. Learn to code from Bill Gates, Mark Zuckerberg, Angry Birds, and Plants vs. Zombies! :-)
+      這是一個絕對會引起你注意的有趣課程，透過遊戲式的簡易引導，你將學會有關電腦科學的基本概念。快來跟比爾‧蓋茲(Bill Gates)，馬克‧佐柏克(Mark Zuckerberg)、奮怒鳥(Angry Birds)以及植物大戰殭屍(Plants vs. Zombies)一起學習程式設計吧！ :)
       
       %{name}
   follower:
-    invite_sent: "Invite sent"
-    added_teacher: "%{name} added as your teacher"
+    invite_sent: "邀請已發送"
+    added_teacher: "%{name} 已新增為你的老師"
     registered: "你已經用 %{section_name}註冊。"
     error:
       signed_in: "請在繼續之前登出"
       username_not_found: "找不到使用者 %{username}"
-      username_in_use: "%{username} is already taken, please pick another"
-      no_teacher: "Could not find anyone signed in with '%{teacher_email_or_code}'. Please ask them to sign up here and then try adding them again"
-      blank_code: "Please enter a code or your teacher's email address"
+      username_in_use: "%{username} 已經被使用了，請重新挑選一個。"
+      no_teacher: "找不到以 %{teacher_email_or_code}註冊的使用者。請邀請他們到這註冊，然後再嘗試新增他們。"
+      blank_code: "請輸入代碼或著是你的老師的電子郵件地址"
     mail:
       invite_student:
-        subject: "Join a class with %{teacher_name} at Code.org!"
+        subject: "加入%{teacher_name}老師在Code.org的班級。"
+      student_disassociated:
+        subject: "Code.org notification: %{student_name} is no longer associated as your student."
   reports:
     error:
       access_denied: "您不能讀取此人的統計資訊"
@@ -125,14 +128,15 @@
     error_us_only: "這個獎項只提供給美國使用者。"
     error_not_earned: "你還沒有獲得這一個獎項。"
     error_already_redeemed: "您獲得的獎金已經兌現。"
-    no_prizes_available: "We're sorry, but we currently have no prizes available."
+    no_prizes_available: "很抱歉，目前我們無法提供獎品。"
+    teacher_info_required: "Teacher prizes require school name and address information:"
     confirm:
       title: "Please Confirm"
       "no": No
       "yes": Yes
       msg: "Are you sure you want to claim the %{prize_name} prize?"
       msg_student: "NOTE: You can only choose one type of prize."
-      msg_publicschool: "Please confirm that you are a U.S. public school teacher."
+      msg_publicschool: "請確認您是美國公立學校的老師。"
       msg_visit_website: "Visit website"
     providers:
       apple_itunes: "$10 iTunes Gift Card"
@@ -148,33 +152,36 @@
     msg:
       choose: "Choose a prize:"
       choose_teacher: "Click on the logo below to claim your prize:"
-      earned: "You have earned a prize! (U.S. students only)"
+      earned: "你贏得了獎品！（僅適用於美國學生）"
       not_earned_title: "Finish the tutorial, earn rewards (U.S. students only)"
-      not_earned: "Learn all the computer science concepts, collect all %{num_trophies} trophies, and earn real-world prizes. You can choose between 10GB of free Dropbox space, $10 in Skype credits, and free game downloads. NOTE: offer only valid to U.S. students, and only as long as supplies last."
+      not_earned: "學習所有的電腦科學概念，並收集完所有 %{num_trophies}個獎盃，就能獲得真實世界的獎品。您可以選擇 10 GB 的 Dropbox 空間，10美元的Skype儲值或是免費遊戲下載。注意：獎項僅適用於美國學生，並僅有在獎品供應持續的情況下適用。"
       teacher:
-        earned: "10 or more students collected all %{num_trophies} trophies. You have won a teacher prize! (U.S. teachers only)"
+        earned: "10個以上的學生已經收及完所有 %{num_trophies}個獎盃。你贏得了教師獎章！(僅限美國教師)"
         not_earned_title: 'Teach the class, earn up to $1,000 in <a target="_blank" href="http://DonorsChoose.org">DonorsChoose.org</a> credits (U.S. teachers only)'
-        not_earned: 'To reward first-time computer science teachers, you can earn up to $1,000 in <a href="http://DonorsChoose.org">DonorsChoose.org</a> credits for guiding a classroom through the K-8 intro course. To qualify, you need to successfully host a classroom of at least 15 students through the entire K-8 intro course, with all 15 students (or more) completing all tutorials and earning all %{num_trophies} trophies. If 7 or more of the students who earn all of the trophies are girls, your reward is $1,000 in <a target="_blank" href="http://DonorsChoose.org">DonorsChoose.org</a> credits. Otherwise, your reward is $750 in <a target="_blank" href="http://DonorsChoose.org">DonorsChoose.org</a> credits.  <a target="_blank" href="http://DonorsChoose.org">DonorsChoose.org</a> credits can only be used by teachers in U.S. public schools.'
+        not_earned: |
+          為了獎勵第一次參與電腦科學課程的教師，透過指導一整個班級進行K-8的入門課程，您將有機會贏取由<a href="http://DonorsChoose.org">DonorsChoose.org</a>所提供高達$1000美元的儲值。符合資格的門檻為，你必需指導班上超過15名學生完成K-8的入門課程，所有參加學生必需完成所有課程並獲取所有 %{num_trophies}個獎盃。如果有超過7個女學生獲得所有獎盃，獎勵為$1000美元<a href="http://DonorsChoose.org">DonorsChoose.org</a>儲值。其它情況獎勵為為$750美元<a href="http://DonorsChoose.org">DonorsChoose.org</a>儲值。<a target="_blank" href="http://DonorsChoose.org">DonorsChoose.org</a>儲值僅限美國公立學校教師使用。
+          
+          
         bonus:
           not_earned_title: 'You can still earn an additional $250 in <a target="_blank" href="http://DonorsChoose.org">DonorsChoose.org</a> credits (U.S. teachers only)'
-          earned: "7 or more of the students who collected all %{num_trophies} trophies are girls. You have won a bonus prize! (U.S. teachers only)"
-          not_earned: 'If at least 7 of your students who earn all %{num_trophies} trophies are girls, your reward is an additional $250 in <a target="_blank" href="http://DonorsChoose.org">DonorsChoose.org</a> credits. <a target="_blank" href="http://DonorsChoose.org">DonorsChoose.org</a> credits can only be used by teachers in U.S. public schools.'
+          earned: "7個或以上的女學生完成全部 %{num_trophies}個獎盃的收集。你已獲得額外的獎章！(僅限美國教師)"
+          not_earned: '如果至少7個以上的女學生完成了所有 %{num_trophies}個獎盃的收集，你將獲得價值$250美元的 <a target="_blank" href="http://DonorsChoose.org">DonorsChoose.org</a>儲值。<a target="_blank" href="http://DonorsChoose.org">DonorsChoose.org</a>儲值僅限美國公立學校教師使用。'
   crud:
     new_model: "新 %{model}"
     show: "顯示 "
     edit: "编辑"
     edit_model: "編輯 %{model}"
     update: "更新 "
-    destroy: "Destroy"
+    destroy: "銷毀"
     back: "返回"
     confirm: "是否確定？"
     created: "%{model} 已建立。"
     updated: "%{model} 已更新。"
-    destroyed: "%{model} was successfully deleted."
-    access_denied: "You do not have access to this %{model}."
+    destroyed: "%{model} 已成功刪除。"
+    access_denied: "你沒有使用 %{model}的權限。"
   nav:
     header:
-      finished_hoc: "I've finished my Hour of Code"
+      finished_hoc: '我已經完成我的"一小時程式碼"課程。'
       sign_in_to_save: "登入以儲存進度"
     user:
       classroom: "我的學生"
@@ -192,13 +199,14 @@
       mastery: "觀念"
       puzzle_map: "階段"
       prizes: "收集所有 %{total_trophies} 的獎盃，並贏取獎品 ！"
-      prize_earned: "All %{total_trophies} trophies collected. Prize won!"
+      prize_earned: "所有%{total_trophies}個獎盃都收集完成。恭喜你贏得獎品！（僅限美國公立學校學生）"
       prize_us_only: "（僅適用于美國學生）"
       prizes_link: "更多資訊 "
   teacher:
     title:
       one: "你的老師是 %{名字}"
       other: "你的老師："
+    remove: "(remove teacher)"
     tools: "教師工具"
     students:
       manage: "學生管理"
@@ -214,23 +222,22 @@
       button: "取消我的帳戶"
   user_level:
     completed: "已完成"
-    tried: "Tried"
+    tried: "已試過"
   user_stats:
     recent_activity: "最近的活動"
     show_more: "顯示更多"
   home:
-    signin_message: "Or if you're already registered, %{link}"
+    signin_message: "或者你已經註冊過了，%{link}"
     student_reg_link: "學生 "
     teacher_reg_link: "老師"
     teacher_dashboard: "瀏覽進度表"
     teacher_student_count_one: "您有 %{count} 位學生."
     teacher_student_count: "您有 %{count} 位學生."
-    teacher_averages: 'On average your students have earned %{trophy_average} out of %{trophy_max} "Concept Mastery" trophies.'
+    teacher_averages: '你的學生平均下來獲得了 %{trophy_average}/%{trophy_max} "概念通達"獎盃。 '
     classroom: "您的教室"
     student_progress: "您的學習進度"
-    student_stats: |-
-      You've earned %{trophy_count} out of %{trophy_max} "Concept Mastery" trophies.
-    student_left_off: "Where you left off:"
+    student_stats: '你已經獲得 %{trophy_count}/%{trophy_max} "概念通達"獎盃'
+    student_left_off: "你離開的地方："
     student_finished_prize: "你已經完成所有練習課程，換取你的 %{prize_link}，挑戰另外的 %{online_link} 或 {local_school_link} %"
     student_finished: "你已經完成所有練習課程，挑戰另外的 %{online_link} 或到% {local_school_link} "
     local_school: "當地的學校"
@@ -239,9 +246,9 @@
   gender:
     male: "男性"
     female: "女性"
-    none: "Prefer not to answer"
+    none: "不願回答"
   footer:
-    help_from_html: 'Engineers from <a href="http://www.google.com">Google</a>, <a href="http://www.microsoft.com">Microsoft</a>, <a href="http://www.facebook.com">Facebook</a>, and <a href="http://www.twitter.com">Twitter</a> helped create this tutorial.'
+    help_from_html: '來自 <a href="http://www.google.com">谷歌(Google)</a>, <a href="http://www.microsoft.com">微軟(Microsoft)</a>, <a href="http://www.facebook.com">臉書(Facebook)</a>, 和 <a href="http://www.twitter.com">推特(Twitter)</a>的工程師協助完成本課程。.'
     art_from_html: 'Angry Birds&trade; & &copy; 2009 - 2013 <a href="http://www.rovio.com">Rovio Entertainment Ltd</a>. 版權所有.<br/> Plants vs. Zombies&trade; & &copy; 2013 <a href="http://www.ea.com">Electronic Arts Inc.</a>.版權所有.'
     feedback: "提供回饋"
     translate: "幫我們翻譯成您國家的語言"
@@ -267,9 +274,9 @@
   compatability:
     working: "我們正在支援您的瀏覽器。"
     upgrade: "請升級您的瀏覽器。"
-  slow_loading: "This is taking longer than usual..."
+  slow_loading: "請在等等，這次讀取的時間比較久一點......."
   try_reloading: "請嘗試重新載入網頁"
   next_stage: "完成 ！繼續邁向下一個階段"
-  download_pdf: "Open Lesson Plan"
+  download_pdf: "開啟教學計畫"
   share_code:
     title: "按一下'執行程式'來看看程式執行結果"

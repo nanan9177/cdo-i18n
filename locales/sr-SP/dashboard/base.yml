@@ -54,6 +54,7 @@
     teacher_educator_guide: "Погледај водич за едукатора"
     teacher_prize_header: 'Освоји $1,000 у <a target="_blank" href="http://DonorsChoose.org">DonorsChoose.org</a> Награде'
     teacher_prize_message: 'In partnership with <a target="_blank" href="http://DonorsChoose.org">DonorsChoose.org</a>, Code.org will offer up to $1,000 in classroom funding to U.S. public school teachers who lead at least 15 students through this course. <a href="http://code.org/educate/20hr">See educator guide for more info.</a> '
+    teacher_prize_limits: '(Limit: $1,000 per teacher. <a target="_blank" href="http://help.donorschoose.org/app/answers/detail/a_id/454/kw/code.org">See FAQ for more limits</a>)'
     teacher_pitch: "Предавајте К-8 Увод у Компјутерске Науке  вашем разреду"
     teacher_title: "Учитељ пријављивање"
     student_pitch: "Изван 1 часа: испробајте К-8 Увод у Компјутерске Науке"
@@ -112,6 +113,8 @@
     mail:
       invite_student:
         subject: "Придружи се разреду %{teacher_name} на Code.org!"
+      student_disassociated:
+        subject: "Code.org notification: %{student_name} is no longer associated as your student."
   reports:
     error:
       access_denied: "Немате приступ овој особи"
@@ -126,6 +129,7 @@
     error_not_earned: "You have not yet earned this prize."
     error_already_redeemed: "Your prize has already been redeemed."
     no_prizes_available: "We're sorry, but we currently have no prizes available."
+    teacher_info_required: "Teacher prizes require school name and address information:"
     confirm:
       title: "Молимо потврдите"
       "no": Не
@@ -199,6 +203,7 @@
     title:
       one: "Твој учителј је %{name}"
       other: "Твоји учителји:"
+    remove: "(remove teacher)"
     tools: "Учителјева помагала"
     students:
       manage: "Рспоредити студенте"

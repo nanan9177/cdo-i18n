@@ -54,6 +54,7 @@
     teacher_educator_guide: "Lehrer-Handbuch"
     teacher_prize_header: 'Gewinnen Sie $1,000 mit <a target="_blank" href="http://DonorsChoose.org">DonorsChoose.org</a> Belohnungen'
     teacher_prize_message: 'In Partnerschaft mit <a target="_blank" href="http://DonorsChoose.org">DonorsChoose.org</a> bieten Code.org bis zu $1.000 für die Klassenkasse, für Lehrer einer öffentlichen Schule in der USA, die mindestens 15 Schüler durch diesen Kurs führen. <a href="http://code.org/educate/20hr">Siehe Erzieher Leitfaden für mehr Information.</a> '
+    teacher_prize_limits: '(Limit: $1,000 per teacher. <a target="_blank" href="http://help.donorschoose.org/app/answers/detail/a_id/454/kw/code.org">See FAQ for more limits</a>)'
     teacher_pitch: "Unterrichten Sie die Einführung in die Informatik für Sechstklässler in ihrem Klassenraum"
     teacher_title: "Lehrer Anmeldung"
     student_pitch: "Unter einer Stunde:Testen Sie unsere Einführung in die Informatik für Siebtklässler"
@@ -112,6 +113,8 @@
     mail:
       invite_student:
         subject: "Besuchen Sie eine Klasse von %{teacher_name} auf Code.org!"
+      student_disassociated:
+        subject: "Code.org notification: %{student_name} is no longer associated as your student."
   reports:
     error:
       access_denied: "Sie haben keinen Zugang zu den Statistiken dieser Person"
@@ -126,6 +129,7 @@
     error_not_earned: "Du hast diesen Preis noch nicht verdient."
     error_already_redeemed: "Dein Preis wurde bereits eingelöst."
     no_prizes_available: "Es tut uns leid, aber es stehen zur Zeit keine Preise zur Verfügung."
+    teacher_info_required: "Teacher prizes require school name and address information:"
     confirm:
       title: "Bitte bestätigen"
       "no": Nein
@@ -173,8 +177,8 @@
     confirm: "Bist du sicher?"
     created: "%{model} wurde erfolgreich erstellt."
     updated: "%{model} wurde erfolgreich aktualisiert."
-    destroyed: "%{model} was successfully deleted."
-    access_denied: "You do not have access to this %{model}."
+    destroyed: "%{model} wurde erfolgreich gelöscht."
+    access_denied: "Sie haben keinen Zugriff auf dieses %{model}."
   nav:
     header:
       finished_hoc: "Ich habe meine Programmierstunde beendet."
@@ -202,6 +206,7 @@
     title:
       one: "Ihr Lehrer ist %{name}"
       other: "Ihre Lehrer:"
+    remove: "(remove teacher)"
     tools: "Werkzeuge für Lehrer"
     students:
       manage: "Studenten verwalten"

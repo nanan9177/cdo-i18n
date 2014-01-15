@@ -54,6 +54,7 @@
     teacher_educator_guide: "Kijk in de lerarengids"
     teacher_prize_header: 'Win $1,000 in <a target="_blank" href="http://DonorsChoose.org">DonorsChoose.org</a>-prijzen'
     teacher_prize_message: 'In partnership with <a target="_blank" href="http://DonorsChoose.org">DonorsChoose.org</a>, Code.org will offer up to $1,000 in classroom funding to U.S. public school teachers who lead at least 15 students through this course. <a href="http://code.org/educate/20hr">See educator guide for more info.</a> '
+    teacher_prize_limits: '(Limit: $1,000 per teacher. <a target="_blank" href="http://help.donorschoose.org/app/answers/detail/a_id/454/kw/code.org">See FAQ for more limits</a>)'
     teacher_pitch: "Gebruik de Introductie in de Informatica op basisschoolniveau in jouw klas"
     teacher_title: "Inschijven voor leraren"
     student_pitch: "Verder dan 1 uur: probeer onze Introductie in de Informatie op basisschoolniveau"
@@ -112,6 +113,8 @@
     mail:
       invite_student:
         subject: "Doe mee met een klas met %{teacher_name} op Code.org!"
+      student_disassociated:
+        subject: "Code.org notification: %{student_name} is no longer associated as your student."
   reports:
     error:
       access_denied: "Je hebt geen toegang tot de statistieken van deze persoon"
@@ -126,6 +129,7 @@
     error_not_earned: "You have not yet earned this prize."
     error_already_redeemed: "Your prize has already been redeemed."
     no_prizes_available: "We're sorry, but we currently have no prizes available."
+    teacher_info_required: "Teacher prizes require school name and address information:"
     confirm:
       title: "Bevestigen"
       "no": Nee
@@ -199,6 +203,7 @@
     title:
       one: "Je leraar is %{name}"
       other: "Je leraren:"
+    remove: "(remove teacher)"
     tools: "Hulpmiddelen voor Leraren"
     students:
       manage: "Beheer student"

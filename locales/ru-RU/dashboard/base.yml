@@ -54,6 +54,7 @@
     teacher_educator_guide: "Смотри руководство учителя"
     teacher_prize_header: 'Выиграть $1,000 - награду <a target="_blank" href="http://DonorsChoose.org"> DonorsChoose.org</a>'
     teacher_prize_message: 'Совместно с <a target="_blank" href="http://DonorsChoose.org">DonorsChoose.org</a>, Code.org предлагагает финансирования классов до $1,000 для учителей государственных школ, у которых не менее 15 учеников прошли этот курс. <a href="http://code.org/educate/20hr">Подробности смотри в руководстве преподавателя</a> '
+    teacher_prize_limits: '(Limit: $1,000 per teacher. <a target="_blank" href="http://help.donorschoose.org/app/answers/detail/a_id/454/kw/code.org">See FAQ for more limits</a>)'
     teacher_pitch: 'Проведите курс "Введение в Информатику" в вашем классе'
     teacher_title: "Регистрация учителя"
     student_pitch: 'После 1-ого часа: познакомься с нашим "Введением в Информатику"'
@@ -105,6 +106,8 @@
     mail:
       invite_student:
         subject: "Присоединяйся к классу учителя %{teacher_name} на Code.org!"
+      student_disassociated:
+        subject: "Code.org notification: %{student_name} is no longer associated as your student."
   reports:
     error:
       access_denied: "Вы не имеете доступа к статистике этого пользователя"
@@ -119,6 +122,7 @@
     error_not_earned: "Вы ещё не заработали этот приз."
     error_already_redeemed: "Ваш приз уже получен."
     no_prizes_available: "Извините, но сейчас у нас нет призов."
+    teacher_info_required: "Teacher prizes require school name and address information:"
     confirm:
       title: "Please Confirm"
       "no": No
@@ -194,6 +198,7 @@
     title:
       one: "Твой учитель -  %{name}"
       other: "Ваши преподаватели:"
+    remove: "(remove teacher)"
     tools: "Инструментарий учителя"
     students:
       manage: "Управление учениками"

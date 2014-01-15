@@ -167,14 +167,14 @@
         text: "我们要工资！我们要工资！翻译尼玛这么多代码还有提示语神马的也不给我们付工资！严正抗议~~~"
       3:
         image: "notes/stage9_7.jpg"
-        text: "For example, if the farmer is standing on a pile, she will continue to remove 1 shovelful WHILE there is still a pile beneath her."
+        text: "打个比方，当(WHILE)农民站在土堆上时，她将会用1个铲子移除之"
     loop_for:
       1:
         image: "notes/stage11_1.jpg"
         text: "我们要工资！我们要工资！翻译尼玛这么多代码还有提示语神马的也不给我们付工资！严正抗议~~~"
       2:
         image: "notes/stage11_2.jpg"
-        text: 'This is our new "counter" loop. It will perform actions over and over again and you can make the actions change slightly each time.'
+        text: "这是我们马上要接触的“计数”循环，它能反复执行某操作，您也可以在它执行时对某操作进行少量修改。"
       3:
         image: "notes/stage11_3.jpg"
         text: "我们要工资！我们要工资！翻译尼玛这么多代码还有提示语神马的也不给我们付工资！严正抗议~~~"

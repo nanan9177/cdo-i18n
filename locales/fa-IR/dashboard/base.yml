@@ -54,6 +54,7 @@
     teacher_educator_guide: "به راهنمای معلم مراجعه کنید"
     teacher_prize_header: '۱۰۰۰ دلار پاداش بگیرید <a target="_blank" href="http://DonorsChoose.org"> DonorsChoose.org</a>'
     teacher_prize_message: 'In partnership with <a target="_blank" href="http://DonorsChoose.org">DonorsChoose.org</a>, Code.org will offer up to $1,000 in classroom funding to U.S. public school teachers who lead at least 15 students through this course. <a href="http://code.org/educate/20hr">See educator guide for more info.</a> '
+    teacher_prize_limits: '(Limit: $1,000 per teacher. <a target="_blank" href="http://help.donorschoose.org/app/answers/detail/a_id/454/kw/code.org">See FAQ for more limits</a>)'
     teacher_pitch: "آموزش معرفی K-8 درعلوم کامپیوتر در کلاس درس خودتان"
     teacher_title: "ثبت نام معلم"
     student_pitch: "فراتر از ساعت 1: معرفی K-8 درعلوم کامپیوترما را امتحان کنید"
@@ -110,6 +111,8 @@
     mail:
       invite_student:
         subject: "در یک کلاس با %{teacher_name} در Code.org شرکت کنید!"
+      student_disassociated:
+        subject: "Code.org notification: %{student_name} is no longer associated as your student."
   reports:
     error:
       access_denied: "شما به اطلاعات آماری این شخص دسترسی ندارید"
@@ -124,6 +127,7 @@
     error_not_earned: "شما هنوز این جایزه را نبردید."
     error_already_redeemed: "جایزه تان را قبلا استفاده کرده اید."
     no_prizes_available: "متاسفیم، اما در حال حاضر هیچ جایزه ای موجود نیست."
+    teacher_info_required: "Teacher prizes require school name and address information:"
     confirm:
       title: "لطفا تایید کنید"
       "no": نه
@@ -197,6 +201,7 @@
     title:
       one: "معلم شما %{name} می باشد"
       other: "معلم های شما:"
+    remove: "(remove teacher)"
     tools: "ابزار معلم"
     students:
       manage: "مدیریت دانش آموزان"

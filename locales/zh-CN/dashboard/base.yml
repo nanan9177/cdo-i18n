@@ -50,10 +50,11 @@
     no_signup_header: "不想注册吗？"
     no_signup_message: '您可以 <a target="_blank"href="http://learn.code.org"> 浏览各个阶段和谜题</a>，但您将需要注册以保存您的进度。'
     prizes_header: "The first students to complete the course win prizes! (U.S. students only)"
-    prizes_message: "U.S. students who earn all %{num_trophies} concept trophies can select a variety of prizes including free Dropbox space, Skype credits, and downloadable games from Electronic Arts."
+    prizes_message: "成功获得所有 %{num_trophies} 概念奖杯的美国学生可以任选下列奖品之一作为奖励，奖品包括：免费Dropbox空间、Skype积分、美国艺电(EA) 的数字版游戏。"
     teacher_educator_guide: "请参阅教师指南"
     teacher_prize_header: '赢 1,000美元 <a target="_blank"href="http://DonorsChoose.org"> DonorsChoose.org</a> 奖励'
     teacher_prize_message: '与 <a target="_blank"href="http://DonorsChoose.org"> DonorsChoose.org</a> 合作，Code.org 将提供向美国公立学校有至少15名学生的教提供 1000 美元的课程基金。<a href="http://code.org/educate/20hr"> 的详细信息请参阅教师指南。</a>'
+    teacher_prize_limits: '(Limit: $1,000 per teacher. <a target="_blank" href="http://help.donorschoose.org/app/answers/detail/a_id/454/kw/code.org">See FAQ for more limits</a>)'
     teacher_pitch: "在你的课堂里教授 K-8 计算机基础课程"
     teacher_title: "老师登记"
     student_pitch: "一小时之后：试试我们的 K-8 计算机基础课程"
@@ -109,6 +110,8 @@
     mail:
       invite_student:
         subject: "加入 %{teacher_name} 老师的班级吧！"
+      student_disassociated:
+        subject: "Code.org notification: %{student_name} is no longer associated as your student."
   reports:
     error:
       access_denied: "您没有权限访问此人的信息。"
@@ -123,6 +126,7 @@
     error_not_earned: "你还没有获得这一奖项。"
     error_already_redeemed: "您获得的奖项已经被兑现。"
     no_prizes_available: "我们很抱歉，但我们目前有没有可用的奖品。"
+    teacher_info_required: "Teacher prizes require school name and address information:"
     confirm:
       title: "请确认"
       "no": 否
@@ -167,8 +171,8 @@
     confirm: "是否确定？"
     created: "%{model} 已成功创建。"
     updated: "%{model} 已成功更新。"
-    destroyed: "%{model} was successfully deleted."
-    access_denied: "You do not have access to this %{model}."
+    destroyed: "成功删除 %{model} 。"
+    access_denied: "您没有 %{model} 的权限。"
   nav:
     header:
       finished_hoc: "我已经完成了我的Hour of Code项目。"
@@ -196,6 +200,7 @@
     title:
       one: "你的老师是 %{name}"
       other: "你的老师："
+    remove: "(remove teacher)"
     tools: "教师工具"
     students:
       manage: "管理学生"

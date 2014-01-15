@@ -16,17 +16,17 @@
       unconfirmed: "你必須認證您的帳戶在繼續之前。"
     mailer:
       confirmation_instructions:
-        subject: "Confirmation instructions"
+        subject: "確認步驟操作說明"
       reset_password_instructions:
-        subject: "Reset password instructions"
+        subject: "重設密碼操作說明"
       unlock_instructions:
-        subject: "Unlock Instructions"
+        subject: "解鎖操作說明"
     omniauth_callbacks:
       failure: '由於"%{原因}"無法驗證您是從 %{類型}。'
       success: "成功通過身份驗證是從 %{類型} 帳戶。"
     passwords:
       no_token: "沒有從一封密碼重設的電子郵件來，您不能訪問此頁面。如果你要從密碼重設的電子郵件來，請確認您使用所提供的完整 URL。"
-      send_instructions: "You will receive an email with instructions about how to reset your password in a few minutes."
+      send_instructions: "您將在幾分鐘之內收到一封有關如何重設密碼的操作說明。"
       send_paranoid_instructions: "如果您的電子郵件地址存在於我們的資料庫中，您將在幾分鐘時間收到密碼恢復連結在您的電子郵件內。"
       updated: "您的密碼已經更改成功。你現在是簽署的。"
       updated_not_active: "您的密碼已經更改成功。"
@@ -53,5 +53,5 @@
       not_found: "未找到"
       not_locked: "未被鎖定"
       not_saved:
-        one: "1 error prohibited this %{resource} from being saved:"
-        other: "%{count} errors prohibited this %{resource} from being saved:"
+        one: "發生一個錯誤，%{resource}無法儲存："
+        other: "發生%{count}個錯誤，%{resource}無法儲存："

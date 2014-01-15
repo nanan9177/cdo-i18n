@@ -54,6 +54,7 @@
     teacher_educator_guide: "Hãy xem chỉ dẫn"
     teacher_prize_header: 'Nhận $1000 tại <a target="_blank" href="http://DonorsChoose.org">DonorsChoose.org</a>'
     teacher_prize_message: 'In partnership with <a target="_blank" href="http://DonorsChoose.org">DonorsChoose.org</a>, Code.org will offer up to $1,000 in classroom funding to U.S. public school teachers who lead at least 15 students through this course. <a href="http://code.org/educate/20hr">See educator guide for more info.</a> '
+    teacher_prize_limits: '(Limit: $1,000 per teacher. <a target="_blank" href="http://help.donorschoose.org/app/answers/detail/a_id/454/kw/code.org">See FAQ for more limits</a>)'
     teacher_pitch: 'Dạy "Giới thiệu về Khoa học Máy tính" trong lớp học của bạn (K-8 : từ Lớp Mẫu giáo tới lớp 8)'
     teacher_title: "Giáo viên đăng ký"
     student_pitch: 'Vượt ra ngoài 1 giờ: hãy thử "Giới thiệu về Khoa học Máy tính cho K-8" của chúng tôi'
@@ -108,6 +109,8 @@
     mail:
       invite_student:
         subject: "Tham gia một lớp học với % {giáo viên_tên} tại Code.org!"
+      student_disassociated:
+        subject: "Code.org notification: %{student_name} is no longer associated as your student."
   reports:
     error:
       access_denied: "Bạn không có quyền truy cập vào tình trạng pháp nhân của người này"
@@ -122,6 +125,7 @@
     error_not_earned: "You have not yet earned this prize."
     error_already_redeemed: "Your prize has already been redeemed."
     no_prizes_available: "We're sorry, but we currently have no prizes available."
+    teacher_info_required: "Teacher prizes require school name and address information:"
     confirm:
       title: "Please Confirm"
       "no": No
@@ -195,6 +199,7 @@
     title:
       one: "Giáo viên của bạn là %{name}"
       other: "Giáo viên của bạn:"
+    remove: "(remove teacher)"
     tools: "Công cụ dành cho giáo viên"
     students:
       manage: "Quản lý học sinh"

@@ -56,6 +56,7 @@
     teacher_prize_message: |
       У партнерстві з <a target="_blank" href="http://DonorsChoose.org"> DonorsChoose.org</a> Code.org запропонує $1000 тим викладачам державних шкіл Сполучених Штат Америки, які навчатимуть принаймні 15 учнів через цей курс.
       <a href="http://code.org/educate/20hr">Перегляньте вказівник для вчителів для детальнішої інформації</a> 
+    teacher_prize_limits: '(Limit: $1,000 per teacher. <a target="_blank" href="http://help.donorschoose.org/app/answers/detail/a_id/454/kw/code.org">See FAQ for more limits</a>)'
     teacher_pitch: "Навчати вступ до інформатики у вашому класі"
     teacher_title: "Реєстрація вчителя"
     student_pitch: "Більше 1 години: спробуйте вступ до інформатики"
@@ -114,6 +115,8 @@
     mail:
       invite_student:
         subject: "Приєднуйтеся до класу з %{teacher_name} на Code.org!"
+      student_disassociated:
+        subject: "Code.org notification: %{student_name} is no longer associated as your student."
   reports:
     error:
       access_denied: "Ви не маєте доступу до статистики цієї людини"
@@ -128,6 +131,7 @@
     error_not_earned: "Ви ще не отримали цей приз."
     error_already_redeemed: "Ваш приз вже отриманий."
     no_prizes_available: "Нам дуже шкода, але в даний час немає доступних призів."
+    teacher_info_required: "Teacher prizes require school name and address information:"
     confirm:
       title: "Будь ласка, підтвердіть"
       "no": Ні
@@ -201,6 +205,7 @@
     title:
       one: "Ваш вчитель - %{name}"
       other: "Ваші вчителі:"
+    remove: "(remove teacher)"
     tools: "Інструменти вчителя"
     students:
       manage: "Керування учнями"

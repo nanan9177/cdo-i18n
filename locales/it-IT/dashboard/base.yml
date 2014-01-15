@@ -54,6 +54,7 @@
     teacher_educator_guide: "Vedere la guida educatore"
     teacher_prize_header: 'Vincere $1.000 in <a target="_blank" href="http://DonorsChoose.org">DonorsChoose.org</a>premi'
     teacher_prize_message: 'In partnership with <a target="_blank" href="http://DonorsChoose.org">DonorsChoose.org</a>, Code.org will offer up to $1,000 in classroom funding to U.S. public school teachers who lead at least 15 students through this course. <a href="http://code.org/educate/20hr">See educator guide for more info.</a> '
+    teacher_prize_limits: '(Limit: $1,000 per teacher. <a target="_blank" href="http://help.donorschoose.org/app/answers/detail/a_id/454/kw/code.org">See FAQ for more limits</a>)'
     teacher_pitch: "Insegnare l'Intro di K-8 all'informatica nella tua classe"
     teacher_title: "Iscrizione Insegnante"
     student_pitch: "Oltre 1 ora: provare il nostro K-8 introduzione all'informatica"
@@ -112,6 +113,8 @@
     mail:
       invite_student:
         subject: "Unisciti ad una classe con %{teacher_name} su Code.org!"
+      student_disassociated:
+        subject: "Code.org notification: %{student_name} is no longer associated as your student."
   reports:
     error:
       access_denied: "Non hai accesso alle statistiche di questa persona"
@@ -126,6 +129,7 @@
     error_not_earned: "You have not yet earned this prize."
     error_already_redeemed: "Your prize has already been redeemed."
     no_prizes_available: "We're sorry, but we currently have no prizes available."
+    teacher_info_required: "Teacher prizes require school name and address information:"
     confirm:
       title: "Si prega di confermare"
       "no": No
@@ -200,6 +204,7 @@
     title:
       one: "Il tuo insegnante è %{name}"
       other: "I tuoi insegnanti:"
+    remove: "(remove teacher)"
     tools: "Strumenti dell'insegnante"
     students:
       manage: "Gestione studenti"

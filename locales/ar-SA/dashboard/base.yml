@@ -54,6 +54,7 @@
     teacher_educator_guide: "راجع دليل المعلم"
     teacher_prize_header: 'اربح 1000دولار في المكافئات <a target="_blank" href="http://DonorsChoose.org"> DonorsChoose.org </a> '
     teacher_prize_message: 'في شراكة مع <a target="_blank" href="http://DonorsChoose.org"> DonorsChoose.org </a> Code.org سوف يقدم عرض اكثر من 1000 دولار لتمويل المعلمين في المدارس الحكومية في الولايات المتحدة الامريكية الذين يقومون بتدريس على الاقل 15 طالب خلال هذا الكورس <a href="http://code.org/educate/20hr"> لمزيد من المعلومات انظر دليل المعلم </a>'
+    teacher_prize_limits: '(Limit: $1,000 per teacher. <a target="_blank" href="http://help.donorschoose.org/app/answers/detail/a_id/454/kw/code.org">See FAQ for more limits</a>)'
     teacher_pitch: "اعطاء مقدمة عن علوم الكمبيوتر للمستوى المبتدئ والمتوسط في فصلك الدراسي"
     teacher_title: "تسجيل حساب المعلم"
     student_pitch: "بعد اتمامك ساعة واحدة من البرمجة : جرب مقدمة عن علوم الكمبيوتر للمستوئ المبتدئ والمتوسط"
@@ -113,6 +114,8 @@
     mail:
       invite_student:
         subject: "أنضم إلى الصف مع %{teacher_name} في Code.org!"
+      student_disassociated:
+        subject: "Code.org notification: %{student_name} is no longer associated as your student."
   reports:
     error:
       access_denied: "لا يوجد لديك الصلاحيات للوصول إلى إحصائيات الخاصة بهذا المستخدم"
@@ -127,6 +130,7 @@
     error_not_earned: "انت لم تكسب هذه الجائزة بعد."
     error_already_redeemed: "جائزتك تم استردادها الان."
     no_prizes_available: "نحن نعتذر لعدم توفر الجوائز حاليا."
+    teacher_info_required: "Teacher prizes require school name and address information:"
     confirm:
       title: "الرجاء تأكيد"
       "no": لا
@@ -200,6 +204,7 @@
     title:
       one: "معلمك هو %{name}"
       other: "معلميك:"
+    remove: "(remove teacher)"
     tools: "أدوات المعلم"
     students:
       manage: "إدارة الطلاب"

@@ -54,6 +54,7 @@
     teacher_educator_guide: "Patrz podręcznik nauczyciela"
     teacher_prize_header: 'Wygraj 1000$ spośród nagród <a target="_blank" href="http://DonorsChoose.org"> DonorsChoose.org</a>'
     teacher_prize_message: 'We współpracy z <a target="_blank" href="http://DonorsChoose.org"> DonorsChoose.org</a>, Code.org będzie oferować do 1.000 $ finansowania klasy tym nauczycielom ze szkół publicznych w USA , którzy poprowadzą co najmniej 15 uczniów przez ten kurs. <a href="http://code.org/educate/20hr"> Zobacz przewodnik dla nauczyciela po więcej informacji.</a> '
+    teacher_prize_limits: '(Limit: $1,000 per teacher. <a target="_blank" href="http://help.donorschoose.org/app/answers/detail/a_id/454/kw/code.org">See FAQ for more limits</a>)'
     teacher_pitch: "Ucz na swoich zajęciach Kursu wprowadzającego do informatyki"
     teacher_title: "Rejestracja nauczyciela"
     student_pitch: "Poza 1 godziną:  skorzystaj z naszego K-8 Wstępu do Informatyki"
@@ -112,6 +113,8 @@
     mail:
       invite_student:
         subject: "Dołącz do klasy z %{teacher_name} na Code.org!"
+      student_disassociated:
+        subject: "Code.org notification: %{student_name} is no longer associated as your student."
   reports:
     error:
       access_denied: "Nie masz dostępu do statystyk tej osoby"
@@ -126,6 +129,7 @@
     error_not_earned: "Nie zdobyłeś jeszcze tej nagrody."
     error_already_redeemed: "Twoja nagroda została już przyznana."
     no_prizes_available: "Przykro nam, ale obecnie nie mamy żadnej nagrody do zaoferowania."
+    teacher_info_required: "Teacher prizes require school name and address information:"
     confirm:
       title: "Prosimy o potwierdzenie"
       "no": Nie
@@ -170,7 +174,7 @@
     confirm: "Czy jesteś pewny?"
     created: "%{model} został pomyślnie utworzony."
     updated: "%{model} został pomyślnie zaktualizowany."
-    destroyed: "%{model} was successfully deleted."
+    destroyed: "%{model} został pomyślnie usunięty."
     access_denied: "Nie masz dostępu do tego %{model}."
   nav:
     header:
@@ -199,6 +203,7 @@
     title:
       one: "Twój nauczyciel to %{name}"
       other: "Twoi nauczyciele:"
+    remove: "(remove teacher)"
     tools: "Narzędzia Nauczyciela"
     students:
       manage: "Zarządzaj uczniami"

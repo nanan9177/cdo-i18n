@@ -54,6 +54,7 @@
     teacher_educator_guide: "Podívat se na průvodce učitele"
     teacher_prize_header: 'Vyhraj 1,000$ v odměnách na <a target="_blank" href="http://DonorsChoose.org">DonorsChoose.org</a>'
     teacher_prize_message: 'Ve spolupráci s <a target="_blank" href="http://DonorsChoose.org">DonorsChoose.org</a>, Code.org nabízí dotaci až 1,000$ učitelům veřejných škol v USA, kteří provedou tímto kurzem alespoň 15 studentů. <a href="http://code.org/educate/20hr">Shlédnout pedagogický průvodce pro více informací.</a> '
+    teacher_prize_limits: '(Limit: $1,000 per teacher. <a target="_blank" href="http://help.donorschoose.org/app/answers/detail/a_id/454/kw/code.org">See FAQ for more limits</a>)'
     teacher_pitch: "Vyučuj K-8 Úvod do Počítačových Věd ve své třídě"
     teacher_title: "Registrace učitele"
     student_pitch: "Po 1 hodině: vyzkoušej náš K-8 Úvod do Počítačových Věd"
@@ -112,6 +113,8 @@
     mail:
       invite_student:
         subject: "Přidat se do třídy s %{teacher_name} na Code.org!"
+      student_disassociated:
+        subject: "Code.org notification: %{student_name} is no longer associated as your student."
   reports:
     error:
       access_denied: "Nemáš přístup k statistikám této osoby"
@@ -126,6 +129,7 @@
     error_not_earned: "Zatím sis nevysloužil tuto cenu."
     error_already_redeemed: "Tvá cena již byla vybrána."
     no_prizes_available: "Je nám líto, ale momentálně nejsou k dispozici žádné ceny."
+    teacher_info_required: "Teacher prizes require school name and address information:"
     confirm:
       title: "Prosím, potvrď"
       "no": Ne
@@ -199,6 +203,7 @@
     title:
       one: "Tvůj učitel je %{name}"
       other: "Tví učitelé:"
+    remove: "(remove teacher)"
     tools: "Nástroje pro učitele"
     students:
       manage: "Správa studentů"

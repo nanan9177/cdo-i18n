@@ -54,6 +54,7 @@
     teacher_educator_guide: "Consultă ghidul educatorului"
     teacher_prize_header: 'Câștigă $1000 în cadrul premiilor <a target="_blank" href="http://DonorsChoose.org">DonorsChoose.org</a>'
     teacher_prize_message: 'În parteneriat cu <a target="_blank" href="http://DonorsChoose.org"> DonorsChoose.org</a>, Code.org va oferi până la 1.000 dolari, drept finanţare către clase, acelor profesori de şcoală publică din U.S.A. care coordonează cel puţin 15 elevi prin acest curs. <a href="http://code.org/educate/20hr"> a se vedea Ghidul educatorului pentru mai multe informaţii.</a> '
+    teacher_prize_limits: '(Limit: $1,000 per teacher. <a target="_blank" href="http://help.donorschoose.org/app/answers/detail/a_id/454/kw/code.org">See FAQ for more limits</a>)'
     teacher_pitch: "Predă Introducerea K-8 în Informatică în clasa ta"
     teacher_title: "Înregistrare Profesor"
     student_pitch: "Peste 1 oră: încearcă Introducerea noastră K-8 în Informatică"
@@ -112,6 +113,8 @@
     mail:
       invite_student:
         subject: "Alătură-te clasei cu %{teacher_name} la Code.org!"
+      student_disassociated:
+        subject: "Code.org notification: %{student_name} is no longer associated as your student."
   reports:
     error:
       access_denied: "Nu ai acces la statisticile de progress ale acestei persoane"
@@ -126,6 +129,7 @@
     error_not_earned: "Nu ai câștigat încă acest premiu."
     error_already_redeemed: "Premiul tău a fost deja răscumpărat."
     no_prizes_available: "Ne pare rău, dar nu avem niciun premiu disponibil în prezent."
+    teacher_info_required: "Teacher prizes require school name and address information:"
     confirm:
       title: "Te rugăm să confirmi"
       "no": Nu
@@ -199,6 +203,7 @@
     title:
       one: "Profesorul tău este %{name}"
       other: "Profesorii tăi:"
+    remove: "(remove teacher)"
     tools: "Instrumente pentru profesor"
     students:
       manage: "Gestionează elevi"

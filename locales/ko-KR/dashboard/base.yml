@@ -54,6 +54,7 @@
     teacher_educator_guide: "교육자 가이드"
     teacher_prize_header: '$1,000 크레딧 상품 받기 <a target="_blank" href="http://DonorsChoose.org">DonorsChoose.org</a>'
     teacher_prize_message: '<a target="_blank" href="http://DonorsChoose.org">DonorsChoose.org</a> 와의 제휴를 통해 Code.org 는, 15명 이상의 학생들에게 이 과정을 수행시키는 미국 공립 학교 선생님들에게 최대 $1,000 크레딧을 제공합니다. 자세한 내용은 <a href="http://code.org/educate/20hr">See educator guide for more info.</a>를 살펴보세요.'
+    teacher_prize_limits: '(Limit: $1,000 per teacher. <a target="_blank" href="http://help.donorschoose.org/app/answers/detail/a_id/454/kw/code.org">See FAQ for more limits</a>)'
     teacher_pitch: "컴퓨터과학(Computer Science, 정보과학)의 내용을, 유치원~중2(K-8) 학생들과 함께 하세요"
     teacher_title: "선생님으로 등록하기"
     student_pitch: "Beyond 1 hour:  컴퓨터과학(Computer Science, 정보과학) 기초개념학습 코스 더 해보기"
@@ -112,6 +113,8 @@
     mail:
       invite_student:
         subject: "%{teacher_name} 선생님의 학급에 참여하세요. Code.org!"
+      student_disassociated:
+        subject: "Code.org notification: %{student_name} is no longer associated as your student."
   reports:
     error:
       access_denied: "이 학생의 학습 상황에 접근할 수 없습니다"
@@ -126,6 +129,7 @@
     error_not_earned: "아직 상품을 얻지 못했습니다."
     error_already_redeemed: "이미 상품으로 교환 되었습니다."
     no_prizes_available: "죄송합니다. 현재 가능한 상품이 없습니다."
+    teacher_info_required: "Teacher prizes require school name and address information:"
     confirm:
       title: "Redeem 코드 확인"
       "no": 아니요
@@ -199,6 +203,7 @@
     title:
       one: "나의 선생님은 %{name} 입니다"
       other: "나의 선생님들:"
+    remove: "(remove teacher)"
     tools: "선생님 메뉴"
     students:
       manage: "학생 관리"

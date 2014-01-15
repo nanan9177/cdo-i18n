@@ -12,7 +12,7 @@
         gender: "Cinsiyet"
         edit_header: "Hesap Bilgilerini Düzenle"
   hello: "Merhaba Dünya"
-  welcome_back: "Hoş geldiniz % {name}"
+  welcome_back: "Hoş geldiniz %{name}"
   add_teacher_form:
     code_or_email:
       label: "Koda veya e-posta adresine göre bir öğretmen ekleyin:"
@@ -55,6 +55,7 @@
     teacher_prize_header: '1.000 $ kazan <a target="_blank" href="http://DonorsChoose.org"> DonorsChoose.org</a> ödülleri'
     teacher_prize_message: |-
       Bu dersi en az 15 öğrencinin almasını sağlayan ABD devlet okulu öğretmenleri için Code.org <a target="_blank" href="http://DonorsChoose.org"> DonorsChoose.org</a> ile ortaklık içinde 1000$'a kadar fon sunacaktır. <a href="http://code.org/educate/20hr">Daha fazla bilgi için eğitimci kılavuzuna bakınız.</a> 
+    teacher_prize_limits: '(Limit: $1,000 per teacher. <a target="_blank" href="http://help.donorschoose.org/app/answers/detail/a_id/454/kw/code.org">See FAQ for more limits</a>)'
     teacher_pitch: "Bilgisayar Bilimine Giriş K-8'i sınıfında öğret"
     teacher_title: "Öğretmen Kayıt"
     student_pitch: "1 Saat ötesinde: Bilgisayar bilimi K-8 Intromuzu deneyin"
@@ -105,11 +106,13 @@
       signed_in: "Devam etmeden önce lütfen çıkış yapınız"
       username_not_found: "%{username} kullanıcı adı bulunamadı"
       username_in_use: "%{username} önceden alınmış, lütfen başka bir tane seçiniz"
-      no_teacher: "Herhangi biri '% {teacher_email_or_code}' ile imzalanan bulamadı. Lütfen şurayı imzalayın isteyin ve sonra onları yeniden eklemeyi deneyin."
+      no_teacher: "Herhangi biri '%{teacher_email_or_code}' ile imzalanan bulamadı. Lütfen şurayı imzalayın isteyin ve sonra onları yeniden eklemeyi deneyin"
       blank_code: "Lütfen öğretmeniniz e-posta adresini veya kodu giriniz"
     mail:
       invite_student:
         subject: "Code.org'ta %{teacher_name} ile bir sınıfa katıl!"
+      student_disassociated:
+        subject: "Code.org notification: %{student_name} is no longer associated as your student."
   reports:
     error:
       access_denied: "Bu kişinin istatistiklerine erişemezsiniz"
@@ -124,6 +127,7 @@
     error_not_earned: "Henüz bu ödülü kazanmadınız."
     error_already_redeemed: "Ödülün zaten alındı."
     no_prizes_available: "Üzgünüz, ama şu anda kullanılabilir hiçbir ödülümüz yok."
+    teacher_info_required: "Teacher prizes require school name and address information:"
     confirm:
       title: "Lütfen onaylayın"
       "no": Hayır
@@ -177,7 +181,7 @@
       sign_in_to_save: "İlerleme kaydetmek için oturum açın"
     user:
       classroom: "Öğrencilerim"
-      label: "Merhaba % {username}"
+      label: "Merhaba %{username}"
       stats: "İlerlemem"
       settings: "Hesabım"
       prizes: "Ödüller"
@@ -198,6 +202,7 @@
     title:
       one: "%{name} sizin öğretmeninizdir"
       other: "Öğretmeniniz:"
+    remove: "(remove teacher)"
     tools: "Öğretmen Araçları"
     students:
       manage: "Öğrencileri yönet"

@@ -54,6 +54,7 @@
     teacher_educator_guide: "Təhsil işçisi üçün göstərişlərə baxın"
     teacher_prize_header: '<a target="_blank" href="http://DonorsChoose.org">"DonorsChoose.org"</a> mükafatları şəklində 1000 dollar qazanın'
     teacher_prize_message: '<a target="_blank" href="http://DonorsChoose.org">"DonorsChoose.org"</a>la tərəfdaşlıq edərək "Code.org" bu kursu ən azı 15 şagirdə keçən ABŞ-dakı müəllimlərə dərs fondu şəklində 1000 dollara qədər maliyyə dəstəyi təklif edəcək. <a href="http://code.org/educate/20hr">Təlimçi üçün göstərişlərdə daha geniş məlumat alın.</a> '
+    teacher_prize_limits: '(Limit: $1,000 per teacher. <a target="_blank" href="http://help.donorschoose.org/app/answers/detail/a_id/454/kw/code.org">See FAQ for more limits</a>)'
     teacher_pitch: "Öz sinfinizdə K-8 İnformatikaya Giriş kursunu tədris edin"
     teacher_title: "Müəllim kimi qeydiyyatdan keçin"
     student_pitch: "1 saat bitəndən sonra: K-8 İnformatikaya Giriş kursumuzu sınaqdan keçirin"
@@ -112,6 +113,8 @@
     mail:
       invite_student:
         subject: "Code.org-da %{teacher_name} ilə dərsə qoşulun!"
+      student_disassociated:
+        subject: "Code.org notification: %{student_name} is no longer associated as your student."
   reports:
     error:
       access_denied: "Bu şəxsin statistikasına icazəniz yoxdur"
@@ -126,6 +129,7 @@
     error_not_earned: "Siz hələ bu mükafatı qazanmamısınız."
     error_already_redeemed: "Mükafatınız artıq xərclənib."
     no_prizes_available: "Üzr istəyirik, hazırda mükafatlar qalmayıb."
+    teacher_info_required: "Teacher prizes require school name and address information:"
     confirm:
       title: "Zəhmət olmazsa, təsdiq edin"
       "no": Xeyr
@@ -199,6 +203,7 @@
     title:
       one: "%{name} sizin müəlliminizdir"
       other: "Müəllimləriniz:"
+    remove: "(remove teacher)"
     tools: "Müəllim üçün alətlər"
     students:
       manage: "Tələbələri idarə edin"
