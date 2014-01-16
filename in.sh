@@ -58,8 +58,11 @@ done
 
 ### Pegasus
 
+csv_file=projects/pegasus/cache/Data_I18n.gsheet.csv
 orig_dir=projects/pegasus/sites/all/locales
 loc_dir=locales/en-US/pegasus
 mkdir -p $loc_dir
 
+ruby ./lib/csv-to-yml.rb $csv_file $orig_dir/en-US.yml
+perl -i ./lib/fix-ruby-yml.pl $orig_dir/en-US.yml
 cp_in $orig_dir/en-US.yml $loc_dir/mobile.yml
